@@ -33,7 +33,7 @@ export async function saveClassroomStep(
   const pinHash = await bcrypt.hash(validated.instructorPin, 10);
 
   // Use transaction to ensure consistency
-  const result = await db.$transaction(async (tx) => {
+  const result = await db.$transaction(async (tx: Parameters<Parameters<typeof db.$transaction>[0]>[0]) => {
     // Find existing classroom or create new one
     let classroom = await tx.classroom.findFirst({
       where: { organizationId },

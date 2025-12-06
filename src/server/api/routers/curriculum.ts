@@ -83,7 +83,7 @@ export const curriculumRouter = createTRPCRouter({
       );
 
       // Recommended tools are specialized ones
-      const recommended = specializedTools.map((tool) => tool.id);
+      const recommended = specializedTools.map((tool: { id: string }) => tool.id);
 
       return {
         tools: uniqueTools,

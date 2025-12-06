@@ -1,6 +1,6 @@
 "use server";
 
-import { streamUI } from "ai/rsc";
+import { streamUI } from "@ai-sdk/rsc";
 import { getModelForTaskWithVideoCheck, AITaskType } from "@/lib/ai/config";
 import { z } from "zod";
 import { buildCompletePrompt } from "@/lib/utils/prompt-builder";
@@ -49,7 +49,7 @@ export async function generateLearningTool(
     tools: {
       generateQuiz: {
         description: "Generate an interactive quiz for the student",
-        parameters: z.object({
+        inputSchema: z.object({
           title: z.string(),
           questions: z.array(
             z.object({
@@ -106,7 +106,7 @@ export async function generateLearningTool(
       },
       generateWorksheet: {
         description: "Generate a practice worksheet",
-        parameters: z.object({
+        inputSchema: z.object({
           title: z.string(),
           instructions: z.string(),
           problems: z.array(

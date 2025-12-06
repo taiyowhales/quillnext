@@ -1,28 +1,35 @@
 import { db } from "@/server/db";
-import type { Prisma } from "@prisma/client";
 
 // -----------------------------------------------------------------------
 // Academic Spine Context Injection
 // Builds AI prompts with full academic context from the Spine
 // -----------------------------------------------------------------------
 
-type ObjectiveWithHierarchy = Prisma.ObjectiveGetPayload<{
-  include: {
-    subtopic: {
-      include: {
-        topic: {
-          include: {
-            strand: {
-              include: {
-                subject: true;
-              };
-            };
-          };
+type ObjectiveWithHierarchy = {
+  id: string;
+  code: string;
+  description: string;
+  subtopic: {
+    id: string;
+    code: string;
+    name: string;
+    topic: {
+      id: string;
+      code: string;
+      name: string;
+      strand: {
+        id: string;
+        code: string;
+        name: string;
+        subject: {
+          id: string;
+          code: string;
+          name: string;
         };
       };
     };
   };
-}>;
+};
 
 /**
  * Builds a comprehensive prompt with Academic Spine context
@@ -137,7 +144,6 @@ ${systemInstruction}
 
 STUDENT CONTEXT:
 - Name: ${student.firstName} ${student.lastName || ""}
-- Age: ${student.dateOfBirth ? calculateAge(student.dateOfBirth) : "Unknown"}
 - Communication Style: ${communicationStyle}
 - Primary Drivers: ${drivers.join(", ")}
 
@@ -165,11 +171,13 @@ export async function buildFamilyContextPrompt(
     },
   });
 
-  if (!organization || !organization.classrooms[0]) {
+  const orgWithClassrooms = organization as unknown as { classrooms?: Array<{ educationalPhilosophy: string | null; educationalPhilosophyOther: string | null; faithBackground: string | null; faithBackgroundOther: string | null }> };
+  
+  if (!organization || !orgWithClassrooms.classrooms || orgWithClassrooms.classrooms.length === 0) {
     return basePrompt; // No classroom data
   }
 
-  const classroom = organization.classrooms[0];
+  const classroom = orgWithClassrooms.classrooms[0]!;
 
   const philosophy = classroom.educationalPhilosophy;
   const faithBackground = classroom.faithBackground;

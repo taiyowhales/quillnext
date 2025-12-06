@@ -16,7 +16,7 @@ export const GeneratorConfigSchema = z.object({
   // The 'prompt_context' from YAML becomes strict instruction
   systemInstruction: z.string().optional(),
   // Form fields definition for the generator UI
-  inputSchema: z.record(z.any()).optional(),
+  inputSchema: z.record(z.string(), z.any()).optional(),
   // Content type enum
   contentType: z.enum([
     "WORKSHEET",
@@ -57,7 +57,7 @@ export const GeneratorInputSchema = z.object({
   strandId: z.string().optional(),
   objectiveId: z.string().optional(),
   // Dynamic fields based on generator type
-  fields: z.record(z.any()),
+  fields: z.record(z.string(), z.any()),
 });
 
 export type GeneratorInput = z.infer<typeof GeneratorInputSchema>;
@@ -71,7 +71,7 @@ export const OmniGeneratorToolSchema = z.object({
   description: z.string(),
   parameters: z.object({
     type: z.literal("object"),
-    properties: z.record(z.any()),
+    properties: z.record(z.string(), z.any()),
     required: z.array(z.string()).optional(),
   }),
 });

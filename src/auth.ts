@@ -7,12 +7,7 @@ import { authConfig } from "./auth.config";
  * Main Auth.js entry point
  * Combines edge-safe config with database adapter
  */
-export const {
-  handlers: { GET, POST },
-  auth,
-  signIn,
-  signOut,
-} = NextAuth({
+const authInstance = NextAuth({
   adapter: PrismaAdapter(db),
   session: { strategy: "jwt" },
   ...authConfig,
@@ -29,4 +24,10 @@ export const {
     // }),
   ],
 });
+
+// Export handlers for API routes
+export const { handlers, auth, signIn, signOut } = authInstance;
+
+// Also export GET and POST directly for convenience
+export const { GET, POST } = handlers;
 

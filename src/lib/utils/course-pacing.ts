@@ -1,6 +1,5 @@
 import { db } from "@/server/db";
 import type { Schedule } from "@/lib/schemas/onboarding";
-import type { Prisma } from "@prisma/client";
 
 // -----------------------------------------------------------------------
 // Course Pacing Calculation Utilities
@@ -56,7 +55,7 @@ export async function calculateCoursePacing(
   const endDate = classroom.schoolYearEndDate;
 
   // Get planned holidays
-  const plannedOffDays = classroom.holidays.map((h) => h.date);
+  const plannedOffDays = classroom.holidays.map((h) => h.holidayDate);
 
   return calculatePacingFromSchedule(
     {
@@ -76,7 +75,7 @@ export async function calculateCoursePacing(
  */
 export function calculatePacingFromSchedule(
   config: PacingConfig,
-  classroom?: Prisma.ClassroomGetPayload<{ include: { holidays: true } }> | null,
+  classroom?: { holidays: Array<{ holidayDate: Date }> } | null,
 ): CalculatedPacing {
   const { totalWeeks, schoolDaysOfWeek, startDate, endDate, plannedOffDays = [] } = config;
 
@@ -171,7 +170,7 @@ export async function autoFillCourseSchedule(
   const objectivesPerWeek = Math.ceil(objectives.length / availableWeeks);
   const schedule: Array<{ objectiveId: string; week: number; order: number }> = [];
 
-  objectives.forEach((objective, index) => {
+  objectives.forEach((objective: { id: string }, index: number) => {
     const week = Math.floor(index / objectivesPerWeek) + 1;
     const order = (index % objectivesPerWeek) + 1;
 

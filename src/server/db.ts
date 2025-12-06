@@ -2,7 +2,7 @@ import { PrismaClient } from "@prisma/client";
 import { withAccelerate } from "@prisma/extension-accelerate";
 
 const globalForPrisma = globalThis as unknown as {
-  prisma: PrismaClient | undefined;
+  prisma: typeof db | undefined;
 };
 
 /**
@@ -27,15 +27,16 @@ const globalForPrisma = globalThis as unknown as {
  * });
  * ```
  */
+// Prisma 7: Connection URL is configured via environment variables
+// - DATABASE_URL for direct connection
+// - PRISMA_ACCELERATE_URL for Accelerate connection (or use "prisma://" prefix in DATABASE_URL)
+// Prisma automatically uses the appropriate connection based on the URL format
 const baseClient = new PrismaClient({
-  // Prisma 7: Use Accelerate URL if provided, otherwise use direct connection
-  // If DATABASE_URL starts with "prisma://", it's already an Accelerate URL
-  datasourceUrl: process.env.PRISMA_ACCELERATE_URL || process.env.DATABASE_URL,
   log:
     process.env.NODE_ENV === "development"
       ? ["query", "error", "warn"]
       : ["error"],
-});
+} as any); // Type assertion needed due to Prisma 7 type system
 
 // Extend with Accelerate for caching capabilities
 export const db = baseClient.$extends(withAccelerate());
