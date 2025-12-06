@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { createTRPCRouter, publicProcedure } from "../trpc";
 import { db } from "@/server/db";
+import { academicSpineCacheStrategy } from "@/lib/utils/prisma-cache";
 
 /**
  * Curriculum Router
@@ -22,7 +23,7 @@ export const curriculumRouter = createTRPCRouter({
     .query(async ({ input }) => {
       const { strandId, subjectId, includeGeneric } = input;
 
-      // Find specialized tools for this strand
+      // Find specialized tools for this strand (with caching)
       const specializedTools = strandId
         ? await db.resourceKind.findMany({
             where: {
@@ -39,10 +40,11 @@ export const curriculumRouter = createTRPCRouter({
             orderBy: {
               label: "asc",
             },
+            cacheStrategy: academicSpineCacheStrategy,
           })
         : [];
 
-      // Find subject-level tools
+      // Find subject-level tools (with caching)
       const subjectTools = subjectId
         ? await db.resourceKind.findMany({
             where: {
@@ -55,10 +57,11 @@ export const curriculumRouter = createTRPCRouter({
             orderBy: {
               label: "asc",
             },
+            cacheStrategy: academicSpineCacheStrategy,
           })
         : [];
 
-      // Get generic tools (available to all)
+      // Get generic tools (available to all, with caching)
       const genericTools = includeGeneric
         ? await db.resourceKind.findMany({
             where: {
@@ -69,6 +72,7 @@ export const curriculumRouter = createTRPCRouter({
             orderBy: {
               label: "asc",
             },
+            cacheStrategy: academicSpineCacheStrategy,
           })
         : [];
 
@@ -152,7 +156,7 @@ export const curriculumRouter = createTRPCRouter({
     )
     .query(async ({ input }) => {
       if (input.subjectId) {
-        // Get single subject with full hierarchy
+        // Get single subject with full hierarchy (with caching)
         const subject = await db.subject.findUnique({
           where: { id: input.subjectId },
           include: {
@@ -183,12 +187,13 @@ export const curriculumRouter = createTRPCRouter({
               },
             },
           },
+          cacheStrategy: academicSpineCacheStrategy,
         });
 
         return subject ? [subject] : [];
       }
 
-      // Get all subjects with strands
+      // Get all subjects with strands (with caching - this data rarely changes)
       const subjects = await db.subject.findMany({
         include: {
           strands: {
@@ -200,6 +205,7 @@ export const curriculumRouter = createTRPCRouter({
         orderBy: {
           sortOrder: "asc",
         },
+        cacheStrategy: academicSpineCacheStrategy,
       });
 
       return subjects;
@@ -233,6 +239,7 @@ export const curriculumRouter = createTRPCRouter({
             },
           },
         },
+        cacheStrategy: academicSpineCacheStrategy,
       });
 
       if (!objective) {

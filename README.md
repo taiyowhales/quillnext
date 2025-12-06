@@ -23,6 +23,11 @@ cp .env.example .env
 # Edit .env with your database URL and other secrets
 ```
 
+**For Prisma Accelerate (optional but recommended):**
+- Get your Accelerate connection string from [Prisma Accelerate Dashboard](https://console.prisma.io/)
+- Add `PRISMA_ACCELERATE_URL` to your `.env` file
+- The app will automatically use Accelerate if the URL is provided
+
 3. Set up the database:
 ```bash
 # Generate Prisma Client
