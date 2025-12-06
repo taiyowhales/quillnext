@@ -6,9 +6,6 @@ const nextConfig = {
     serverActions: {
       bodySizeLimit: '2mb',
     },
-    // Disable Turbopack for production builds to fix Prisma 7 compatibility
-    // Turbopack has known issues with Prisma 7's module resolution
-    turbo: false,
   },
   // Transpile Prisma Client to handle TypeScript files in node_modules
   transpilePackages: [

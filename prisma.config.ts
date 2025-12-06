@@ -8,8 +8,9 @@ export default defineConfig({
   },
   datasource: {
     url: env('DIRECT_DATABASE_URL') || env('DATABASE_URL'),
+    // Let Prisma automatically create a temporary shadow database
+    // Railway's Postgres user typically has permission to create databases
+    // Prisma will create a temporary shadow DB (e.g., railway_shadow) during migration
   },
-  // Use the same database as shadow database to avoid pgvector extension issues
-  shadowDatabaseUrl: env('DIRECT_DATABASE_URL') || env('DATABASE_URL'),
 })
 
