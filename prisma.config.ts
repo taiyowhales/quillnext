@@ -9,6 +9,4 @@ export default defineConfig({
   datasource: {
     url: env('DIRECT_DATABASE_URL') || env('DATABASE_URL'),
   },
-  // Use the same database as shadow database to avoid pgvector extension issues
-  shadowDatabaseUrl: env('DIRECT_DATABASE_URL') || env('DATABASE_URL'),
 })
