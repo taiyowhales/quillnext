@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.6.2.5",
+    "name": "The Unreasonable Effectiveness of Mathematics in Science",
+    "topic_id": "MAT.6.2",
+    "topic_name": "Philosophy of Mathematics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.6",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Unreasonable Effectiveness of Mathematics in Science in Philosophy of Mathematics (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.1",
+            "objective_text": "Identify that math helps us build things that work.",
+            "objective_uuid": "d4b1cfa4-ad8c-48a0-aa0a-f91f6a939224"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.3",
+            "objective_text": "Name a rocket ship.",
+            "objective_uuid": "b2994991-2457-452f-9b09-91e13fd9faaa"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.7",
+            "objective_text": "Identify a formula ($E=mc^2$).",
+            "objective_uuid": "02f9db69-a8e1-4994-a953-c92704450f08"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.2",
+            "objective_text": "Recall that math explains the stars.",
+            "objective_uuid": "f520c862-1223-4fe9-b3eb-e69e77056b24"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.4",
+            "objective_text": "Observe that the world follows rules.",
+            "objective_uuid": "ce828dab-4832-4618-a10a-afdf5c737d5a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.5",
+            "objective_text": "Summarize how we use math to predict the future (weather/orbits).",
+            "objective_uuid": "e98b5f66-6795-40a4-8857-5b0e1d8535cd"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.6",
+            "objective_text": "Explain why it's amazing that math works in the real world.",
+            "objective_uuid": "dd264b09-4fe6-45d7-8108-4ad31437bd66"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.12",
+            "objective_text": "Explain why naturalism struggles to explain this effectiveness.",
+            "objective_uuid": "d4cf9a00-06d2-4d9e-98f0-ab4e384e8a11"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.15",
+            "objective_text": "Defend the correspondence between the mind and the cosmos.",
+            "objective_uuid": "4c18d051-c913-4ae7-85ac-53dfcf86e14c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 20.6,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.8",
+            "objective_text": "Compare a storybook world with the real world.",
+            "objective_uuid": "735f5a0c-fe6b-4b3c-a3c2-f43996a437da"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.9",
+            "objective_text": "Analyze Wigner's essay (intro concepts).",
+            "objective_uuid": "8233da41-068b-4556-b00a-ec29390421dd"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.10",
+            "objective_text": "Interpret the predictive power of equations.",
+            "objective_uuid": "d11ed66b-86f2-48c9-9399-232798dda404"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.11",
+            "objective_text": "Connect abstract math to physical discovery (black holes).",
+            "objective_uuid": "c779f601-90a5-4832-a9d1-3b16c36217f3"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.14",
+            "objective_text": "Evaluate the fine-tuning of mathematical constants.",
+            "objective_uuid": "43ba0ac9-22fd-45f7-aad3-ae25de186497"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.13",
+            "objective_text": "Construct an argument against random chance producing orderly laws.",
+            "objective_uuid": "4f86861a-2593-4784-ac18-74ccc1130c33"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.5",
+            "sub_topic_name": "The Unreasonable Effectiveness of Mathematics in Science",
+            "objective_id": "MAT.6.2.5.16",
+            "objective_text": "Synthesize physics and faith.",
+            "objective_uuid": "5a816a5d-6d1e-4bb1-bacd-9cd5ed9b716a"
+          }
+        ]
+      }
+    }
+  }
+}

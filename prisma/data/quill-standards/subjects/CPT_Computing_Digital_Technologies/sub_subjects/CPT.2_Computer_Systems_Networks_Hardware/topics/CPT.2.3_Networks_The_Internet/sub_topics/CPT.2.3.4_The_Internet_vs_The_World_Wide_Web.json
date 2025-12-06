@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.3.4",
+    "name": "The Internet vs The World Wide Web",
+    "topic_id": "CPT.2.3",
+    "topic_name": "Networks & The Internet",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Internet vs The World Wide Web in Networks & The Internet (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 6,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.1",
+            "objective_text": "Identify the Internet.",
+            "objective_uuid": "7df346b1-887b-42bf-a284-795f76260896"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.2",
+            "objective_text": "Name a website.",
+            "objective_uuid": "64e220f8-9cdb-4ce1-bc1f-a2d02bf93815"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.3",
+            "objective_text": "Recall that they are different things.",
+            "objective_uuid": "5b994105-58d9-4d1d-b14d-0e8e6925e8ca"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.4",
+            "objective_text": "Observe cables connecting the world.",
+            "objective_uuid": "b80e0798-1588-497b-ac6d-db48fe8e6c2e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.7",
+            "objective_text": "Identify apps that use internet but not web (online games).",
+            "objective_uuid": "1ae89c52-477c-468f-b1b4-ac1d18943dd0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.8",
+            "objective_text": "Name Tim Berners-Lee.",
+            "objective_uuid": "45ec627f-4156-4a20-ada3-e1b98fca872b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.5",
+            "objective_text": "Summarize Internet (the wires/connections) vs. Web (the pages).",
+            "objective_uuid": "658938a4-8455-4034-973c-470ef6ce3e00"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.6",
+            "objective_text": "Explain that the Web runs ON the Internet.",
+            "objective_uuid": "1792c46a-66a1-4c90-bcb2-b72fc99f9a7e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.12",
+            "objective_text": "Explain the undersea cable network.",
+            "objective_uuid": "4851599b-6a6a-43c1-9a3e-0835fb6fcc05"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.15",
+            "objective_text": "Defend net neutrality principles.",
+            "objective_uuid": "389a74aa-d695-48e2-8b89-d888718c444b"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.9",
+            "objective_text": "Analyze the infrastructure (cables, routers) vs. service (http).",
+            "objective_uuid": "41b17878-7a08-4afe-8424-b085abcb9ba7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.10",
+            "objective_text": "Interpret the role of the browser.",
+            "objective_uuid": "4e540f22-46f1-4da5-aaeb-fd1f149efde8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.11",
+            "objective_text": "Connect IoT devices to the Internet (not Web).",
+            "objective_uuid": "524bdbd4-cae5-4a7c-bddd-534744f836d9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.14",
+            "objective_text": "Evaluate the decentralized nature of the net.",
+            "objective_uuid": "2261c9f4-fdd6-4f49-b263-f7bf37b132f2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.13",
+            "objective_text": "Construct a history of the protocol development.",
+            "objective_uuid": "5208eb8f-74f9-481d-8664-6d7e9b35d06b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.4",
+            "sub_topic_name": "The Internet vs The World Wide Web",
+            "objective_id": "CPT.2.3.4.16",
+            "objective_text": "Synthesize application layer vs. transport layer.",
+            "objective_uuid": "216f5cd2-7ecb-4c5d-9895-b6ff8ee0844a"
+          }
+        ]
+      }
+    }
+  }
+}

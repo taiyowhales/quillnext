@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.2.4",
+    "name": "Solving Compound Inequalities (AND/OR)",
+    "topic_id": "MAT.1.2",
+    "topic_name": "Equations & Inequalities",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving Compound Inequalities (AND/OR) in Equations & Inequalities (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.67,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.2",
+            "objective_text": "Name numbers bigger than 2 but smaller than 5.",
+            "objective_uuid": "eedb7033-47c0-47b4-958b-73b8855198ee"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.1",
+            "objective_text": "Identify between.",
+            "objective_uuid": "38621fc9-148f-4f86-b205-2e561ab761e8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.7",
+            "objective_text": "Identify a range of values.",
+            "objective_uuid": "791f8f35-6983-4bb8-9de7-983ee323d40a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.3",
+            "objective_text": "Recall boundaries.",
+            "objective_uuid": "24370f2e-c024-4ce9-8dd6-512e7acca27f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.4",
+            "objective_text": "Observe shading on a line.",
+            "objective_uuid": "fc258924-2641-4538-a759-0c1b56c1bb1a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.5",
+            "objective_text": "Summarize inequalities on a number line.",
+            "objective_uuid": "8ea63a48-74b6-4a59-a3b5-e3dd9d2d2413"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.6",
+            "objective_text": "Explain open circle vs. closed circle.",
+            "objective_uuid": "d7515cd9-06ec-4936-b2c7-616d36a4375e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.12",
+            "objective_text": "Explain flipping the sign when dividing by a negative.",
+            "objective_uuid": "6b4b3df7-134d-4a53-974e-5d172e1c7c14"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.15",
+            "objective_text": "Defend the logic of boolean operators.",
+            "objective_uuid": "44a11adf-1379-4214-8d05-fb077d37f2b3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.8",
+            "objective_text": "Compare two conditions.",
+            "objective_uuid": "8d3d28c2-5b95-457e-9d0d-cfe037d088f5"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.9",
+            "objective_text": "Analyze the difference between intersection (AND) and union (OR).",
+            "objective_uuid": "4c798937-a802-419d-89be-778a5ba01ca0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.10",
+            "objective_text": "Interpret 'Solve and Graph'.",
+            "objective_uuid": "edab4e60-0112-439b-9de5-99930a7ee6b0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.11",
+            "objective_text": "Connect absolute value inequalities to compound logic.",
+            "objective_uuid": "1bb4147d-3054-4c13-8ba3-48dd7ae4e3a0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.14",
+            "objective_text": "Evaluate interval notation $(-\\infty, 3] \\cup (5, \\infty)$.",
+            "objective_uuid": "92ab855e-680b-4b71-8346-3c5226a0abe4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.13",
+            "objective_text": "Construct set notation solutions.",
+            "objective_uuid": "16e425a5-afff-4607-97ac-0175313f2d7a"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.4",
+            "sub_topic_name": "Solving Compound Inequalities (AND/OR)",
+            "objective_id": "MAT.1.2.4.16",
+            "objective_text": "Synthesize inequalities with domain restrictions.",
+            "objective_uuid": "f553dc91-ce69-4aaa-9221-7776017de113"
+          }
+        ]
+      }
+    }
+  }
+}

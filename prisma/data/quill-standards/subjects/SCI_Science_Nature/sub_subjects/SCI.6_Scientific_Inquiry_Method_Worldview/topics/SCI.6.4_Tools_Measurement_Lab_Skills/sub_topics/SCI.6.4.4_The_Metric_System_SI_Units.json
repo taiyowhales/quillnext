@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.4.4",
+    "name": "The Metric System (SI Units)",
+    "topic_id": "SCI.6.4",
+    "topic_name": "Tools, Measurement & Lab Skills",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Metric System (SI Units) in Tools, Measurement & Lab Skills (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.1",
+            "objective_text": "Identify a ruler (inches/centimeters).",
+            "objective_uuid": "c5c537f5-c980-4bd0-b74b-727324fe510a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.2",
+            "objective_text": "Name a scale for weighing.",
+            "objective_uuid": "ae7658f6-545a-4aed-a8e5-75872d9f6448"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.3",
+            "objective_text": "Recall that we measure to be exact.",
+            "objective_uuid": "f24e43ea-b1c5-42b8-a4d9-3e7c15942775"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.4",
+            "objective_text": "Observe that liquids are measured in cups or liters.",
+            "objective_uuid": "148fe31d-2f6a-4ea4-936b-9bf91ed46839"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.5",
+            "objective_text": "Summarize the main metric units: Meter (length), Liter (volume), Gram (mass).",
+            "objective_uuid": "40bdea77-ffea-4514-99c2-18f1fa64245f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.6",
+            "objective_text": "Explain the prefixes: Kilo- (1000), Centi- (1/100), Milli- (1/1000).",
+            "objective_uuid": "950afcc9-9774-4308-b093-3ef756d9195d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.8",
+            "objective_text": "Convert meters to centimeters.",
+            "objective_uuid": "1cc3b875-8d5a-4bc7-99ca-20bd9f68d898"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.12",
+            "objective_text": "Explain why science uses SI units globally.",
+            "objective_uuid": "e83e0803-1741-4313-b054-47319d5c03e5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.15",
+            "objective_text": "Defend the importance of standardization in science.",
+            "objective_uuid": "02917f4c-8078-4eb6-9991-f021f7589515"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.7",
+            "objective_text": "Compare the Metric system (base 10) with the Imperial system.",
+            "objective_uuid": "51524aa0-9477-4039-83c5-d2f32d81cf3f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.9",
+            "objective_text": "Analyze the relationship between volume and mass (1ml of water = 1g).",
+            "objective_uuid": "f057cbd1-11e1-46e2-a572-9846a3945683"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.10",
+            "objective_text": "Interpret dimensional analysis for unit conversion.",
+            "objective_uuid": "77c0c35b-4adf-4dfa-96cb-1160b6b39808"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.11",
+            "objective_text": "Connect Kelvin to Celsius.",
+            "objective_uuid": "f96a9f24-89af-4c21-befc-42a45960945f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.14",
+            "objective_text": "Evaluate the precision of different measuring instruments.",
+            "objective_uuid": "dfcf432e-1aae-4108-983d-bd6c907214b6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.13",
+            "objective_text": "Construct complex unit conversions (e.g., g/cm³ to kg/m³).",
+            "objective_uuid": "912e3cec-28a5-4d89-a2a7-5e991f43366e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.4",
+            "sub_topic_name": "The Metric System (SI Units)",
+            "objective_id": "SCI.6.4.4.16",
+            "objective_text": "Synthesize derived units (Newtons, Joules) from base units.",
+            "objective_uuid": "37ed3645-c66a-4f14-868a-668dad4dd2ef"
+          }
+        ]
+      }
+    }
+  }
+}

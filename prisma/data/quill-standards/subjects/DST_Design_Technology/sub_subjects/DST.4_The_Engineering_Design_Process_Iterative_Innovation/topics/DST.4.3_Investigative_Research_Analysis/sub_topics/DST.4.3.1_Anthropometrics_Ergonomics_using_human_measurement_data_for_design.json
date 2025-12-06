@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.3.1",
+    "name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+    "topic_id": "DST.4.3",
+    "topic_name": "Investigative Research & Analysis",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Anthropometrics & Ergonomics (using human measurement data for design) in Investigative Research & Analysis (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.1",
+            "objective_text": "Identify that people come in different sizes.",
+            "objective_uuid": "41a79684-1c22-4d5c-9b77-231046a8cce1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.3",
+            "objective_text": "Recall that chairs act as support for our bodies.",
+            "objective_uuid": "ae5dfaae-40c2-4015-809f-d3e9c7054796"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.4",
+            "objective_text": "Observe that some things are too big or too small for me.",
+            "objective_uuid": "36c0d9b2-7f32-451a-97c2-2e0c0647c9b1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.2",
+            "objective_text": "Test if a handle is comfortable to hold.",
+            "objective_uuid": "067abd7e-cfbe-42a5-b826-bad49c614be0"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.5",
+            "objective_text": "Measure hand span or height for a class project.",
+            "objective_uuid": "310350eb-5702-405a-a065-d53c52c8a84f"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.6",
+            "objective_text": "Explain what 'Ergonomics' means (fitting the product to the person).",
+            "objective_uuid": "3418dddd-8126-4169-bc03-fa2b7dd73af3"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.12",
+            "objective_text": "Explain the 'Average User' fallacy.",
+            "objective_uuid": "e64709ee-bcb6-41ce-ba5f-23866793a97c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.15",
+            "objective_text": "Defend the exclusion or inclusion of specific percentiles.",
+            "objective_uuid": "ae2072ef-7cd4-429d-8d4e-5c038ab3a6ed"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.8",
+            "objective_text": "Compare a comfortable tool with an uncomfortable one.",
+            "objective_uuid": "77268477-0e70-4b2e-95fe-3e683bbe99ef"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.9",
+            "objective_text": "Analyze the 5th, 50th, and 95th percentiles.",
+            "objective_uuid": "deb0a884-b3c7-4066-88f4-2cc180c2ec88"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.10",
+            "objective_text": "Interpret anthropometric data tables.",
+            "objective_uuid": "53afcc7a-c16c-4651-a611-df67af3613c5"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.11",
+            "objective_text": "Connect user comfort to safety and efficiency.",
+            "objective_uuid": "829fd9c3-2887-4932-934b-d171aeecd438"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 28.25,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.14",
+            "objective_text": "Evaluate the ergonomic risks of a specific design (RSI).",
+            "objective_uuid": "736b3778-e5aa-484b-af10-67a2bb8f8840"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.7",
+            "objective_text": "Design a handle that fits a specific hand size.",
+            "objective_uuid": "d010d22d-7976-4e76-9291-ddcfee14cde6"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.13",
+            "objective_text": "Construct a workspace design using rigorous anthropometric data.",
+            "objective_uuid": "ffc53a6e-cc2b-427a-bd1f-eca199c56f2f"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.1",
+            "sub_topic_name": "Anthropometrics & Ergonomics (using human measurement data for design)",
+            "objective_id": "DST.4.3.1.16",
+            "objective_text": "Synthesize biomechanics with product design.",
+            "objective_uuid": "bd82adcf-cb67-4dac-a802-4a648a494a53"
+          }
+        ]
+      }
+    }
+  }
+}

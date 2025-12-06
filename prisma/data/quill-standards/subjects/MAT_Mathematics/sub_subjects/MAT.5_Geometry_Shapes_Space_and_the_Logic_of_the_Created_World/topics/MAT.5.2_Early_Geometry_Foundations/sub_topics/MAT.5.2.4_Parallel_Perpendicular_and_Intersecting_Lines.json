@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.2.4",
+    "name": "Parallel, Perpendicular, and Intersecting Lines",
+    "topic_id": "MAT.5.2",
+    "topic_name": "Early Geometry Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Parallel, Perpendicular, and Intersecting Lines in Early Geometry Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 7.2,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.1",
+            "objective_text": "Identify train tracks (parallel).",
+            "objective_uuid": "1a781c85-8d04-4085-9592-09644db2d51e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.2",
+            "objective_text": "Name a cross shape (intersecting).",
+            "objective_uuid": "5e3f4487-a853-44d5-a4bc-3e8de554a073"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.8",
+            "objective_text": "Identify parallel lines in shapes (rectangle).",
+            "objective_uuid": "b07dde3d-2cb6-42ec-900f-1d99be2e8437"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.3",
+            "objective_text": "Recall that parallel lines never touch.",
+            "objective_uuid": "a7f45319-378e-4dea-8eef-ac0ff5e204e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.4",
+            "objective_text": "Observe street corners.",
+            "objective_uuid": "af484a51-d9d6-4ea8-bab3-a5801218c8c6"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.5",
+            "objective_text": "Summarize Perpendicular (making an L / 90 degrees).",
+            "objective_uuid": "9861400d-7969-4872-80ea-791df2091d92"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.6",
+            "objective_text": "Explain Intersecting (crossing at any angle).",
+            "objective_uuid": "6ae7b66b-aeb6-49de-899a-85b78d3d91f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.7",
+            "objective_text": "Draw parallel lines using a ruler.",
+            "objective_uuid": "95dd0a67-cccb-429c-a5c5-5c0c6133dc8c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.12",
+            "objective_text": "Explain the perpendicular bisector.",
+            "objective_uuid": "58bf1c22-c26a-4a34-9d90-76c1325ccd3f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.15",
+            "objective_text": "Defend the Parallel Postulate's role in Euclidean geometry.",
+            "objective_uuid": "81588362-0917-4b8f-8af9-5ba29bc6e48c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.9",
+            "objective_text": "Analyze transversal lines cutting parallels.",
+            "objective_uuid": "4fdf5302-3093-4b3e-8215-be8cb60be54b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.10",
+            "objective_text": "Interpret Alternate Interior Angles.",
+            "objective_uuid": "4b84880e-b04e-44db-8d64-4f3ebf16f40f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.11",
+            "objective_text": "Connect slope to parallel (same) and perpendicular (negative reciprocal) lines.",
+            "objective_uuid": "015e40fa-9950-4fe6-b0c9-993afc6e6c0e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.14",
+            "objective_text": "Evaluate the distance between a point and a line.",
+            "objective_uuid": "979f87dc-9928-4b0a-9ab6-36f51d231433"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.5,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.13",
+            "objective_text": "Construct a geometric proof for the properties of parallel lines.",
+            "objective_uuid": "ce449103-dbca-479a-bad5-628c68018e82"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.4",
+            "sub_topic_name": "Parallel, Perpendicular, and Intersecting Lines",
+            "objective_id": "MAT.5.2.4.16",
+            "objective_text": "Synthesize algebraic equations for normal lines.",
+            "objective_uuid": "677423b7-30f6-415b-bada-c3a0846cfead"
+          }
+        ]
+      }
+    }
+  }
+}

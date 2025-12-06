@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.6.3",
+    "name": "Potential Applications",
+    "topic_id": "CPT.7.6",
+    "topic_name": "Quantum Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Potential Applications in Quantum Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.1",
+            "objective_text": "Identify solving super hard puzzles.",
+            "objective_uuid": "2144acf3-1f42-4571-af56-af99796b96e7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.2",
+            "objective_text": "Name finding new medicine.",
+            "objective_uuid": "675a8e8c-2e6d-40ee-8fef-0ef9250606b5"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.7",
+            "objective_text": "Identify code breaking.",
+            "objective_uuid": "11a5487c-88cf-44f2-b2ce-33b174d0491f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 5,
+        "average_complexity": 19.8,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.3",
+            "objective_text": "Recall making secret codes.",
+            "objective_uuid": "d65a394e-dc1d-4f91-8c4f-57308d985f9f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.4",
+            "objective_text": "Observe a supercomputer.",
+            "objective_uuid": "c69eaca0-5547-488d-8162-705646e02e78"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.5",
+            "objective_text": "Summarize simulating nature (molecules).",
+            "objective_uuid": "7a0115c6-fc26-41b9-aca5-b41c47b94cfa"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.6",
+            "objective_text": "Explain optimizing traffic/logistics.",
+            "objective_uuid": "c93eeb5e-a712-427f-98a5-6f2d4030a902"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.15",
+            "objective_text": "Defend the strategic importance of quantum tech.",
+            "objective_uuid": "5fef6d90-1dba-4805-86fb-18a50d9b1122"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.8",
+            "objective_text": "Compare searching a library instantly.",
+            "objective_uuid": "8ed8fa45-9a7f-4e35-a384-ffaa6634de19"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.11",
+            "objective_text": "Connect quantum simulation to material science.",
+            "objective_uuid": "ed0f20ff-ff7f-42ca-9a05-4aab568c11ae"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.12",
+            "objective_text": "Explain financial modeling.",
+            "objective_uuid": "51511b6b-975c-423f-81db-06dda1363b43"
+          },
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.14",
+            "objective_text": "Evaluate the timeline for quantum advantage.",
+            "objective_uuid": "355a8dba-e97a-4c3b-bc75-ebef5d69b445"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 32.25,
+        "objectives": [
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.13",
+            "objective_text": "Construct a report on the post-quantum cryptography transition.",
+            "objective_uuid": "d463db12-22d7-4f39-9b3c-c21f11e9d97d"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.9",
+            "objective_text": "Analyze Shor's Algorithm (factoring primes).",
+            "objective_uuid": "6af4dfa2-668b-4982-b0ca-5405eadb1781"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.10",
+            "objective_text": "Interpret Grover's Algorithm (search).",
+            "objective_uuid": "7aebf005-24e9-4232-b36d-78e4c84afebf"
+          },
+          {
+            "complexity": 35,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.3",
+            "sub_topic_name": "Potential Applications",
+            "objective_id": "CPT.7.6.3.16",
+            "objective_text": "Synthesize chemistry simulation capabilities.",
+            "objective_uuid": "21e3294e-e1bb-495d-a45e-556dd7cf6f95"
+          }
+        ]
+      }
+    }
+  }
+}

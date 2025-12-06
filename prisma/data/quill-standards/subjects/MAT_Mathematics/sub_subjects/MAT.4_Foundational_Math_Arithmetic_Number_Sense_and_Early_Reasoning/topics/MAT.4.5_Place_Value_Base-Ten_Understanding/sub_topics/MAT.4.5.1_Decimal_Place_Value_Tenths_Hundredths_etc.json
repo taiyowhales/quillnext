@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.5.1",
+    "name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+    "topic_id": "MAT.4.5",
+    "topic_name": "Place Value & Base-Ten Understanding",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Decimal Place Value (Tenths, Hundredths, etc.) in Place Value & Base-Ten Understanding (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.1",
+            "objective_text": "Identify money (cents are parts of a dollar).",
+            "objective_uuid": "acca0dac-37e0-42f7-8b2a-3d6e2e775f6c"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.3",
+            "objective_text": "Name a penny as one cent.",
+            "objective_uuid": "07d04108-ee67-4d35-9eb0-792be69ce791"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.2",
+            "objective_text": "Recall that a dot separates dollars and cents.",
+            "objective_uuid": "2c83d074-6b0d-46ce-9665-dbb052119945"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.4",
+            "objective_text": "Observe prices.",
+            "objective_uuid": "793499a2-3866-45f8-b48a-b79d6a0b3dd6"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.12",
+            "objective_text": "Explain rational numbers.",
+            "objective_uuid": "0b5c2269-8daa-4235-aa83-a12247f16a00"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.5",
+            "objective_text": "Summarize tenths and hundredths.",
+            "objective_uuid": "ec57a985-8da3-4193-a203-8d7d0b96526b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.6",
+            "objective_text": "Explain the decimal point as a placeholder.",
+            "objective_uuid": "23fbddbf-034e-46a7-a45b-8a16aac5899a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.8",
+            "objective_text": "Add and subtract decimals using money models.",
+            "objective_uuid": "6456f187-5e09-498c-a5eb-dfbee504d76a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.15",
+            "objective_text": "Defend the logic of the metric system.",
+            "objective_uuid": "832809c8-bfee-47ed-91aa-03e6d9d49dd5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.7",
+            "objective_text": "Compare decimals (0.5 > 0.05).",
+            "objective_uuid": "2a9dfc35-d06b-454e-ba51-05a69dd1a99e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.9",
+            "objective_text": "Analyze the relationship between fractions and decimals.",
+            "objective_uuid": "5dc0ae78-218f-432d-80fd-4e936957df18"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.10",
+            "objective_text": "Interpret repeating vs. terminating decimals.",
+            "objective_uuid": "f3b14dcf-97af-44c7-a7a7-fd020679a5d7"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.11",
+            "objective_text": "Connect powers of ten to moving the decimal point.",
+            "objective_uuid": "6857c720-575b-4686-8fc8-8efc72b75b30"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.14",
+            "objective_text": "Evaluate the precision of significant figures.",
+            "objective_uuid": "704c3cb0-8a16-4e31-b57f-e5b4b1327fed"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.13",
+            "objective_text": "Construct conversions for repeating decimals to fractions.",
+            "objective_uuid": "cadfdba4-3948-4a27-87a4-459e970ae3c1"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.1",
+            "sub_topic_name": "Decimal Place Value (Tenths, Hundredths, etc.)",
+            "objective_id": "MAT.4.5.1.16",
+            "objective_text": "Synthesize infinite series representation of decimals.",
+            "objective_uuid": "843b0bf9-2162-43b4-bf65-8b32658c356b"
+          }
+        ]
+      }
+    }
+  }
+}

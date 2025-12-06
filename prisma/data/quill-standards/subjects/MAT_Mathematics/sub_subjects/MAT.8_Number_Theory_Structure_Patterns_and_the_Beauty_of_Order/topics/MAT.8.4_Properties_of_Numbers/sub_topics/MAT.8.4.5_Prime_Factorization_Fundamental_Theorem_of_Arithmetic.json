@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.4.5",
+    "name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+    "topic_id": "MAT.8.4",
+    "topic_name": "Properties of Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Prime Factorization (Fundamental Theorem of Arithmetic) in Properties of Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.2",
+            "objective_text": "Identify factors of 10.",
+            "objective_uuid": "f9af4a71-baa0-4919-aa37-6f2b63a507da"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.8",
+            "objective_text": "Identify exponents in factorization ($2^3 \\times 3$).",
+            "objective_uuid": "27ede328-adce-4c55-84b6-e7490fe2190f"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.3",
+            "objective_text": "Recall that numbers are made of smaller numbers.",
+            "objective_uuid": "699cb70f-82ee-42eb-85b9-6eadda2fbd40"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 7,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.1",
+            "objective_text": "Break a number into parts.",
+            "objective_uuid": "2a737c7d-e055-48f4-99f3-e8f3c9c404c3"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.4",
+            "objective_text": "Use a factor rainbow.",
+            "objective_uuid": "18690647-1a21-42d7-9836-d70a23c32cb7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.5",
+            "objective_text": "Summarize how to make a Factor Tree.",
+            "objective_uuid": "fc13c90a-4f0f-4614-9c4e-6128210eb1fa"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.6",
+            "objective_text": "Explain that every number has a unique set of prime builders.",
+            "objective_uuid": "7ceae1c3-8fd8-4f2e-b339-498d6fb39f30"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.7",
+            "objective_text": "Find the prime factors of 24.",
+            "objective_uuid": "cb0e6c1a-64d7-4f55-8b48-624385134175"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.12",
+            "objective_text": "Explain how to find total number of factors.",
+            "objective_uuid": "abf2c325-da98-4a0f-a7e1-55710b0d5973"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.15",
+            "objective_text": "Defend the uniqueness of prime decomposition.",
+            "objective_uuid": "50cbe435-de22-4a6f-a408-234050d9dac5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.9",
+            "objective_text": "Analyze the Fundamental Theorem of Arithmetic.",
+            "objective_uuid": "c7041370-3b34-455d-b068-a80584e1d3db"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.10",
+            "objective_text": "Interpret factorization to simplify radicals.",
+            "objective_uuid": "e7cd602f-65bc-48a1-aa8f-18b160e2af89"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.11",
+            "objective_text": "Connect unique factorization to the order of creation.",
+            "objective_uuid": "ea5d26a0-79be-49b2-890b-81927af18652"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.14",
+            "objective_text": "Evaluate the difficulty of factoring (crypto security).",
+            "objective_uuid": "82707e34-2115-45f4-a0ef-27cb346d486d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.13",
+            "objective_text": "Construct a prime factorization for large integers.",
+            "objective_uuid": "d2fcaa5e-6b27-4a95-ae92-893d0a55186a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.5",
+            "sub_topic_name": "Prime Factorization (Fundamental Theorem of Arithmetic)",
+            "objective_id": "MAT.8.4.5.16",
+            "objective_text": "Synthesize number theory with algebraic structures.",
+            "objective_uuid": "4abda899-f07f-4c38-a74c-f52ea4ceb5eb"
+          }
+        ]
+      }
+    }
+  }
+}

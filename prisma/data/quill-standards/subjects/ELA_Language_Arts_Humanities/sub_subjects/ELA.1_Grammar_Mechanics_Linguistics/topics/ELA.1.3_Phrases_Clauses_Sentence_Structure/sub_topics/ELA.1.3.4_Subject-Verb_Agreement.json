@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.3.4",
+    "name": "Subject-Verb Agreement",
+    "topic_id": "ELA.1.3",
+    "topic_name": "Phrases, Clauses & Sentence Structure",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Subject-Verb Agreement in Phrases, Clauses & Sentence Structure (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.1",
+            "objective_text": "Identify \"He runs\" vs. \"They run\".",
+            "objective_uuid": "14f267f7-dde1-40ea-9ae1-521eb45bd2e6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.8",
+            "objective_text": "Identify collective nouns (team, family) as singular.",
+            "objective_uuid": "a0429a7b-2c69-4696-a7dd-7a87f3da7389"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.3",
+            "objective_text": "Recall that \"is\" and \"are\" change based on who it is.",
+            "objective_uuid": "1773f9f2-bf71-45da-ba6c-e71e3fbe6510"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.4",
+            "objective_text": "Observe plurals ending in 's' often don't have 's' on the verb.",
+            "objective_uuid": "5e035e8f-c119-4365-a198-a2f8944f1cce"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.5",
+            "objective_text": "Summarize the basic rule of agreement.",
+            "objective_uuid": "e8903f42-9dfa-4155-b56b-aad41e9dd7a9"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.2",
+            "objective_text": "Match singular nouns to singular verbs.",
+            "objective_uuid": "4cf954fe-e626-4aa0-bebb-0b797c9893c1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.6",
+            "objective_text": "Explain compound subjects joined by \"and\" (usually plural).",
+            "objective_uuid": "8deb6490-f122-4619-aee0-3b5219d086fa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.7",
+            "objective_text": "Handle \"or\" situations (match the closer subject).",
+            "objective_uuid": "991482e7-f0bc-4736-8541-fefeb24f0943"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.12",
+            "objective_text": "Explain agreement with amounts ($10 is enough).",
+            "objective_uuid": "e8e5bf7a-b3e5-488d-ad8c-cdee3fd1c0d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.15",
+            "objective_text": "Defend the clarity that agreement provides.",
+            "objective_uuid": "d05990b5-508e-41d3-bb44-d776360b5ed4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.9",
+            "objective_text": "Analyze agreement with indefinite pronouns (everyone, somebody).",
+            "objective_uuid": "b4bd1a2c-59f7-45ee-9a89-22fe949f060a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.10",
+            "objective_text": "Interpret intervening phrases (\"The box of apples is heavy\").",
+            "objective_uuid": "79d55915-de1e-418f-b36d-2fcee7acaf02"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.11",
+            "objective_text": "Connect \"There is/There are\" to the subject that follows.",
+            "objective_uuid": "f69eb0cb-86f4-4e99-a7ae-5c1b5fa9f6c1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.14",
+            "objective_text": "Evaluate dialect variations vs. standard grammar.",
+            "objective_uuid": "debe2ab8-d177-4937-8976-8a8c9c1d7492"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.13",
+            "objective_text": "Construct complex sentences with perfect agreement.",
+            "objective_uuid": "e91f05b6-456d-4db8-893c-34864edbbf36"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.4",
+            "sub_topic_name": "Subject-Verb Agreement",
+            "objective_id": "ELA.1.3.4.16",
+            "objective_text": "Synthesize grammar rules with editing skills.",
+            "objective_uuid": "3ad98987-e196-4c5a-875d-be874670e760"
+          }
+        ]
+      }
+    }
+  }
+}

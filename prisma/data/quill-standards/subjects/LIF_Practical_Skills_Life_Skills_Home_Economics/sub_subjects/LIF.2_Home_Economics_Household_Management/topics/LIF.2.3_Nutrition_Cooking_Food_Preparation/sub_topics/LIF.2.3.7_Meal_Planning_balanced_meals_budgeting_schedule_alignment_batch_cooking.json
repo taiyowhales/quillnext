@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.3.7",
+    "name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+    "topic_id": "LIF.2.3",
+    "topic_name": "Nutrition, Cooking & Food Preparation",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking) in Nutrition, Cooking & Food Preparation (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.1",
+            "objective_text": "Identify foods for breakfast, lunch, and dinner.",
+            "objective_uuid": "b35f0c2a-35c6-49c1-a352-5137dd3774a6"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.8",
+            "objective_text": "Identify ingredients needed for a favorite meal.",
+            "objective_uuid": "f2a680e2-55c0-4720-a3b4-b6546985f036"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.3",
+            "objective_text": "Recall that we can save leftovers.",
+            "objective_uuid": "4111f18b-4b3e-40e6-a9b3-d5a15cfbbc13"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.4",
+            "objective_text": "Observe mom or dad making a grocery list.",
+            "objective_uuid": "7f6ab0e5-26e7-4f32-a845-816596527f44"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.2",
+            "objective_text": "Choose a fruit or vegetable for a meal.",
+            "objective_uuid": "a3a2307d-817f-42f3-9767-cc2ee5d898cb"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.5",
+            "objective_text": "Summarize the main food groups.",
+            "objective_uuid": "34440240-3b03-4b94-bde1-751fc8ee6a17"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.6",
+            "objective_text": "Explain why we plan meals ahead.",
+            "objective_uuid": "958aff7f-47c2-457f-a08d-9a7fdd77fe1d"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.12",
+            "objective_text": "Explain how to repurpose leftovers.",
+            "objective_uuid": "0359b8c4-e4be-43bd-9ef8-150bab0bc1e1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.9",
+            "objective_text": "Analyze the cost per serving of a meal.",
+            "objective_uuid": "f3d08747-9709-4a6c-9d3b-8a2ab3c01617"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.10",
+            "objective_text": "Interpret a weekly schedule to plan quick meals vs. long meals.",
+            "objective_uuid": "96acc8bd-d2ac-45b2-873f-e70ad2aca628"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.11",
+            "objective_text": "Connect batch cooking to time management.",
+            "objective_uuid": "b5a16c5f-2cd7-40f9-add9-8edcd0162dfd"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.15",
+            "objective_text": "Defend the stewardship of planning to reduce waste.",
+            "objective_uuid": "0bd93773-9510-494e-a9de-9ba5bcf47698"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.14",
+            "objective_text": "Evaluate the nutritional balance of a weekly menu.",
+            "objective_uuid": "f17ee1a0-153d-48ba-b4a0-efde3dbabb00"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.7",
+            "objective_text": "Create a menu for one day.",
+            "objective_uuid": "695ddf08-79b7-477d-9543-07ce8fb5f5db"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.13",
+            "objective_text": "Construct a monthly meal plan and budget.",
+            "objective_uuid": "5f809805-9584-487d-97fd-06106c64abe5"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.7",
+            "sub_topic_name": "Meal Planning (balanced meals, budgeting, schedule alignment, batch cooking)",
+            "objective_id": "LIF.2.3.7.16",
+            "objective_text": "Synthesize inventory management with creative cooking.",
+            "objective_uuid": "6f77b193-e3c3-4562-b802-27ec73c0bf13"
+          }
+        ]
+      }
+    }
+  }
+}

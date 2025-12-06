@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.1.2",
+    "name": "Estimating vs Calculating (Checking Reasonableness)",
+    "topic_id": "MAT.7.1",
+    "topic_name": "Logic in Problem Solving",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Estimating vs Calculating (Checking Reasonableness) in Logic in Problem Solving (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.4",
+            "objective_text": "Name a silly answer vs. a smart answer.",
+            "objective_uuid": "0c23b4ba-00e9-4a1e-9202-6ce2da70b2b0"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.8",
+            "objective_text": "Identify calculation errors.",
+            "objective_uuid": "b46762a9-79f8-4394-b763-e8cf1798218b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.3",
+            "objective_text": "Recall 'Close enough'.",
+            "objective_uuid": "32d0593f-2047-405e-9e63-bfbd8d36670b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.5",
+            "objective_text": "Summarize rounding to check addition.",
+            "objective_uuid": "82de4905-9048-443b-8ec0-fb2f9b371648"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.1",
+            "objective_text": "Guess how many.",
+            "objective_uuid": "674fd0e7-556c-48b0-8432-4f77a2b3ab46"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.2",
+            "objective_text": "Count to check.",
+            "objective_uuid": "51f39e73-9cda-4b74-8519-c2adc9ea055e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.6",
+            "objective_text": "Explain why $200 + 300$ shouldn't be $5000$.",
+            "objective_uuid": "22ef4450-c1bd-48ad-ab43-681b2a51fa27"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.7",
+            "objective_text": "Estimate the cost of a grocery cart.",
+            "objective_uuid": "db6298a1-e28a-42d7-b9c6-ecc9791adbf3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.12",
+            "objective_text": "Explain when precise calculation is necessary.",
+            "objective_uuid": "8cc72999-6c4b-4516-9be7-383f3a5f2d5d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.15",
+            "objective_text": "Defend the value of mental math for verification.",
+            "objective_uuid": "14545fe3-8f89-4e0b-8de1-bf2b570af971"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.9",
+            "objective_text": "Analyze order of magnitude.",
+            "objective_uuid": "d837e893-1b83-46b2-aab6-e635e3cddfb4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.10",
+            "objective_text": "Interpret bounds for error.",
+            "objective_uuid": "b31ab46e-6ba2-41da-8c54-c19c5e4be9ad"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.11",
+            "objective_text": "Connect estimation to real-world sanity checks.",
+            "objective_uuid": "2437dd68-1019-4879-9360-8f0e8314fbd9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.14",
+            "objective_text": "Evaluate the precision of a result based on significant figures.",
+            "objective_uuid": "673f02b8-18d2-4876-bc41-cc896427b4c4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.13",
+            "objective_text": "Construct error analysis intervals.",
+            "objective_uuid": "8a7647cc-d392-4f2b-90c0-07493862bc12"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.2",
+            "sub_topic_name": "Estimating vs Calculating (Checking Reasonableness)",
+            "objective_id": "MAT.7.1.2.16",
+            "objective_text": "Synthesize numerical analysis.",
+            "objective_uuid": "8c5dbfef-1a7d-4150-8632-51a9552ca1a9"
+          }
+        ]
+      }
+    }
+  }
+}

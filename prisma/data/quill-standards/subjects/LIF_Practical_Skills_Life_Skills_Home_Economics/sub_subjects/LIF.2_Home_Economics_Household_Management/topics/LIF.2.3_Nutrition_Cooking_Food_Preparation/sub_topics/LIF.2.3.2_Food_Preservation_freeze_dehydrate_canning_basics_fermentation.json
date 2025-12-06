@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.3.2",
+    "name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+    "topic_id": "LIF.2.3",
+    "topic_name": "Nutrition, Cooking & Food Preparation",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Food Preservation (freeze, dehydrate, canning basics, fermentation) in Nutrition, Cooking & Food Preparation (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.1",
+            "objective_text": "Identify frozen food.",
+            "objective_uuid": "425b27b9-aa84-4939-a365-720c3b0293b8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.2",
+            "objective_text": "Name pickles or jam.",
+            "objective_uuid": "7b43701b-6de0-4bf9-a35d-f4a869609173"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.8",
+            "objective_text": "Identify foods that spoil quickly vs. slowly.",
+            "objective_uuid": "11febfab-65fe-43f4-bb0e-9d3b078fc535"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.3",
+            "objective_text": "Recall that cold stops food from rotting.",
+            "objective_uuid": "a25f9eec-4711-4fe5-a24a-74e2d36b0375"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.4",
+            "objective_text": "Observe fruit drying in the sun or oven.",
+            "objective_uuid": "5c7fe12f-4967-4188-a54e-d21f83526491"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.5",
+            "objective_text": "Summarize why we preserve food (for later).",
+            "objective_uuid": "eb73aea0-abb7-494d-8eb4-5dc8fb023a25"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.6",
+            "objective_text": "Explain how freezing works.",
+            "objective_uuid": "3ce38b71-68ae-4b7a-a3b1-606c505ac0ca"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.7",
+            "objective_text": "Help make freezer jam or dried fruit.",
+            "objective_uuid": "64f4fac1-ba39-4b0e-a4b6-e67f8ed65998"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.12",
+            "objective_text": "Explain safety rules to avoid botulism.",
+            "objective_uuid": "d2b3e723-5e68-4ab5-93c6-70226f6e65d8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.15",
+            "objective_text": "Defend the value of a stocked pantry for preparedness.",
+            "objective_uuid": "a46eceba-e992-4342-9c16-d8e6f5084828"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.9",
+            "objective_text": "Analyze the science of dehydration (removing moisture).",
+            "objective_uuid": "d66675ab-ba58-4c74-90fb-bfbb1a491a9b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.10",
+            "objective_text": "Interpret the basics of water-bath canning (acid foods).",
+            "objective_uuid": "7e1bda36-481c-4d93-a48e-64f9c1bcc7f4"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.11",
+            "objective_text": "Connect fermentation to gut health (yogurt/sauerkraut).",
+            "objective_uuid": "9f752ba1-a6f1-47ba-a3d6-3738596760e8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.14",
+            "objective_text": "Evaluate the storage life of different methods.",
+            "objective_uuid": "c74c74c5-8225-4fd1-aea8-eb7963b07046"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.13",
+            "objective_text": "Construct a plan to preserve a seasonal harvest.",
+            "objective_uuid": "8aa6d187-01e0-4da8-ad23-6d2d003eccc8"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.2",
+            "sub_topic_name": "Food Preservation (freeze, dehydrate, canning basics, fermentation)",
+            "objective_id": "LIF.2.3.2.16",
+            "objective_text": "Synthesize pressure canning principles for low-acid foods.",
+            "objective_uuid": "4f7b22ad-d554-4e00-93b9-2975612a652d"
+          }
+        ]
+      }
+    }
+  }
+}

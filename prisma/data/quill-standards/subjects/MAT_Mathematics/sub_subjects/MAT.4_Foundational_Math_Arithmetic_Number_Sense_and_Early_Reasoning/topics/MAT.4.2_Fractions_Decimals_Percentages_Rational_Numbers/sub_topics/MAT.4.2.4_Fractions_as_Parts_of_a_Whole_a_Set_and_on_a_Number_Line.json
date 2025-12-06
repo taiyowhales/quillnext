@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.2.4",
+    "name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+    "topic_id": "MAT.4.2",
+    "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fractions as Parts of a Whole, a Set, and on a Number Line in Fractions, Decimals, & Percentages (Rational Numbers) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.1",
+            "objective_text": "Identify half and whole.",
+            "objective_uuid": "a09b5f2d-115c-4fa3-972d-810dd0049756"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.3",
+            "objective_text": "Name 'quarters' or 'fourths'.",
+            "objective_uuid": "a0b72490-3e42-472f-b00c-d54e8ef6f58b"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.8",
+            "objective_text": "Identify fractions of a group.",
+            "objective_uuid": "058422f8-db5a-4dcb-b1a9-ef831ef9ab29"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.4",
+            "objective_text": "Recall that fractions are fair shares.",
+            "objective_uuid": "36a5c098-0949-41b8-9fb0-d4558c146fbb"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.2",
+            "objective_text": "Cut a shape into equal pieces.",
+            "objective_uuid": "fc42297b-3e3b-4355-bf54-c9f9a59506a1"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.5",
+            "objective_text": "Summarize Numerator and Denominator.",
+            "objective_uuid": "e19a25a3-f646-400b-9275-e85147776e38"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.6",
+            "objective_text": "Explain a fraction as division.",
+            "objective_uuid": "1b0781a0-079b-4291-9e9d-0954d14e4b97"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.7",
+            "objective_text": "Locate fractions on a number line.",
+            "objective_uuid": "7f5f73a2-dd93-4986-9b0c-d4cef47c9cb2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.12",
+            "objective_text": "Explain negative fractions.",
+            "objective_uuid": "132ad442-f4b7-4002-a81c-6feadde41398"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.15",
+            "objective_text": "Defend the definition of a Rational Number.",
+            "objective_uuid": "2755c618-a320-46d2-941e-91f9091de85c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.9",
+            "objective_text": "Analyze fractions between integers.",
+            "objective_uuid": "f1225a30-d1e2-4872-80f1-425cdba0cdc6"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.10",
+            "objective_text": "Interpret density of rational numbers.",
+            "objective_uuid": "cd77a00c-c921-4063-96cd-caa1d7ba8da7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.11",
+            "objective_text": "Connect fractions to ratios.",
+            "objective_uuid": "8898e9a0-2591-4d68-b734-70ac958964e7"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.14",
+            "objective_text": "Evaluate partial fractions.",
+            "objective_uuid": "4bf535ef-65b0-4f95-bc61-d61660449c0e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.13",
+            "objective_text": "Construct rational functions.",
+            "objective_uuid": "07468278-241b-4a9b-b040-781d829113b5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.4",
+            "sub_topic_name": "Fractions as Parts of a Whole, a Set, and on a Number Line",
+            "objective_id": "MAT.4.2.4.16",
+            "objective_text": "Synthesize algebraic fractions.",
+            "objective_uuid": "39061176-28f8-43e1-9d7c-3c8dd65f87b3"
+          }
+        ]
+      }
+    }
+  }
+}

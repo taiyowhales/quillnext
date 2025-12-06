@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.2.5",
+    "name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+    "topic_id": "CPT.7.2",
+    "topic_name": "Artificial Intelligence & Machine Learning",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Machine Learning Models (Supervised, Unsupervised, Reinforcement) in Artificial Intelligence & Machine Learning (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.1",
+            "objective_text": "Identify a robot learning from practice.",
+            "objective_uuid": "f4d6b3f6-0e82-4e1f-8329-785323417795"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.3",
+            "objective_text": "Recall that computers need examples to learn.",
+            "objective_uuid": "3bd92dbb-b1d9-4d4b-acd1-56fd1b89a466"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.4",
+            "objective_text": "Observe a game that gets harder as you play.",
+            "objective_uuid": "b0aada7a-94c7-4704-9f2e-a97190561a16"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.8",
+            "objective_text": "Identify labels for data.",
+            "objective_uuid": "4e30e093-817d-47db-9a2e-84fce5c33fd9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.7",
+            "objective_text": "Train a simple model (Teachable Machine).",
+            "objective_uuid": "e4c65c10-29d4-48ad-97e4-73d897bfe6b1"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.2",
+            "objective_text": "Sort pictures into 'Cat' or 'Dog'.",
+            "objective_uuid": "5c753338-77c9-4fce-b284-9e30dd0e1d35"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.5",
+            "objective_text": "Summarize how we 'train' a computer.",
+            "objective_uuid": "d89ffcf0-c9e0-4551-b7c6-077f17d97e39"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.6",
+            "objective_text": "Explain Supervised (teacher gives answers) vs. Unsupervised (finding patterns).",
+            "objective_uuid": "a749c6f4-2617-486b-945e-8dc9f39ae726"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.12",
+            "objective_text": "Explain overfitting (memorizing instead of learning).",
+            "objective_uuid": "3f9e6b8c-241b-4cc0-a0f8-3f4ccc80f984"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.9",
+            "objective_text": "Analyze the difference between classification and regression.",
+            "objective_uuid": "7784a71f-db97-425a-b79d-dc963fd51fb5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.10",
+            "objective_text": "Interpret Reinforcement Learning (reward/punishment).",
+            "objective_uuid": "ccb9df7d-2db5-4b64-9ba9-b535101a59a7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.11",
+            "objective_text": "Connect training data quality to model accuracy.",
+            "objective_uuid": "82431c7a-d08b-4c71-a12b-2b748ff2a299"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.14",
+            "objective_text": "Evaluate the confusion matrix for a classifier.",
+            "objective_uuid": "ab777ddb-53d7-4c6c-87ff-ccb35268e6ee"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.13",
+            "objective_text": "Construct a simple ML model using a library (e.g., scikit-learn).",
+            "objective_uuid": "d483064b-9e95-4159-9e74-5d69739fce24"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.5,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.15",
+            "objective_text": "Defend the choice of algorithm for a specific dataset.",
+            "objective_uuid": "cb0eef04-9f79-4594-8faa-f82928ebd308"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.5",
+            "sub_topic_name": "Machine Learning Models (Supervised, Unsupervised, Reinforcement)",
+            "objective_id": "CPT.7.2.5.16",
+            "objective_text": "Synthesize mathematical concepts of gradient descent (intro).",
+            "objective_uuid": "805afa25-7a61-4f66-9fbc-0aced2387a8c"
+          }
+        ]
+      }
+    }
+  }
+}

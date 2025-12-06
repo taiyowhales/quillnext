@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.3.3",
+    "name": "Fake News, Misinformation & Deepfakes",
+    "topic_id": "CPT.4.3",
+    "topic_name": "Information Literacy",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fake News, Misinformation & Deepfakes in Information Literacy (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.1",
+            "objective_text": "Identify a trick photo.",
+            "objective_uuid": "026d32ec-823d-4354-9219-3a56270d6253"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.2",
+            "objective_text": "Recall that videos can be changed.",
+            "objective_uuid": "89fd02b3-9acf-4d5c-ad86-d5007c5d1144"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.3",
+            "objective_text": "Name 'Make-believe'.",
+            "objective_uuid": "82ac1e4d-730d-4178-b1c5-ddf27169ba5c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.4",
+            "objective_text": "Observe a cartoon mixed with real life.",
+            "objective_uuid": "bf9899d9-6bb2-44f8-80ee-1fd0c2629cf1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.7",
+            "objective_text": "Identify a shopped image.",
+            "objective_uuid": "754f60fe-99e3-449e-8c65-fb5a8d79f16c"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.5",
+            "objective_text": "Summarize 'Clickbait' (headlines that trick you).",
+            "objective_uuid": "dc3ea8e2-bae7-43a1-8c1d-e7f8696e5cd8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.6",
+            "objective_text": "Explain why people spread fake news (money/attention).",
+            "objective_uuid": "d64605d8-bfb1-439f-8b49-5f0dedd056cc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.8",
+            "objective_text": "Check a fact on a checking site.",
+            "objective_uuid": "bcd0ccff-6010-40c3-b2ca-dbb71c8ffaf0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.12",
+            "objective_text": "Explain the danger of echo chambers.",
+            "objective_uuid": "e2a59d79-2626-4f5c-9a2a-2eb694465248"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.15",
+            "objective_text": "Defend the biblical command against false witness.",
+            "objective_uuid": "f886de92-fe67-440f-b331-daf2d3649072"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.9",
+            "objective_text": "Analyze the difference between Misinformation (mistake) and Disinformation (on purpose).",
+            "objective_uuid": "a5723972-74ab-440f-9908-3ade9de572bd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.10",
+            "objective_text": "Interpret the technology behind Deepfakes.",
+            "objective_uuid": "b45fe46a-bb09-4293-9de0-53ce53c5ed95"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.11",
+            "objective_text": "Connect confirmation bias to spreading lies.",
+            "objective_uuid": "910b251b-6af5-4608-8730-8b87e0f7df98"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.14",
+            "objective_text": "Evaluate the societal impact of the post-truth era.",
+            "objective_uuid": "9b2d297b-4269-44b1-8a21-3b2c7dff7153"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.13",
+            "objective_text": "Construct a verification workflow for viral content.",
+            "objective_uuid": "af74e341-5c59-4917-87ea-c6c5fd6a16d4"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.3",
+            "sub_topic_name": "Fake News, Misinformation & Deepfakes",
+            "objective_id": "CPT.4.3.3.16",
+            "objective_text": "Synthesize media literacy with technological awareness.",
+            "objective_uuid": "d6550c9e-9fb8-4aeb-874a-bc5fa945c6f5"
+          }
+        ]
+      }
+    }
+  }
+}

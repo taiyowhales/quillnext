@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.11.5.2",
+    "name": "Free Verse and Imagery",
+    "topic_id": "ELA.11.5",
+    "topic_name": "Poetry Writing",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.11",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Free Verse and Imagery in Poetry Writing (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.8",
+            "objective_text": "Identify Alliteration (sounds).",
+            "objective_uuid": "b64a3a44-6e05-408f-ada0-baafac55cd8d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.3",
+            "objective_text": "Recall that poems paint pictures.",
+            "objective_uuid": "cd2759e6-1d76-4536-9015-96d449ab23fc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.4",
+            "objective_text": "Observe line breaks.",
+            "objective_uuid": "245e81f3-3b6d-40f1-860b-4e3b26162ce5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.1",
+            "objective_text": "Write a poem without rhymes.",
+            "objective_uuid": "8a44c081-8a6c-46b8-9edd-fb226e801618"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.2",
+            "objective_text": "Use color words.",
+            "objective_uuid": "5e40346e-2926-4dcb-8125-cefc3159f4aa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.5",
+            "objective_text": "Summarize Free Verse (no rules for rhyme/rhythm).",
+            "objective_uuid": "ea120654-dbde-4a8b-87a1-8842f372d204"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.6",
+            "objective_text": "Explain using the five senses in writing.",
+            "objective_uuid": "21d33b7d-772b-4c43-a3e0-b6cf2cfe4818"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.7",
+            "objective_text": "Use a metaphor to describe a feeling.",
+            "objective_uuid": "2b3def51-6430-467c-9547-320e7612960a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.12",
+            "objective_text": "Explain enjambment (running lines together).",
+            "objective_uuid": "7d6becf9-43ef-40d2-88bd-cbe4951041b7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.15",
+            "objective_text": "Defend the artistic choices in lineation.",
+            "objective_uuid": "66614d9e-3dfc-4408-bb7f-8d76495f8aad"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.9",
+            "objective_text": "Analyze the use of white space on the page.",
+            "objective_uuid": "67e2430a-7b80-44b8-a521-60cf7297f998"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.10",
+            "objective_text": "Interpret the rhythm of natural speech.",
+            "objective_uuid": "cd867a49-cd15-4946-9cb6-160637a6826c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.11",
+            "objective_text": "Connect imagery to emotion.",
+            "objective_uuid": "4ae1fcd9-356c-484c-aa3f-588298356682"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.14",
+            "objective_text": "Evaluate the economy of language (every word counts).",
+            "objective_uuid": "8745950e-5fea-4ced-afa2-dd33ebf8f10f"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.13",
+            "objective_text": "Construct a portfolio of original poetry.",
+            "objective_uuid": "b840fd5f-24ac-40ac-827a-06591d4449d1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.5",
+            "topic_name": "Poetry Writing",
+            "sub_topic_id": "ELA.11.5.2",
+            "sub_topic_name": "Free Verse and Imagery",
+            "objective_id": "ELA.11.5.2.16",
+            "objective_text": "Synthesize voice and image.",
+            "objective_uuid": "cc8e5962-a7f6-46d8-b11e-07d797609131"
+          }
+        ]
+      }
+    }
+  }
+}

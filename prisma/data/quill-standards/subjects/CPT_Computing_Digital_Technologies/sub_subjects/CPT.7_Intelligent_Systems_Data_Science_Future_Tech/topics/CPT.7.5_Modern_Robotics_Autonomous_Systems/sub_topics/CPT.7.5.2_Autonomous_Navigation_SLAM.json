@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.5.2",
+    "name": "Autonomous Navigation (SLAM)",
+    "topic_id": "CPT.7.5",
+    "topic_name": "Modern Robotics & Autonomous Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Autonomous Navigation (SLAM) in Modern Robotics & Autonomous Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.2,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.1",
+            "objective_text": "Identify a robot finding its way.",
+            "objective_uuid": "4dcd79e9-e5db-44a3-8069-b35327f00a5b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.3",
+            "objective_text": "Recall not getting lost.",
+            "objective_uuid": "28236a77-ab32-406e-a5b0-995c73cff2d9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.4",
+            "objective_text": "Name a self-driving car.",
+            "objective_uuid": "ed922b71-312a-4dea-bc17-504e66694e12"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.8",
+            "objective_text": "Identify localization (Where am I?).",
+            "objective_uuid": "7482062c-e60d-4951-86af-6f87cc4891a8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.12",
+            "objective_text": "Explain odometry (counting wheel turns).",
+            "objective_uuid": "b637b878-9341-4ee5-b444-c08945e49401"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.2",
+            "objective_text": "Draw a map for a robot.",
+            "objective_uuid": "151be1b9-f9c6-4c70-8860-f0be8a4f6e7e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.5",
+            "objective_text": "Summarize mapping a room.",
+            "objective_uuid": "7867a434-f77a-4acd-ab7c-7ffc32efdd2d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.6",
+            "objective_text": "Explain obstacle avoidance.",
+            "objective_uuid": "6d12ac52-7672-49ac-a220-704942993bd0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.7",
+            "objective_text": "Program a robot to follow a line.",
+            "objective_uuid": "ce27f3cd-7d04-4471-abe7-6e8dc5af4e20"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.15",
+            "objective_text": "Defend the safety protocols of autonomous vehicles.",
+            "objective_uuid": "05343b6b-253e-42af-90c8-f22d5a2e4e44"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.9",
+            "objective_text": "Analyze Simultaneous Localization and Mapping (SLAM).",
+            "objective_uuid": "5fe0f840-b3e0-4374-8ebd-b38d2bd6d8e8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.11",
+            "objective_text": "Connect GPS to outdoor navigation.",
+            "objective_uuid": "2482e0cd-30d7-41f6-9486-1d1564d4c101"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.14",
+            "objective_text": "Evaluate the reliability of SLAM in dynamic environments.",
+            "objective_uuid": "fd083567-65cf-4efa-9bd0-b06348d86e6d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.16",
+            "objective_text": "Synthesize spatial reasoning with code.",
+            "objective_uuid": "1451d0d3-bece-4865-8727-5a91c912a0fb"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.10",
+            "objective_text": "Interpret pathfinding algorithms (A* search).",
+            "objective_uuid": "82eae74a-fc31-4ef5-8af5-6d0f7f2ea213"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.2",
+            "sub_topic_name": "Autonomous Navigation (SLAM)",
+            "objective_id": "CPT.7.5.2.13",
+            "objective_text": "Construct a navigation algorithm for a maze.",
+            "objective_uuid": "eeb68f6b-377e-45ee-b16e-977a2c517eda"
+          }
+        ]
+      }
+    }
+  }
+}

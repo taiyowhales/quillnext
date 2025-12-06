@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.3.2",
+    "name": "Evaluating Reliability (bias, authority, currency)",
+    "topic_id": "CPT.4.3",
+    "topic_name": "Information Literacy",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Evaluating Reliability (bias, authority, currency) in Information Literacy (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.1",
+            "objective_text": "Identify a fact vs. a story.",
+            "objective_uuid": "61b532fa-a63d-4760-803d-0f1efa058046"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.2",
+            "objective_text": "Recall that not everything on the internet is true.",
+            "objective_uuid": "d1cde097-db6c-4efc-9766-3ebe13f287d9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.3",
+            "objective_text": "Name a teacher or parent as a helper.",
+            "objective_uuid": "fa54423c-5bda-4848-8f74-5e609db27edd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.4",
+            "objective_text": "Observe dates.",
+            "objective_uuid": "99ec89a2-f598-4dcd-9180-a422e41165b2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.7",
+            "objective_text": "Identify the author.",
+            "objective_uuid": "df02c6d8-120d-45a0-90b2-90e2fae490f5"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.5",
+            "objective_text": "Summarize the 5 Ws (Who, What, Where, When, Why).",
+            "objective_uuid": "faa82745-c1cd-4199-b320-7082ad9f9b34"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.6",
+            "objective_text": "Explain why we check the date of an article.",
+            "objective_uuid": "2a3c17fc-ca7e-4b82-b786-ae84fb223066"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.12",
+            "objective_text": "Explain corroboration (checking multiple sources).",
+            "objective_uuid": "c4924427-2b2b-4e8e-a025-c752559af08b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.15",
+            "objective_text": "Defend the pursuit of objective truth.",
+            "objective_uuid": "aab6d336-650f-4fc0-b401-b45a8f07e9a5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.8",
+            "objective_text": "Compare a news site with a blog.",
+            "objective_uuid": "2fc7089c-2427-493e-bf90-bff133279736"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.9",
+            "objective_text": "Analyze the CRAAP test (Currency, Relevance, Authority, Accuracy, Purpose).",
+            "objective_uuid": "02fe51ec-988e-4d15-9d05-1d153b797327"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.10",
+            "objective_text": "Interpret bias in writing.",
+            "objective_uuid": "a48ba9bc-3435-4eac-aeb1-65ab51bd78e1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.11",
+            "objective_text": "Connect domain extensions (.edu, .gov) to credibility.",
+            "objective_uuid": "b2835b25-687a-4785-9e8b-df824bce23fb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.14",
+            "objective_text": "Evaluate the funding/ownership of media outlets.",
+            "objective_uuid": "e209bd73-2e53-41ec-bc07-aeacd6c5604b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.13",
+            "objective_text": "Construct an annotated bibliography assessing sources.",
+            "objective_uuid": "58c1a99b-b386-4422-a277-df963bc70d4f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.2",
+            "sub_topic_name": "Evaluating Reliability (bias, authority, currency)",
+            "objective_id": "CPT.4.3.2.16",
+            "objective_text": "Synthesize critical reading skills.",
+            "objective_uuid": "bf57a265-ca57-448f-afc0-5ee2fe38fefc"
+          }
+        ]
+      }
+    }
+  }
+}

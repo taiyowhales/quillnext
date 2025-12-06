@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.4.7",
+    "name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+    "topic_id": "LIF.5.4",
+    "topic_name": "Woodworking & Carpentry Basics",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Workshop Safety & Tool Maintenance (cleanliness, sharpening) in Woodworking & Carpentry Basics (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.1",
+            "objective_text": "Identify a clean workspace.",
+            "objective_uuid": "fa25123b-5240-4309-9e50-64384cb42251"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.8",
+            "objective_text": "Identify a first aid kit.",
+            "objective_uuid": "992ccbab-7f51-44bc-99e2-7f44c1c5c129"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.3",
+            "objective_text": "Recall not to touch sharp edges.",
+            "objective_uuid": "52ba7da5-0944-4a9f-961c-c16979ec22b2"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.4",
+            "objective_text": "Observe safety glasses.",
+            "objective_uuid": "f9b8dcf0-9b99-4728-b9a7-26d3a9e0cafc"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.2",
+            "objective_text": "Put tools back in their home.",
+            "objective_uuid": "12aa5538-93e3-4a70-b3c5-3dc9744ce847"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.5",
+            "objective_text": "Summarize why a dull tool is dangerous.",
+            "objective_uuid": "edb637b4-d9dc-43e6-a893-6ff96a52fc7b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.6",
+            "objective_text": "Explain trip hazards (cords).",
+            "objective_uuid": "f6e5eb98-9c94-45c3-a2d8-1e604dfd2b59"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.7",
+            "objective_text": "Clean up sawdust.",
+            "objective_uuid": "7a667521-7a80-4e06-860d-2a961b0d0b37"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.12",
+            "objective_text": "Explain proper lifting technique.",
+            "objective_uuid": "92a09715-910e-4f6b-905e-7aca68f27ff5"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.15",
+            "objective_text": "Defend the culture of safety in a workshop.",
+            "objective_uuid": "c61528ab-64ef-4c50-92ff-9898acc747ba"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.9",
+            "objective_text": "Analyze the mechanics of sharpening a chisel.",
+            "objective_uuid": "ae486cfb-e716-4cfc-babb-edec149fb965"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.10",
+            "objective_text": "Interpret sound/vibration as warning signs.",
+            "objective_uuid": "2b60ec4d-7028-46e5-9c61-78922ce5ad2c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.11",
+            "objective_text": "Connect tool care to longevity.",
+            "objective_uuid": "282bfe79-9e5d-421e-b709-4c18e0d79c2b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.14",
+            "objective_text": "Evaluate the sharpness of a blade.",
+            "objective_uuid": "401b108b-8e7c-4a96-8fa0-ae489f50b412"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.13",
+            "objective_text": "Construct a shop safety protocol.",
+            "objective_uuid": "d59600a1-0103-4e65-a08a-19ea3b635061"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.7",
+            "sub_topic_name": "Workshop Safety & Tool Maintenance (cleanliness, sharpening)",
+            "objective_id": "LIF.5.4.7.16",
+            "objective_text": "Synthesize maintenance habits with productivity.",
+            "objective_uuid": "444faac4-9789-4a11-9f26-b2eefaff3573"
+          }
+        ]
+      }
+    }
+  }
+}

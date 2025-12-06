@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.5.2",
+    "name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+    "topic_id": "ELA.1.5",
+    "topic_name": "Syntax and Sentence Diagramming",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Diagramming Basics (Subject, Predicate, Modifiers) in Syntax and Sentence Diagramming (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.8",
+            "objective_text": "Identify the direct object (vertical line that doesn't cross).",
+            "objective_uuid": "97fce708-13d2-4d5d-85f4-2611ebaa66cb"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.3",
+            "objective_text": "Recall that describing words hang down.",
+            "objective_uuid": "43b828c8-19c6-4833-8b2b-e609d81be58d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 8,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.1",
+            "objective_text": "Draw a horizontal line.",
+            "objective_uuid": "efa65eae-a985-438e-8cdc-6660658bf31d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.2",
+            "objective_text": "Separate the Who (Subject) and Did What (Verb) with a vertical line.",
+            "objective_uuid": "27f22cfc-1991-4d28-b691-97e09d30c42d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.4",
+            "objective_text": "Diagram \"Dogs bark.\"",
+            "objective_uuid": "a105be93-dbd9-46cb-b3a3-2841e8d300fb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.5",
+            "objective_text": "Summarize the baseline of a diagram.",
+            "objective_uuid": "7e66c127-a5c8-4d65-9e99-838eda87e8a3"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.6",
+            "objective_text": "Explain where adjectives and adverbs go (slanted lines under).",
+            "objective_uuid": "c066282f-b298-47e7-9311-aacda25843e9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.7",
+            "objective_text": "Diagram \"The big red dog runs fast.\"",
+            "objective_uuid": "c1e845c3-9a40-4e88-97b2-46f6499c3c00"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.12",
+            "objective_text": "Explain the understood \"You\" in commands.",
+            "objective_uuid": "b94fbcc6-5440-458e-b432-0c4c72010059"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.15",
+            "objective_text": "Defend the discipline of sentence analysis.",
+            "objective_uuid": "9cee63f0-63f2-42ff-a8e0-9e95d1eb624d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.9",
+            "objective_text": "Analyze the placement of compound subjects and verbs (rocket ship shape).",
+            "objective_uuid": "e0e337a9-b742-4d3f-b590-9b4748be228b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.10",
+            "objective_text": "Interpret the visual representation of sentence logic.",
+            "objective_uuid": "d5b23006-0f68-4d7f-af44-570e8352ce8a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.11",
+            "objective_text": "Connect parts of speech to their diagram position.",
+            "objective_uuid": "42fdfc7c-133b-4faf-a613-65fb48a89487"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.14",
+            "objective_text": "Evaluate why we diagram (to see how words work together).",
+            "objective_uuid": "3455cee5-c380-408e-a821-b96d93cd27a8"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.13",
+            "objective_text": "Construct diagrams for sentences with conjunctions.",
+            "objective_uuid": "62cf645c-73b9-4877-ba0f-2a18f04cb5f5"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.2",
+            "sub_topic_name": "Diagramming Basics (Subject, Predicate, Modifiers)",
+            "objective_id": "ELA.1.5.2.16",
+            "objective_text": "Synthesize basic grammar with visual mapping.",
+            "objective_uuid": "6caa1003-3684-45ee-a27e-71322ea5397a"
+          }
+        ]
+      }
+    }
+  }
+}

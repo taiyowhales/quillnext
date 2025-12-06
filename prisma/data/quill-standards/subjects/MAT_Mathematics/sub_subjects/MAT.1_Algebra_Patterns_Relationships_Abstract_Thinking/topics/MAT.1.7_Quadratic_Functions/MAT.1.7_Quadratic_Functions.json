@@ -1,0 +1,518 @@
+{
+  "topic": {
+    "id": "MAT.1.7",
+    "name": "Quadratic Functions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 32,
+    "description": "13-year academic progression (K-12) for Quadratic Functions in Mathematics",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.1",
+            "objective_text": "Identify a U-shape curve.",
+            "objective_uuid": "6b208abf-04b4-436f-839c-e1246ae0aebb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.2",
+            "objective_text": "Name a thrown ball's path.",
+            "objective_uuid": "82599983-c586-4964-a2fc-fb4831bf1355"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.8",
+            "objective_text": "Identify the line down the middle.",
+            "objective_uuid": "ae752f85-b130-4750-96f0-7cc4569cbfaa"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.1",
+            "objective_text": "Identify a missing number.",
+            "objective_uuid": "c24dada3-e0a4-46b5-836b-b775f170f8a0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.8",
+            "objective_text": "Identify square roots.",
+            "objective_uuid": "0c2417b4-d3e1-4bc6-80f0-580ba0277ffa"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.3",
+            "objective_text": "Recall that it goes up and comes down.",
+            "objective_uuid": "a03ec4a2-b3ce-4b79-ba2c-5b4db1e193a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.4",
+            "objective_text": "Observe symmetry.",
+            "objective_uuid": "1615dcd3-08ba-4823-9c1b-6d3aa144de9b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.3",
+            "objective_text": "Recall solving puzzles.",
+            "objective_uuid": "76ecd5aa-e983-40af-a994-41fa95646a6f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "ae69bba1-36b8-4135-94d4-6cff7f5e40a2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 10,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.5",
+            "objective_text": "Summarize a Parabola.",
+            "objective_uuid": "c6d5db7b-6b92-4e4c-8f18-79b24c1c213b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.6",
+            "objective_text": "Explain the bottom or top point (Vertex).",
+            "objective_uuid": "3ad51661-0fd7-42b4-bab2-62e9230adbac"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.7",
+            "objective_text": "Draw a symmetrical curve.",
+            "objective_uuid": "524d6ac7-8820-4261-bc6b-f563d9644120"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.12",
+            "objective_text": "Explain the axis of symmetry formula.",
+            "objective_uuid": "50438c4d-0ed2-4bbf-aea4-36658b089439"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.15",
+            "objective_text": "Defend the parabolic shape of projectiles.",
+            "objective_uuid": "dfe23ade-91f0-4243-a7b5-3e7c33221115"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.2",
+            "objective_text": "Find two answers.",
+            "objective_uuid": "395edfeb-a0d3-4e6e-82d8-c549e6804639"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.5",
+            "objective_text": "Summarize finding roots.",
+            "objective_uuid": "79b49499-580a-4e98-93fa-1d7e3184d5cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.6",
+            "objective_text": "Explain that a U-shape hits the line twice.",
+            "objective_uuid": "c26d5846-700a-421f-b649-14f2f4cc7c8f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.12",
+            "objective_text": "Explain why some have no real solution.",
+            "objective_uuid": "ae584a99-d47f-46bb-9a5c-2ae1e00e1bbd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.15",
+            "objective_text": "Defend the efficiency of choosing the right method.",
+            "objective_uuid": "7f0cb102-1d37-419f-b356-8b96f9eafd40"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.7",
+            "objective_text": "Solve simple squares ($x^2 = 9$).",
+            "objective_uuid": "3dbddac5-27b0-49f1-9121-e2bfd42e6e89"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 6,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.9",
+            "objective_text": "Analyze the effect of $a$ (width/direction).",
+            "objective_uuid": "6820d87e-7d3a-4ff3-ac92-73e42eed294b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.10",
+            "objective_text": "Interpret the vertex form $(h, k)$.",
+            "objective_uuid": "592dd5e6-0f5d-49ec-b350-ab16faa19d43"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.11",
+            "objective_text": "Connect x-intercepts to solutions.",
+            "objective_uuid": "0ceebc63-8bca-4c8b-a346-d595ed9995a7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.9",
+            "objective_text": "Analyze the Zero Product Property.",
+            "objective_uuid": "6013d7d8-4cf2-4aaa-973a-c6e278e855b0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.10",
+            "objective_text": "Interpret completing the square geometrically.",
+            "objective_uuid": "2fcca798-5134-4ed1-a675-c4e5f37f2815"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.11",
+            "objective_text": "Connect the Quadratic Formula to the standard form.",
+            "objective_uuid": "0a4d4cfe-3a97-4c86-a1c8-dc38e8bff338"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.14",
+            "objective_text": "Evaluate maximum/minimum values.",
+            "objective_uuid": "7242f6e1-5a9f-4945-a55c-80a89db1205f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.14",
+            "objective_text": "Evaluate the Discriminant to determine root types.",
+            "objective_uuid": "ffeacf93-1388-4069-978a-9309f88821ed"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.13",
+            "objective_text": "Construct graphs from standard form.",
+            "objective_uuid": "c4c509af-b4f5-4d45-bab8-cd949383433f"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.13",
+            "objective_text": "Construct the derivation of the Quadratic Formula.",
+            "objective_uuid": "46b867eb-619d-47b3-b056-f2000da06aae"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.16",
+            "objective_text": "Synthesize complex roots.",
+            "objective_uuid": "d3684521-3732-4092-ad9f-870801522c33"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 48.0,
+        "objectives": [
+          {
+            "complexity": 48,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.1",
+            "sub_topic_name": "Graphing Parabolas (Vertex, Axis of Symmetry, Intercepts)",
+            "objective_id": "MAT.1.7.1.16",
+            "objective_text": "Synthesize calculus (derivatives) to find extrema.",
+            "objective_uuid": "d4b10211-eaf6-4125-b75d-7cd8c24537bd"
+          }
+        ]
+      }
+    }
+  }
+}

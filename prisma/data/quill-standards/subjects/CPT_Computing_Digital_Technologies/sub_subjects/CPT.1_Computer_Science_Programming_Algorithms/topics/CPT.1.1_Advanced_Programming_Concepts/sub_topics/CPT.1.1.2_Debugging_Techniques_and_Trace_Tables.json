@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.2",
+    "name": "Debugging Techniques and Trace Tables",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Debugging Techniques and Trace Tables in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.1",
+            "objective_text": "Identify a mistake (Bug).",
+            "objective_uuid": "148a9304-46be-4a2f-b3c5-4b2d9dec87d4"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.8",
+            "objective_text": "Identify syntax errors.",
+            "objective_uuid": "20c776f9-eee7-4af0-bb7e-b285cb62ae88"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 8,
+        "average_complexity": 21.62,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.3",
+            "objective_text": "Recall trying again.",
+            "objective_uuid": "86005cd5-ead6-469c-a9d0-6c4894a8648f"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.2",
+            "objective_text": "Fix the code.",
+            "objective_uuid": "4f28fb7b-2165-442b-a0a5-c2ab3017bda7"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.4",
+            "objective_text": "Ask for help.",
+            "objective_uuid": "21ac872f-4a4b-4ad8-8fad-cc7879a4e466"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.5",
+            "objective_text": "Summarize reading code line by line.",
+            "objective_uuid": "ac43403e-ea13-4fbe-9628-a41d8154eefd"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.6",
+            "objective_text": "Explain using 'print' to check values.",
+            "objective_uuid": "c31cb246-b084-415f-8833-da0faf57387f"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.7",
+            "objective_text": "Find a logic error.",
+            "objective_uuid": "ee733c03-5081-4e75-99be-dca3fe15cc56"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.12",
+            "objective_text": "Explain rubber duck debugging.",
+            "objective_uuid": "317592c2-4c39-4c45-89b9-2e1b43b2b013"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.15",
+            "objective_text": "Defend the scientific method in debugging.",
+            "objective_uuid": "7a22ac52-dbb6-4ec6-bd4c-3e6facc9f608"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.9",
+            "objective_text": "Analyze the use of breakpoints.",
+            "objective_uuid": "e89c60f5-2590-43a9-9218-8291f58c7ec6"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.10",
+            "objective_text": "Interpret variables in a watcher window.",
+            "objective_uuid": "d0d2532f-d250-4402-adae-dca32cc5aca2"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.11",
+            "objective_text": "Connect trace tables to loop execution.",
+            "objective_uuid": "6a2acdd9-95cc-4aa4-8258-a228c46d0ca1"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.14",
+            "objective_text": "Evaluate memory leaks or race conditions.",
+            "objective_uuid": "0376810e-9087-4f2f-bc25-7c341ea5d182"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.13",
+            "objective_text": "Construct a debugging strategy for a complex system.",
+            "objective_uuid": "b73f2971-1275-4759-a00d-f9797316ed60"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.2",
+            "sub_topic_name": "Debugging Techniques and Trace Tables",
+            "objective_id": "CPT.1.1.2.16",
+            "objective_text": "Synthesize profiler tools.",
+            "objective_uuid": "77b56d76-8b92-4853-b679-961c4973a9a3"
+          }
+        ]
+      }
+    }
+  }
+}

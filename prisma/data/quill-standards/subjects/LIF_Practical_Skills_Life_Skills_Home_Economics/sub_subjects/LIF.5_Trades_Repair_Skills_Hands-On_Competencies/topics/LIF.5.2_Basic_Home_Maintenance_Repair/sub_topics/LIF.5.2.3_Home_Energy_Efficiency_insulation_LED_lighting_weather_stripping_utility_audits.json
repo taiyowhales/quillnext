@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.2.3",
+    "name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+    "topic_id": "LIF.5.2",
+    "topic_name": "Basic Home Maintenance & Repair",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits) in Basic Home Maintenance & Repair (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.1",
+            "objective_text": "Identify a drafty window.",
+            "objective_uuid": "3d282b9d-e839-46ee-aae0-858899d4f773"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.4",
+            "objective_text": "Name the sun as free heat.",
+            "objective_uuid": "2b26de80-c3a5-4921-8def-431c5ccb618a"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.8",
+            "objective_text": "Identify the thermostat.",
+            "objective_uuid": "b6edc49c-5df7-4bab-a9c3-828a96389aa0"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.3",
+            "objective_text": "Recall that heat costs money.",
+            "objective_uuid": "b883f700-9502-4a84-8a3c-0feb4bcc8a1c"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.2",
+            "objective_text": "Turn off lights when leaving a room.",
+            "objective_uuid": "20522052-5469-4105-bac4-dc54e8bb5ced"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.5",
+            "objective_text": "Summarize how insulation works (like a blanket).",
+            "objective_uuid": "7578cb99-43f9-484b-abbc-065d81ae178f"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.6",
+            "objective_text": "Explain why LED bulbs are better than old ones.",
+            "objective_uuid": "26eaf632-33b6-456d-b8eb-b41db1270493"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.7",
+            "objective_text": "Check windows for gaps.",
+            "objective_uuid": "203ddfdb-88dd-408d-bbc3-4f75f2b2c972"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.12",
+            "objective_text": "Explain 'Phantom Load' (electronics plugged in).",
+            "objective_uuid": "0fd71fcc-0350-4f0a-84bd-1bc72e4731e6"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.15",
+            "objective_text": "Defend energy conservation as creation care.",
+            "objective_uuid": "b5ec2748-c51d-46a7-9c73-de5efabfe2fb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.9",
+            "objective_text": "Analyze a utility bill for usage patterns.",
+            "objective_uuid": "006321c6-cadb-4765-bd33-333531f32b04"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.10",
+            "objective_text": "Interpret the R-value of insulation.",
+            "objective_uuid": "1e5fe7d7-e0be-426a-bbac-26c7dc14db1a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.11",
+            "objective_text": "Connect weather stripping to heat retention.",
+            "objective_uuid": "a96bbce8-06ff-4888-8607-9e9e7938393d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.14",
+            "objective_text": "Evaluate the ROI (Return on Investment) of energy upgrades.",
+            "objective_uuid": "09d334a3-ba92-4797-b0b3-7faf46c3800d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.13",
+            "objective_text": "Construct a home energy audit.",
+            "objective_uuid": "d4d9045f-c66f-4b11-b511-0294ddaf3b48"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.3",
+            "sub_topic_name": "Home Energy Efficiency (insulation, LED lighting, weather stripping, utility audits)",
+            "objective_id": "LIF.5.2.3.16",
+            "objective_text": "Synthesize physics of heat transfer with home design.",
+            "objective_uuid": "fcb5bd55-6289-495c-b078-bcd49e3a08d0"
+          }
+        ]
+      }
+    }
+  }
+}

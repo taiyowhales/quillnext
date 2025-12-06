@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.1.7",
+    "name": "The Von Neumann Architecture",
+    "topic_id": "CPT.2.1",
+    "topic_name": "Computer Architecture (Hardware)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Von Neumann Architecture in Computer Architecture (Hardware) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.1",
+            "objective_text": "Identify the computer's 'brain' (CPU).",
+            "objective_uuid": "d6910164-5a29-471a-bab9-750b6619f8b4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.3",
+            "objective_text": "Name the parts: Screen, Keyboard, Mouse.",
+            "objective_uuid": "709d09d3-ad62-4a39-8438-18a08de16dea"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.7",
+            "objective_text": "Identify the CPU chip.",
+            "objective_uuid": "1f63e5f2-69a4-44e6-a48d-ae42821b710d"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.2",
+            "objective_text": "Recall that computers need memory to remember.",
+            "objective_uuid": "8d12be4a-e5f7-4d0c-9f80-68b979dd4c78"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.4",
+            "objective_text": "Observe wires connecting parts.",
+            "objective_uuid": "e141d110-eaba-4818-b909-8f9d2d9e1ba5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.5",
+            "objective_text": "Summarize the Input-Process-Output model.",
+            "objective_uuid": "df74bde6-06b9-46d5-8258-5279f3b3d879"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.6",
+            "objective_text": "Explain that data moves between the processor and memory.",
+            "objective_uuid": "31a0ea6d-7f26-4d87-9791-8c18529f806d"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.12",
+            "objective_text": "Explain the stored-program concept.",
+            "objective_uuid": "a1dff86c-b5ea-4da6-89c6-983655437a3f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.15",
+            "objective_text": "Defend the efficiency of the Von Neumann model.",
+            "objective_uuid": "a3ec16d7-bdfd-4a56-9793-d166453417e7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.8",
+            "objective_text": "Compare a hard drive (long term) with RAM (short term).",
+            "objective_uuid": "81ba5c70-c5c5-4c27-96c2-253c760b72df"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.9",
+            "objective_text": "Analyze the roles of the Control Unit (CU) and ALU.",
+            "objective_uuid": "8ebbc26d-5b5c-4ced-8f9b-363264620e9b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.10",
+            "objective_text": "Interpret the bus system (transporting data).",
+            "objective_uuid": "aeca03b3-166b-4d98-8d93-4ae64151157d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.11",
+            "objective_text": "Connect the Von Neumann bottleneck to speed limits.",
+            "objective_uuid": "eb62aa23-0d32-4428-90d3-6c48c78303af"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.14",
+            "objective_text": "Evaluate the role of registers (PC, MAR, MDR).",
+            "objective_uuid": "af21f2be-ba33-482b-9e35-c48c90cd1513"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.13",
+            "objective_text": "Construct a diagram of the internal data flow.",
+            "objective_uuid": "1a17d77e-92ee-4a19-9c22-ac5a0dfe6c68"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.7",
+            "sub_topic_name": "The Von Neumann Architecture",
+            "objective_id": "CPT.2.1.7.16",
+            "objective_text": "Synthesize Harvard Architecture differences.",
+            "objective_uuid": "eaa2075c-465c-46a7-8101-aca66c1521f2"
+          }
+        ]
+      }
+    }
+  }
+}

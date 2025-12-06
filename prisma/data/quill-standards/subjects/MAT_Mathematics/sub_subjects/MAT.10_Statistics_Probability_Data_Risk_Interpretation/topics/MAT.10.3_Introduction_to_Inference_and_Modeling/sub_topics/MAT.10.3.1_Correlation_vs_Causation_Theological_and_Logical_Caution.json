@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.3.1",
+    "name": "Correlation vs Causation (Theological and Logical Caution)",
+    "topic_id": "MAT.10.3",
+    "topic_name": "Introduction to Inference and Modeling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Correlation vs Causation (Theological and Logical Caution) in Introduction to Inference and Modeling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.1",
+            "objective_text": "Identify two things happening at once.",
+            "objective_uuid": "9e85ffec-2e40-41df-811d-9f37981703ce"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.3",
+            "objective_text": "Name cause and effect.",
+            "objective_uuid": "3720c944-d2e2-44fa-af32-cb162dcecdb5"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.7",
+            "objective_text": "Identify silly correlations (shoe size and reading skill).",
+            "objective_uuid": "dc7354a9-2352-4849-aed5-773e36d13e33"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.2",
+            "objective_text": "Recall that ice cream doesn't cause sunburn (both happen in summer).",
+            "objective_uuid": "92f7bc81-5ef3-40f4-8435-d3b10a10fb04"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "9dae561c-a364-45b9-a98d-26ec6c267021"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.5",
+            "objective_text": "Summarize Correlation (linked together).",
+            "objective_uuid": "ac9568b9-56ed-4fa7-bdc0-56bddcd3f9b1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.6",
+            "objective_text": "Explain Causation (one makes the other happen).",
+            "objective_uuid": "a893feaf-fb72-4300-9640-0d3774945d62"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.8",
+            "objective_text": "Use a scatter plot to see links.",
+            "objective_uuid": "9a8d7970-13b5-4cdc-8cb5-11dbb708da70"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.12",
+            "objective_text": "Explain the logical fallacy *post hoc ergo propter hoc*.",
+            "objective_uuid": "08b61772-ac6c-45ef-9770-d099e6f3bf42"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.15",
+            "objective_text": "Defend the theological view of Providence vs. chance.",
+            "objective_uuid": "c4e02d3a-eb8c-4395-bd11-836d69c8b256"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.9",
+            "objective_text": "Analyze positive vs. negative correlation.",
+            "objective_uuid": "0c575063-1c9b-44a3-9ab1-33a5657946d6"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.10",
+            "objective_text": "Interpret the strength of a relationship.",
+            "objective_uuid": "8535d702-3fc3-420d-a2dc-640a66fd4a7a"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.11",
+            "objective_text": "Connect lurking variables to false causation.",
+            "objective_uuid": "6e97987b-416f-4ba1-b91d-d2ac45c56e57"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.14",
+            "objective_text": "Evaluate the Correlation Coefficient ($r$).",
+            "objective_uuid": "72568b29-54d3-4d83-9b11-12fd2c152bae"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.13",
+            "objective_text": "Construct an argument distinguishing correlation from causation.",
+            "objective_uuid": "6c74cedf-2932-42a9-ad48-cebef4b5a248"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.1",
+            "sub_topic_name": "Correlation vs Causation (Theological and Logical Caution)",
+            "objective_id": "MAT.10.3.1.16",
+            "objective_text": "Synthesize logic with statistical evidence.",
+            "objective_uuid": "b79c3dba-cf91-4b92-8ed5-c8cf5468e044"
+          }
+        ]
+      }
+    }
+  }
+}

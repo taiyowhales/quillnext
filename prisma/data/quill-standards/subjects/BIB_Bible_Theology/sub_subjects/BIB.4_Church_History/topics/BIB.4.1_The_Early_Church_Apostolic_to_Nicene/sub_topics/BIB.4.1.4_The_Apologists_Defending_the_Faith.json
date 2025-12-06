@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "BIB.4.1.4",
+    "name": "The Apologists (Defending the Faith)",
+    "topic_id": "BIB.4.1",
+    "topic_name": "The Early Church (Apostolic to Nicene)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.4",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Apologists (Defending the Faith) in The Early Church (Apostolic to Nicene) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.1",
+            "objective_text": "Identify an Apologist as someone who explains why Jesus is true.",
+            "objective_uuid": "a8330850-355e-4b3f-93f2-c78ed0361043"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.2",
+            "objective_text": "Name Justin Martyr as a wise teacher.",
+            "objective_uuid": "66c715ca-c841-4d8f-a4be-0f11a441ac15"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.3",
+            "objective_text": "Recall that people told lies about Christians.",
+            "objective_uuid": "aaffbca0-28e0-4009-b195-e0423b7b74f9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.4",
+            "objective_text": "Observe that we can use words to defend Jesus.",
+            "objective_uuid": "6b906bfd-9c66-4b74-aeba-71e6be6f0585"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.5",
+            "objective_text": "Summarize the lies told about Christians (cannibalism, atheism).",
+            "objective_uuid": "fbcc753e-fce2-453f-acc8-966787c89007"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.6",
+            "objective_text": "Explain how Justin Martyr defended the faith to the Emperor.",
+            "objective_uuid": "1f78e3f0-1f94-4a0d-a84f-1d0c08d872c9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.12",
+            "objective_text": "Explain Irenaeus' fight against Gnosticism.",
+            "objective_uuid": "b568ca0e-5e26-4559-85c3-5be98c530475"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.15",
+            "objective_text": "Defend the rationality of the Christian worldview as presented by the Fathers.",
+            "objective_uuid": "ddfb4f69-36ff-48e3-857a-8df803371f28"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.7",
+            "objective_text": "Compare fighting with swords vs. fighting with truth.",
+            "objective_uuid": "f1e228ef-503f-4523-9832-8ed61e172221"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.8",
+            "objective_text": "Apply the need to know *why* we believe.",
+            "objective_uuid": "300ff1e9-76d9-4df0-a234-f3b847f9d929"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.9",
+            "objective_text": "Analyze the dialogue with Trypho the Jew.",
+            "objective_uuid": "3226bdb1-07ae-4cc3-bae9-4f7d46c33cce"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.13",
+            "objective_text": "Construct a summary of the key arguments in the 'Apology' of Justin.",
+            "objective_uuid": "97742d33-2466-468f-a1f4-7a4b0860c984"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.16",
+            "objective_text": "Synthesize the development of the Rule of Faith.",
+            "objective_uuid": "78951842-bdf1-4dd5-9ee8-0936964bf75d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.5,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.10",
+            "objective_text": "Interpret the use of Greek philosophy (Logos) to explain Christ.",
+            "objective_uuid": "e1edd5ef-cbc1-4509-b69a-d8e89128812e"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.14",
+            "objective_text": "Evaluate the risks and rewards of using secular philosophy to explain faith.",
+            "objective_uuid": "8638827e-f9f6-4088-b54e-c5b024539e3a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.4",
+            "sub_topic_name": "The Apologists (Defending the Faith)",
+            "objective_id": "BIB.4.1.4.11",
+            "objective_text": "Connect the early apologists to modern apologetics.",
+            "objective_uuid": "21091ada-6c18-4dce-851c-2e381412a0fb"
+          }
+        ]
+      }
+    }
+  }
+}

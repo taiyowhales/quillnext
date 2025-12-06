@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.3.4",
+    "name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+    "topic_id": "LIF.4.3",
+    "topic_name": "Safety, Preparedness & Emergency Skills",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Navigation Skills (reading maps, GPS ethics, orienting without technology) in Safety, Preparedness & Emergency Skills (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.1",
+            "objective_text": "Identify North, South, East, West.",
+            "objective_uuid": "39564996-d298-4bc2-8105-84a5c290a196"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.8",
+            "objective_text": "Identify the sun's position.",
+            "objective_uuid": "ac2bf82f-0684-406c-8b8b-ee8b6b9f400e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.3",
+            "objective_text": "Recall the address of home.",
+            "objective_uuid": "d52947cf-114c-4643-ab65-79d6ea840c65"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.4",
+            "objective_text": "Observe landmark cues.",
+            "objective_uuid": "79a34441-a47a-48ab-a8ee-d3b712c2b248"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.2",
+            "objective_text": "Draw a map of the bedroom.",
+            "objective_uuid": "d71b50c4-6ff2-46f9-b568-e63793a2eba4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.5",
+            "objective_text": "Summarize how to use a compass.",
+            "objective_uuid": "d602b038-8832-4333-bfd4-af7e3cae1a49"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.6",
+            "objective_text": "Explain landmarks (turn left at the red barn).",
+            "objective_uuid": "0cb88669-e6e4-4125-aee5-88cc727a47e6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.7",
+            "objective_text": "Read a street map.",
+            "objective_uuid": "09f2f2ff-5d83-4dad-9955-cf62ec9596ed"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.12",
+            "objective_text": "Explain what to do if lost (S.T.O.P.).",
+            "objective_uuid": "e9d9188f-9612-4e44-abd6-071616602664"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.15",
+            "objective_text": "Defend the skill of wayfinding.",
+            "objective_uuid": "b38ef6b5-6aa0-4d5e-8d66-7f8ce649c815"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.9",
+            "objective_text": "Analyze a topographic map.",
+            "objective_uuid": "ea18aa14-8052-4c9e-b60d-8cd123a0eb85"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.10",
+            "objective_text": "Interpret GPS directions vs. reality.",
+            "objective_uuid": "fe54ee33-8037-433d-b0a6-ca773052caa7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.11",
+            "objective_text": "Connect orientation to mental mapping.",
+            "objective_uuid": "c82c50c9-6970-4750-97bb-4eac5a4d9119"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.14",
+            "objective_text": "Evaluate the reliance on technology for navigation.",
+            "objective_uuid": "be2b0e39-1fe8-4f52-a435-f77e9f13e6e7"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.13",
+            "objective_text": "Construct a route plan without digital aids.",
+            "objective_uuid": "bdf6e21f-aa1f-4216-8157-688e03b5fb60"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.4",
+            "sub_topic_name": "Navigation Skills (reading maps, GPS ethics, orienting without technology)",
+            "objective_id": "LIF.4.3.4.16",
+            "objective_text": "Synthesize celestial navigation concepts (intro).",
+            "objective_uuid": "5b12a556-18e3-4387-ac26-912344e34684"
+          }
+        ]
+      }
+    }
+  }
+}

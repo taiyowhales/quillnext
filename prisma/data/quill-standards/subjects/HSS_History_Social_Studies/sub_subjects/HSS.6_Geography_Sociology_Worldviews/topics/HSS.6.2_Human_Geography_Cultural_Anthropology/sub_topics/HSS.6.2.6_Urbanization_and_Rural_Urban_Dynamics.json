@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.6.2.6",
+    "name": "Urbanization and Rural/Urban Dynamics",
+    "topic_id": "HSS.6.2",
+    "topic_name": "Human Geography & Cultural Anthropology",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.6",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Urbanization and Rural/Urban Dynamics in Human Geography & Cultural Anthropology (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.1",
+            "objective_text": "Identify a city and a farm.",
+            "objective_uuid": "1a83a807-3561-40f1-9ef4-226a6e2b5778"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.2",
+            "objective_text": "Name a skyscraper.",
+            "objective_uuid": "7b52d847-565c-4ccb-8175-e53510333f9a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.8",
+            "objective_text": "Identify suburbs (places near cities).",
+            "objective_uuid": "d43870bc-f88b-4b0b-97d8-474d73da3b3f"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.3",
+            "objective_text": "Recall that food grows on farms, not in cities.",
+            "objective_uuid": "c61eaa36-76a7-4242-a073-36e07b9b2458"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.4",
+            "objective_text": "Observe traffic in the city.",
+            "objective_uuid": "bbc0e518-b362-45e1-b7fc-5532a8a7c304"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.5",
+            "objective_text": "Summarize the shift from farms to factories.",
+            "objective_uuid": "2a199c82-2bc5-449d-b32a-1bf9d68933df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.6",
+            "objective_text": "Explain why cities are growing bigger.",
+            "objective_uuid": "a960f257-6416-4ad5-aa3d-ef5a70d58fb6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.12",
+            "objective_text": "Explain 'Urban Sprawl'.",
+            "objective_uuid": "07dca45d-0a08-4f86-8dae-d89e17672972"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.15",
+            "objective_text": "Defend the importance of the rural agrarian economy.",
+            "objective_uuid": "110615c5-6dae-4676-8421-1794ab60c3ed"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.7",
+            "objective_text": "Compare the noise of the city with the quiet of the country.",
+            "objective_uuid": "e8f5598c-c304-4380-bcf7-bf8c3f021064"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.9",
+            "objective_text": "Analyze the problems of rapid urbanization (slums, infrastructure).",
+            "objective_uuid": "2378b8a6-6ed9-47b1-bb85-beeeb4d74080"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.10",
+            "objective_text": "Interpret the reasons for the decline of rural populations.",
+            "objective_uuid": "44c943b7-f3c0-4c29-805a-818349f1d1c2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.11",
+            "objective_text": "Connect the Industrial Revolution to the rise of cities.",
+            "objective_uuid": "d2675a3f-6b16-4b8a-b378-1eadf645c0f1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.14",
+            "objective_text": "Evaluate the cultural divide between rural and urban voters.",
+            "objective_uuid": "71ad5789-9f3e-4a53-8d50-9f8894fece55"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.13",
+            "objective_text": "Construct a model of sustainable urban planning.",
+            "objective_uuid": "051c412e-162d-41ff-ac6b-b66112c197f3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.6",
+            "sub_topic_name": "Urbanization and Rural/Urban Dynamics",
+            "objective_id": "HSS.6.2.6.16",
+            "objective_text": "Synthesize the future of the 'Megacity' in the developing world.",
+            "objective_uuid": "915b8a83-be54-40d8-89c9-470d80347dae"
+          }
+        ]
+      }
+    }
+  }
+}

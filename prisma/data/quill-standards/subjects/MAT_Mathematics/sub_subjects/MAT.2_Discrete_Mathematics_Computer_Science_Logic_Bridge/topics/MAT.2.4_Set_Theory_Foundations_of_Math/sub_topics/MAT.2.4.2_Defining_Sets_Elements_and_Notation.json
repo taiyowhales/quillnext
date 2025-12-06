@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.4.2",
+    "name": "Defining Sets, Elements, and Notation",
+    "topic_id": "MAT.2.4",
+    "topic_name": "Set Theory (Foundations of Math)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Defining Sets, Elements, and Notation in Set Theory (Foundations of Math) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.1",
+            "objective_text": "Identify a group of items (e.g., red toys).",
+            "objective_uuid": "ae777f63-9631-4594-8856-c9da3adeea2e"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.2",
+            "objective_text": "Name an item that belongs to a group.",
+            "objective_uuid": "95d6ee97-6b18-4f25-939b-b6fa7e3ed857"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.8",
+            "objective_text": "Identify the Empty Set (nothing inside).",
+            "objective_uuid": "e48892f3-193b-4384-bd21-c60dd458fefa"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.3",
+            "objective_text": "Recall that a set is a collection.",
+            "objective_uuid": "7923529b-2e7b-49df-b0da-6ac5f4c2e6d0"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.4",
+            "objective_text": "Observe that some things don't belong.",
+            "objective_uuid": "9ca9b6f0-1122-40d0-8138-cafd521ccd53"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.7",
+            "objective_text": "List members of a set using braces { }.",
+            "objective_uuid": "48cb070b-65c4-41a5-958c-a452898d14dc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.75,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.5",
+            "objective_text": "Summarize the rule for a set (e.g., even numbers).",
+            "objective_uuid": "0ff1e81d-aff9-4f5d-a6a7-16564b5e14bd"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.6",
+            "objective_text": "Explain that an 'Element' is one piece of the set.",
+            "objective_uuid": "2618d602-d040-4e5b-9bcd-59e17721d55d"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.12",
+            "objective_text": "Explain the Universal Set.",
+            "objective_uuid": "18ecf2b2-eedc-4203-8364-d123a917de49"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.15",
+            "objective_text": "Defend the foundational role of sets in modern mathematics (ZFC).",
+            "objective_uuid": "2ad30cc6-a89b-439a-84aa-414dd9fad161"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.9",
+            "objective_text": "Analyze set-builder notation $\\{x | x > 5\\}$.",
+            "objective_uuid": "19a370c6-2f53-495f-9ddf-1c19986be70b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.10",
+            "objective_text": "Interpret the symbol $\\in$ (is an element of).",
+            "objective_uuid": "050355ed-e1d0-4b52-9960-86d36af670b5"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.11",
+            "objective_text": "Connect subsets ($\\subseteq$) to the parent set.",
+            "objective_uuid": "bb5b910b-2ac2-443c-8eb8-716e00f03565"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.14",
+            "objective_text": "Evaluate the Power Set of a given set.",
+            "objective_uuid": "a1adf606-12a9-4e4f-8b77-8fe654b51651"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.13",
+            "objective_text": "Construct proofs involving set equality.",
+            "objective_uuid": "c837b45f-2634-4bc3-85d4-fde2cd74c4e6"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.2",
+            "sub_topic_name": "Defining Sets, Elements, and Notation",
+            "objective_id": "MAT.2.4.2.16",
+            "objective_text": "Synthesize Russell's Paradox (introductory).",
+            "objective_uuid": "1183de69-576f-478b-a8c1-91743b7fb5a1"
+          }
+        ]
+      }
+    }
+  }
+}

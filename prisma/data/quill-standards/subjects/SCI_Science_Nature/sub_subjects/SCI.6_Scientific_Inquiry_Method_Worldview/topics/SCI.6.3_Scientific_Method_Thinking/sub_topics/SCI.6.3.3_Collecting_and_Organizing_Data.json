@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.3.3",
+    "name": "Collecting and Organizing Data",
+    "topic_id": "SCI.6.3",
+    "topic_name": "Scientific Method & Thinking",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Collecting and Organizing Data in Scientific Method & Thinking (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.12",
+            "objective_text": "Identify outliers (results that don't fit).",
+            "objective_uuid": "7f5745d5-166b-4450-aa60-cf967cc075db"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.1",
+            "objective_text": "Count things and use tally marks.",
+            "objective_uuid": "c5b9cc44-3cde-4ea2-babb-fcaea24c33b5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.2",
+            "objective_text": "Draw a picture of the result.",
+            "objective_uuid": "fe2e0b1c-1179-4608-8df2-00cc01ae3a52"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.3",
+            "objective_text": "Sort items into groups.",
+            "objective_uuid": "37763444-8e01-4967-bc37-7aaae742962f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.4",
+            "objective_text": "Measure with a ruler or cup.",
+            "objective_uuid": "46550961-8d3b-4cfc-9db0-bc8132f25289"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.6",
+            "objective_text": "Use a bar graph to show results.",
+            "objective_uuid": "ecf2e775-aa47-421d-91f2-9bcddc00a194"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.7",
+            "objective_text": "Take accurate measurements using standard units.",
+            "objective_uuid": "f3d86b85-84fd-4681-a303-ea86d53e2e6b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.8",
+            "objective_text": "Label drawings with scientific names.",
+            "objective_uuid": "f98a28fc-2193-4a4b-a2ce-bf3e50d088cd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.15",
+            "objective_text": "Defend the integrity of data handling (no cherry-picking).",
+            "objective_uuid": "edb90aa6-2c9b-49c4-9ce3-1803b40c5c5e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.9",
+            "objective_text": "Analyze data for patterns and trends.",
+            "objective_uuid": "ea0536d3-a48d-400f-95bd-33180b8cf6db"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.11",
+            "objective_text": "Calculate the mean, median, and mode of results.",
+            "objective_uuid": "e76cea0f-b5cb-470d-9f59-25411c7e4913"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.14",
+            "objective_text": "Evaluate the statistical significance of data (Standard Deviation).",
+            "objective_uuid": "071141d3-e2ea-468d-be8e-eb04031d4e53"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.5",
+            "objective_text": "Create a data table to record numbers.",
+            "objective_uuid": "da0f0775-b623-48c7-b44c-3dc618a4b26e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.10",
+            "objective_text": "Construct line graphs for continuous data.",
+            "objective_uuid": "98dfc503-00b2-4ea2-9623-4108aa5f8750"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.13",
+            "objective_text": "Construct a scatter plot with a line of best fit.",
+            "objective_uuid": "d56d4eff-ef44-47a1-a483-fa2498076d83"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.3",
+            "sub_topic_name": "Collecting and Organizing Data",
+            "objective_id": "SCI.6.3.3.16",
+            "objective_text": "Synthesize error bars and uncertainty in data presentation.",
+            "objective_uuid": "a1de1366-c722-4689-b1f6-3ec24010371b"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.3",
+    "name": "Control Flow (If/Else statements, For/While loops)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Control Flow (If/Else statements, For/While loops) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.1",
+            "objective_text": "Identify doing something if a button is pressed.",
+            "objective_uuid": "d1c8b15a-bb3e-43fd-8bb0-d44eead3b9c7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.4",
+            "objective_text": "Name a loop.",
+            "objective_uuid": "14a056b5-59ed-4df1-814e-84a9b4228734"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.8",
+            "objective_text": "Identify an infinite loop.",
+            "objective_uuid": "cb2187e7-91b6-487f-a438-6eb376bd9e7c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.3",
+            "objective_text": "Recall stopping when done.",
+            "objective_uuid": "1ce25aa3-9166-4426-b9f7-92c3d22e7804"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 5,
+        "average_complexity": 20.6,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.7",
+            "objective_text": "Write a simple loop to count to 10.",
+            "objective_uuid": "65c901e8-215b-47b3-893a-a066bff1abd0"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.2",
+            "objective_text": "Repeat a dance move.",
+            "objective_uuid": "1df8d9f2-0abe-49db-b501-a6cd401719d5"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.5",
+            "objective_text": "Summarize checking a condition.",
+            "objective_uuid": "6345b3be-b9d6-48a3-b718-94b48ff7fed2"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.6",
+            "objective_text": "Explain 'Else' (what to do if not).",
+            "objective_uuid": "201bff3a-1e1f-4d4a-977c-4bcb7d943a40"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.12",
+            "objective_text": "Explain nested control structures.",
+            "objective_uuid": "f141ce9b-0d8f-4997-8639-1a8d9fcd7af2"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.9",
+            "objective_text": "Analyze 'While' loops (condition based).",
+            "objective_uuid": "c5d44913-48e9-4710-b74f-c2e7a4fc67fe"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.10",
+            "objective_text": "Interpret 'For' loops (count based).",
+            "objective_uuid": "31018e85-9a28-4911-8266-bdd4abcebadd"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.11",
+            "objective_text": "Connect flowcharts to code structure.",
+            "objective_uuid": "c3a2a521-0db0-4769-a542-f56ff13787f9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 28.75,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.14",
+            "objective_text": "Evaluate loop invariants.",
+            "objective_uuid": "b600d6ea-417d-44ab-bee9-3eb39f0f90d0"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.15",
+            "objective_text": "Defend the choice between recursion and iteration.",
+            "objective_uuid": "13353f0a-ee7d-4eba-be9d-821408154e29"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.13",
+            "objective_text": "Construct efficient iteration logic.",
+            "objective_uuid": "77282c2f-edba-4094-aff6-d701afb9be1f"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.3",
+            "sub_topic_name": "Control Flow (If/Else statements, For/While loops)",
+            "objective_id": "CPT.1.4.3.16",
+            "objective_text": "Synthesize break and continue statements.",
+            "objective_uuid": "a71e8736-1c34-4385-9118-1a8182b13803"
+          }
+        ]
+      }
+    }
+  }
+}

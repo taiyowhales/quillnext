@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.3",
+    "name": "Number Recognition (0–20, then to 100, then beyond)",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Number Recognition (0–20, then to 100, then beyond) in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 1.75,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.1",
+            "objective_text": "Identify and write numerals from 0 to 20.",
+            "objective_uuid": "2c817328-c433-4830-9a7c-922d03d5bdf9"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.6",
+            "objective_text": "Identify the value of a digit based on its position.",
+            "objective_uuid": "53250bca-6612-4c9d-a1bf-15950bd7d7e5"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.4",
+            "objective_text": "Recall the sequence of numbers forward and backward (0-20).",
+            "objective_uuid": "35ac5b42-577a-4664-b6aa-42f93fd1a822"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.8",
+            "objective_text": "Recognize patterns in the number system to 1,000.",
+            "objective_uuid": "c007abf1-a636-404e-849c-58defaa3928d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 5.8,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.5",
+            "objective_text": "Read and write multi-digit whole numbers using numerals and number names.",
+            "objective_uuid": "6988f067-6bcd-421f-ba0d-726cba2e1176"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.2",
+            "objective_text": "Count aloud to 100 by ones and tens.",
+            "objective_uuid": "590d21af-4aec-4a90-85d2-7844102448cc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.3",
+            "objective_text": "Match a numeral to a group of objects.",
+            "objective_uuid": "289ffe5a-38e6-48d2-a690-38ae10aaaaa9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.12",
+            "objective_text": "Explain the concept of infinity in counting.",
+            "objective_uuid": "3dc90635-3d57-4298-ba6c-2214f5161a74"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.15",
+            "objective_text": "Defend the necessity of complex number systems.",
+            "objective_uuid": "adcf603f-2947-49de-9f61-4dca8e3dff07"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.25,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.7",
+            "objective_text": "Compare large numbers up to one million.",
+            "objective_uuid": "b3e2346f-4443-40e3-85fa-3d8939630d8c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.9",
+            "objective_text": "Analyze the classification of numbers (Natural, Whole, Integers).",
+            "objective_uuid": "75b51353-6504-460d-982f-9ccda9be4af1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.10",
+            "objective_text": "Interpret numbers in scientific notation.",
+            "objective_uuid": "a4fb07fa-66f2-4090-bec3-d49354576b6d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.11",
+            "objective_text": "Connect number recognition to the real number line including negatives.",
+            "objective_uuid": "2f2ea2c7-c4a9-4f5b-8057-fc82d10bc71e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.14",
+            "objective_text": "Evaluate the distinction between countable and uncountable sets.",
+            "objective_uuid": "0a8f8aaa-143f-43cc-ab95-8e5d16e62edc"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.5,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.13",
+            "objective_text": "Construct arguments regarding the density of real numbers.",
+            "objective_uuid": "7d4cb2d8-7ccb-4f4a-b740-788bfc080839"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.3",
+            "sub_topic_name": "Number Recognition (0–20, then to 100, then beyond)",
+            "objective_id": "MAT.4.1.3.16",
+            "objective_text": "Synthesize set theory notation with number recognition.",
+            "objective_uuid": "a6abdde3-6918-4bb7-af36-33887527b046"
+          }
+        ]
+      }
+    }
+  }
+}

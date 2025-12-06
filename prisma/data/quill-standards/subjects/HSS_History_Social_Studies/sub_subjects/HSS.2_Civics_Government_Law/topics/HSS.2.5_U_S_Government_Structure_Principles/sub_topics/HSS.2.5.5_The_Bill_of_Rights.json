@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.5.5",
+    "name": "The Bill of Rights",
+    "topic_id": "HSS.2.5",
+    "topic_name": "U.S. Government Structure & Principles",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Bill of Rights in U.S. Government Structure & Principles (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.1",
+            "objective_text": "Identify that we are free to go to church.",
+            "objective_uuid": "9505b877-3905-4348-b7d5-f742f537d0e4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.2",
+            "objective_text": "Name 'Freedom of Speech'.",
+            "objective_uuid": "d381b8c3-6f44-4165-a697-56729db055d1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.8",
+            "objective_text": "Identify 'Due Process' (fair rules).",
+            "objective_uuid": "5f9186fc-9692-49bc-ac71-653c9d841d7a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.3",
+            "objective_text": "Recall that the police must follow rules too.",
+            "objective_uuid": "94b888ed-d062-4575-9e6e-b2aed151b24b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.4",
+            "objective_text": "Observe that we can say what we think.",
+            "objective_uuid": "9997f661-779e-40c5-923e-7ec804b0cb66"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.5",
+            "objective_text": "Summarize the First Amendment (Speech, Religion, Press, Assembly, Petition).",
+            "objective_uuid": "0ced1a2f-9274-41a7-a9a8-6e1ff99881f0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.6",
+            "objective_text": "Explain the Right to Bear Arms (2nd).",
+            "objective_uuid": "a00d6687-54e1-48dd-b66a-d53bb9f52224"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.12",
+            "objective_text": "Explain the 'Establishment Clause' vs. 'Free Exercise Clause'.",
+            "objective_uuid": "5504934e-a690-4e14-8bba-46f7062b9f57"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.15",
+            "objective_text": "Defend the view of 'Negative Rights' (freedom *from* government) vs. 'Positive Rights'.",
+            "objective_uuid": "e78a4d8b-5759-4cc0-88eb-442370b0613d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.7",
+            "objective_text": "Compare a country with rights to a country without them.",
+            "objective_uuid": "1da57f64-aed9-47d6-bca6-512e682b985e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.9",
+            "objective_text": "Analyze the protection against unreasonable search and seizure (4th).",
+            "objective_uuid": "e7873419-590f-499d-8bdc-4dfef01897f8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.10",
+            "objective_text": "Interpret 'Cruel and Unusual Punishment' (8th).",
+            "objective_uuid": "37ca0445-8759-4ce6-be4b-1db51aad1ef4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.11",
+            "objective_text": "Connect the Anti-Federalists to the demand for a Bill of Rights.",
+            "objective_uuid": "7922c3c1-f218-419c-8b08-23c596c924e0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.14",
+            "objective_text": "Evaluate the tension between security and liberty.",
+            "objective_uuid": "a3953dc4-d4a7-478b-af0f-92f25a0c0736"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.13",
+            "objective_text": "Construct a legal brief on a landmark Supreme Court case regarding rights.",
+            "objective_uuid": "697c68b6-02bf-4ce8-bf86-f0967edd355f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.5",
+            "sub_topic_name": "The Bill of Rights",
+            "objective_id": "HSS.2.5.5.16",
+            "objective_text": "Synthesize the incorporation of the Bill of Rights to the states (14th Amendment).",
+            "objective_uuid": "178f5a4e-0c1d-4ddd-b081-591282a96484"
+          }
+        ]
+      }
+    }
+  }
+}

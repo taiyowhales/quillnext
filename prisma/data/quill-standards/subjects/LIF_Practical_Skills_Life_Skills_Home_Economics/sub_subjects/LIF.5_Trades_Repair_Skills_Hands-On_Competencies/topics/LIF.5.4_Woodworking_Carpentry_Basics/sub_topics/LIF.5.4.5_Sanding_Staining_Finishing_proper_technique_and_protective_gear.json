@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.4.5",
+    "name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+    "topic_id": "LIF.5.4",
+    "topic_name": "Woodworking & Carpentry Basics",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sanding, Staining & Finishing (proper technique and protective gear) in Woodworking & Carpentry Basics (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.2",
+            "objective_text": "Identify smooth vs. rough.",
+            "objective_uuid": "964d151d-7186-4a53-80e1-e9103c2430a5"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.8",
+            "objective_text": "Identify varnish (shiny protection).",
+            "objective_uuid": "b7b9adf3-9043-4359-9370-638bdb7aa974"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.3",
+            "objective_text": "Recall that dust makes us sneeze (wear a mask).",
+            "objective_uuid": "eab8dbbd-cadd-4049-a6e4-174cd486d14b"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.4",
+            "objective_text": "Observe painting wood.",
+            "objective_uuid": "1d7c7b2e-2792-4c0a-bc06-d4ba942f15e7"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.1",
+            "objective_text": "Rub wood with sandpaper.",
+            "objective_uuid": "8ba07fd0-62f3-41f2-a760-488200f322f0"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.5",
+            "objective_text": "Summarize sanding with the grain.",
+            "objective_uuid": "b7c963df-c0e4-433c-9808-772439d1ce2b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.6",
+            "objective_text": "Explain grit (lower number is rougher).",
+            "objective_uuid": "bd2ded68-f363-4af4-af1a-3b4f94d55a1c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.12",
+            "objective_text": "Explain the difference between oil and water-based finish.",
+            "objective_uuid": "850512d1-3a6a-41b3-8a25-bee8d69a08f8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.15",
+            "objective_text": "Defend the necessity of proper ventilation.",
+            "objective_uuid": "2a2255ef-614d-4f71-924a-f26e89637576"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.7",
+            "objective_text": "Apply a stain with a rag.",
+            "objective_uuid": "5bf533bf-a1d2-4653-bd98-f069810dc43a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.9",
+            "objective_text": "Analyze the progression of grits (80, 120, 220).",
+            "objective_uuid": "9d05f565-7ea1-4f5a-b9f3-a2dcdc3fbc2b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.10",
+            "objective_text": "Interpret the safety data sheet for finishes.",
+            "objective_uuid": "1284b37f-037b-4e4b-a311-fffe16a8f7eb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.11",
+            "objective_text": "Connect surface prep to final look.",
+            "objective_uuid": "bb206c80-2e2d-4f55-9d34-c536bf03783b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.14",
+            "objective_text": "Evaluate the durability of different finishes.",
+            "objective_uuid": "2e6967ed-b97e-4265-8a65-4a9a3a01ee6f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.13",
+            "objective_text": "Construct a finishing schedule for a project.",
+            "objective_uuid": "228f3de5-814d-40a1-92e9-bf1d44e34e3a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.5",
+            "sub_topic_name": "Sanding, Staining & Finishing (proper technique and protective gear)",
+            "objective_id": "LIF.5.4.5.16",
+            "objective_text": "Synthesize chemical knowledge with aesthetic application.",
+            "objective_uuid": "a73fdbfd-ad08-4e6d-86a9-f945a9c37840"
+          }
+        ]
+      }
+    }
+  }
+}

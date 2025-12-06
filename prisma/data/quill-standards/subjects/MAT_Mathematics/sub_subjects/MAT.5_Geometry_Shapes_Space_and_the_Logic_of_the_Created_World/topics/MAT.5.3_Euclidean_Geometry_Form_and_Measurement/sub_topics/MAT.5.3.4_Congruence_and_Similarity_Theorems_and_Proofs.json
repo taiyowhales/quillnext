@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.3.4",
+    "name": "Congruence and Similarity (Theorems and Proofs)",
+    "topic_id": "MAT.5.3",
+    "topic_name": "Euclidean Geometry (Form and Measurement)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Congruence and Similarity (Theorems and Proofs) in Euclidean Geometry (Form and Measurement) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 8.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.1",
+            "objective_text": "Identify shapes that are the exact same.",
+            "objective_uuid": "2075619f-796b-4437-94de-6cfc354ef627"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.8",
+            "objective_text": "Identify corresponding parts (matching corners).",
+            "objective_uuid": "fb12aa71-6ee6-45c8-826d-7de964c397da"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.3",
+            "objective_text": "Recall that same shape but different size is 'Similar'.",
+            "objective_uuid": "990d960d-3ffa-44f5-99d7-68117002dcda"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.4",
+            "objective_text": "Observe cookie cutter shapes.",
+            "objective_uuid": "d0adea26-54f9-46b1-ae00-91158f4fdce9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.2",
+            "objective_text": "Match twins.",
+            "objective_uuid": "517728d1-c7db-47c5-b8fe-886408e19c70"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.5",
+            "objective_text": "Summarize Congruent (same size and shape).",
+            "objective_uuid": "ca7b006b-b5fe-4954-af8c-2b3fcd336276"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.6",
+            "objective_text": "Explain Similar (same shape, different size).",
+            "objective_uuid": "1d9e57dd-2169-4f32-9b7c-470f310db888"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.7",
+            "objective_text": "Test shapes by stacking them.",
+            "objective_uuid": "ea57f43a-aee5-465d-8e1c-ff9877e29079"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.12",
+            "objective_text": "Explain why all circles are similar.",
+            "objective_uuid": "64e12572-a72e-46d8-93f8-c1c8d6301fd1"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.15",
+            "objective_text": "Defend the criteria for congruence (Rigid Transformations).",
+            "objective_uuid": "e6ac08a9-7e45-4987-8029-69e83806185c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.9",
+            "objective_text": "Analyze scale factors in similar figures.",
+            "objective_uuid": "3f4ff4f5-d7f4-48d0-99c9-735bb8412fda"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.10",
+            "objective_text": "Interpret the symbol $\\cong$ vs $\\sim$.",
+            "objective_uuid": "ac8c7fa3-0e6f-4e42-befd-fdb1ca073e57"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.11",
+            "objective_text": "Connect ratio and proportion to similarity.",
+            "objective_uuid": "42d5d9b0-f296-443f-b055-88dc127ee384"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.14",
+            "objective_text": "Evaluate the area ratio of similar figures (squared).",
+            "objective_uuid": "1c39bda2-0be5-4af5-bba0-cd562b201dce"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.13",
+            "objective_text": "Construct formal proofs for triangle similarity.",
+            "objective_uuid": "d1521880-48ef-4baf-a07d-0c66fb111f85"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.4",
+            "sub_topic_name": "Congruence and Similarity (Theorems and Proofs)",
+            "objective_id": "MAT.5.3.4.16",
+            "objective_text": "Synthesize fractal geometry (self-similarity).",
+            "objective_uuid": "894929ef-ed2f-43d4-8fa5-99f5ebd0887e"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.4.3",
+    "name": "Reference Angles and Quadrant Signs",
+    "topic_id": "MAT.11.4",
+    "topic_name": "Unit Circle & Radian Measure",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Reference Angles and Quadrant Signs in Unit Circle & Radian Measure (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 10,
+        "average_complexity": 13.5,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.1",
+            "objective_text": "Identify the four corners of a grid.",
+            "objective_uuid": "3e5647a2-92ff-4113-865f-f7c783a2b355"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.2",
+            "objective_text": "Name clockwise and counter-clockwise.",
+            "objective_uuid": "95061bc6-cf5b-4eed-825f-8e628fd4221d"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.8",
+            "objective_text": "Identify angles bigger than 90.",
+            "objective_uuid": "34009be0-8bf6-41fd-853a-ee9aa8181b52"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.3",
+            "objective_text": "Recall that we measure from the flat line.",
+            "objective_uuid": "f961585f-14e1-41e9-9840-d4d023abecdd"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.4",
+            "objective_text": "Observe angles getting bigger.",
+            "objective_uuid": "6bfecd8e-ad32-427e-9f21-c46cb4049ade"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.6",
+            "objective_text": "Explain that some places have negative numbers.",
+            "objective_uuid": "38dd7bcb-3b6b-489d-ab71-77ef721ade3f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.5",
+            "objective_text": "Summarize the four quadrants (I, II, III, IV).",
+            "objective_uuid": "a6c0c4df-e594-4607-84a4-5a61f174dc7c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.7",
+            "objective_text": "Find the angle to the nearest x-axis.",
+            "objective_uuid": "67a3602c-3c6e-431b-9aa3-b1b2f266b016"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.12",
+            "objective_text": "Explain determining the sign by quadrant.",
+            "objective_uuid": "eb8a0e44-442e-4f50-b6ca-e7b658ba81f6"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.15",
+            "objective_text": "Defend the consistency of the reference angle method.",
+            "objective_uuid": "b17851d1-ff08-4be8-bba4-83ccd37f93ec"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.9",
+            "objective_text": "Analyze the concept of a Reference Angle (always acute/positive).",
+            "objective_uuid": "0096f31f-05ec-4c9a-9bc7-f479e1681198"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.11",
+            "objective_text": "Connect the reference angle to the value magnitude.",
+            "objective_uuid": "54cff2ac-fc7e-4517-91bb-a8ab9a04f2b9"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.14",
+            "objective_text": "Evaluate functions for angles greater than $2\\pi$.",
+            "objective_uuid": "8d3e067a-caf6-4faf-befd-77fd59c6727d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.13",
+            "objective_text": "Construct exact values for any integer multiple of special angles.",
+            "objective_uuid": "66f42dd3-3bf5-4028-b03d-506c2ecc0fea"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.16",
+            "objective_text": "Synthesize symmetry properties of the circle.",
+            "objective_uuid": "0908a9fc-894f-4512-b383-1db1eee13c82"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.3",
+            "sub_topic_name": "Reference Angles and Quadrant Signs",
+            "objective_id": "MAT.11.4.3.10",
+            "objective_text": "Interpret 'All Students Take Calculus' (sign mnemonic).",
+            "objective_uuid": "d44e07c2-a8fa-4d3b-9b73-e444a64a7bee"
+          }
+        ]
+      }
+    }
+  }
+}

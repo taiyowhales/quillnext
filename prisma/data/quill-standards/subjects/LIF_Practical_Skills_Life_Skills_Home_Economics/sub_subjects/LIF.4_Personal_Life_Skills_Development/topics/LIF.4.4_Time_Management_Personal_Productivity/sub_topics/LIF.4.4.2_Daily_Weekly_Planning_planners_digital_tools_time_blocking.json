@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.4.2",
+    "name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+    "topic_id": "LIF.4.4",
+    "topic_name": "Time Management & Personal Productivity",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Daily & Weekly Planning (planners, digital tools, time blocking) in Time Management & Personal Productivity (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.1",
+            "objective_text": "Identify the days of the week.",
+            "objective_uuid": "1f7213b9-24c5-43d5-a89b-363977692d7b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.2",
+            "objective_text": "Name what we do in the morning vs. afternoon.",
+            "objective_uuid": "a9f4f1cc-00a3-4d3d-b4f3-c0c2fe3638b7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.8",
+            "objective_text": "Identify free time vs. busy time.",
+            "objective_uuid": "812c6ed9-39b6-4c42-b7cb-3bd2b259dc50"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.3",
+            "objective_text": "Recall that a calendar tells us when things happen.",
+            "objective_uuid": "8d333ed2-20d2-4c1a-9330-b88e157de87a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.4",
+            "objective_text": "Check off a box when done.",
+            "objective_uuid": "dd6d3bd3-254e-45df-87e6-a22494561e55"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.5",
+            "objective_text": "Summarize how to use a planner or agenda.",
+            "objective_uuid": "a360a59f-4fc7-4c9a-b87d-a199a1b717ba"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.6",
+            "objective_text": "Explain why we write down homework.",
+            "objective_uuid": "81ae636b-b44f-484c-a9d5-6fbd0f46ff16"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.7",
+            "objective_text": "Plan a weekend schedule.",
+            "objective_uuid": "739a8909-2955-46a4-940b-7ecc29d36e06"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.12",
+            "objective_text": "Explain the 'Two-Minute Rule' (do it now if it's quick).",
+            "objective_uuid": "f4f6a054-1d79-48ea-9de2-8e644422ed53"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.15",
+            "objective_text": "Defend the need for margin (buffer time) in a schedule.",
+            "objective_uuid": "ae49b1e3-1ab6-40d3-bc59-cd6139eab94b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.9",
+            "objective_text": "Analyze the benefits of 'Time Blocking' (grouping tasks).",
+            "objective_uuid": "e060853c-a5e6-4a41-8fc0-844e056e2097"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.10",
+            "objective_text": "Interpret a digital calendar layout.",
+            "objective_uuid": "8c118b41-3a89-4257-9ef0-3edd5ec2ec40"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.11",
+            "objective_text": "Connect preparation to reducing stress.",
+            "objective_uuid": "473bfee0-8514-4daf-8b38-afcf3c8f3ffe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.14",
+            "objective_text": "Evaluate the effectiveness of analog vs. digital tools.",
+            "objective_uuid": "609ec611-4f5c-422d-bce2-4d1038c622da"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.13",
+            "objective_text": "Construct a rigorous study schedule for exam preparation.",
+            "objective_uuid": "a35f74de-9fb8-4b9a-b597-f350601ef734"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.2",
+            "sub_topic_name": "Daily & Weekly Planning (planners, digital tools, time blocking)",
+            "objective_id": "LIF.4.4.2.16",
+            "objective_text": "Synthesize productivity systems (e.g., GTD) into daily life.",
+            "objective_uuid": "45b4ada1-c6fd-4934-9a26-01e92fab9302"
+          }
+        ]
+      }
+    }
+  }
+}

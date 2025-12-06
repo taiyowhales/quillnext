@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.6.3",
+    "name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+    "topic_id": "MAT.4.6",
+    "topic_name": "Ratios, Proportion & Scaling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving Ratio Problems (Dividing Quantities, Scaling Recipes) in Ratios, Proportion & Scaling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.1",
+            "objective_text": "Identify doubling a snack.",
+            "objective_uuid": "30b0c85f-9f93-405f-897b-0f807ec26ac7"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.8",
+            "objective_text": "Identify unit price.",
+            "objective_uuid": "7ea30a21-e3a8-474f-b69a-a5df6915c8ca"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.3",
+            "objective_text": "Recall that if I have more friends, I need more food.",
+            "objective_uuid": "f62b8ac2-1bc1-4e4f-b129-778c71692ba3"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.4",
+            "objective_text": "Observe mixing colors.",
+            "objective_uuid": "ac141b63-30e7-4a12-9cee-03788833bab7"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.2",
+            "objective_text": "Share items fairly.",
+            "objective_uuid": "5f3ef86a-8865-429e-a4d9-7bfd1194b12f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.5",
+            "objective_text": "Summarize how to scale a recipe up or down.",
+            "objective_uuid": "a8a94f5e-0b26-433e-a93b-9a2c027e59ae"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.6",
+            "objective_text": "Explain finding the missing number in a proportion.",
+            "objective_uuid": "1d7c9409-7154-497d-8052-bd1ee29a61cb"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.7",
+            "objective_text": "Use tape diagrams.",
+            "objective_uuid": "ee27fff1-14d1-4e3d-85bb-03a1b525666b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.12",
+            "objective_text": "Explain dividing a quantity into a given ratio.",
+            "objective_uuid": "95ce0b3d-e155-46a7-b1f2-1f70badfa9ea"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.15",
+            "objective_text": "Defend the logic of dimensional analysis.",
+            "objective_uuid": "8cf91fa8-0a10-40ad-aa21-0b62d58d4500"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.9",
+            "objective_text": "Analyze cross-multiplication logic.",
+            "objective_uuid": "1738585b-9599-4afc-a75c-da67b4603a5b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.10",
+            "objective_text": "Interpret percent problems as proportions.",
+            "objective_uuid": "ca59a6fb-83b2-4ea4-bf24-7191fd5bec39"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.11",
+            "objective_text": "Connect proportions to similar figures.",
+            "objective_uuid": "18191e15-62d5-47c6-b918-d1b91f3cbab7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.13",
+            "objective_text": "Construct solutions for mixture problems.",
+            "objective_uuid": "a6650bfd-ba52-4f87-a4db-7ed28455fa6d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.16",
+            "objective_text": "Synthesize linear algebra with proportional reasoning.",
+            "objective_uuid": "b567d055-f93d-4379-bbc0-7b9fbdda9954"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 29,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.3",
+            "sub_topic_name": "Solving Ratio Problems (Dividing Quantities, Scaling Recipes)",
+            "objective_id": "MAT.4.6.3.14",
+            "objective_text": "Evaluate related rates in calculus.",
+            "objective_uuid": "6719a1e7-30da-453a-9547-2359d79ee6bc"
+          }
+        ]
+      }
+    }
+  }
+}

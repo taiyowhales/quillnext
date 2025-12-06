@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.1.1",
+    "name": "Basic Animation (keyframes, motion paths, rigging)",
+    "topic_id": "ART.2.1",
+    "topic_name": "Digital Art & Illustration",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Basic Animation (keyframes, motion paths, rigging) in Digital Art & Illustration (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.1",
+            "objective_text": "Identify a flipbook.",
+            "objective_uuid": "0b9e4c06-c8ea-4d53-9c59-dddbf137ed06"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.8",
+            "objective_text": "Identify the frame rate (speed).",
+            "objective_uuid": "d4cfc7e6-6ffe-4ac1-8a85-99959f2278ab"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.33,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.3",
+            "objective_text": "Recall that cartoons are many pictures fast.",
+            "objective_uuid": "96896f67-fdcc-432c-847e-679523cedff9"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.4",
+            "objective_text": "Observe stop-motion video.",
+            "objective_uuid": "15cf365e-1893-4919-98c7-300fad36b769"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.12",
+            "objective_text": "Explain simple rigging (bones).",
+            "objective_uuid": "341b6576-e432-4e0c-b253-fa39c25a745b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.2",
+            "objective_text": "Make a ball move across the screen.",
+            "objective_uuid": "c64c7d6d-0750-46e8-bfa1-79b56031281b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.5",
+            "objective_text": "Summarize 'Frame by Frame' animation.",
+            "objective_uuid": "57a8f175-eccb-4389-9484-c5ffde133315"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.6",
+            "objective_text": "Explain 'Onion Skinning' (seeing the ghost of previous frame).",
+            "objective_uuid": "f3d4b51c-5d16-4579-ad9a-1f2c5bc54484"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.9",
+            "objective_text": "Analyze Keyframes vs. Tweens.",
+            "objective_uuid": "819d170b-e631-4e29-8485-4c9d39238b1e"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.10",
+            "objective_text": "Interpret the 12 Principles of Animation (Squash and Stretch).",
+            "objective_uuid": "2f5a4c8c-ffd7-420a-a512-2d5ffb8430ae"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.11",
+            "objective_text": "Connect timing to weight.",
+            "objective_uuid": "03ef91aa-7f16-4cab-92be-12d73a1670a3"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 13.33,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.14",
+            "objective_text": "Evaluate the smoothness of an easing curve.",
+            "objective_uuid": "d596bd55-1bf2-46ca-8f72-c4abf8ef2aa6"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.15",
+            "objective_text": "Defend the physics of the movement.",
+            "objective_uuid": "f982d4b7-68d1-4693-ab4f-5618a51413a7"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.7",
+            "objective_text": "Create a simple loop (GIF).",
+            "objective_uuid": "7ff53af4-1bcc-4c2f-8816-e177926d2674"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.13",
+            "objective_text": "Construct a complex motion graphic sequence.",
+            "objective_uuid": "4411c96c-b5c9-4305-b6f6-836e4c178770"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.1",
+            "sub_topic_name": "Basic Animation (keyframes, motion paths, rigging)",
+            "objective_id": "ART.2.1.1.16",
+            "objective_text": "Synthesize character acting with lip sync.",
+            "objective_uuid": "0dc77c43-cda7-4e7e-914e-e95450b97352"
+          }
+        ]
+      }
+    }
+  }
+}

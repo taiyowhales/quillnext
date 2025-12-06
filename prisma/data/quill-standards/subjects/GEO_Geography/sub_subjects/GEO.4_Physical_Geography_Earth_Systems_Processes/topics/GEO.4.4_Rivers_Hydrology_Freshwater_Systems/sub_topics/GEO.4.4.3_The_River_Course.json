@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.4.4.3",
+    "name": "The River Course",
+    "topic_id": "GEO.4.4",
+    "topic_name": "Rivers, Hydrology & Freshwater Systems",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.4",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The River Course in Rivers, Hydrology & Freshwater Systems (Geography)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.1",
+            "objective_text": "Identify a river flowing downhill.",
+            "objective_uuid": "03c9dd73-7ef4-46dc-a548-72ff11c1298e"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.2",
+            "objective_text": "Name the start (Source) and end (Mouth) of a river.",
+            "objective_uuid": "1a23c5b9-78c0-4401-8a59-2b24d3980668"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.8",
+            "objective_text": "Identify a tributary (small river joining a big one).",
+            "objective_uuid": "c4703423-ce8e-4e58-8b14-40232db00d9e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.3",
+            "objective_text": "Recall that rivers can be fast or slow.",
+            "objective_uuid": "73ac2a67-cd1f-41c6-a88b-d45d1f2edc60"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.4",
+            "objective_text": "Observe stones in a river.",
+            "objective_uuid": "141883bd-9835-4ca2-a5c4-30cf50a1c8e7"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.5",
+            "objective_text": "Summarize the Upper, Middle, and Lower courses.",
+            "objective_uuid": "e688fa2c-45a6-4203-820e-bbaae5b4fed8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.6",
+            "objective_text": "Explain that gravity makes water move.",
+            "objective_uuid": "d70eb800-ecc2-416a-870b-e98ed5e08836"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.12",
+            "objective_text": "Explain the concept of a drainage basin.",
+            "objective_uuid": "9840a20b-ca3f-4412-a04a-c40d98b7bd5e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.15",
+            "objective_text": "Defend the strategic importance of river mouths for cities.",
+            "objective_uuid": "eb57e0bb-80ab-468b-805e-90ccdef4e711"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.7",
+            "objective_text": "Compare a mountain stream (narrow/fast) with a big river (wide/slow).",
+            "objective_uuid": "d4712eb0-da37-40a6-8a9a-280e9ba33a81"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.9",
+            "objective_text": "Analyze how the cross-profile of a river changes downstream.",
+            "objective_uuid": "bdfa7d70-f492-4901-9343-258862f67ec6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.10",
+            "objective_text": "Interpret the Bradshaw Model (changes in velocity, discharge, load).",
+            "objective_uuid": "44d6ea7d-b21f-4d94-ab8a-0b6f8fb38efb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.11",
+            "objective_text": "Connect the gradient to the energy of the river.",
+            "objective_uuid": "dc498438-81c5-4d2a-981e-6d2e20372b8d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.14",
+            "objective_text": "Evaluate the factors affecting river discharge.",
+            "objective_uuid": "b9eb7e4e-6ea6-48ac-a0ff-e9e74f204887"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.13",
+            "objective_text": "Construct a long profile diagram of a river.",
+            "objective_uuid": "3ccdc8a0-0805-436c-bd20-958929c1ca73"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.3",
+            "sub_topic_name": "The River Course",
+            "objective_id": "GEO.4.4.3.16",
+            "objective_text": "Synthesize the interaction between human engineering and natural flow.",
+            "objective_uuid": "9b500091-ee57-4836-87a2-426276831c1b"
+          }
+        ]
+      }
+    }
+  }
+}

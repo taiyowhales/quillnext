@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.4.5",
+    "name": "Order of Operations (PEMDAS/BODMAS)",
+    "topic_id": "MAT.4.4",
+    "topic_name": "Operations with Whole Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Order of Operations (PEMDAS/BODMAS) in Operations with Whole Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.1",
+            "objective_text": "Identify the first step.",
+            "objective_uuid": "b9abb7c6-415e-4707-ab73-35d3843fd0ed"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.8",
+            "objective_text": "Identify the error in a wrong calculation.",
+            "objective_uuid": "2de232ff-3547-48b7-b9ac-84e03a9f94e6"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.3",
+            "objective_text": "Recall that order matters (socks then shoes).",
+            "objective_uuid": "d434a0fc-6aac-48c0-8853-fb7812cf644b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.6",
+            "objective_text": "Explain why multiplication comes before addition.",
+            "objective_uuid": "8483b7d9-f512-4d81-bc14-8ca019c87f51"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.2",
+            "objective_text": "Follow two-step instructions.",
+            "objective_uuid": "274bb696-ac84-494b-b2f0-2e4ce528ad22"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.5",
+            "objective_text": "Summarize PEMDAS (Parentheses, Exponents, etc.).",
+            "objective_uuid": "949da056-be0c-43a6-8236-2c5c6c14be5b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.12",
+            "objective_text": "Explain exponents in order of operations.",
+            "objective_uuid": "fa9e9cbc-4fd2-4773-b215-81dd5889f619"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.15",
+            "objective_text": "Defend the convention of order for universal communication.",
+            "objective_uuid": "a1c9cf7a-9830-4075-8802-7be4c5c2682a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.4",
+            "objective_text": "Solve simple left-to-right problems.",
+            "objective_uuid": "48811082-9d53-4bc8-b2f9-beb788fd2e08"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.7",
+            "objective_text": "Solve expressions with parentheses.",
+            "objective_uuid": "b5334020-ca3d-4d4b-b2b4-164f70a683df"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.9",
+            "objective_text": "Analyze nested grouping symbols.",
+            "objective_uuid": "e4daf987-31a2-47bc-9ed3-05ab892a3ad8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.10",
+            "objective_text": "Interpret the fraction bar as a grouping symbol.",
+            "objective_uuid": "d9f02721-ac28-49ca-9e05-a5ee9f5e4178"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.11",
+            "objective_text": "Connect order of operations to calculator entry.",
+            "objective_uuid": "5302f7c5-ff1d-4796-9a9a-4574aae212b7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.13",
+            "objective_text": "Construct complex evaluations with functions.",
+            "objective_uuid": "6a157fb5-030a-45f4-b216-63031a3f327a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.5,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.14",
+            "objective_text": "Evaluate the logic hierarchy of computer programming.",
+            "objective_uuid": "c11c5682-a6ef-4658-81ed-4b75ce2b412d"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.5",
+            "sub_topic_name": "Order of Operations (PEMDAS/BODMAS)",
+            "objective_id": "MAT.4.4.5.16",
+            "objective_text": "Synthesize algebraic manipulation with operational order.",
+            "objective_uuid": "542adf7a-7160-4e8e-8209-e3d367ec3655"
+          }
+        ]
+      }
+    }
+  }
+}

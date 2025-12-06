@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.3.1",
+    "name": "Magnetism & Electricity Basics",
+    "topic_id": "SCI.5.3",
+    "topic_name": "Foundations of Force, Light & Sound",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Magnetism & Electricity Basics in Foundations of Force, Light & Sound (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.1",
+            "objective_text": "Identify a magnet sticking to a fridge.",
+            "objective_uuid": "97c2814e-865c-4946-92a2-e7ce6765a704"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.2",
+            "objective_text": "Name North and South poles.",
+            "objective_uuid": "86091a10-e542-4bb8-8bc5-1584d62dd87c"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.8",
+            "objective_text": "Identify an electromagnet (wire coil + battery).",
+            "objective_uuid": "ead466ee-1273-466a-949c-b79f5aa7be41"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.33,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.3",
+            "objective_text": "Recall that opposites attract.",
+            "objective_uuid": "40f432f7-9e6b-428a-9041-91e15e04006d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.4",
+            "objective_text": "Observe static shock (rubbing feet).",
+            "objective_uuid": "ae5e03bf-4262-458c-aadc-fd44e51416d6"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.7",
+            "objective_text": "Build a simple battery circuit.",
+            "objective_uuid": "6c2d672a-ffbd-4053-879a-e00f5e847dd7"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.5",
+            "objective_text": "Summarize a Circuit (circle of power).",
+            "objective_uuid": "6c3ef7fc-35f7-4bbe-b3a6-72f99140e0d1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.6",
+            "objective_text": "Explain Conductors (wire) vs. Insulators (rubber).",
+            "objective_uuid": "318a0765-0886-478c-b77f-86410aca58d6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.12",
+            "objective_text": "Explain AC vs. DC current.",
+            "objective_uuid": "2765fb0d-678f-4e5d-a39d-315add6c19d2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.9",
+            "objective_text": "Analyze Voltage, Current, and Resistance.",
+            "objective_uuid": "00bc6d74-7fdf-40bb-9338-fffdf8a4045f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.10",
+            "objective_text": "Interpret Ohm's Law ($V=IR$).",
+            "objective_uuid": "5d4d4024-63bf-4663-b156-affceca5f1c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.11",
+            "objective_text": "Connect electricity to magnetism (Maxwells intro).",
+            "objective_uuid": "c0732cd2-80eb-4591-8d71-217be918e6db"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.14",
+            "objective_text": "Evaluate the earth's magnetic field.",
+            "objective_uuid": "1473ab17-3990-4dab-b212-cfada2bf5fa2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 15.33,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.13",
+            "objective_text": "Construct a series and parallel circuit.",
+            "objective_uuid": "b5bd1795-e5c4-44e9-82a8-dd7d46f0472c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.16",
+            "objective_text": "Synthesize practical circuitry with theory.",
+            "objective_uuid": "4164aca2-0f0c-4d15-bcfb-84f3da777560"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.1",
+            "sub_topic_name": "Magnetism & Electricity Basics",
+            "objective_id": "SCI.5.3.1.15",
+            "objective_text": "Defend the unity of electromagnetic forces.",
+            "objective_uuid": "9bbd0cda-42e5-459a-aa9e-cb2fdc9b9ea8"
+          }
+        ]
+      }
+    }
+  }
+}

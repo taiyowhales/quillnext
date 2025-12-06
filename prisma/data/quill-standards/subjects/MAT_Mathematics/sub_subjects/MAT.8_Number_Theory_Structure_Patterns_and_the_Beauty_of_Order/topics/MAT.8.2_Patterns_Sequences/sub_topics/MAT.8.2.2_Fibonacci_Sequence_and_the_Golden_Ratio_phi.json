@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.2.2",
+    "name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+    "topic_id": "MAT.8.2",
+    "topic_name": "Patterns & Sequences",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fibonacci Sequence and the Golden Ratio ($\\phi$) in Patterns & Sequences (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.1",
+            "objective_text": "Identify spiral patterns in a sunflower.",
+            "objective_uuid": "f582e1cf-c902-41e8-b994-058e97b0a1ad"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.8",
+            "objective_text": "Identify the Golden Rectangle.",
+            "objective_uuid": "ff1c0f4c-fb9a-4aef-8c92-a7ca273563d4"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.3",
+            "objective_text": "Recall that God makes beautiful shapes.",
+            "objective_uuid": "935f5db6-73c7-4574-8ab2-82c595a8731d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.4",
+            "objective_text": "Observe pinecones.",
+            "objective_uuid": "52147696-df1c-4bf3-96e8-5dd5de3936d9"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.2",
+            "objective_text": "Add the last two numbers to get the next one (1, 1, 2, 3).",
+            "objective_uuid": "25332bc8-d8f6-4350-aa0e-6fd7e2258f21"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.5",
+            "objective_text": "Summarize the Fibonacci rule (add previous two).",
+            "objective_uuid": "cd0a13d1-2534-461c-9d6e-b61d21ecffda"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.6",
+            "objective_text": "Explain where we see it in nature.",
+            "objective_uuid": "9f4ed815-61e4-4f07-83df-6a5f17260d03"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.12",
+            "objective_text": "Explain the aesthetics of the Golden Ratio.",
+            "objective_uuid": "714b6b0d-ff4a-44ee-b4ed-55931fcd2245"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.15",
+            "objective_text": "Defend the argument from design based on mathematical constants.",
+            "objective_uuid": "58234eaa-9191-48c7-972e-7d0b7afa2d30"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.7",
+            "objective_text": "Calculate the first 10 Fibonacci numbers.",
+            "objective_uuid": "60299ff6-ac4d-44ec-81aa-5a42b3720da9"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.9",
+            "objective_text": "Analyze the ratio of consecutive Fibonacci numbers.",
+            "objective_uuid": "753fc192-affb-4177-9bc2-e427007d3faf"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.10",
+            "objective_text": "Interpret the approximation of Phi ($\\phi \\approx 1.618$).",
+            "objective_uuid": "bcbcfde9-8dc6-4140-89a0-d7a4501fe411"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.11",
+            "objective_text": "Connect the sequence to the Golden Spiral.",
+            "objective_uuid": "a02a0c42-7d76-4faa-b7af-da7ae04c5938"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.13",
+            "objective_text": "Construct a proof for the limit of $F_{n+1}/F_n$.",
+            "objective_uuid": "b56e4528-449b-4d36-ac67-57abce4f48a8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.16",
+            "objective_text": "Synthesize recursive formulas with limits.",
+            "objective_uuid": "ad6ec86c-8936-483b-b722-6850055c1207"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.2",
+            "sub_topic_name": "Fibonacci Sequence and the Golden Ratio ($\\phi$)",
+            "objective_id": "MAT.8.2.2.14",
+            "objective_text": "Evaluate the presence of $\\phi$ in art and architecture.",
+            "objective_uuid": "ec5466be-4619-4fe8-bfe9-42f61a16e259"
+          }
+        ]
+      }
+    }
+  }
+}

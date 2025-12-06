@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.6",
+    "name": "Structure of the Web (Client-Server model)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Structure of the Web (Client-Server model) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.1",
+            "objective_text": "Identify a web browser.",
+            "objective_uuid": "158847f9-8bc0-4474-a861-36057156b3c5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.2",
+            "objective_text": "Recall that the internet connects computers.",
+            "objective_uuid": "1ce69b18-1852-4a50-8580-a307eaf17caf"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.3",
+            "objective_text": "Name a website.",
+            "objective_uuid": "28e58dfa-ca21-4133-aefb-8252dded33c6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.4",
+            "objective_text": "Observe loading.",
+            "objective_uuid": "db3851a0-a211-4b3d-b0f6-6b6e1c61ad75"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.7",
+            "objective_text": "Identify a Client (my computer).",
+            "objective_uuid": "46f76c86-3050-4281-8b0d-c4398db1a185"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.5",
+            "objective_text": "Summarize a URL (web address).",
+            "objective_uuid": "1d338ce6-c9f6-48b9-884b-dfab5142c65c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.6",
+            "objective_text": "Explain that a Server holds the website.",
+            "objective_uuid": "d05e9478-d385-4c32-b22e-3a838ecc8f46"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.12",
+            "objective_text": "Explain caching.",
+            "objective_uuid": "26d786cb-ee9e-4fa0-9810-73dd2af30445"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.15",
+            "objective_text": "Defend the decentralized nature of the web.",
+            "objective_uuid": "f5e2a4a0-f20c-4a79-9cdd-bf4e54c08714"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.8",
+            "objective_text": "Compare the web to a library.",
+            "objective_uuid": "82f2fad1-de87-4d88-8f45-46ae9d5915f2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.9",
+            "objective_text": "Analyze the request-response cycle.",
+            "objective_uuid": "4b3eb4df-0479-4a10-bf84-c708db639964"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.10",
+            "objective_text": "Interpret HTTP/HTTPS.",
+            "objective_uuid": "813c800e-6faf-42ad-90a5-9a7461462eba"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.11",
+            "objective_text": "Connect the IP address to the domain name.",
+            "objective_uuid": "c49150eb-2906-40fe-a092-944a6dea2f35"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.14",
+            "objective_text": "Evaluate latency and bandwidth.",
+            "objective_uuid": "dc248de1-5691-4b44-8ef0-3c1d16b88fca"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.13",
+            "objective_text": "Construct a diagram of the full stack.",
+            "objective_uuid": "005e140b-6e59-460f-867f-d618041e083d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.6",
+            "sub_topic_name": "Structure of the Web (Client-Server model)",
+            "objective_id": "CPT.6.4.6.16",
+            "objective_text": "Synthesize DNS resolution.",
+            "objective_uuid": "9b3c69ec-0404-4057-9782-931554b41836"
+          }
+        ]
+      }
+    }
+  }
+}

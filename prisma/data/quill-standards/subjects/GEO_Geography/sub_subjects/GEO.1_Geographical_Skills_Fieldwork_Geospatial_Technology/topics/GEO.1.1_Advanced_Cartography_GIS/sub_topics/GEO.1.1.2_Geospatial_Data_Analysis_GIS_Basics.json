@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.1.2",
+    "name": "Geospatial Data Analysis (GIS Basics)",
+    "topic_id": "GEO.1.1",
+    "topic_name": "Advanced Cartography & GIS",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Geospatial Data Analysis (GIS Basics) in Advanced Cartography & GIS (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.1",
+            "objective_text": "Identify a map on a computer.",
+            "objective_uuid": "2262288b-58da-47f7-8cf8-451442092bbc"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.2",
+            "objective_text": "Name Google Maps.",
+            "objective_uuid": "086a0f0a-fb18-4bf2-a5f1-3e085a69b0b6"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.8",
+            "objective_text": "Identify a data point on a map.",
+            "objective_uuid": "5aefcc1e-dd14-4f40-9ab7-9cdccf5e5b23"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.3",
+            "objective_text": "Recall that computers can stack map pictures.",
+            "objective_uuid": "998b2be1-0a4d-4d32-9f01-0a71f532e151"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.4",
+            "objective_text": "Observe satellite photos.",
+            "objective_uuid": "bc6135cf-3b3e-4bdf-990f-fbec966437a1"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.5",
+            "objective_text": "Summarize what GIS is (Geographic Information Systems).",
+            "objective_uuid": "24eb00b6-f2cb-45d3-b630-9887e98949bb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.6",
+            "objective_text": "Explain 'Layers' on a digital map (roads, water, cities).",
+            "objective_uuid": "f74f95a0-cb3d-4a17-9879-2a7a4fac33ca"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.7",
+            "objective_text": "Use a filter to show only parks.",
+            "objective_uuid": "3acacd45-a210-412f-990a-ee89ab955c6d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.12",
+            "objective_text": "Explain Raster vs. Vector data in GIS.",
+            "objective_uuid": "025932ee-8c09-4526-8c2f-564be214558e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.15",
+            "objective_text": "Defend the utility of GIS in disaster response.",
+            "objective_uuid": "590736e7-8f6b-454f-84dd-5539ad9718bb"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.9",
+            "objective_text": "Analyze the relationship between different data layers (e.g., flood zones and houses).",
+            "objective_uuid": "94638676-f9af-4897-bfaf-1f809f259e03"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.10",
+            "objective_text": "Interpret a heat map.",
+            "objective_uuid": "772a97bd-40b1-4bf7-967c-53328192a6c5"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.11",
+            "objective_text": "Connect database information to location coordinates.",
+            "objective_uuid": "94ef5564-08d7-4c51-8e6d-080256e41140"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 13.5,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.14",
+            "objective_text": "Evaluate the ethical use of location data.",
+            "objective_uuid": "f285cc17-00fa-4ad9-a75f-b4ee98009090"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.13",
+            "objective_text": "Construct a simple GIS overlay to solve a problem.",
+            "objective_uuid": "09ca6439-d3be-41ea-b1b3-68f9a9848649"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.2",
+            "sub_topic_name": "Geospatial Data Analysis (GIS Basics)",
+            "objective_id": "GEO.1.1.2.16",
+            "objective_text": "Synthesize computer science with geography.",
+            "objective_uuid": "f8c6874b-337a-40d3-a59b-b310a043ea87"
+          }
+        ]
+      }
+    }
+  }
+}

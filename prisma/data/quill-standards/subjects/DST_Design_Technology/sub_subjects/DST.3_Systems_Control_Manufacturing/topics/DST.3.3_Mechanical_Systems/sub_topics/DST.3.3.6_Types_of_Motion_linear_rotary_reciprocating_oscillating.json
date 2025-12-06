@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.3.6",
+    "name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+    "topic_id": "DST.3.3",
+    "topic_name": "Mechanical Systems",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Types of Motion (linear, rotary, reciprocating, oscillating) in Mechanical Systems (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.1",
+            "objective_text": "Identify things that spin (wheels) vs. things that go straight (train).",
+            "objective_uuid": "6d5a4ad4-d2de-4fa1-b908-e18f79a55d84"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.8",
+            "objective_text": "Identify motion types in a playground.",
+            "objective_uuid": "4fa2a405-e751-40c7-96fe-40f3a0a153f8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.3",
+            "objective_text": "Recall that machines move.",
+            "objective_uuid": "4c887186-1811-4eec-aeb3-38d2e71f6959"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.4",
+            "objective_text": "Observe a swing (oscillating).",
+            "objective_uuid": "6af962c9-6e09-41dd-ac58-43b23a41e6cf"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.2",
+            "objective_text": "Move body in a circle and a line.",
+            "objective_uuid": "40b7cb95-55a1-4e4f-a845-a53642423c4d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.5",
+            "objective_text": "Summarize Linear (straight line) vs. Rotary (circle) motion.",
+            "objective_uuid": "9546847d-71dc-4d18-a06c-f5ae223e964b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.6",
+            "objective_text": "Explain Reciprocating (back and forth like a saw).",
+            "objective_uuid": "0611de34-0cc8-4fc7-bcb4-36b9ec011434"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.12",
+            "objective_text": "Explain the input and output motion of a system.",
+            "objective_uuid": "61c1c7c8-dbe7-43e3-873d-cc743c96b9ad"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.15",
+            "objective_text": "Defend the choice of mechanism for a specific task.",
+            "objective_uuid": "ac2415d1-8d76-42f6-858b-5876a4c41150"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.7",
+            "objective_text": "Compare Oscillating (swinging) with Reciprocating.",
+            "objective_uuid": "09ee2502-e22d-4e32-9ecd-a67ed3df6a05"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.9",
+            "objective_text": "Analyze how to convert Rotary motion to Linear motion (e.g., rack and pinion).",
+            "objective_uuid": "4f194190-5d1d-4f05-81d5-85c4ac875553"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.10",
+            "objective_text": "Interpret linkage diagrams showing motion paths.",
+            "objective_uuid": "7f476e5c-f588-48dc-a57d-fe7b6b33c530"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.11",
+            "objective_text": "Connect the crank mechanism to reciprocating motion.",
+            "objective_uuid": "d6400b2c-e040-4069-8c10-6de44e623faf"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.14",
+            "objective_text": "Evaluate the efficiency of motion transfer.",
+            "objective_uuid": "d046ff84-3894-40a7-8836-5cddb44bbb33"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.13",
+            "objective_text": "Construct a mechanism to perform a specific complex motion conversion.",
+            "objective_uuid": "036ead21-bb07-4c79-8d4a-a9d8982e1978"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.6",
+            "sub_topic_name": "Types of Motion (linear, rotary, reciprocating, oscillating)",
+            "objective_id": "DST.3.3.6.16",
+            "objective_text": "Synthesize multiple motion types in a single machine.",
+            "objective_uuid": "1e0e91a0-8006-4568-8a1c-fe4641346451"
+          }
+        ]
+      }
+    }
+  }
+}

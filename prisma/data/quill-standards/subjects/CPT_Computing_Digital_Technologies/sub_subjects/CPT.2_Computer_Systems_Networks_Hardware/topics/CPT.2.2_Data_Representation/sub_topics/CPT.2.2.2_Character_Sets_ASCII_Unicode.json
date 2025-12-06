@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.2.2",
+    "name": "Character Sets (ASCII, Unicode)",
+    "topic_id": "CPT.2.2",
+    "topic_name": "Data Representation",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Character Sets (ASCII, Unicode) in Data Representation (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.1",
+            "objective_text": "Identify typing letters.",
+            "objective_uuid": "c6767064-578e-4051-b107-4f6a30cdee9a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.2",
+            "objective_text": "Recall that the computer sees numbers.",
+            "objective_uuid": "a779f4f8-ca4f-4ea9-b0d8-5d957ae73f2b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.3",
+            "objective_text": "Name a keyboard.",
+            "objective_uuid": "b6956f24-7184-4f92-a178-ac37708de8d4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.4",
+            "objective_text": "Observe different languages on screen.",
+            "objective_uuid": "dcadbcd5-26b8-4126-a3a6-d07190747995"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.7",
+            "objective_text": "Identify Unicode (includes Emojis and other languages).",
+            "objective_uuid": "95ea2069-461e-4814-b1d5-14c3b72abda3"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.5",
+            "objective_text": "Summarize ASCII (American Standard Code).",
+            "objective_uuid": "1bdbeb6d-50e7-4bab-9c1c-d16099a3e2c0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.6",
+            "objective_text": "Explain that 'A' is number 65.",
+            "objective_uuid": "7be07470-3a6e-4845-be75-4d878fa35a14"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.8",
+            "objective_text": "Compare a small alphabet with a huge one.",
+            "objective_uuid": "f5dd9d90-8d0b-4e04-91d4-be88758e3069"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.12",
+            "objective_text": "Explain UTF-8.",
+            "objective_uuid": "ac9063aa-566a-46d1-9dba-e26227d7a63e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.15",
+            "objective_text": "Defend the globalization of digital standards.",
+            "objective_uuid": "380d264b-aef0-4045-8431-f90d4223c5e4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.9",
+            "objective_text": "Analyze the limitation of 7-bit or 8-bit ASCII.",
+            "objective_uuid": "5afa64ae-6d85-47de-b4bb-bcaf42e89ff9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.10",
+            "objective_text": "Interpret how Unicode solved the language problem.",
+            "objective_uuid": "fe8aa32b-0c67-4651-a619-bff416d25481"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.11",
+            "objective_text": "Connect character encoding to file size.",
+            "objective_uuid": "e9e14fa9-7740-4af8-ae85-30d2c3a61010"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.14",
+            "objective_text": "Evaluate compatibility issues with encoding.",
+            "objective_uuid": "61712aaf-2a62-4b4b-a2d8-9a702ad49f09"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.13",
+            "objective_text": "Construct a decoding of a binary string to text.",
+            "objective_uuid": "8ecdcccf-2764-4d14-a93e-7643adf63fd1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.2",
+            "sub_topic_name": "Character Sets (ASCII, Unicode)",
+            "objective_id": "CPT.2.2.2.16",
+            "objective_text": "Synthesize string storage overhead.",
+            "objective_uuid": "66e0a96c-d099-481a-8377-f156dd473686"
+          }
+        ]
+      }
+    }
+  }
+}

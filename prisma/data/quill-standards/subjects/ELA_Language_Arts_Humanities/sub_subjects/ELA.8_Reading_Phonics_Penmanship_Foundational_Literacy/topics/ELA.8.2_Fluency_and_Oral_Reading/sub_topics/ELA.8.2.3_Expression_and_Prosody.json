@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.2.3",
+    "name": "Expression and Prosody",
+    "topic_id": "ELA.8.2",
+    "topic_name": "Fluency and Oral Reading",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Expression and Prosody in Fluency and Oral Reading (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.8",
+            "objective_text": "Identify bold words by reading louder.",
+            "objective_uuid": "d941a8ed-6452-41a5-bb26-235453629821"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.3",
+            "objective_text": "Recall that we don't sound like robots.",
+            "objective_uuid": "b3fd8f46-7219-4d44-b722-aeba09bf0197"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.4",
+            "objective_text": "Observe how punctuation tells us how to speak.",
+            "objective_uuid": "60be2426-2094-42d1-9980-299129adbde8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.1",
+            "objective_text": "Read with a happy or sad voice.",
+            "objective_uuid": "0c42a88d-d9a3-4409-bc44-8e54bed1f148"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.2",
+            "objective_text": "Make the voice go up at a question mark.",
+            "objective_uuid": "c7ff7eed-f203-4f7a-a425-dd9ca73225ad"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.5",
+            "objective_text": "Summarize reading with feeling.",
+            "objective_uuid": "aa7186b6-a78b-4e72-a97b-36727d97c735"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.6",
+            "objective_text": "Explain why we pause at commas.",
+            "objective_uuid": "7c1641e7-5e74-434f-8d9a-94da3091661f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.7",
+            "objective_text": "Change character voices in dialogue.",
+            "objective_uuid": "669dd773-124b-4bef-93b8-e2ef97a53efc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.12",
+            "objective_text": "Explain the \"melody\" of a sentence.",
+            "objective_uuid": "f8325c1c-9ab6-4475-b06e-fadf0029e499"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.15",
+            "objective_text": "Defend the importance of tone in communication.",
+            "objective_uuid": "56872ab4-87d7-4a06-9906-a191070d73c8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.9",
+            "objective_text": "Analyze how pitch changes meaning (sarcasm vs. sincerity).",
+            "objective_uuid": "d5798d64-ed06-40b1-ba92-e91bf2a013ca"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.10",
+            "objective_text": "Interpret the mood of a passage through voice.",
+            "objective_uuid": "113b90f0-d934-4a9b-a41a-fefb85fc3b83"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.11",
+            "objective_text": "Connect intonation to comprehension.",
+            "objective_uuid": "6773d366-718b-41ea-bf13-ffdd9b64042e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.14",
+            "objective_text": "Evaluate the effectiveness of a speaker's inflection.",
+            "objective_uuid": "e3847491-03f9-41dd-8b16-cd773430514e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.13",
+            "objective_text": "Construct a dramatic reading of a poem.",
+            "objective_uuid": "a25ee649-a2e4-4a41-88dc-69b08a65139f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.3",
+            "sub_topic_name": "Expression and Prosody",
+            "objective_id": "ELA.8.2.3.16",
+            "objective_text": "Synthesize vocal variety with textual analysis.",
+            "objective_uuid": "0fcb1d3f-6b15-4536-8bd7-d2b1a873368e"
+          }
+        ]
+      }
+    }
+  }
+}

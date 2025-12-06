@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.2.4",
+    "name": "Growing and Repeating Patterns",
+    "topic_id": "MAT.8.2",
+    "topic_name": "Patterns & Sequences",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Growing and Repeating Patterns in Patterns & Sequences (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.1",
+            "objective_text": "Identify patterns like Red, Blue, Red, Blue.",
+            "objective_uuid": "79b40420-d9f9-4622-b8a9-df7dcdefac3a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.8",
+            "objective_text": "Identify the 'core' of a repeating pattern.",
+            "objective_uuid": "ff8764c6-eb5c-4d57-98b3-f8005b067f5d"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.3",
+            "objective_text": "Recall patterns in shapes and colors.",
+            "objective_uuid": "1bc8864a-0b4f-45a8-95ac-7c59731500ca"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.2",
+            "objective_text": "Predict what comes next.",
+            "objective_uuid": "f90f6346-e22b-4486-8174-8b24be66a08b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.5",
+            "objective_text": "Summarize a growing pattern (1 block, 3 blocks, 6 blocks).",
+            "objective_uuid": "c0412f1c-a2ad-4d2f-aa7e-bf06be6e12f3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.6",
+            "objective_text": "Explain the rule for the pattern.",
+            "objective_uuid": "f255a738-82b2-474b-8f01-90416d7c99cb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.7",
+            "objective_text": "Draw the 5th step in a pattern.",
+            "objective_uuid": "6de21b89-33af-4c56-99a1-251d263f9f95"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.12",
+            "objective_text": "Explain tesselations.",
+            "objective_uuid": "f75a35ee-fba7-4f99-a675-993271346c3d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.15",
+            "objective_text": "Defend the presence of mathematical order in biological patterns.",
+            "objective_uuid": "0e452a1b-d458-45c9-b9f8-9adfca661020"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.9",
+            "objective_text": "Analyze quadratic patterns (second difference is constant).",
+            "objective_uuid": "534e9295-feb8-4804-8a9d-aad85c26cbf3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.11",
+            "objective_text": "Connect visual patterns to function tables.",
+            "objective_uuid": "3ffa7afb-1622-4595-bc57-74935f03a435"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.10",
+            "objective_text": "Interpret algebraic expressions for pattern rules.",
+            "objective_uuid": "5e24bf85-67fb-415b-af96-796fd5046bcf"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.14",
+            "objective_text": "Evaluate cellular automata (Game of Life).",
+            "objective_uuid": "0dd92d9b-067e-4105-bcbb-93b41a9ce9f6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.4",
+            "objective_text": "Create a pattern with blocks.",
+            "objective_uuid": "73ada320-452e-439b-8c96-6cf5b7cba537"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.13",
+            "objective_text": "Construct recursive definitions for patterns.",
+            "objective_uuid": "4ad89232-35b4-4aa7-8e30-782c882692c6"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.4",
+            "sub_topic_name": "Growing and Repeating Patterns",
+            "objective_id": "MAT.8.2.4.16",
+            "objective_text": "Synthesize chaos theory (intro) with pattern formation.",
+            "objective_uuid": "c51dbcfe-8126-4ab0-84fa-630a158b4fc2"
+          }
+        ]
+      }
+    }
+  }
+}

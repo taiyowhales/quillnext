@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.4.6",
+    "name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+    "topic_id": "LIF.4.4",
+    "topic_name": "Time Management & Personal Productivity",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Task Prioritization (urgent vs important, Eisenhower Matrix) in Time Management & Personal Productivity (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.1",
+            "objective_text": "Identify what needs to be done first.",
+            "objective_uuid": "23c8e50c-8bd7-42f9-8661-fd38ebf1dd40"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.2",
+            "objective_text": "Name the most important job.",
+            "objective_uuid": "64559045-f08e-4e04-8691-0021758e8480"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.8",
+            "objective_text": "Identify distractions (TV, toys).",
+            "objective_uuid": "4e5f6fe2-40ff-4e69-90a3-f04f99573329"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.3",
+            "objective_text": "Recall that work comes before play.",
+            "objective_uuid": "47a8b346-51da-44b4-9234-d3f47f86a6c7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.7",
+            "objective_text": "List three tasks in order of importance.",
+            "objective_uuid": "72a67884-9101-43bb-9ed1-a9da2e1b3d80"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.4",
+            "objective_text": "Choose between two fun things.",
+            "objective_uuid": "e998d2c1-7557-4d22-9501-2880627a84b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.5",
+            "objective_text": "Summarize 'First Things First'.",
+            "objective_uuid": "7a440c8c-7f70-49a6-8fdd-762464d8323c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.6",
+            "objective_text": "Explain why waiting until the last minute is bad.",
+            "objective_uuid": "223f3fc0-68db-4997-95fc-b9c0fab38106"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.12",
+            "objective_text": "Explain the 'Frog Eating' concept (do the hard thing first).",
+            "objective_uuid": "12bd1b81-da82-464b-8d2d-5f0099f4bf70"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.15",
+            "objective_text": "Defend the ability to say 'no' to good things for best things.",
+            "objective_uuid": "8b9f4377-8be0-4d63-b9b4-ec9690575c02"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.9",
+            "objective_text": "Analyze the Eisenhower Matrix (Urgent/Important quadrants).",
+            "objective_uuid": "809779ba-7f3b-48a8-9b44-0aafd42d2997"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.10",
+            "objective_text": "Interpret the difference between busy-work and productive work.",
+            "objective_uuid": "ef2b9338-8390-4955-bd86-64f59b919891"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.11",
+            "objective_text": "Connect prioritization to goal achievement.",
+            "objective_uuid": "2c86c73e-ffda-4abc-9877-7f40c9526800"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.14",
+            "objective_text": "Evaluate the opportunity cost of saying 'yes' to too much.",
+            "objective_uuid": "6ffbc2f6-562d-4e28-9abb-18c1a99def71"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.13",
+            "objective_text": "Construct a prioritized task list for a complex project.",
+            "objective_uuid": "d6687127-77a5-42e4-a4e3-1b4b5606ca8c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.6",
+            "sub_topic_name": "Task Prioritization (urgent vs important, Eisenhower Matrix)",
+            "objective_id": "LIF.4.4.6.16",
+            "objective_text": "Synthesize triage skills in a high-pressure environment.",
+            "objective_uuid": "9f5e1148-dfba-4d03-ae4a-63df62e45c4b"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.8",
+    "name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Variables, Constants, and Data Types (Integer, Float, String, Boolean) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 14.67,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.2",
+            "objective_text": "Name words and numbers.",
+            "objective_uuid": "c75c90fc-4a88-4822-b080-04c57d068188"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.1",
+            "objective_text": "Identify a box holding a number.",
+            "objective_uuid": "1830f7e9-d42f-4ddc-aaee-67ea03cbb535"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.7",
+            "objective_text": "Identify a String (text).",
+            "objective_uuid": "f181c39d-1050-472b-94b4-b482bb06efab"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.3",
+            "objective_text": "Recall saving a score.",
+            "objective_uuid": "639ffd46-2699-401d-953d-aab3f9e21c49"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.4",
+            "objective_text": "Observe a value changing.",
+            "objective_uuid": "7f2474f3-594f-4f8b-b830-f9a8d38dfbe9"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.75,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.15",
+            "objective_text": "Defend the use of constants for magic numbers.",
+            "objective_uuid": "e3ad3967-0dbf-4f21-b629-57d140d7b220"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.5",
+            "objective_text": "Summarize a Variable (container).",
+            "objective_uuid": "1f8aa7ae-74de-49db-a4a2-a75488d0f0e5"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.6",
+            "objective_text": "Explain Integer (whole) vs. Float (decimal).",
+            "objective_uuid": "dbb28bf0-1fe1-49f8-94bf-8ae78d1c3038"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.12",
+            "objective_text": "Explain naming conventions (camelCase, snake_case).",
+            "objective_uuid": "934f04ac-51cb-410a-bbd5-175ed60b3820"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.8",
+            "objective_text": "Compare a constant (stays same) with variable.",
+            "objective_uuid": "cb063da7-2483-47f0-aeb1-ac46cc158025"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.9",
+            "objective_text": "Analyze type casting (changing int to str).",
+            "objective_uuid": "a821e3fc-cbe3-4983-b3ec-26ee4cfcf76d"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.10",
+            "objective_text": "Interpret Boolean values (True/False).",
+            "objective_uuid": "5b8d45c2-7f4a-4338-9686-d7ca373075cc"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.11",
+            "objective_text": "Connect memory allocation to data types.",
+            "objective_uuid": "590a64c6-1a12-4ea5-a0a4-38149dff9a9c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.14",
+            "objective_text": "Evaluate the scope of variables.",
+            "objective_uuid": "59bb6614-6e51-4283-8d2c-01c0e76bd025"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.13",
+            "objective_text": "Construct strongly typed vs. loosely typed examples.",
+            "objective_uuid": "cd9b312b-7a49-4891-95c2-395281b359f6"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.8",
+            "sub_topic_name": "Variables, Constants, and Data Types (Integer, Float, String, Boolean)",
+            "objective_id": "CPT.1.4.8.16",
+            "objective_text": "Synthesize data type constraints.",
+            "objective_uuid": "d037d914-0cff-46dd-9a64-c51b222030b1"
+          }
+        ]
+      }
+    }
+  }
+}

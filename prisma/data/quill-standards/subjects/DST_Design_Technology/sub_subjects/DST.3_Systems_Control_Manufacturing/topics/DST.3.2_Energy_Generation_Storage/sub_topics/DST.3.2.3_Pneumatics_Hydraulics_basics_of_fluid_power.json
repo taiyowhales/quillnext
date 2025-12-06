@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.2.3",
+    "name": "Pneumatics & Hydraulics (basics of fluid power)",
+    "topic_id": "DST.3.2",
+    "topic_name": "Energy Generation & Storage",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pneumatics & Hydraulics (basics of fluid power) in Energy Generation & Storage (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.1",
+            "objective_text": "Identify air pumping a tire.",
+            "objective_uuid": "a100a316-fcc0-4afa-a84f-f32a5b055186"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.2",
+            "objective_text": "Name water in a hose.",
+            "objective_uuid": "99c819b6-08dc-4819-ba2a-7d822ec5cea6"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.8",
+            "objective_text": "Identify a piston.",
+            "objective_uuid": "e1811b47-7049-4e4d-9250-6348af106e2f"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.3",
+            "objective_text": "Recall that air can push things.",
+            "objective_uuid": "37e8d45f-6620-49d4-979b-6284566a1319"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.4",
+            "objective_text": "Observe a digger moving its arm.",
+            "objective_uuid": "f7932d5e-6d0e-41a7-b45e-e91a62e9612d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.5",
+            "objective_text": "Summarize Pneumatics (Gas/Air) vs. Hydraulics (Liquid).",
+            "objective_uuid": "9c3a2255-c87f-4c56-96ca-48b5e79a03a8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.6",
+            "objective_text": "Explain that you can squash air but not water.",
+            "objective_uuid": "dcbf9640-1c9d-4c55-90b7-a47dd98df4f9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.7",
+            "objective_text": "Build a syringe monster.",
+            "objective_uuid": "0c75e7b8-d165-42c3-9ebb-86622d01eef1"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.12",
+            "objective_text": "Explain Pascal's Law (intro).",
+            "objective_uuid": "a748728c-5d08-43dc-826a-35f9d913d763"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.15",
+            "objective_text": "Defend the use of hydraulics for precision and power.",
+            "objective_uuid": "f1cf80bd-6995-4373-9909-e4de72d99a8e"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.9",
+            "objective_text": "Analyze the components (Compressor, Valve, Actuator).",
+            "objective_uuid": "18833a04-c15f-430c-b48c-c2ef0811e4c7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.10",
+            "objective_text": "Interpret a pneumatic circuit diagram.",
+            "objective_uuid": "5594ad24-bcc9-42f2-b5e4-fa2f2e11a246"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.11",
+            "objective_text": "Connect hydraulics to heavy lifting (mechanical advantage).",
+            "objective_uuid": "676a91b5-96bf-4403-a7be-afc5e4c88966"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.14",
+            "objective_text": "Evaluate the safety risks of high-pressure systems.",
+            "objective_uuid": "2d71b11e-c4a1-47db-b324-813cbfaf9342"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.13",
+            "objective_text": "Construct a fluid power circuit.",
+            "objective_uuid": "87cb368a-6f4a-4377-89ba-e0ac53f2bc4d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.3",
+            "sub_topic_name": "Pneumatics & Hydraulics (basics of fluid power)",
+            "objective_id": "DST.3.2.3.16",
+            "objective_text": "Synthesize control logic with fluid power.",
+            "objective_uuid": "fbf359bf-fe71-4817-8918-ce58141695a3"
+          }
+        ]
+      }
+    }
+  }
+}

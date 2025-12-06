@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.4.2",
+    "name": "Microscopes",
+    "topic_id": "SCI.6.4",
+    "topic_name": "Tools, Measurement & Lab Skills",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Microscopes in Tools, Measurement & Lab Skills (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.1",
+            "objective_text": "Identify a magnifying glass.",
+            "objective_uuid": "81ba3bad-76fe-43b2-8fb0-e61f3903d8e2"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.2",
+            "objective_text": "Name a microscope as a tool for tiny things.",
+            "objective_uuid": "00c30133-e142-4495-89d0-fad891c574bd"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.3",
+            "objective_text": "Recall that there are things too small to see with eyes.",
+            "objective_uuid": "70a437b0-551c-4d71-84d2-08d70ea794c5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.4",
+            "objective_text": "Observe a bug or leaf up close.",
+            "objective_uuid": "c1b20853-c4d2-46d4-ac00-d51dffb4a555"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.5",
+            "objective_text": "Summarize how to hold a microscope (arm and base).",
+            "objective_uuid": "c4c65856-6b35-417a-ae51-4165f9822d43"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.6",
+            "objective_text": "Explain what a slide is.",
+            "objective_uuid": "a0883b02-9f48-47f9-bc64-1f3d882c6906"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.8",
+            "objective_text": "Draw what is seen in the eyepiece.",
+            "objective_uuid": "bf4ce49e-b22e-49d3-a821-c3fe674b8178"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.12",
+            "objective_text": "Explain how to prepare a wet mount slide.",
+            "objective_uuid": "45d1ced7-cae9-4f6b-bd7b-7b263d380fe6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.15",
+            "objective_text": "Defend the proper use of coarse vs. fine adjustment.",
+            "objective_uuid": "b52673ff-9a08-4605-9625-b385c323961d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.7",
+            "objective_text": "Compare Low Power vs. High Power magnification.",
+            "objective_uuid": "3245d37a-2a72-429a-838c-1b296b70a898"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.9",
+            "objective_text": "Analyze the parts: Eyepiece, Objective Lens, Stage, Focus knobs.",
+            "objective_uuid": "3e482b22-de09-4f7d-8366-a900effe7d2f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.10",
+            "objective_text": "Interpret the image orientation (inverted).",
+            "objective_uuid": "1a869f9e-66f5-4194-9bd4-7100dcd685f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.11",
+            "objective_text": "Calculate total magnification (Eyepiece x Objective).",
+            "objective_uuid": "ecc9353c-c425-49ae-a782-e715ff6041c2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.14",
+            "objective_text": "Evaluate the resolution limits of light microscopes vs. electron microscopes.",
+            "objective_uuid": "4fd1bb9b-a37e-431c-af31-d9d1a0c00c2d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.13",
+            "objective_text": "Construct a diagram of cell structures viewed under high power.",
+            "objective_uuid": "c2082fc8-8b46-40a9-8eef-b139d8ff5dc3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.4",
+            "topic_name": "Tools, Measurement & Lab Skills",
+            "sub_topic_id": "SCI.6.4.2",
+            "sub_topic_name": "Microscopes",
+            "objective_id": "SCI.6.4.2.16",
+            "objective_text": "Synthesize staining techniques to identify cell parts.",
+            "objective_uuid": "9fa0c12c-4d57-4e1c-a9a7-bef705ed757a"
+          }
+        ]
+      }
+    }
+  }
+}

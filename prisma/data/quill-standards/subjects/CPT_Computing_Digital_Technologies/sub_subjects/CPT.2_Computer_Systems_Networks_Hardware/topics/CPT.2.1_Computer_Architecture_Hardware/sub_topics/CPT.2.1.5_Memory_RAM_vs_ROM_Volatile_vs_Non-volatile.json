@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.1.5",
+    "name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+    "topic_id": "CPT.2.1",
+    "topic_name": "Computer Architecture (Hardware)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Memory (RAM vs ROM, Volatile vs Non-volatile) in Computer Architecture (Hardware) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.1",
+            "objective_text": "Identify computer memory.",
+            "objective_uuid": "9775e38a-26ca-4955-84f5-2b221f9dd0eb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.3",
+            "objective_text": "Name saving work.",
+            "objective_uuid": "b11ef978-cff1-411d-8622-9b0d7ef823b3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.8",
+            "objective_text": "Identify adding more RAM to speed up.",
+            "objective_uuid": "8b01af30-583f-4590-aded-928b65d6a6ce"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.2",
+            "objective_text": "Recall that turning it off makes it forget (RAM).",
+            "objective_uuid": "a658dc9d-f8e0-469f-8ebb-32eef261b24a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.4",
+            "objective_text": "Observe startup screens (ROM).",
+            "objective_uuid": "b0d709fa-a684-4b01-b5b0-36a313bee017"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.5",
+            "objective_text": "Summarize RAM (Random Access Memory) as the workspace.",
+            "objective_uuid": "fe90e098-8103-4b10-a596-c266dd1dff24"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.6",
+            "objective_text": "Explain ROM (Read Only Memory) as the startup instructions.",
+            "objective_uuid": "4f7fb2bd-e9ce-4d79-ab42-1df948acb63b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.12",
+            "objective_text": "Explain flash memory.",
+            "objective_uuid": "546e44a6-9041-45f0-adaa-9e8bb0c9719f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.15",
+            "objective_text": "Defend the permanence of ROM firmware.",
+            "objective_uuid": "055cac41-cfcd-4d58-8b2d-6b305c1456a8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.7",
+            "objective_text": "Compare Volatile (forgets without power) vs. Non-Volatile.",
+            "objective_uuid": "2aa9870b-5055-47ff-882c-20b4a6a2cc0e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.9",
+            "objective_text": "Analyze the boot sequence (BIOS/UEFI).",
+            "objective_uuid": "eb4c505b-a982-4f89-bbb0-2e2dcfd9ee93"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.10",
+            "objective_text": "Interpret virtual memory (using disk as RAM).",
+            "objective_uuid": "c35fbd43-4980-4014-aa9e-8dbc6d9b6c79"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.11",
+            "objective_text": "Connect RAM capacity to multitasking.",
+            "objective_uuid": "081b2118-ac3d-4f5a-b352-a513df974bec"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.14",
+            "objective_text": "Evaluate the difference between static and dynamic RAM.",
+            "objective_uuid": "beb49a26-742b-49dc-a585-3dc093df8832"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.13",
+            "objective_text": "Construct a hierarchy of memory speed/cost.",
+            "objective_uuid": "a2ed1761-acac-41e1-92d5-fd453ce1e330"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.5",
+            "sub_topic_name": "Memory (RAM vs ROM, Volatile vs Non-volatile)",
+            "objective_id": "CPT.2.1.5.16",
+            "objective_text": "Synthesize memory addressing.",
+            "objective_uuid": "2c9077d8-74cd-4f39-b074-69ff2aa12c7c"
+          }
+        ]
+      }
+    }
+  }
+}

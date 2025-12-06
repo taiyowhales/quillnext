@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.2.5",
+    "name": "Symmetry (Rotational, Reflectional, Translational)",
+    "topic_id": "MAT.5.2",
+    "topic_name": "Early Geometry Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Symmetry (Rotational, Reflectional, Translational) in Early Geometry Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.1",
+            "objective_text": "Identify mirror images.",
+            "objective_uuid": "d51d4338-3650-4c92-a470-3e0777a4c42a"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.8",
+            "objective_text": "Identify how many lines of symmetry a square has.",
+            "objective_uuid": "0aeb6e2d-3bf2-4503-a6cd-52ee4bfaeda3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.3",
+            "objective_text": "Recall that both sides match.",
+            "objective_uuid": "2a4e845b-da33-4125-923c-2f95ad682f71"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.4",
+            "objective_text": "Observe a butterfly.",
+            "objective_uuid": "cb393c21-61e0-464f-9a2b-ba6d96d96f71"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 6,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.2",
+            "objective_text": "Fold a paper heart in half.",
+            "objective_uuid": "fa00e151-02b7-440c-b6f2-5d0312031b8a"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.5",
+            "objective_text": "Summarize Line Symmetry (Reflection).",
+            "objective_uuid": "905face2-4294-4d70-979b-fd0a3f48b5fe"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.6",
+            "objective_text": "Explain Rotational Symmetry (spinning and matching).",
+            "objective_uuid": "0c4aecd2-e1f9-48d1-bcb0-1ea4a3b85f2b"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.7",
+            "objective_text": "Draw the other half of a symmetrical picture.",
+            "objective_uuid": "02abe9eb-459d-4593-919a-0154f3cc899e"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.12",
+            "objective_text": "Explain point symmetry.",
+            "objective_uuid": "6591b801-e102-4758-a180-390b7b5e58ef"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.15",
+            "objective_text": "Defend symmetry as a principle of beauty in creation.",
+            "objective_uuid": "a35fc8b8-0b50-4df3-ba1a-46ac8bb3be33"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 20.75,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.9",
+            "objective_text": "Analyze the order of rotational symmetry.",
+            "objective_uuid": "02a60f1d-0392-4f35-a37d-bee7341bc98b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.10",
+            "objective_text": "Interpret Translational symmetry (patterns/friezes).",
+            "objective_uuid": "42194d68-1ca9-4623-8cdd-a14269e23a4b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.11",
+            "objective_text": "Connect symmetry to tessellations.",
+            "objective_uuid": "3b8dbb34-a99e-44cd-b5a0-5f9f330abb8b"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.14",
+            "objective_text": "Evaluate symmetry groups.",
+            "objective_uuid": "0d888921-0e19-4624-a526-7c18d80068da"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 27.5,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.13",
+            "objective_text": "Construct symmetrical functions (Even/Odd functions).",
+            "objective_uuid": "27ef6209-18b2-44c9-a8ed-0080f380bf61"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.5",
+            "sub_topic_name": "Symmetry (Rotational, Reflectional, Translational)",
+            "objective_id": "MAT.5.2.5.16",
+            "objective_text": "Synthesize algebraic invariance with geometric transformations.",
+            "objective_uuid": "1e2dd345-fb2b-45e2-afb2-bfb32c15c871"
+          }
+        ]
+      }
+    }
+  }
+}

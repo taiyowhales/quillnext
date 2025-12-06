@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.2.2",
+    "name": "Design for Cognitive Load Reduction",
+    "topic_id": "CPT.3.2",
+    "topic_name": "Interaction Design & Accessibility",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Design for Cognitive Load Reduction in Interaction Design & Accessibility (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.1",
+            "objective_text": "Identify a messy screen vs. a clean screen.",
+            "objective_uuid": "31becb69-ce33-4179-8f0d-d8e701173c18"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.2",
+            "objective_text": "Recall that too much noise is hard to listen to.",
+            "objective_uuid": "87c0e529-c093-4ad7-bfa9-763b2ddbe871"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.3",
+            "objective_text": "Name 'Simple'.",
+            "objective_uuid": "905560ea-054b-4a4c-b2d1-bfef582f34fc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.4",
+            "objective_text": "Observe distractions.",
+            "objective_uuid": "a11e5e3e-c612-4f33-8355-ad557fec5c77"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.7",
+            "objective_text": "Identify clutter.",
+            "objective_uuid": "f8e53ad4-b5c5-4fec-a7bc-caae4c41c979"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.5",
+            "objective_text": "Summarize why simple menus are better.",
+            "objective_uuid": "ccc682e4-9152-46de-b6a8-9f3a990bc7a1"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.6",
+            "objective_text": "Explain grouping similar buttons.",
+            "objective_uuid": "29d353df-364b-497c-b202-1ab6eafe25eb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.12",
+            "objective_text": "Explain Hick's Law (more choices = slower time).",
+            "objective_uuid": "718428e7-c167-43f2-a824-52b658b29d7b"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.8",
+            "objective_text": "Compare a busy game HUD with a clean one.",
+            "objective_uuid": "9856619d-7433-4585-804e-acac8ec722f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.9",
+            "objective_text": "Analyze Miller's Law (7 plus or minus 2).",
+            "objective_uuid": "e01bccf7-4213-44ac-b7f2-1fb5bfa3fa1c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.10",
+            "objective_text": "Interpret visual hierarchy (what do I look at first?).",
+            "objective_uuid": "00049d96-2f2e-4735-a692-0a794521cd4b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.11",
+            "objective_text": "Connect cognitive load to user frustration.",
+            "objective_uuid": "7332f36b-bc77-4890-834f-450548284370"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.14",
+            "objective_text": "Evaluate progressive disclosure techniques.",
+            "objective_uuid": "6903edf7-ec03-4c2f-a1eb-f50f700d99cd"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.15",
+            "objective_text": "Defend the 'Don't Make Me Think' philosophy.",
+            "objective_uuid": "7d1bf3a7-1cb3-4e89-8ed1-bec0f19f5151"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.13",
+            "objective_text": "Construct an interface that minimizes friction.",
+            "objective_uuid": "bd097560-a0e9-4d95-899d-90a1220879d8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.2",
+            "sub_topic_name": "Design for Cognitive Load Reduction",
+            "objective_id": "CPT.3.2.2.16",
+            "objective_text": "Synthesize psychology of attention.",
+            "objective_uuid": "40e60e66-a718-45e3-8340-ec4f1933332d"
+          }
+        ]
+      }
+    }
+  }
+}

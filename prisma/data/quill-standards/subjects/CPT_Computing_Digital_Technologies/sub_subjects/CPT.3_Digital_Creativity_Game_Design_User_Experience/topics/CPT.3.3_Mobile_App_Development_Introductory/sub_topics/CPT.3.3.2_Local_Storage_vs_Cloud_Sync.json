@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.3.2",
+    "name": "Local Storage vs Cloud Sync",
+    "topic_id": "CPT.3.3",
+    "topic_name": "Mobile App Development (Introductory)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Local Storage vs Cloud Sync in Mobile App Development (Introductory) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.1",
+            "objective_text": "Identify saving a game.",
+            "objective_uuid": "01a62661-82dc-4533-ba94-0f3bcfabfcfc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.2",
+            "objective_text": "Recall that the phone remembers.",
+            "objective_uuid": "56269f04-8b0e-4576-b460-2434ea2993be"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.3",
+            "objective_text": "Name 'Offline'.",
+            "objective_uuid": "495c27ee-4f03-4b6b-b500-95337c34a836"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.4",
+            "objective_text": "Observe loading.",
+            "objective_uuid": "bd956e95-672c-4e55-a78f-4bf4395cc469"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.7",
+            "objective_text": "Identify 'Syncing'.",
+            "objective_uuid": "0a5d03b6-b0c4-46d2-b511-b7bd58336d58"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.5",
+            "objective_text": "Summarize saving on the phone vs. on the internet.",
+            "objective_uuid": "3c88fa9d-5b37-41d8-9908-443664c7bbbc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.6",
+            "objective_text": "Explain why some apps don't work without Wifi.",
+            "objective_uuid": "f9742392-8bac-486c-be0e-bc974b4b388a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.12",
+            "objective_text": "Explain JSON storage.",
+            "objective_uuid": "e33f306f-b050-4cf1-b6fb-63ede4f28c0e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.15",
+            "objective_text": "Defend data persistence strategies.",
+            "objective_uuid": "439f01b4-2db9-4599-b7a6-d9d48ecab048"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.8",
+            "objective_text": "Compare playing alone vs. multiplayer data.",
+            "objective_uuid": "46c2c781-37d6-475d-8d2e-b19deb6e324c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.9",
+            "objective_text": "Analyze caching data for speed.",
+            "objective_uuid": "ff9fbcbf-04fc-4b92-956e-25af52499f1e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.10",
+            "objective_text": "Interpret database synchronization.",
+            "objective_uuid": "d5cb55d0-b0e9-4326-8896-4f08f1aa5e4e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.11",
+            "objective_text": "Connect offline-first design to user experience.",
+            "objective_uuid": "d8eb0564-4437-4959-8401-e296525ce539"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.14",
+            "objective_text": "Evaluate conflict resolution in sync.",
+            "objective_uuid": "8c9aa308-d73a-4ab5-90b0-f1622ff97c31"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.13",
+            "objective_text": "Construct a local database (SQLite/Realm).",
+            "objective_uuid": "b558ed38-87f7-4401-b3cf-ecf108c035e8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.2",
+            "sub_topic_name": "Local Storage vs Cloud Sync",
+            "objective_id": "CPT.3.3.2.16",
+            "objective_text": "Synthesize cloud backend integration (Firebase).",
+            "objective_uuid": "b85bda40-4c48-4fbc-953b-51731bd1a599"
+          }
+        ]
+      }
+    }
+  }
+}

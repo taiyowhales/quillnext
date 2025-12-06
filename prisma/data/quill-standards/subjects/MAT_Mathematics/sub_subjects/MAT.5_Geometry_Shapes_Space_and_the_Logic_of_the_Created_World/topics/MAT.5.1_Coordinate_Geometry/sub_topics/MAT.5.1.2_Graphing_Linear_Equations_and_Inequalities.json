@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.1.2",
+    "name": "Graphing Linear Equations and Inequalities",
+    "topic_id": "MAT.5.1",
+    "topic_name": "Coordinate Geometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Graphing Linear Equations and Inequalities in Coordinate Geometry (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 8.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.1",
+            "objective_text": "Identify a line pattern.",
+            "objective_uuid": "d2232d9b-17a0-42a5-9c17-3848873e5bec"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.8",
+            "objective_text": "Identify where the line crosses zero.",
+            "objective_uuid": "a662ba88-7c6a-4c5a-8ee1-5102cfdae522"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.3",
+            "objective_text": "Recall that lines can go up or down.",
+            "objective_uuid": "fa657364-98d0-46ca-b491-38e1a859d6fb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.4",
+            "objective_text": "Observe a growth chart.",
+            "objective_uuid": "3e6ee182-a6fc-46a3-975d-5fa2e63a90e9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.5",
+            "objective_text": "Summarize an Input/Output table.",
+            "objective_uuid": "f6b7d3f8-84f5-4208-b742-211b46c628f1"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.6",
+            "objective_text": "Explain that a rule makes a line.",
+            "objective_uuid": "32fa3fec-c622-4fb4-a892-77d5d0667b80"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.7",
+            "objective_text": "Plot points to make a line.",
+            "objective_uuid": "0310f080-f53d-4fb1-ad3c-b8601f68fbed"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.12",
+            "objective_text": "Explain shading for inequalities ($y > x$).",
+            "objective_uuid": "f32f3898-6f8e-4b19-981a-957e0bad4e5e"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.15",
+            "objective_text": "Defend the graphical solution.",
+            "objective_uuid": "2c777ff4-07f0-48da-b116-fb22cdee2f23"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.2",
+            "objective_text": "Connect dots in order.",
+            "objective_uuid": "91169565-f8ec-48eb-8644-643f5890da53"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.9",
+            "objective_text": "Analyze slope-intercept form ($y=mx+b$).",
+            "objective_uuid": "255f2e67-7364-4c86-b970-9994bb7a32b5"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.10",
+            "objective_text": "Interpret the y-intercept.",
+            "objective_uuid": "9695c489-7a99-4e24-bdd0-dcefdb686540"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.11",
+            "objective_text": "Connect the table, graph, and equation.",
+            "objective_uuid": "9a236a13-da18-409d-ad65-648510ec54a7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 22.67,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.13",
+            "objective_text": "Construct graphs of systems of inequalities.",
+            "objective_uuid": "61ab158f-bdbd-482d-8d1a-c2af391e956c"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.16",
+            "objective_text": "Synthesize point-slope form manipulation.",
+            "objective_uuid": "65d4d562-d778-412f-be8d-6b5879fa1803"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.2",
+            "sub_topic_name": "Graphing Linear Equations and Inequalities",
+            "objective_id": "MAT.5.1.2.14",
+            "objective_text": "Evaluate feasible regions (Linear Programming).",
+            "objective_uuid": "b90f8b22-7873-475b-b19b-173d3dff0e06"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.2.4",
+    "name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+    "topic_id": "LIF.4.2",
+    "topic_name": "Personal Care, Health & Well-Being",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Hygiene Routines (daily, weekly, seasonal habits, dental care) in Personal Care, Health & Well-Being (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.3",
+            "objective_text": "Identify soap and water.",
+            "objective_uuid": "524c28c0-84e4-4b8e-be2e-839a790fbed4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.8",
+            "objective_text": "Identify when clothes need washing.",
+            "objective_uuid": "78259870-1667-467a-93de-f8ccbe8c873c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.4",
+            "objective_text": "Recall to cover a sneeze.",
+            "objective_uuid": "0ad12c6c-30ca-443b-97ad-d447efcf8a45"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.1",
+            "objective_text": "Brush teeth twice a day.",
+            "objective_uuid": "5b501848-2e60-4dcb-b1cc-d62e21fe14d2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.2",
+            "objective_text": "Wash hands after the bathroom.",
+            "objective_uuid": "6f4ee7b3-bee8-498d-acb7-7983a3b0ae75"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.5",
+            "objective_text": "Summarize why we shower (bacteria/smell).",
+            "objective_uuid": "73c8d1a6-3732-4618-959f-2383e4ee566c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.6",
+            "objective_text": "Explain how to floss teeth.",
+            "objective_uuid": "b15baba5-f5e6-4163-b0bc-bb1b65c2a972"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.12",
+            "objective_text": "Explain deodorant/antiperspirant use.",
+            "objective_uuid": "fbfada88-8978-4084-80cf-7a26bab76464"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.15",
+            "objective_text": "Defend the body as a temple worthy of care.",
+            "objective_uuid": "70c463c4-93f8-4832-82c6-be36b2be5893"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.9",
+            "objective_text": "Analyze the changes in hygiene needs during puberty.",
+            "objective_uuid": "39689885-e49d-46ef-b7be-8285fe769855"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.10",
+            "objective_text": "Interpret the connection between hygiene and social acceptance.",
+            "objective_uuid": "3b557ac7-b088-40a8-911b-28dabf04c5c6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.11",
+            "objective_text": "Connect skincare to health.",
+            "objective_uuid": "8d7d186f-e31a-41f1-a4ea-0b5e293fccf7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.14",
+            "objective_text": "Evaluate the chemical ingredients in personal care products.",
+            "objective_uuid": "48aaef8b-2368-41b1-a4e3-191311c78047"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.7",
+            "objective_text": "Create a checklist for morning hygiene.",
+            "objective_uuid": "b497d98d-b174-451f-aeda-1ee3db5c196d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.13",
+            "objective_text": "Construct a personal grooming standard.",
+            "objective_uuid": "f2333fca-95c2-4c14-9741-8b35a7894211"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.4",
+            "sub_topic_name": "Hygiene Routines (daily, weekly, seasonal habits, dental care)",
+            "objective_id": "LIF.4.2.4.16",
+            "objective_text": "Synthesize hygiene habits with professional presentation.",
+            "objective_uuid": "a4e72420-0ddf-4796-b42e-d1d073442c41"
+          }
+        ]
+      }
+    }
+  }
+}

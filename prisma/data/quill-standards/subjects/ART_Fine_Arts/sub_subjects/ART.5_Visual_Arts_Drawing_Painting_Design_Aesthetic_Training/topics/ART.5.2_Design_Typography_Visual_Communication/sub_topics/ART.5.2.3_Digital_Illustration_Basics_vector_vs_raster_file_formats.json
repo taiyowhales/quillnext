@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "ART.5.2.3",
+    "name": "Digital Illustration Basics (vector vs raster, file formats)",
+    "topic_id": "ART.5.2",
+    "topic_name": "Design, Typography & Visual Communication",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Digital Illustration Basics (vector vs raster, file formats) in Design, Typography & Visual Communication (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.3",
+            "objective_text": "Identify the undo button.",
+            "objective_uuid": "39a9a7c4-a6f3-46cb-839d-78a27573c985"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 9,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.1",
+            "objective_text": "Draw with a finger or mouse on a screen.",
+            "objective_uuid": "f6d9e1c6-feab-4a68-8bb7-7dfdc88298c5"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.2",
+            "objective_text": "Use the bucket tool to fill color.",
+            "objective_uuid": "37309d14-a054-40f1-97b7-304343b06d63"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.4",
+            "objective_text": "Save a picture.",
+            "objective_uuid": "d0b78136-5588-4d8f-9d65-34cda76c8909"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.5",
+            "objective_text": "Summarize the difference between drawing on paper and screen.",
+            "objective_uuid": "63ccd8de-ef15-49d5-9835-974b81769a4d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.6",
+            "objective_text": "Explain 'Pixels' (little squares).",
+            "objective_uuid": "1c12cbf7-9d21-47db-83d7-5cc5c65856d2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.7",
+            "objective_text": "Use layers to separate background and foreground.",
+            "objective_uuid": "afb49b1c-3b18-4ab5-832c-a769161c9049"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.8",
+            "objective_text": "Trace a photo digitally.",
+            "objective_uuid": "f021442e-20f5-48f6-8831-e484ea1340b7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.12",
+            "objective_text": "Explain file formats (JPG vs PNG).",
+            "objective_uuid": "9f044986-019a-41fe-b501-5e71f051efb0"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.15",
+            "objective_text": "Defend the validity of digital art.",
+            "objective_uuid": "6b777095-3f26-404e-b85f-f1a07ed8f515"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.9",
+            "objective_text": "Analyze Vector (math lines) vs. Raster (pixels).",
+            "objective_uuid": "9fcd0ca9-1b86-44f5-a93a-d06c22bebf3d"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.10",
+            "objective_text": "Interpret resolution (DPI).",
+            "objective_uuid": "de03643c-9b2b-4e0d-9233-0831d344b7f3"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.11",
+            "objective_text": "Connect the pen tool to clean lines.",
+            "objective_uuid": "aa6c9542-eb07-483b-a3e4-09b931c75fc4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.14",
+            "objective_text": "Evaluate the workflow of digital painting.",
+            "objective_uuid": "3f6ca387-d6b1-46cd-9c92-dc5840c87a21"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.13",
+            "objective_text": "Construct a complex digital illustration.",
+            "objective_uuid": "7ad73285-c235-4652-ba97-34e2e7a3bd35"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.3",
+            "sub_topic_name": "Digital Illustration Basics (vector vs raster, file formats)",
+            "objective_id": "ART.5.2.3.16",
+            "objective_text": "Synthesize traditional art knowledge with digital tools.",
+            "objective_uuid": "78adbd2e-1e3b-4f3d-b977-1ca40e85fe62"
+          }
+        ]
+      }
+    }
+  }
+}

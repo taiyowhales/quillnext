@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.1.2",
+    "name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+    "topic_id": "MAT.2.1",
+    "topic_name": "Combinatorics (Advanced Counting)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Permutations (Order Matters) and Combinations (Order Doesn't) in Combinatorics (Advanced Counting) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.1",
+            "objective_text": "Identify first, second, third.",
+            "objective_uuid": "d846068e-5241-4cdd-bfce-62290cb9ffb5"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.8",
+            "objective_text": "Identify a 'arrangement' vs. a 'group'.",
+            "objective_uuid": "c3b39170-5baf-46e1-8510-a815b81e3dc7"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.3",
+            "objective_text": "Recall that a different order makes a new pattern.",
+            "objective_uuid": "37c54fe7-3c71-4d69-97b2-f7df5ba0ecb9"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.7",
+            "objective_text": "List all ways to arrange 3 items.",
+            "objective_uuid": "7a04fcfd-d102-4669-958b-af690295711d"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.2",
+            "objective_text": "Change the order of beads on a string.",
+            "objective_uuid": "c7b1fe71-27c9-427b-8698-70880d9cef9d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.4",
+            "objective_text": "Group items in a bowl.",
+            "objective_uuid": "f85c23a1-e32c-4baa-8d87-c892961725db"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.5",
+            "objective_text": "Summarize Order Matters (Combination lock) vs. Doesn't Matter (Fruit salad).",
+            "objective_uuid": "4c6b2599-5863-447d-9a35-0d8cd1f09407"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.6",
+            "objective_text": "Explain rearranging letters in a word.",
+            "objective_uuid": "dee2fb78-ce64-4260-9943-9cb551e57664"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.12",
+            "objective_text": "Explain why $nCr$ is always smaller than $nPr$.",
+            "objective_uuid": "e539fccf-8a5d-4ba4-98a4-0dcdb27f24d9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.15",
+            "objective_text": "Defend the choice of method based on problem context.",
+            "objective_uuid": "e50ce8b7-3f98-4af0-8fba-db993b389195"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.9",
+            "objective_text": "Analyze the formula for Permutations ($nPr$).",
+            "objective_uuid": "a04f47a3-c9c8-4972-86d9-9f9b01cb70a8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.10",
+            "objective_text": "Interpret the formula for Combinations ($nCr$).",
+            "objective_uuid": "26ac249b-949d-46b8-a896-651c62629a1a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.11",
+            "objective_text": "Connect the cancelling of factorials.",
+            "objective_uuid": "ad541c52-6c66-4364-803f-8c39508a7dbf"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.14",
+            "objective_text": "Evaluate permutations with repetition (MISSISSIPPI problem).",
+            "objective_uuid": "d70dfe52-0edb-45a1-a442-3d1105473a8a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.13",
+            "objective_text": "Construct solutions for circular permutations.",
+            "objective_uuid": "c7b46284-0740-4a66-a154-18e08f20a0da"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.2",
+            "sub_topic_name": "Permutations (Order Matters) and Combinations (Order Doesn't)",
+            "objective_id": "MAT.2.1.2.16",
+            "objective_text": "Synthesize Pascal's Triangle with Combinations.",
+            "objective_uuid": "8411b8f3-c034-4bff-9e3a-4ff70281f15e"
+          }
+        ]
+      }
+    }
+  }
+}

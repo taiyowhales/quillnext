@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.2.3",
+    "name": "Retirement Accounts (401k, Roth IRA)",
+    "topic_id": "MAT.3.2",
+    "topic_name": "Investing (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Retirement Accounts (401k, Roth IRA) in Investing (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.1",
+            "objective_text": "Identify saving for when we are old.",
+            "objective_uuid": "f16f574f-ac4f-48f9-ba61-19a7a861afc0"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.2",
+            "objective_text": "Name Grandpa and Grandma.",
+            "objective_uuid": "427910b8-895d-45a8-bd1e-19fd3ad45593"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.7",
+            "objective_text": "Identify an employer match (free money).",
+            "objective_uuid": "419d32c9-03a0-4192-a089-375fd9f28d8c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.3",
+            "objective_text": "Recall that we stop working one day.",
+            "objective_uuid": "0e32b181-354b-4a4d-bc11-555fa207b5e1"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.4",
+            "objective_text": "Observe retirement.",
+            "objective_uuid": "27a11c9a-00b0-4e3a-b5cb-5422afcc78b5"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.5",
+            "objective_text": "Summarize a Retirement Account.",
+            "objective_uuid": "65fd6cc2-f6af-4ebb-8a7c-ac1b8464d27b"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.6",
+            "objective_text": "Explain that money grows tax-free (sometimes).",
+            "objective_uuid": "58b7fab8-890a-4ef9-b912-59a3824953d4"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.12",
+            "objective_text": "Explain contribution limits.",
+            "objective_uuid": "2af4057f-2807-4826-8f61-b2fe2f0ee7aa"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.15",
+            "objective_text": "Defend the responsibility to provide for oneself.",
+            "objective_uuid": "71b90cce-40b7-4596-9f02-865edc150498"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.8",
+            "objective_text": "Compare spending now vs. spending later.",
+            "objective_uuid": "6b5cd6fe-f28e-4c09-abcc-a15cd248e88d"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.9",
+            "objective_text": "Analyze the Roth IRA (pay tax now, grow free).",
+            "objective_uuid": "8ce271a5-f053-4703-b7d4-1724264dfc69"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.10",
+            "objective_text": "Interpret the 401k structure.",
+            "objective_uuid": "4d7ad0ce-e189-42cf-850f-ffb33bcd4041"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.11",
+            "objective_text": "Connect compound interest to retirement planning.",
+            "objective_uuid": "b6f6dcf9-bea1-442e-a62a-e8efc7930dcf"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.14",
+            "objective_text": "Evaluate the tax implications of different accounts.",
+            "objective_uuid": "cfc62084-7f5d-487f-9c4b-ed3ffd2554ec"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.13",
+            "objective_text": "Construct a projection of retirement needs.",
+            "objective_uuid": "c9e7b651-676e-4929-a6fe-9208bb130220"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.3",
+            "sub_topic_name": "Retirement Accounts (401k, Roth IRA)",
+            "objective_id": "MAT.3.2.3.16",
+            "objective_text": "Synthesize financial planning with life goals.",
+            "objective_uuid": "870b5e58-5cab-433f-8e89-8b09f1410723"
+          }
+        ]
+      }
+    }
+  }
+}

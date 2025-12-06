@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.2.3",
+    "name": "Permaculture Basics (Designing sustainable systems)",
+    "topic_id": "LIF.3.2",
+    "topic_name": "Gardening & Food Production",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Permaculture Basics (Designing sustainable systems) in Gardening & Food Production (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.1",
+            "objective_text": "Identify patterns in nature (circles, spirals).",
+            "objective_uuid": "be569814-a2c9-4a4f-8189-aaabfc05251b"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.2",
+            "objective_text": "Name plants growing together.",
+            "objective_uuid": "82d63a7d-a846-49c1-9e59-7f4d0c0f830d"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.8",
+            "objective_text": "Identify a swale (ditch for water).",
+            "objective_uuid": "a50a28c9-94cb-422e-ae70-893a8a43b4bf"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.3",
+            "objective_text": "Recall that we copy God's design.",
+            "objective_uuid": "296d9c33-4f2f-40d8-8012-1bdb685965c5"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.4",
+            "objective_text": "Observe a forest floor.",
+            "objective_uuid": "699c2c8d-34e3-422b-83bc-21ecd6765359"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.5",
+            "objective_text": "Summarize 'Permaculture' (Permanent Agriculture).",
+            "objective_uuid": "a250068b-30dc-4b63-b56b-9768b77fe0cb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.6",
+            "objective_text": "Explain the Three Ethics (Care for Earth, People, Fair Share).",
+            "objective_uuid": "f0020dce-4141-4220-9c33-952c01cd4669"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.12",
+            "objective_text": "Explain the principle 'The problem is the solution'.",
+            "objective_uuid": "879e4a1f-2d4d-43e9-8209-fcf561ff1de2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.15",
+            "objective_text": "Defend the shift from monoculture to polyculture.",
+            "objective_uuid": "a207a9c6-696d-461b-91f4-481e6527621c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.9",
+            "objective_text": "Analyze the concept of 'Zones' (frequency of use).",
+            "objective_uuid": "629f1da5-c4f4-42c7-8701-058e8c859d5f"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.10",
+            "objective_text": "Interpret the function of edge effects.",
+            "objective_uuid": "7e3b1ee8-2699-48c7-a6b3-61802ffd3f1f"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.11",
+            "objective_text": "Connect observation to design.",
+            "objective_uuid": "7e187bc7-683f-4d02-80fa-460b1056fb19"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.14",
+            "objective_text": "Evaluate the efficiency of energy flows on site.",
+            "objective_uuid": "249e549e-96d3-49b2-989c-370d8fe33cb0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.7",
+            "objective_text": "Design a 'guild' (plants helping each other).",
+            "objective_uuid": "890205b9-f804-4248-a98f-39de77010394"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.13",
+            "objective_text": "Construct a permaculture site design for a yard.",
+            "objective_uuid": "a1321ca1-4043-4697-81ef-be68f7dccccf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.3",
+            "sub_topic_name": "Permaculture Basics (Designing sustainable systems)",
+            "objective_id": "LIF.3.2.3.16",
+            "objective_text": "Synthesize systems thinking with landscape design.",
+            "objective_uuid": "b6bab300-c9a7-4a7d-88c2-97b76ec25850"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.3.5",
+    "name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+    "topic_id": "DST.4.3",
+    "topic_name": "Investigative Research & Analysis",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for User-Centered Research (identifying needs, empathy mapping, surveys) in Investigative Research & Analysis (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.1",
+            "objective_text": "Identify a simple problem that a friend or family member has.",
+            "objective_uuid": "e8d039d1-c152-4a10-b575-b893e5a81a43"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.11",
+            "objective_text": "Identify the 'Primary User' and 'Stakeholders'.",
+            "objective_uuid": "d1212b5d-2112-483c-8a31-8cefc79aa290"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.3",
+            "objective_text": "Observe how people use objects in daily life.",
+            "objective_uuid": "7d52d0f0-5a55-4cce-a96c-0f5fc410b5e2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.5",
+            "objective_text": "Conduct a simple survey to gather opinions from a group.",
+            "objective_uuid": "8e8d9796-390a-4377-a10f-2e24b4a8573b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 6,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.2",
+            "objective_text": "Ask questions to find out what someone likes or dislikes.",
+            "objective_uuid": "9c100f52-bf09-4971-bd84-444cbea2c20c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.4",
+            "objective_text": "Draw a picture of a solution for a specific person.",
+            "objective_uuid": "4e3df100-7802-4d41-8b9f-6dfc086282d1"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.6",
+            "objective_text": "Explain why we design for others and not just ourselves (empathy).",
+            "objective_uuid": "9cc4d28e-a3c1-49d2-9096-82359c8a44f9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.8",
+            "objective_text": "Summarize the main problem to be solved.",
+            "objective_uuid": "62a65918-1c34-4ff4-9e76-0b45d895a506"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.12",
+            "objective_text": "Explain the importance of inclusive design.",
+            "objective_uuid": "dc6f2556-e6ab-493e-8180-86e8d52b173a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.15",
+            "objective_text": "Defend design decisions based on user-centered evidence.",
+            "objective_uuid": "aa3dd068-514f-4bc2-b13a-5dc15ab068e8"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 6,
+        "average_complexity": 27.5,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.10",
+            "objective_text": "Analyze data from questionnaires to inform design choices.",
+            "objective_uuid": "fc777e1f-1894-445d-a1f1-c6fcf56a3251"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.14",
+            "objective_text": "Evaluate the validity of qualitative vs. quantitative data.",
+            "objective_uuid": "118e069f-f850-4a9d-92ed-64e31f65b9fc"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.7",
+            "objective_text": "Create a list of 'Needs' and 'Wants' for a project.",
+            "objective_uuid": "a3192a74-297f-4ef9-bbeb-ff7c6af448d3"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.9",
+            "objective_text": "Construct an Empathy Map to visualize user feelings and actions.",
+            "objective_uuid": "3d1b727d-9689-47a8-9f94-04beff2bb961"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.13",
+            "objective_text": "Construct detailed User Personas based on ethnographic research.",
+            "objective_uuid": "09492404-2a25-4303-8c6e-b5016ea657e6"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.5",
+            "sub_topic_name": "User-Centered Research (identifying needs, empathy mapping, surveys)",
+            "objective_id": "DST.4.3.5.16",
+            "objective_text": "Synthesize interview data to define the core 'Pain Points'.",
+            "objective_uuid": "0b36dc12-2fc4-4983-9734-a835515e5ef6"
+          }
+        ]
+      }
+    }
+  }
+}

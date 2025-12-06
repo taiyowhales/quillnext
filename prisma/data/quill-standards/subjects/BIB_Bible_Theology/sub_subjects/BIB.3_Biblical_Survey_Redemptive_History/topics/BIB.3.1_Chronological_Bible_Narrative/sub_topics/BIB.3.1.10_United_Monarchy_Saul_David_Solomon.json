@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.3.1.10",
+    "name": "United Monarchy (Saul, David, Solomon)",
+    "topic_id": "BIB.3.1",
+    "topic_name": "Chronological Bible Narrative",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.3",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for United Monarchy (Saul, David, Solomon) in Chronological Bible Narrative (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.1",
+            "objective_text": "Identify Saul as the first king and David as the best king.",
+            "objective_uuid": "fb63df0f-0cd0-45e3-b17e-d0da097f6187"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.3",
+            "objective_text": "Name Solomon as the king who built God's house (Temple).",
+            "objective_uuid": "3f1d2ea7-d270-4ed9-a1b9-d5dcdd24798e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.4",
+            "objective_text": "Recall that David wrote songs to God (Psalms).",
+            "objective_uuid": "86421285-c1e2-4f0c-b1c5-fd523419fe59"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.2",
+            "objective_text": "Retell the story of David and Goliath.",
+            "objective_uuid": "fedb5170-580f-4d3b-a1f0-9725df9ad017"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.5",
+            "objective_text": "Summarize how David was chosen (heart vs. outward appearance).",
+            "objective_uuid": "91c90804-54d3-49d3-bbee-a227b325f562"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.6",
+            "objective_text": "Explain why Saul lost the kingdom.",
+            "objective_uuid": "6d341821-8ce8-467d-a6ad-c8a2fd199962"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.12",
+            "objective_text": "Explain the consequences of David's sin with Bathsheba on his family.",
+            "objective_uuid": "7cf32044-8084-428e-9cae-037e00e2a3cb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.15",
+            "objective_text": "Perform research on the historical wealth and trade of Solomon's kingdom.",
+            "objective_uuid": "5f84df20-4c94-4319-92b6-7723de4668aa"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.7",
+            "objective_text": "Compare David's repentance (Psalm 51) with Saul's excuses.",
+            "objective_uuid": "a5251b46-225a-445f-af85-bb399298bdae"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.8",
+            "objective_text": "Apply lessons from Solomon's wisdom and his foolishness (many wives).",
+            "objective_uuid": "f8a5724d-e52b-4f9a-bf71-bfacee74579c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.9",
+            "objective_text": "Analyze the Davidic Covenant (2 Samuel 7).",
+            "objective_uuid": "c66c2b29-b173-4c54-afdb-25b350ec948a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.10",
+            "objective_text": "Interpret the political and spiritual consolidation of Jerusalem.",
+            "objective_uuid": "35f16b82-361a-4631-9d15-f54602bddf16"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.11",
+            "objective_text": "Connect Solomon's Temple dedication prayer to God's global purpose.",
+            "objective_uuid": "a1ab8b1a-4e88-4c52-8afe-e5c6b7ac2577"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.14",
+            "objective_text": "Evaluate the tension between the theocracy and the monarchy.",
+            "objective_uuid": "bd95fb20-602a-4a22-b1f2-2ef132b18a46"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.13",
+            "objective_text": "Construct a profile of the 'Messianic King' based on the United Monarchy.",
+            "objective_uuid": "188d7229-55ab-4e1e-bc1e-d209949df84f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.10",
+            "sub_topic_name": "United Monarchy (Saul, David, Solomon)",
+            "objective_id": "BIB.3.1.10.16",
+            "objective_text": "Synthesize the rise and peak of Israel's history as a type of the Kingdom of God.",
+            "objective_uuid": "c6063a2d-6616-43bc-87cc-7da39a3a76d0"
+          }
+        ]
+      }
+    }
+  }
+}

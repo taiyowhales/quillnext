@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "ART.2.3.7",
+    "name": "Post-Processing (RAW workflow, color grading)",
+    "topic_id": "ART.2.3",
+    "topic_name": "Photography (Artistic & Technical)",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Post-Processing (RAW workflow, color grading) in Photography (Artistic & Technical) (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.4",
+            "objective_text": "Identify brightness.",
+            "objective_uuid": "aba663f3-7489-40bf-93a1-eb88ec2da20b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 9,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.1",
+            "objective_text": "Pick a filter (black and white).",
+            "objective_uuid": "ef8100f4-f185-406e-883b-1e60bef1e328"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.2",
+            "objective_text": "Crop a picture to remove messy edges.",
+            "objective_uuid": "b347d4bc-e8a7-4dc9-bff4-2f500f4e8b2d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.3",
+            "objective_text": "Rotate a picture if it is sideways.",
+            "objective_uuid": "f43d63d3-a6de-428a-bb72-1d72ec8449de"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.5",
+            "objective_text": "Summarize contrast and saturation.",
+            "objective_uuid": "899e9ba2-78e9-4090-aea0-001fa048285c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.6",
+            "objective_text": "Explain why we edit photos (to make them look like real life).",
+            "objective_uuid": "922f25f5-e046-47f7-9588-e28306d7b4b7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.7",
+            "objective_text": "Straighten a crooked horizon.",
+            "objective_uuid": "0a1aaa99-4c77-4111-81fc-f3fcc537110d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.8",
+            "objective_text": "Remove a spot (red eye).",
+            "objective_uuid": "c4d8a4f6-535a-472e-85f8-3cb6f9f5242a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.12",
+            "objective_text": "Explain the difference between JPEG and RAW.",
+            "objective_uuid": "e70c7ecb-2fc5-4683-83f3-84c88edcc989"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.15",
+            "objective_text": "Defend the 'integrity of the pixel' vs. manipulation.",
+            "objective_uuid": "a425247c-311d-4cc2-a4cd-db933a1beda5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.9",
+            "objective_text": "Analyze the histogram levels.",
+            "objective_uuid": "1f76f84e-f53d-4487-a271-86939427bfd6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.10",
+            "objective_text": "Interpret Non-Destructive editing.",
+            "objective_uuid": "cc05c5a4-64af-48c5-bff1-23bf3e455f67"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.11",
+            "objective_text": "Connect shadow recovery to dynamic range.",
+            "objective_uuid": "8376a925-c92f-4cff-a8c0-169552bf93d8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.14",
+            "objective_text": "Evaluate the ethics of retouching (body image).",
+            "objective_uuid": "f13f5de7-06cb-4731-b5b6-1ae30702a33a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.13",
+            "objective_text": "Construct a cohesive color grade for a series.",
+            "objective_uuid": "f18b8940-d4e0-4d75-b5f3-b7e5ea14cfcb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.7",
+            "sub_topic_name": "Post-Processing (RAW workflow, color grading)",
+            "objective_id": "ART.2.3.7.16",
+            "objective_text": "Synthesize frequency separation for skin retouching.",
+            "objective_uuid": "0165db21-cefe-4743-bdfb-2b644f5a94b1"
+          }
+        ]
+      }
+    }
+  }
+}

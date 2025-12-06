@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.2.2",
+    "name": "Literal Equations (Solving for a Variable)",
+    "topic_id": "MAT.1.2",
+    "topic_name": "Equations & Inequalities",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Literal Equations (Solving for a Variable) in Equations & Inequalities (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.1",
+            "objective_text": "Identify different letters in a formula.",
+            "objective_uuid": "cfb578d7-1b91-41bc-aac9-30d3a2999140"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.3",
+            "objective_text": "Name Area = Length times Width.",
+            "objective_uuid": "be13e787-45ec-4cde-9781-0620bc0068e9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.8",
+            "objective_text": "Identify the target variable.",
+            "objective_uuid": "09a1acaa-69ad-4bc9-af3d-fad42ab53183"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.2",
+            "objective_text": "Recall that we can rearrange things.",
+            "objective_uuid": "a9e3cebd-6980-47ba-b7aa-940f07d5b741"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "b74acddf-a6c8-4702-9227-e58e18df42da"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.75,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.6",
+            "objective_text": "Explain that variables act like numbers.",
+            "objective_uuid": "b6f660c3-b2ae-4ab5-a091-7fb18d6319be"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.5",
+            "objective_text": "Summarize rewriting a formula.",
+            "objective_uuid": "a1f6eb3a-38e7-42cd-8ff7-0f4d746bd91d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.12",
+            "objective_text": "Explain rearranging $y = mx + b$.",
+            "objective_uuid": "2e980f93-49b1-433c-a2c5-06a7fa02f176"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.15",
+            "objective_text": "Defend the utility of solving for a variable before substituting.",
+            "objective_uuid": "4279ee05-03b5-4f96-9923-29cbbb119604"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.7",
+            "objective_text": "Solve $d = rt$ for $r$ (conceptually).",
+            "objective_uuid": "20c8095a-88e7-4e62-bcf4-3d662dfb2c0f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.9",
+            "objective_text": "Analyze geometric formulas ($C = 2\\pi r$, solve for $r$).",
+            "objective_uuid": "3cf5e380-7934-43b0-a768-c11cceedf5f7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.10",
+            "objective_text": "Interpret the structure of the equation.",
+            "objective_uuid": "dbee0f01-fdc8-4811-af38-ae9b6650609f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.11",
+            "objective_text": "Connect inverse operations to abstract symbols.",
+            "objective_uuid": "3cf80bc1-5bdb-4a0c-8e77-f1ffcc655fa8"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.14",
+            "objective_text": "Evaluate dimensional consistency.",
+            "objective_uuid": "ce7b9608-465f-4456-9eaf-e826fed56fbb"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.13",
+            "objective_text": "Construct rearrangements of complex scientific formulas.",
+            "objective_uuid": "81275457-d25e-4013-9f79-371a565dfec2"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 27.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.2",
+            "sub_topic_name": "Literal Equations (Solving for a Variable)",
+            "objective_id": "MAT.1.2.2.16",
+            "objective_text": "Synthesize deriving physics equations.",
+            "objective_uuid": "c9bdb910-9235-4941-bf8e-00c195fa86a4"
+          }
+        ]
+      }
+    }
+  }
+}

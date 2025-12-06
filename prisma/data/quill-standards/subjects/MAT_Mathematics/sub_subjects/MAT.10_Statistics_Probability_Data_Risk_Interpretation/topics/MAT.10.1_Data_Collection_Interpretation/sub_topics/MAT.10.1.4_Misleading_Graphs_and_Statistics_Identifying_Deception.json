@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.1.4",
+    "name": "Misleading Graphs and Statistics (Identifying Deception)",
+    "topic_id": "MAT.10.1",
+    "topic_name": "Data Collection & Interpretation",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Misleading Graphs and Statistics (Identifying Deception) in Data Collection & Interpretation (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.1",
+            "objective_text": "Identify a picture that looks too big.",
+            "objective_uuid": "79e4564c-589b-4b97-b93c-f9b72626c200"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.3",
+            "objective_text": "Name truth.",
+            "objective_uuid": "a35383cb-9215-4695-992c-d3c0ef54a814"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.7",
+            "objective_text": "Identify 3D pie charts that distort size.",
+            "objective_uuid": "ce382c35-9b07-4167-9a7e-5843d444b046"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.2",
+            "objective_text": "Recall that pictures can trick us.",
+            "objective_uuid": "becdae61-0e45-4395-a904-bd02c2cefdf9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.4",
+            "objective_text": "Observe sizes.",
+            "objective_uuid": "6aed4dc7-2fae-4ea2-9345-03b7d7137f77"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.5",
+            "objective_text": "Summarize why a graph might be tricky.",
+            "objective_uuid": "bafc2e98-309d-4408-8e52-2e4286257b2c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.6",
+            "objective_text": "Explain a Truncated Y-Axis (not starting at zero).",
+            "objective_uuid": "76a6f577-1d72-46a1-89c7-c23e55fff8fa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.12",
+            "objective_text": "Explain Simpson's Paradox (intro).",
+            "objective_uuid": "d280c426-82b3-4c06-bdfc-e54a13ed0528"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.15",
+            "objective_text": "Defend the phrase 'Lies, damned lies, and statistics'.",
+            "objective_uuid": "eaea99da-41f9-4f18-88c7-4ce2182ebaf6"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.8",
+            "objective_text": "Compare a fair graph with a misleading one.",
+            "objective_uuid": "d4e27e38-aba1-4134-9a17-053c23bf68ea"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.9",
+            "objective_text": "Analyze the effect of changing the scale.",
+            "objective_uuid": "1f745044-e190-4e82-9ccf-8c3a92fd75f3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.10",
+            "objective_text": "Interpret area tricks (using pictures instead of bars).",
+            "objective_uuid": "05dc227b-7fac-4df8-b6eb-09a2dc450693"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.11",
+            "objective_text": "Connect 'cherry-picking' data to false conclusions.",
+            "objective_uuid": "6e5f6c3d-b2bd-419b-9646-f42543c22d3a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.14",
+            "objective_text": "Evaluate the ethical implications of data manipulation.",
+            "objective_uuid": "66e25f4b-e23d-4f7a-a32b-b46647077e65"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.13",
+            "objective_text": "Construct a corrected version of a misleading graph.",
+            "objective_uuid": "09aa1d35-dad9-4e54-a722-9688117a9a6e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.4",
+            "sub_topic_name": "Misleading Graphs and Statistics (Identifying Deception)",
+            "objective_id": "MAT.10.1.4.16",
+            "objective_text": "Synthesize critical thinking with data analysis.",
+            "objective_uuid": "e2c3d2f0-4283-48c3-9925-8a7072a52a4c"
+          }
+        ]
+      }
+    }
+  }
+}

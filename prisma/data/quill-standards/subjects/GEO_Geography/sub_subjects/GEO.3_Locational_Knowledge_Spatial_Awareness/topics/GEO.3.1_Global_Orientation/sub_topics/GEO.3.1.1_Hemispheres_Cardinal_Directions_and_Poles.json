@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.1.1",
+    "name": "Hemispheres, Cardinal Directions, and Poles",
+    "topic_id": "GEO.3.1",
+    "topic_name": "Global Orientation",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Hemispheres, Cardinal Directions, and Poles in Global Orientation (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.1",
+            "objective_text": "Identify North, South, East, and West.",
+            "objective_uuid": "6b2e9ead-6d8d-45e8-bfe5-3acf8d927686"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.2",
+            "objective_text": "Name the North Pole and South Pole.",
+            "objective_uuid": "50af9702-4719-4d81-816c-877047bca991"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.8",
+            "objective_text": "Identify Intermediate directions (NE, SW).",
+            "objective_uuid": "b6a1bf1a-b64c-430d-9c3d-e6b8c0b8161a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.3",
+            "objective_text": "Recall that the Equator cuts the earth in half.",
+            "objective_uuid": "ab496991-edce-448a-aa9c-399c100d6475"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.4",
+            "objective_text": "Observe the compass rose.",
+            "objective_uuid": "a5987017-6682-4f47-abd0-c9e1407018de"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.5",
+            "objective_text": "Summarize the Northern and Southern Hemispheres.",
+            "objective_uuid": "e8509e73-76fb-4a4d-a55e-ec01fc015737"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.6",
+            "objective_text": "Explain the Eastern and Western Hemispheres (Prime Meridian).",
+            "objective_uuid": "0f0a5b9e-6384-41a1-90da-4c81005e1891"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.7",
+            "objective_text": "Locate home in the correct hemispheres.",
+            "objective_uuid": "22b7282b-4d9a-4277-b817-9aae3aed0e64"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.12",
+            "objective_text": "Explain the Arctic and Antarctic Circles.",
+            "objective_uuid": "2510867a-4ec9-4783-a7a8-ce0b919dba23"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.15",
+            "objective_text": "Defend the orderliness of the Creator in planetary alignment.",
+            "objective_uuid": "4752a929-4e31-41a3-aac8-fedfa96529b5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.9",
+            "objective_text": "Analyze why seasons are opposite in N/S hemispheres.",
+            "objective_uuid": "4cff8b88-ef1e-49a1-8f82-a4adce2c586f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.10",
+            "objective_text": "Interpret the tilt of the earth relative to the poles.",
+            "objective_uuid": "03fd5db7-cdf4-4cca-adc3-3f6afebe9748"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.11",
+            "objective_text": "Connect the Tropics (Cancer/Capricorn) to the sun's path.",
+            "objective_uuid": "dec0ad3e-8eb9-4d3f-99d4-74517c001062"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.14",
+            "objective_text": "Evaluate the effect of latitude on climate.",
+            "objective_uuid": "8c2ece7e-bb38-40fb-8553-feb99d4f830e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.13",
+            "objective_text": "Construct a diagram of the Earth's key reference lines.",
+            "objective_uuid": "faae1d55-a3dc-42b2-b8cb-98f72574ef81"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.1",
+            "sub_topic_name": "Hemispheres, Cardinal Directions, and Poles",
+            "objective_id": "GEO.3.1.1.16",
+            "objective_text": "Synthesize astronomy with geography.",
+            "objective_uuid": "cf5088f8-6f4f-4cba-92b9-a44ed31e77e5"
+          }
+        ]
+      }
+    }
+  }
+}

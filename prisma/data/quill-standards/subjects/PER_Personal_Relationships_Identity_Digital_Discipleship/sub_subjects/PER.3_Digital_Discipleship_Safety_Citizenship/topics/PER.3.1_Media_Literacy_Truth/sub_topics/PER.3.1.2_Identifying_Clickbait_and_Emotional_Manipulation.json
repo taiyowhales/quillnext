@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "PER.3.1.2",
+    "name": "Identifying Clickbait and Emotional Manipulation",
+    "topic_id": "PER.3.1",
+    "topic_name": "Media Literacy & Truth",
+    "subject_id": "PER",
+    "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+    "sub_subject_id": "PER.3",
+    "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Identifying Clickbait and Emotional Manipulation in Media Literacy & Truth (Personal Relationships, Identity & Digital Discipleship)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.1",
+            "objective_text": "Identify a picture that makes me want to click.",
+            "objective_uuid": "031d823b-b77f-4817-949b-aca7854ad697"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.3",
+            "objective_text": "Name a surprise.",
+            "objective_uuid": "14cc5c88-95ec-472d-8aa9-2c3b1fb6654c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.7",
+            "objective_text": "Identify ads disguised as content.",
+            "objective_uuid": "8e2aae13-3b6e-4d0d-b776-cc82d1ba0eb0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.2",
+            "objective_text": "Recall 'Tricky'.",
+            "objective_uuid": "8cbe3f0e-aec7-4a02-a406-8bb40db37d9b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.4",
+            "objective_text": "Observe bright colors.",
+            "objective_uuid": "08ead225-7c2c-4028-bb2c-e691f475547e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.5",
+            "objective_text": "Summarize 'Clickbait' (headlines that trick you).",
+            "objective_uuid": "7e6670ea-2c90-4ce8-a22c-4811eff4b34e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.6",
+            "objective_text": "Explain 'You won't believe what happened next!'.",
+            "objective_uuid": "6bb51431-5ed2-4e17-8aa9-a1e909728ac6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.12",
+            "objective_text": "Explain 'Sponsored Content'.",
+            "objective_uuid": "07b18b4f-cc38-46d6-8891-2fa72602d37f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.15",
+            "objective_text": "Defend the boring truth against the exciting lie.",
+            "objective_uuid": "138193e8-aa25-40cd-a4ef-4fe432e6e484"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.8",
+            "objective_text": "Compare curiosity with information.",
+            "objective_uuid": "bb0c2b90-f265-4309-bc5b-3396841d518c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.9",
+            "objective_text": "Analyze emotional triggers (fear, anger, awe).",
+            "objective_uuid": "68bb4b79-5925-4854-8b67-3523e93bf8c4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.10",
+            "objective_text": "Interpret the business model of clicks.",
+            "objective_uuid": "84b1529d-0cc1-4224-8d44-02252b4309db"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.11",
+            "objective_text": "Connect sensationalism to ad revenue.",
+            "objective_uuid": "3101eb09-0589-4639-93b3-097af45a8326"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.14",
+            "objective_text": "Evaluate the quality of information behind the headline.",
+            "objective_uuid": "6375f84b-0944-4fa1-80c6-7cffc0b675bc"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.13",
+            "objective_text": "Construct a defense against emotional hijacking.",
+            "objective_uuid": "82dfad6d-9745-48bb-89dc-c03daf974a99"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.3",
+            "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+            "topic_id": "PER.3.1",
+            "topic_name": "Media Literacy & Truth",
+            "sub_topic_id": "PER.3.1.2",
+            "sub_topic_name": "Identifying Clickbait and Emotional Manipulation",
+            "objective_id": "PER.3.1.2.16",
+            "objective_text": "Synthesize psychology of persuasion with media literacy.",
+            "objective_uuid": "19ed3229-583d-4628-92df-6678890dd29a"
+          }
+        ]
+      }
+    }
+  }
+}

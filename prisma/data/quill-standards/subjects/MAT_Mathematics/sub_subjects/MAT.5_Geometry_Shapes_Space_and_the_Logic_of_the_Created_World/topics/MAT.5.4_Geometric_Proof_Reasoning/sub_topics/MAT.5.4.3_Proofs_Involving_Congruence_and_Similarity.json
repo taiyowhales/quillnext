@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.4.3",
+    "name": "Proofs Involving Congruence and Similarity",
+    "topic_id": "MAT.5.4",
+    "topic_name": "Geometric Proof & Reasoning",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Proofs Involving Congruence and Similarity in Geometric Proof & Reasoning (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 8.2,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.1",
+            "objective_text": "Identify shapes that fit on top of each other.",
+            "objective_uuid": "8efb8948-85db-458d-b02b-9164136085bb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.2",
+            "objective_text": "Name a big and small version of the same shape.",
+            "objective_uuid": "bc6d4182-878a-42f2-b60d-4af788af6912"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.8",
+            "objective_text": "Identify proportional sides.",
+            "objective_uuid": "cce8b15a-4bda-4599-ba8c-fb88f54521e0"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.3",
+            "objective_text": "Recall that 'Same' means everything matches.",
+            "objective_uuid": "59cbdfee-71eb-45cc-a688-988b1a939ded"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.4",
+            "objective_text": "Observe puzzles.",
+            "objective_uuid": "f9571a84-3da2-4aa0-bdf8-81cb15d63ef1"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.5",
+            "objective_text": "Summarize that matching sides and angles means congruent.",
+            "objective_uuid": "75af5f0b-801b-46f2-8e66-c275fa342ffb"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.6",
+            "objective_text": "Explain that zooming in makes similar shapes.",
+            "objective_uuid": "33096ad7-8adc-4fd9-b8c2-21bb0a574fb6"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.7",
+            "objective_text": "Check congruence by measuring.",
+            "objective_uuid": "e6e215d8-14d6-447b-bf81-1cebf321f94e"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.12",
+            "objective_text": "Explain why AAA works for similarity but not congruence.",
+            "objective_uuid": "cf0211ed-6f30-40ed-bd7d-ffa2a606de5e"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.15",
+            "objective_text": "Defend the conditions for similarity.",
+            "objective_uuid": "91b5099c-0b2e-4fcd-b119-a96efc74fdab"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.9",
+            "objective_text": "Analyze the criteria (SSS, SAS, AA).",
+            "objective_uuid": "9006a2d1-db28-4951-820c-5173ccb9ab57"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.10",
+            "objective_text": "Interpret CPCTC in proofs.",
+            "objective_uuid": "48afd775-c469-4f48-8f98-3b8e39483752"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.11",
+            "objective_text": "Connect similarity to slope triangles.",
+            "objective_uuid": "52a5080c-1408-4c9e-b944-9828b82172c1"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.14",
+            "objective_text": "Evaluate proofs involving the geometric mean in right triangles.",
+            "objective_uuid": "4c3009c1-699b-4fb4-b544-02a234f56db6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.13",
+            "objective_text": "Construct formal proofs for triangle congruence.",
+            "objective_uuid": "2593a260-2548-423d-80a6-e83d5a391d3d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.3",
+            "sub_topic_name": "Proofs Involving Congruence and Similarity",
+            "objective_id": "MAT.5.4.3.16",
+            "objective_text": "Synthesize properties of quadrilaterals using triangle proofs.",
+            "objective_uuid": "8afbe889-6846-4099-bdaf-0f2aa649fd8e"
+          }
+        ]
+      }
+    }
+  }
+}

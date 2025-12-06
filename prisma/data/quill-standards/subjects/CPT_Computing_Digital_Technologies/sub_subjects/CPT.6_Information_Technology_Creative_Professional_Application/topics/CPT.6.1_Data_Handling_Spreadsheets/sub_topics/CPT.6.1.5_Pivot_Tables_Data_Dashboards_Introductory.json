@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.1.5",
+    "name": "Pivot Tables & Data Dashboards (Introductory)",
+    "topic_id": "CPT.6.1",
+    "topic_name": "Data Handling & Spreadsheets",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pivot Tables & Data Dashboards (Introductory) in Data Handling & Spreadsheets (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.1",
+            "objective_text": "Identify a summary.",
+            "objective_uuid": "ad94b16b-1fbe-48ab-8146-1399ced69fe9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.3",
+            "objective_text": "Recall counting groups.",
+            "objective_uuid": "6e798dd7-7e82-42cb-8ed2-069fead51015"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.4",
+            "objective_text": "Name a report.",
+            "objective_uuid": "e8ab014f-3a87-4308-9446-a0136860cfa2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.8",
+            "objective_text": "Identify key numbers.",
+            "objective_uuid": "19887683-b84d-425d-853f-8bf6e4b22088"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.7",
+            "objective_text": "View a simple dashboard.",
+            "objective_uuid": "1afcabd8-ec96-4b42-a97c-0ddd07e91ff3"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.2",
+            "objective_text": "Group toys by type.",
+            "objective_uuid": "cf9e41c9-7f69-486d-873d-6f9a60855ebb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.5",
+            "objective_text": "Summarize grouping data.",
+            "objective_uuid": "6c0dc309-ca95-491b-a129-f82ee8b97a76"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.6",
+            "objective_text": "Explain why we summarize big lists.",
+            "objective_uuid": "462ff852-1648-49f2-9b38-e78db1cac83c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.12",
+            "objective_text": "Explain calculated fields.",
+            "objective_uuid": "3cc556c3-816f-4f3b-a4a8-2b9a361c32ee"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.15",
+            "objective_text": "Defend the separation of data storage and presentation.",
+            "objective_uuid": "58f14f38-a4a7-4f97-858a-e1b460828559"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.9",
+            "objective_text": "Analyze data using a Pivot Table.",
+            "objective_uuid": "95764562-81e8-4bd2-9b25-4b5776aaab5a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.10",
+            "objective_text": "Interpret Slicers for filtering.",
+            "objective_uuid": "f3db379c-8ff4-494b-90ae-4b2bd09d71d8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.11",
+            "objective_text": "Connect raw data to the summary view.",
+            "objective_uuid": "ad0d4ae9-b645-4273-bac3-667e9cb642b5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.14",
+            "objective_text": "Evaluate data insights derived from pivoting.",
+            "objective_uuid": "8f9da7ca-b7e4-49c0-b09a-848725fb9a48"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.13",
+            "objective_text": "Construct an interactive dashboard.",
+            "objective_uuid": "9dbd081f-1295-49ed-b18e-ca8417b760e4"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.5",
+            "sub_topic_name": "Pivot Tables & Data Dashboards (Introductory)",
+            "objective_id": "CPT.6.1.5.16",
+            "objective_text": "Synthesize Power Query (ETL concepts).",
+            "objective_uuid": "64274202-97e4-4508-8731-1b686d652656"
+          }
+        ]
+      }
+    }
+  }
+}

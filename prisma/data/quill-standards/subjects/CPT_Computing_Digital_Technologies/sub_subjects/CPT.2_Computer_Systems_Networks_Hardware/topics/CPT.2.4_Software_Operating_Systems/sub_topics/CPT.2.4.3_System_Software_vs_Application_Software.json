@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.4.3",
+    "name": "System Software vs Application Software",
+    "topic_id": "CPT.2.4",
+    "topic_name": "Software & Operating Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for System Software vs Application Software in Software & Operating Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.1",
+            "objective_text": "Identify an App (game, paint).",
+            "objective_uuid": "22e89ea3-7852-4e7c-b4ba-d246bde5f181"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.2",
+            "objective_text": "Identify the System (what turns on).",
+            "objective_uuid": "cb08f6c1-ab9d-473e-a0f2-f5f21ab4c0f8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.3",
+            "objective_text": "Recall that apps need the system to run.",
+            "objective_uuid": "7109fba0-1ca5-41f7-8778-bd340b41adc2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.4",
+            "objective_text": "Name Windows or iOS.",
+            "objective_uuid": "cc92d87e-927c-47a9-a08d-864d741a6bfe"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.7",
+            "objective_text": "Identify Word or Chrome as Apps.",
+            "objective_uuid": "93820864-b627-44ae-85a4-dd50ed16cd1a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.5",
+            "objective_text": "Summarize System Software (OS, utilities).",
+            "objective_uuid": "d0873a05-126f-4cb3-9eba-804edef78cba"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.6",
+            "objective_text": "Explain Application Software (tasks for user).",
+            "objective_uuid": "e1a1005a-87a4-4c3f-9381-30214d4c8d00"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.12",
+            "objective_text": "Explain firmware.",
+            "objective_uuid": "20db70af-2cad-46a0-bf01-c9a646eb9477"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.15",
+            "objective_text": "Defend the necessity of the OS layer.",
+            "objective_uuid": "72c4f840-635b-468a-9435-8792097c7c7e"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.8",
+            "objective_text": "Compare the engine (system) with the radio (app).",
+            "objective_uuid": "06c95bfa-58db-46f0-923e-d8980a502beb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.9",
+            "objective_text": "Analyze the relationship between Hardware, OS, and App.",
+            "objective_uuid": "bcd1b9c9-635c-40c3-8ea7-ea629e5ff954"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.10",
+            "objective_text": "Interpret drivers (software that talks to hardware).",
+            "objective_uuid": "64857cc0-3d2e-4fa1-ab2e-7c8be50f02f8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.11",
+            "objective_text": "Connect updates to system health.",
+            "objective_uuid": "4f82e127-500c-4c42-a076-12c0f0263548"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.14",
+            "objective_text": "Evaluate the dependencies of apps on the OS.",
+            "objective_uuid": "6179790b-38e9-4b2e-8de4-6392edffec94"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.13",
+            "objective_text": "Construct a classification of installed software.",
+            "objective_uuid": "4ccfe958-0c8d-4473-bc1b-26eda9ab3b59"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.3",
+            "sub_topic_name": "System Software vs Application Software",
+            "objective_id": "CPT.2.4.3.16",
+            "objective_text": "Synthesize kernel mode vs. user mode.",
+            "objective_uuid": "c9e37219-73b9-47df-8ad2-90b760eec274"
+          }
+        ]
+      }
+    }
+  }
+}

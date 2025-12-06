@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.3.4",
+    "name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+    "topic_id": "LIF.2.3",
+    "topic_name": "Nutrition, Cooking & Food Preparation",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels) in Nutrition, Cooking & Food Preparation (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.1",
+            "objective_text": "Identify food in the store.",
+            "objective_uuid": "a2e52e7e-4a6d-450f-91bc-f0bdcdfe8631"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.8",
+            "objective_text": "Identify the expiration date.",
+            "objective_uuid": "9b4f15b7-fe89-40c3-ae16-a62eabf5ed77"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.3",
+            "objective_text": "Recall that food costs money.",
+            "objective_uuid": "270d7fcf-2352-49e6-9899-0dbd05579449"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 6,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.2",
+            "objective_text": "Distinguish between fresh and boxed food.",
+            "objective_uuid": "287c95bd-9e8b-496b-bdc8-cd193fa6d333"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.4",
+            "objective_text": "Help put items in the cart.",
+            "objective_uuid": "19650d0b-f74a-49b0-a4d9-9f8fb06a1b58"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.5",
+            "objective_text": "Summarize how to find the price tag.",
+            "objective_uuid": "f903b9d6-7023-49f6-a04c-ad9a851c910e"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.6",
+            "objective_text": "Explain why store brands are often cheaper.",
+            "objective_uuid": "d595349c-2fcb-4449-abd9-833c43b4e2bc"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.12",
+            "objective_text": "Explain how to make healthy substitutions.",
+            "objective_uuid": "43956785-6efa-4f8d-b6ac-a20030f4d96d"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.15",
+            "objective_text": "Defend ethical purchasing choices.",
+            "objective_uuid": "51d4be21-3664-449f-83ad-860432d60b64"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.7",
+            "objective_text": "Compare two boxes of cereal.",
+            "objective_uuid": "d7d4f0ab-0757-44ca-9c8e-fa1d35d99350"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.9",
+            "objective_text": "Analyze Unit Pricing (price per ounce/gram).",
+            "objective_uuid": "95d5ba94-2f91-4342-b3a4-d57c66dbafd0"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.10",
+            "objective_text": "Interpret marketing tricks on packaging.",
+            "objective_uuid": "60dbd0e1-a7b9-499b-89aa-f89fc8a90072"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.11",
+            "objective_text": "Connect seasonal availability to price.",
+            "objective_uuid": "6efe3a26-7f9a-4aa3-95e8-b99cca848c88"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.14",
+            "objective_text": "Evaluate the true cost of convenience foods.",
+            "objective_uuid": "a286004f-62e6-4dad-b928-7940d3f34ce3"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.13",
+            "objective_text": "Construct a shopping strategy to feed a group on a budget.",
+            "objective_uuid": "bee0273f-4415-4261-bff9-52795c7ca0c4"
+          },
+          {
+            "complexity": 27,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.4",
+            "sub_topic_name": "Grocery Shopping Skills (unit pricing, budgeting, substitutions, reading labels)",
+            "objective_id": "LIF.2.3.4.16",
+            "objective_text": "Synthesize nutritional knowledge with financial constraints.",
+            "objective_uuid": "df2aa181-7542-4983-bdd3-8aaa727d170a"
+          }
+        ]
+      }
+    }
+  }
+}

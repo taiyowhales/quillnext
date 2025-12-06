@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.4.3",
+    "name": "End Marks and Quotations",
+    "topic_id": "ELA.1.4",
+    "topic_name": "Punctuation, Mechanics & Usage",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for End Marks and Quotations in Punctuation, Mechanics & Usage (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.1",
+            "objective_text": "Identify a period, question mark, and exclamation point.",
+            "objective_uuid": "9c961990-549c-4a17-b9de-95abcb380972"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.8",
+            "objective_text": "Identify split quotations.",
+            "objective_uuid": "dfffd8e1-e2b4-4708-8815-b868cb66486b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.3",
+            "objective_text": "Recall that \"talking marks\" hug the words spoken.",
+            "objective_uuid": "684d73c0-4068-4bab-ba66-a4c2e93c8a92"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.4",
+            "objective_text": "Observe punctuation inside the quotes.",
+            "objective_uuid": "84ab7e8c-280d-4bef-a80d-06f34992dec9"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.2",
+            "objective_text": "Match the mark to the sentence type.",
+            "objective_uuid": "7b3aa04f-dc8f-4dc7-83d7-5fc477361a5b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.5",
+            "objective_text": "Summarize the four sentence types (Declarative, Interrogative, etc.).",
+            "objective_uuid": "06ba4094-e069-4550-b29b-abd6720b6b67"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.6",
+            "objective_text": "Explain how to punctuate dialogue.",
+            "objective_uuid": "0436b920-14b0-4b05-895c-12f26a730dbe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.7",
+            "objective_text": "Use single quotes for quotes inside quotes.",
+            "objective_uuid": "28e921c8-796c-4bbe-98c3-c47eb01fa769"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.12",
+            "objective_text": "Explain the ellipsis (...) for omitted words.",
+            "objective_uuid": "c98e2232-8f79-4767-a26e-d92a0e0dc962"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.15",
+            "objective_text": "Defend the integrity of quoting sources accurately.",
+            "objective_uuid": "b598eca7-08c4-4c41-8a89-20600fdf63d9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.9",
+            "objective_text": "Analyze the placement of periods/commas inside quotes (US standard).",
+            "objective_uuid": "7b5f1758-a363-4875-ba22-31464f4e7cf8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.10",
+            "objective_text": "Interpret the use of block quotes for long passages.",
+            "objective_uuid": "b0a84775-e42a-4612-a603-bbad5ff9af07"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.11",
+            "objective_text": "Connect exclamation points to emotion (use sparingly).",
+            "objective_uuid": "138cb1b0-9cee-4b96-ab25-2bfa08fc2d61"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.14",
+            "objective_text": "Evaluate the use of the interrobang (?!) or informal marks.",
+            "objective_uuid": "458081e5-6491-45a9-92c9-02a55c9fc2ac"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.13",
+            "objective_text": "Construct a dialogue with perfect mechanics.",
+            "objective_uuid": "991c7d52-61c7-4379-b480-e927904241bb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.3",
+            "sub_topic_name": "End Marks and Quotations",
+            "objective_id": "ELA.1.4.3.16",
+            "objective_text": "Synthesize citations with quotation mechanics.",
+            "objective_uuid": "b0bfe17b-40f9-4ffc-a6c3-8a10d643e06e"
+          }
+        ]
+      }
+    }
+  }
+}

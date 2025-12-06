@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.1",
+    "name": "Cosmology",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Cosmology in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.1",
+            "objective_text": "Identify 'In the Beginning God created'.",
+            "objective_uuid": "46b508cd-f0fc-4c19-a4e9-7aacd7f75724"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.2",
+            "objective_text": "Name the Big Bang as a scientific idea.",
+            "objective_uuid": "fd31f5e8-5a53-4e00-a4b2-2f6471689e8d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.8",
+            "objective_text": "Identify the 'Fine Tuning' of the universe.",
+            "objective_uuid": "b059cc23-d1af-4720-9f5c-d7aa4a6ea312"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.3",
+            "objective_text": "Recall that God spoke and it happened.",
+            "objective_uuid": "dcd61cda-a77a-46fa-89f4-7dbe701695a3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.4",
+            "objective_text": "Observe that the world follows rules.",
+            "objective_uuid": "b58f40bf-7d6e-436a-aa7a-cd9153179798"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.5",
+            "objective_text": "Summarize the Big Bang theory (expansion from a point).",
+            "objective_uuid": "24cc040b-e6dd-4263-b5d6-2f4ca7e71cfa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.6",
+            "objective_text": "Explain that the universe has a birthday.",
+            "objective_uuid": "3925895e-a0c0-48bc-b9e9-64d812d619c1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.12",
+            "objective_text": "Explain the Anthropic Principle.",
+            "objective_uuid": "ab613542-a404-44c2-be91-e05f8ab311a2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.15",
+            "objective_text": "Defend the Kalam Cosmological Argument.",
+            "objective_uuid": "4b8b9c49-3cb8-4708-9e2a-db69ad74a6c4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.11",
+            "objective_text": "Connect the beginning of the universe to the need for a Creator.",
+            "objective_uuid": "1286655f-e4f1-4b0f-ba1c-0a366bc720e3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.7",
+            "objective_text": "Compare the biblical account with secular models.",
+            "objective_uuid": "953b4b76-8148-46fc-828c-7b134f902c84"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.9",
+            "objective_text": "Analyze Red Shift as evidence for expansion.",
+            "objective_uuid": "095e5be6-f963-4e0e-a1f2-b4735d72b741"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.10",
+            "objective_text": "Interpret the Cosmic Microwave Background radiation.",
+            "objective_uuid": "173d6e02-e9f9-45da-8293-a5d82d92ae4e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.14",
+            "objective_text": "Evaluate the 'Multiverse' theory as a philosophical escape.",
+            "objective_uuid": "6e5d9f98-8fa3-4437-be22-f5f4b1279c3b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.13",
+            "objective_text": "Construct a comparison of Big Bang cosmology and Biblical creation.",
+            "objective_uuid": "103e1c90-8598-480b-826c-974b7133b6fc"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.1",
+            "sub_topic_name": "Cosmology",
+            "objective_id": "SCI.5.1.1.16",
+            "objective_text": "Synthesize scientific data with theological truth.",
+            "objective_uuid": "8d0bbc9f-b3f3-4f10-b41e-4395c4ca5a08"
+          }
+        ]
+      }
+    }
+  }
+}

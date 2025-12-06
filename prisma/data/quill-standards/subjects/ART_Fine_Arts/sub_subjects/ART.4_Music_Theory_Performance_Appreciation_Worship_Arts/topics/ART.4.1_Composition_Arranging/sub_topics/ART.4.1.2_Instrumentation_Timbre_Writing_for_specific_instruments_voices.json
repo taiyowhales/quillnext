@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ART.4.1.2",
+    "name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+    "topic_id": "ART.4.1",
+    "topic_name": "Composition & Arranging",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Instrumentation & Timbre (Writing for specific instruments/voices) in Composition & Arranging (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.1",
+            "objective_text": "Identify the sound of a trumpet, violin, and drum.",
+            "objective_uuid": "e1dedad1-94b0-4cf7-8c15-0e494500d667"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.2",
+            "objective_text": "Name 'Timbre' as the color of the sound.",
+            "objective_uuid": "4b546cbe-98b4-47d0-90af-c70ea10874db"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.8",
+            "objective_text": "Identify percussion instruments.",
+            "objective_uuid": "0ab35fed-58af-47eb-bacc-3332525e294d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.3",
+            "objective_text": "Recall that big instruments sound low.",
+            "objective_uuid": "ece3d07f-e846-4afa-a14e-a525c8d058e4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.4",
+            "objective_text": "Observe families of instruments (Strings, Brass, etc.).",
+            "objective_uuid": "0d2749dd-91dc-4dcd-ab2f-025f95d2bb95"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.12",
+            "objective_text": "Explain orchestration basics.",
+            "objective_uuid": "b1a0148d-ff3a-4842-b10c-29b64aa96ba1"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.5",
+            "objective_text": "Summarize the range of Soprano, Alto, Tenor, Bass.",
+            "objective_uuid": "f52402b6-8fb2-4286-8a94-9d85f058ac33"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.6",
+            "objective_text": "Explain why a flute sounds different from a clarinet.",
+            "objective_uuid": "79043b52-dec4-4cb6-a606-5db2193c7206"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.7",
+            "objective_text": "Choose instruments to tell a story (e.g., Peter and the Wolf).",
+            "objective_uuid": "46be4300-2ad5-43d5-8ec4-ecc5388ba7ef"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.15",
+            "objective_text": "Defend choices of instrumentation based on genre.",
+            "objective_uuid": "d1f0726a-adc4-43d1-9728-6d156c818b83"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.9",
+            "objective_text": "Analyze the transposing nature of some instruments (e.g., Bb Trumpet).",
+            "objective_uuid": "e713126d-ce04-4215-b662-ca32c33a5afd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.10",
+            "objective_text": "Interpret the capabilities and limitations of instruments.",
+            "objective_uuid": "632abaa1-aef9-40cf-bb45-8a8f7ae65024"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.11",
+            "objective_text": "Connect timbre to mood.",
+            "objective_uuid": "d8407a65-841e-4938-965b-621fe2ac7fea"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.14",
+            "objective_text": "Evaluate the balance and blend of instrumental colors.",
+            "objective_uuid": "40657fe6-a54c-48f1-ac7b-a604cffc447a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.13",
+            "objective_text": "Construct an arrangement for a specific ensemble.",
+            "objective_uuid": "563210fe-2ca9-461d-88ed-97191f4f9c06"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.2",
+            "sub_topic_name": "Instrumentation & Timbre (Writing for specific instruments/voices)",
+            "objective_id": "ART.4.1.2.16",
+            "objective_text": "Synthesize knowledge of range and timbre in arranging.",
+            "objective_uuid": "6509dd11-9cf2-4e15-b6fe-b91cc78ca4fd"
+          }
+        ]
+      }
+    }
+  }
+}

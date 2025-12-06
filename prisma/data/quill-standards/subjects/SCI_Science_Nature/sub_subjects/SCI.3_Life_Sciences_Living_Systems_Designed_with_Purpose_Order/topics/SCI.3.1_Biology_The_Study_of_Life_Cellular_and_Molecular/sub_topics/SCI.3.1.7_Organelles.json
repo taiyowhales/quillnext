@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.3.1.7",
+    "name": "Organelles",
+    "topic_id": "SCI.3.1",
+    "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.3",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Organelles in Biology: The Study of Life (Cellular and Molecular) (Science & Nature)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.1",
+            "objective_text": "Identify the 'parts' inside a cell.",
+            "objective_uuid": "7fb38643-978f-4ce9-9400-0dd539c4608f"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.2",
+            "objective_text": "Name the Nucleus as the brain of the cell.",
+            "objective_uuid": "fc89d2c1-fad0-42c2-b0ac-bbfefc353c1a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.8",
+            "objective_text": "Identify the Cytoplasm (jelly).",
+            "objective_uuid": "540868f2-d797-4d65-94b0-b3541520265c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.3",
+            "objective_text": "Recall that cells need energy.",
+            "objective_uuid": "79bb7883-ac89-46fc-b3fd-7d9932d0feb1"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.4",
+            "objective_text": "Observe a cell model.",
+            "objective_uuid": "d2b55c5f-835c-4391-a7b4-c3efaa228c31"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.5",
+            "objective_text": "Summarize the job of the Cell Membrane (gatekeeper).",
+            "objective_uuid": "e6128837-d908-4d7d-ae5c-c3aaf7ba6879"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.6",
+            "objective_text": "Explain that Mitochondria make energy (powerhouse).",
+            "objective_uuid": "9b9568bc-ae43-45c7-ab69-18a7502951d3"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.12",
+            "objective_text": "Explain the fluid mosaic model of the membrane.",
+            "objective_uuid": "cd0aa41e-5de5-40ef-9dfc-e85de0a4a9aa"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.15",
+            "objective_text": "Defend the argument from design based on molecular machines (e.g., ATP Synthase).",
+            "objective_uuid": "c5991e2e-efc2-40d5-9d8c-4637bad46e21"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.7",
+            "objective_text": "Compare Plant cells (Cell Wall, Chloroplasts) with Animal cells.",
+            "objective_uuid": "5e399c1a-d764-4f9c-8cbf-8962546d4bb0"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.9",
+            "objective_text": "Analyze the protein production line (Ribosome -> ER -> Golgi).",
+            "objective_uuid": "41d9f897-2d78-4b1c-8cee-3a8beb0a0f1b"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.10",
+            "objective_text": "Interpret the function of Lysosomes (cleanup crew).",
+            "objective_uuid": "d0cb3e1d-01a5-48a8-a3a8-330c7e5919d3"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.11",
+            "objective_text": "Connect the Vacuole to plant turgor pressure.",
+            "objective_uuid": "4ff9d361-e505-4c75-9e8f-75cbad4e9030"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.14",
+            "objective_text": "Evaluate the relationship between structure and function in organelles.",
+            "objective_uuid": "a18caad1-2253-4a7b-8e52-fd545098a8b7"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.13",
+            "objective_text": "Construct a detailed map of cellular metabolism.",
+            "objective_uuid": "c5cd5094-c0bf-48df-8708-69339ebbf2e2"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.1",
+            "topic_name": "Biology: The Study of Life (Cellular and Molecular)",
+            "sub_topic_id": "SCI.3.1.7",
+            "sub_topic_name": "Organelles",
+            "objective_id": "SCI.3.1.7.16",
+            "objective_text": "Synthesize the interdependency of organelles for cell survival.",
+            "objective_uuid": "7da19ade-8c11-4951-8474-4e0f1a9406a6"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.2.4",
+    "name": "Large Language Models (transformers, tokens, context windows)",
+    "topic_id": "CPT.7.2",
+    "topic_name": "Artificial Intelligence & Machine Learning",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Large Language Models (transformers, tokens, context windows) in Artificial Intelligence & Machine Learning (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.1",
+            "objective_text": "Identify a computer talking.",
+            "objective_uuid": "8adb84ee-0315-4afc-910b-69c95994a191"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.3",
+            "objective_text": "Recall that the computer guesses the next word.",
+            "objective_uuid": "67647ccb-b1a4-4adc-a66c-20b29c121735"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.4",
+            "objective_text": "Name a chatbot.",
+            "objective_uuid": "cb048d44-62fe-44cd-b533-eaf2f82a458e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.7",
+            "objective_text": "Identify a 'Token' (part of a word).",
+            "objective_uuid": "47e01214-465e-4cff-8ebc-80c53cf7d181"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.2",
+            "objective_text": "Ask a smart speaker a question.",
+            "objective_uuid": "b437c3e1-4060-4b84-8d66-2d5118c92893"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.5",
+            "objective_text": "Summarize Autocomplete (predicting text).",
+            "objective_uuid": "9722417d-a80a-4b08-985f-c63feec28631"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.6",
+            "objective_text": "Explain that LLMs read the whole internet to learn.",
+            "objective_uuid": "26253fa5-8809-4bb8-8b73-4e85126646ef"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.8",
+            "objective_text": "Interact with a kid-safe AI text generator.",
+            "objective_uuid": "01a4fd74-b966-4fac-a935-f376d1239af9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.12",
+            "objective_text": "Explain hallucinations (making things up).",
+            "objective_uuid": "e5f83f7f-3106-4937-ada3-880424f80776"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.15",
+            "objective_text": "Defend the difference between syntax (grammar) and semantics (meaning).",
+            "objective_uuid": "16aee25a-67b3-4a7a-aa25-f265cc8f1b77"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.9",
+            "objective_text": "Analyze the probability of the next token.",
+            "objective_uuid": "1aa107e4-b733-41b8-b282-dbf4960fbc53"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.10",
+            "objective_text": "Interpret 'Context Window' (memory span).",
+            "objective_uuid": "47e9bd4f-53b3-46fb-bf5f-f0d1a8735c71"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.11",
+            "objective_text": "Connect Transformers to attention mechanisms (focusing on words).",
+            "objective_uuid": "d0c3f01b-1782-4b67-a7f9-cf7b4ddb6435"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.14",
+            "objective_text": "Evaluate the limitations of stochastic parrots.",
+            "objective_uuid": "9dd766c3-c30b-4349-a57d-df119e36385e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.16",
+            "objective_text": "Synthesize Natural Language Processing (NLP) history.",
+            "objective_uuid": "4042bba3-2736-4a24-a93f-50e096a1d5de"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.4",
+            "sub_topic_name": "Large Language Models (transformers, tokens, context windows)",
+            "objective_id": "CPT.7.2.4.13",
+            "objective_text": "Construct a prompt engineering strategy.",
+            "objective_uuid": "86376e18-d4b6-4df2-bec0-35eb145af575"
+          }
+        ]
+      }
+    }
+  }
+}

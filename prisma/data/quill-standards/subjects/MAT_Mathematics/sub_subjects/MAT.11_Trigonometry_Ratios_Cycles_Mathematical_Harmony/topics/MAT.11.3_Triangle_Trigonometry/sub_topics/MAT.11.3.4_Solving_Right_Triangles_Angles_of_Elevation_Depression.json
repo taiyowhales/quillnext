@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.3.4",
+    "name": "Solving Right Triangles (Angles of Elevation/Depression)",
+    "topic_id": "MAT.11.3",
+    "topic_name": "Triangle Trigonometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving Right Triangles (Angles of Elevation/Depression) in Triangle Trigonometry (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 10,
+        "average_complexity": 14.2,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.1",
+            "objective_text": "Identify looking up (elevation) and looking down (depression).",
+            "objective_uuid": "2fa49dc1-bdb0-4c64-9629-53c2a7a4c5a2"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.8",
+            "objective_text": "Identify the right angle in real-world problems.",
+            "objective_uuid": "e59d43e7-d1bc-4788-8af4-6ce3035e6551"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.3",
+            "objective_text": "Recall that we measure how high things are.",
+            "objective_uuid": "875b1004-fe13-4a53-b46d-9fc82b6a8745"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.4",
+            "objective_text": "Observe shadows.",
+            "objective_uuid": "640068e9-c56c-431a-ad54-5aa877f51f37"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.2",
+            "objective_text": "Draw a line from the eye to a bird.",
+            "objective_uuid": "29450c0b-4c5a-4f9e-b477-5d79d0d3d607"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.5",
+            "objective_text": "Summarize finding a missing side if we know the ratio.",
+            "objective_uuid": "f5d8daaf-09f4-4860-b996-6168b7e09f58"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.6",
+            "objective_text": "Explain how shadows help measure tall trees.",
+            "objective_uuid": "5679cc8b-dd5c-444a-977c-b398b9c460cc"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.7",
+            "objective_text": "Draw a diagram of a ladder against a wall.",
+            "objective_uuid": "11aae90a-ab26-4690-9ca7-4e4dc3d9e45c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.12",
+            "objective_text": "Explain why the angle of depression equals the angle of elevation (alternate interior).",
+            "objective_uuid": "5b523868-f3ae-4cf6-8873-0670d676296f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.15",
+            "objective_text": "Defend the validity of the calculated result.",
+            "objective_uuid": "d96ac199-4710-47fe-a50b-b0290e1f2127"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 19.75,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.9",
+            "objective_text": "Analyze word problems to draw the correct triangle.",
+            "objective_uuid": "86f58619-98cd-48f0-9f83-853e9245f063"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.10",
+            "objective_text": "Interpret inverse trig functions ($sin^{-1}$) to find angles.",
+            "objective_uuid": "c6ed9b95-65f1-4586-9a83-0cbd11574ff1"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.11",
+            "objective_text": "Connect angle of elevation to height.",
+            "objective_uuid": "2943808c-03e0-4a82-84c9-abf83c633285"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.14",
+            "objective_text": "Evaluate the precision of indirect measurement.",
+            "objective_uuid": "f7edeb38-998d-49a5-bbe5-f5ef6897d0b2"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 27.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.13",
+            "objective_text": "Construct solutions for complex multi-step problems.",
+            "objective_uuid": "20db9378-9bf1-4cd6-b281-e4aab4ab1f7d"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.4",
+            "sub_topic_name": "Solving Right Triangles (Angles of Elevation/Depression)",
+            "objective_id": "MAT.11.3.4.16",
+            "objective_text": "Synthesize geometry proofs with trigonometric calculation.",
+            "objective_uuid": "58190970-255e-43c7-a172-c15167be4100"
+          }
+        ]
+      }
+    }
+  }
+}

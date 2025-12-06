@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.4.3",
+    "name": "Fact Fluency (automatic recall of facts)",
+    "topic_id": "MAT.4.4",
+    "topic_name": "Operations with Whole Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fact Fluency (automatic recall of facts) in Operations with Whole Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.3",
+            "objective_text": "Identify 'friends of ten' (e.g., 6 and 4).",
+            "objective_uuid": "cd338f55-e42a-4671-ad8c-aa44c63faf39"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.1",
+            "objective_text": "Recall sums to 10 instantly.",
+            "objective_uuid": "750fda50-1a4e-43dc-938b-b53d446a4644"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.2",
+            "objective_text": "Recall doubles facts.",
+            "objective_uuid": "4cf76415-d2e3-42a1-91ef-d609b3fe41ab"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.6",
+            "objective_text": "Recall division facts.",
+            "objective_uuid": "4dea27ea-1999-4b07-930d-10bbe2226f2e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.4",
+            "objective_text": "Practice with flashcards.",
+            "objective_uuid": "ebfc160a-218f-4605-a672-839f35f9ae48"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.5",
+            "objective_text": "Summarize multiplication tables 0-12.",
+            "objective_uuid": "a5c0673c-3b93-4e57-b6cc-cfb58edcd71d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.7",
+            "objective_text": "Explain related facts (fact families).",
+            "objective_uuid": "03ff272c-c082-4a1a-8b56-b663562619a5"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.8",
+            "objective_text": "Practice speed and accuracy.",
+            "objective_uuid": "518634b3-a367-41bf-ade1-52f537832dd9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.12",
+            "objective_text": "Explain mental math shortcuts.",
+            "objective_uuid": "fa180b84-ee00-4b4f-a654-ae4fbf1a1858"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.15",
+            "objective_text": "Defend the value of memorization in a digital age.",
+            "objective_uuid": "e6af4609-f52e-4511-acb1-969b79916807"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.9",
+            "objective_text": "Analyze prime factorization speed.",
+            "objective_uuid": "b435e3b3-9c55-4167-a6e4-7d28729175f5"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.10",
+            "objective_text": "Interpret perfect squares and cubes recall.",
+            "objective_uuid": "645933c0-bea9-4cfc-a14f-7f87ab991343"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.11",
+            "objective_text": "Connect fluency to cognitive load reduction.",
+            "objective_uuid": "666a148e-73ed-4e6c-b607-5827cf10753f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.14",
+            "objective_text": "Evaluate trigonometric ratios from memory.",
+            "objective_uuid": "fc462a89-a5a6-491b-bd58-b8d045f780ec"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.13",
+            "objective_text": "Construct mental estimates for complex roots.",
+            "objective_uuid": "07362c39-cfc8-4285-95b0-b223f529fda4"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.3",
+            "sub_topic_name": "Fact Fluency (automatic recall of facts)",
+            "objective_id": "MAT.4.4.3.16",
+            "objective_text": "Synthesize fluency with high-level problem solving.",
+            "objective_uuid": "9eccd967-8d16-4cd3-8640-f232bbab6d68"
+          }
+        ]
+      }
+    }
+  }
+}

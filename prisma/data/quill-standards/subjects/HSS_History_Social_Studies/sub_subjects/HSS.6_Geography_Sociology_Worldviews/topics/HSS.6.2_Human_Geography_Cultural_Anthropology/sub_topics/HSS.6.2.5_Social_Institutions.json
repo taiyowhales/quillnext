@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.6.2.5",
+    "name": "Social Institutions",
+    "topic_id": "HSS.6.2",
+    "topic_name": "Human Geography & Cultural Anthropology",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.6",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Social Institutions in Human Geography & Cultural Anthropology (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.1",
+            "objective_text": "Identify School, Church, and Home.",
+            "objective_uuid": "ebad1b5f-9911-496a-b1db-98c17fb06a83"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.2",
+            "objective_text": "Name the Police and Government.",
+            "objective_uuid": "7d3ebedb-302e-467d-83d1-411541eefd72"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.8",
+            "objective_text": "Identify how money works (Economy).",
+            "objective_uuid": "7fbf9f1f-5773-41ba-8001-92f9833b2819"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.3",
+            "objective_text": "Recall that rules help us live together.",
+            "objective_uuid": "e3973338-4632-4b76-8109-48737c43c23e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.4",
+            "objective_text": "Observe that we belong to groups.",
+            "objective_uuid": "9dc58cc1-857d-43e6-9353-e3b6ba7b1b6b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.5",
+            "objective_text": "Summarize the five main institutions: Family, Religion, Education, Economy, Government.",
+            "objective_uuid": "0cd171ad-f632-4a7b-9261-c5ca2dd45c42"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.6",
+            "objective_text": "Explain what schools do for society.",
+            "objective_uuid": "86b205da-bf81-41eb-8dad-c638fc653d5d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.12",
+            "objective_text": "Explain 'Civil Society' (clubs, charities).",
+            "objective_uuid": "95b9dd5d-f732-4496-8d6b-18425e8576d3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.15",
+            "objective_text": "Defend the necessity of strong institutions for liberty.",
+            "objective_uuid": "adc0335d-9b71-4aae-b9b4-672953d5e34f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.7",
+            "objective_text": "Compare the role of the Church with the role of the Government.",
+            "objective_uuid": "38d85fdf-9193-4b12-8dc5-4963a169affd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.9",
+            "objective_text": "Analyze the function of institutions in maintaining order.",
+            "objective_uuid": "2ae7371b-d243-42d8-a1af-d099681bb3e9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.10",
+            "objective_text": "Interpret how institutions pass on values.",
+            "objective_uuid": "e229994d-4a73-4863-9682-625ebd7c0e92"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.11",
+            "objective_text": "Connect the breakdown of the family to crime.",
+            "objective_uuid": "56a06710-8ac5-4b9a-bcb7-4faa8fce9142"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.14",
+            "objective_text": "Evaluate the state's encroachment on the family and church.",
+            "objective_uuid": "e6ba6d69-a419-4aee-bd09-58edd589494f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.13",
+            "objective_text": "Construct a theory of 'Sphere Sovereignty' (Abraham Kuyper).",
+            "objective_uuid": "e30be44a-bf33-4556-a868-2cb3a68bba48"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.2",
+            "topic_name": "Human Geography & Cultural Anthropology",
+            "sub_topic_id": "HSS.6.2.5",
+            "sub_topic_name": "Social Institutions",
+            "objective_id": "HSS.6.2.5.16",
+            "objective_text": "Synthesize the interplay between religious belief and economic systems (Weber).",
+            "objective_uuid": "db287fc3-98f4-43dc-baa9-07b81e30aada"
+          }
+        ]
+      }
+    }
+  }
+}

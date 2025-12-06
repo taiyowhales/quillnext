@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.5.3",
+    "name": "Number Lines and Ordering Numbers",
+    "topic_id": "MAT.4.5",
+    "topic_name": "Place Value & Base-Ten Understanding",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Number Lines and Ordering Numbers in Place Value & Base-Ten Understanding (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.1",
+            "objective_text": "Identify numbers in order on a line.",
+            "objective_uuid": "5ae7cbad-123a-4023-8a2f-1f3375849e44"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.8",
+            "objective_text": "Identify decimals on a ruler.",
+            "objective_uuid": "4aa32570-2bf3-4ffd-b0bc-9dc9e1e5b410"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.3",
+            "objective_text": "Recall that numbers to the right are bigger.",
+            "objective_uuid": "f49fa180-0101-4950-972e-552ebe5b09a0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.2",
+            "objective_text": "Hop forward to add, back to subtract.",
+            "objective_uuid": "6b3a67ed-01a4-447d-81cf-9aa1f6230c17"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.4",
+            "objective_text": "Place a missing number on a line.",
+            "objective_uuid": "48332c9d-ac79-4abb-9208-7bc6f1bb4170"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.5",
+            "objective_text": "Summarize how to place fractions on a number line.",
+            "objective_uuid": "bb949495-e98f-4493-a8a2-2ef160d2edeb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.6",
+            "objective_text": "Explain the midpoint between two numbers.",
+            "objective_uuid": "842e730e-188a-4f0a-acb8-51fed237e512"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.7",
+            "objective_text": "Order a set of mixed numbers.",
+            "objective_uuid": "a2d64895-fe17-435a-82a3-309263266eaf"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.12",
+            "objective_text": "Explain magnitude.",
+            "objective_uuid": "7a7a180e-74bd-4776-b535-2025a33d95e5"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.9",
+            "objective_text": "Analyze the number line including negatives.",
+            "objective_uuid": "f5f2581c-b5eb-4cd6-a541-f7d4d631fbc6"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.10",
+            "objective_text": "Interpret the density of numbers between integers.",
+            "objective_uuid": "91df5e45-1d67-4176-a629-0f0173b975cb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.11",
+            "objective_text": "Connect absolute value to distance from zero.",
+            "objective_uuid": "b1ac1b81-669e-447d-94f5-f604dfe8d56c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.15",
+            "objective_text": "Defend the number line as a geometric representation of algebra.",
+            "objective_uuid": "d7791f5e-e4f9-4afc-a4be-6499e05f77c3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.14",
+            "objective_text": "Evaluate the completeness axiom of the real number line.",
+            "objective_uuid": "09280661-228e-4e28-bc00-bdda2f65c8c0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.13",
+            "objective_text": "Construct a number line showing real and irrational numbers.",
+            "objective_uuid": "b192cde3-246d-4c19-943b-4aec030fc484"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.3",
+            "sub_topic_name": "Number Lines and Ordering Numbers",
+            "objective_id": "MAT.4.5.3.16",
+            "objective_text": "Synthesize interval notation with number line graphing.",
+            "objective_uuid": "3a627fa7-9164-47cc-8a80-3c45fd02ddce"
+          }
+        ]
+      }
+    }
+  }
+}

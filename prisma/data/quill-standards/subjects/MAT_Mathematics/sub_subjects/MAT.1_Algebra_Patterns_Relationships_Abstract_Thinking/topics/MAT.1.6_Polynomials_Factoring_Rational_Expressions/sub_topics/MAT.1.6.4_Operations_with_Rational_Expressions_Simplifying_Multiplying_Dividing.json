@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.6.4",
+    "name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+    "topic_id": "MAT.1.6",
+    "topic_name": "Polynomials, Factoring & Rational Expressions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Operations with Rational Expressions (Simplifying, Multiplying, Dividing) in Polynomials, Factoring & Rational Expressions (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.1",
+            "objective_text": "Identify a fraction.",
+            "objective_uuid": "d59d2929-ecaf-4974-9cc3-8935658408db"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.8",
+            "objective_text": "Identify the reciprocal.",
+            "objective_uuid": "23f7fddc-3c10-4447-be76-c17177e7301a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.3",
+            "objective_text": "Recall dividing.",
+            "objective_uuid": "f0e08290-bd8e-4d6d-b2ad-fbdc8625adcb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.4",
+            "objective_text": "Observe parts of a whole.",
+            "objective_uuid": "f37ea84c-a943-4037-a077-7570d2182425"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 11.83,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.2",
+            "objective_text": "Simplify a fraction (make numbers smaller).",
+            "objective_uuid": "73b08a6b-cef1-4cfe-a02f-12962b670baf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.5",
+            "objective_text": "Summarize simplifying fractions with variables.",
+            "objective_uuid": "7dd9f2e1-2857-4671-b4ee-b4ee8935478e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.6",
+            "objective_text": "Explain that we can cancel common factors.",
+            "objective_uuid": "c27f8338-86b0-450d-ab3e-a18c3824cd9a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.7",
+            "objective_text": "Multiply fractions straight across.",
+            "objective_uuid": "7bf468a6-0bec-40d6-8d49-7770027e45b8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.12",
+            "objective_text": "Explain Least Common Denominator for rational sums.",
+            "objective_uuid": "cead3217-b0fe-47f2-9a2c-311d09548df8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.15",
+            "objective_text": "Defend the logic of extraneous solutions.",
+            "objective_uuid": "648a3bb7-9089-499d-a355-9d2a65cbc5b5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.9",
+            "objective_text": "Analyze domain restrictions (denominator cannot be 0).",
+            "objective_uuid": "63e75f8f-e971-4034-8765-0a730b4af2f5"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.10",
+            "objective_text": "Interpret simplifying rational expressions.",
+            "objective_uuid": "b0e984f3-d5d0-4a63-8f7e-26491a9360b1"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.11",
+            "objective_text": "Connect factoring to simplifying.",
+            "objective_uuid": "29abdcf1-1e61-4363-8f0b-12df70ab6c76"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.14",
+            "objective_text": "Evaluate limits of rational functions.",
+            "objective_uuid": "07557241-947b-4341-9e52-f85f6a143955"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.13",
+            "objective_text": "Construct solutions to complex rational equations.",
+            "objective_uuid": "18ce66bb-7857-4879-83fc-83f179f2f57b"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.4",
+            "sub_topic_name": "Operations with Rational Expressions (Simplifying, Multiplying, Dividing)",
+            "objective_id": "MAT.1.6.4.16",
+            "objective_text": "Synthesize asymptotic behavior.",
+            "objective_uuid": "2f92e040-9c63-4dbd-8800-8a5be35f623e"
+          }
+        ]
+      }
+    }
+  }
+}

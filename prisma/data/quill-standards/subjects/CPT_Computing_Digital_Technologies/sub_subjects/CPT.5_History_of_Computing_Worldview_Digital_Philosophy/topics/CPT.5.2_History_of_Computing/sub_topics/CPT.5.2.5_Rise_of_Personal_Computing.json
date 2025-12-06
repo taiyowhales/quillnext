@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.2.5",
+    "name": "Rise of Personal Computing",
+    "topic_id": "CPT.5.2",
+    "topic_name": "History of Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Rise of Personal Computing in History of Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.1",
+            "objective_text": "Identify a big computer (room size).",
+            "objective_uuid": "56068c61-83db-4e45-af40-3bb1bc8c558d"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.2",
+            "objective_text": "Name a small computer (desktop).",
+            "objective_uuid": "7af80af9-61f1-4cfa-93dc-b61b879b796e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.7",
+            "objective_text": "Identify Steve Jobs and Bill Gates.",
+            "objective_uuid": "85f816b5-823e-4f1a-a720-f0c464075971"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.3",
+            "objective_text": "Recall that computers got smaller.",
+            "objective_uuid": "1dd1198d-712a-4c07-a2e5-a3a08d2d68bc"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.4",
+            "objective_text": "Observe a mouse and keyboard.",
+            "objective_uuid": "56a907f2-f4e7-4531-afaf-9d5b3d38f582"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.5",
+            "objective_text": "Summarize the Homebrew Computer Club.",
+            "objective_uuid": "d6199e93-fd3d-42a8-a281-1ea6dabb93ab"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.6",
+            "objective_text": "Explain the GUI (windows and icons).",
+            "objective_uuid": "6523c216-d05c-49b7-879f-8ed4e7c7bba9"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.12",
+            "objective_text": "Explain the democratization of computing.",
+            "objective_uuid": "c5d4339d-d169-4b43-bada-695e67db87c0"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.15",
+            "objective_text": "Defend the social change caused by personal tech.",
+            "objective_uuid": "d159dde4-cbba-40b3-baff-1a366d8cb090"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.8",
+            "objective_text": "Compare command line (typing) vs. clicking.",
+            "objective_uuid": "56637f93-eb43-462c-8e3f-c505031982b8"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.9",
+            "objective_text": "Analyze the impact of the Apple II and IBM PC.",
+            "objective_uuid": "cf2caddb-732d-45a9-b882-b8f4c4836983"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.10",
+            "objective_text": "Interpret Moore's Law (doubling power).",
+            "objective_uuid": "77912979-02fa-4d6d-9d9c-306004ba9e68"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.11",
+            "objective_text": "Connect the microprocessor to accessibility.",
+            "objective_uuid": "a74742b4-bcff-4061-8702-68e870dcac84"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.14",
+            "objective_text": "Evaluate the business strategies of Microsoft vs. Apple.",
+            "objective_uuid": "4449a7e5-66e6-4551-a4fa-45c93d472bf9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.13",
+            "objective_text": "Construct an analysis of the 'PC Revolution'.",
+            "objective_uuid": "a56d704c-e84e-45ce-ae0d-ef4f01d83867"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.5",
+            "sub_topic_name": "Rise of Personal Computing",
+            "objective_id": "CPT.5.2.5.16",
+            "objective_text": "Synthesize hardware evolution with software markets.",
+            "objective_uuid": "646cbaab-2a98-44de-a1ab-3b890267fcff"
+          }
+        ]
+      }
+    }
+  }
+}

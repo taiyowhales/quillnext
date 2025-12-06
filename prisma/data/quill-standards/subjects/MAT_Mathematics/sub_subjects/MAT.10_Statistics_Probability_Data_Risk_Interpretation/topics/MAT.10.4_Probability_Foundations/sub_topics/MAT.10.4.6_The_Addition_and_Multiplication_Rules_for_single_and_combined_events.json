@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.4.6",
+    "name": "The Addition and Multiplication Rules (for single and combined events)",
+    "topic_id": "MAT.10.4",
+    "topic_name": "Probability Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Addition and Multiplication Rules (for single and combined events) in Probability Foundations (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.1",
+            "objective_text": "Identify 'And' vs. 'Or'.",
+            "objective_uuid": "d94c67fc-fa0d-4264-b2cf-1125fab11a58"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.2",
+            "objective_text": "Name 'Pick a red card OR a blue card'.",
+            "objective_uuid": "b1160d82-01d9-4a2e-b171-11e1b2848661"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.8",
+            "objective_text": "Identify mutually exclusive events (can't happen at same time).",
+            "objective_uuid": "e0023c51-083d-4ca9-9b39-9a1d0ba94591"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.33,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.3",
+            "objective_text": "Recall adding choices together.",
+            "objective_uuid": "3e9413b5-e33b-43f4-bdf0-9e5ddda9efdc"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.4",
+            "objective_text": "Observe combined groups.",
+            "objective_uuid": "858ac2e5-596f-4791-aac1-cc88dcda80d4"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.7",
+            "objective_text": "Multiply simple chances ($1/2 \\times 1/2 = 1/4$).",
+            "objective_uuid": "65fcb03a-813a-4e60-824d-6e7f537baab3"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 6.75,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.15",
+            "objective_text": "Defend the logic of the intersection subtraction.",
+            "objective_uuid": "ac249c7c-31eb-4e8c-aa48-fc8803998a88"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.5",
+            "objective_text": "Summarize adding probabilities for 'Or' events.",
+            "objective_uuid": "43d767d1-6ddd-423c-936d-02f225c24d96"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.6",
+            "objective_text": "Explain that $P(A) + P(Not A) = 1$.",
+            "objective_uuid": "d4008345-fef9-4d20-8de4-a30d5a9a7ce0"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.12",
+            "objective_text": "Explain the Addition Rule ($P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$).",
+            "objective_uuid": "cc1ae023-6f20-44d1-95e8-f74e37b49655"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.9",
+            "objective_text": "Analyze Independent vs. Dependent events.",
+            "objective_uuid": "1b9b3182-21f0-4ce9-82af-d3577952a79f"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.10",
+            "objective_text": "Interpret the Multiplication Rule for independent events ($P(A \\text{ and } B)$).",
+            "objective_uuid": "b7ffe281-b746-402a-bb1a-34cab32bf0d1"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.11",
+            "objective_text": "Connect 'without replacement' to changing probability.",
+            "objective_uuid": "afae9903-0913-44c1-9b0c-fcf00e027d5c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.14",
+            "objective_text": "Evaluate $P(A | B)$ logic.",
+            "objective_uuid": "3af748b2-230b-428e-b20d-3f4b4932292c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.13",
+            "objective_text": "Construct probability trees for complex dependent events.",
+            "objective_uuid": "29b124c0-2536-4d6e-bf6d-27999b62afe2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.6",
+            "sub_topic_name": "The Addition and Multiplication Rules (for single and combined events)",
+            "objective_id": "MAT.10.4.6.16",
+            "objective_text": "Synthesize combinatorial formulas with probability rules.",
+            "objective_uuid": "3712250e-867e-4dc5-b19d-42c1d1d93754"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.5.2",
+    "name": "Hyperbolic Geometry (Saddle Shapes)",
+    "topic_id": "MAT.5.5",
+    "topic_name": "Non-Euclidean Geometry (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Hyperbolic Geometry (Saddle Shapes) in Non-Euclidean Geometry (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 8.2,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.1",
+            "objective_text": "Identify a Pringles chip shape.",
+            "objective_uuid": "b108be46-a67c-4d20-8b37-c5f7c8506837"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.2",
+            "objective_text": "Name a saddle.",
+            "objective_uuid": "d6871667-648a-4bea-a265-ad94a2eda81d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.8",
+            "objective_text": "Identify 'negative' curvature.",
+            "objective_uuid": "1f125914-3d33-4e1b-8a50-a6977ec5f108"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.3",
+            "objective_text": "Recall shapes that curve in and out.",
+            "objective_uuid": "231daf51-50e8-494a-8973-8ded3f354cd9"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.4",
+            "objective_text": "Observe ruffle edges on a dress.",
+            "objective_uuid": "a57e03bb-29d8-42fd-908d-f2acc251093f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.5",
+            "objective_text": "Summarize a surface that curves away.",
+            "objective_uuid": "1ba0e08a-f32e-42a6-9824-224ae56808db"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.6",
+            "objective_text": "Explain that many lines can be parallel through a point.",
+            "objective_uuid": "44fd9b8a-c045-4e19-8670-35803bf49eed"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.7",
+            "objective_text": "Look at MC Escher art.",
+            "objective_uuid": "3874b465-8f40-4a4e-b8de-b356ebae90ae"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.12",
+            "objective_text": "Explain infinite space in a finite boundary.",
+            "objective_uuid": "ee236eb6-53c4-42a8-a842-d304deaa02f0"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.15",
+            "objective_text": "Defend the mathematical validity of the system.",
+            "objective_uuid": "6bdfb2ee-57de-416b-9ee1-5e9779e1008f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.9",
+            "objective_text": "Analyze the Poincare Disk model.",
+            "objective_uuid": "820ac710-4950-45af-925e-1863ca2615ae"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.10",
+            "objective_text": "Interpret a triangle sum < 180 degrees.",
+            "objective_uuid": "ae3479ad-9764-4ec1-807e-8f1772355aaf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.11",
+            "objective_text": "Connect crochet patterns to hyperbolic planes.",
+            "objective_uuid": "705ceac3-2388-4422-8cf0-55b5119866e4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.14",
+            "objective_text": "Evaluate the divergence of parallel lines.",
+            "objective_uuid": "ac0c30da-9f7f-45ac-9fe0-9790e7287bad"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.13",
+            "objective_text": "Construct hyperbolic tessellations.",
+            "objective_uuid": "7665216d-eeec-4709-beb8-a1b751c58e52"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.2",
+            "sub_topic_name": "Hyperbolic Geometry (Saddle Shapes)",
+            "objective_id": "MAT.5.5.2.16",
+            "objective_text": "Synthesize art and advanced geometry.",
+            "objective_uuid": "3a2965e5-9b9e-4e3f-b39c-18c580a63095"
+          }
+        ]
+      }
+    }
+  }
+}

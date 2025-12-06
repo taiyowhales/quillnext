@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.2.3",
+    "name": "Equivalent Fractions (visual models and calculation)",
+    "topic_id": "MAT.4.2",
+    "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Equivalent Fractions (visual models and calculation) in Fractions, Decimals, & Percentages (Rational Numbers) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.1",
+            "objective_text": "Identify that two halves make a whole.",
+            "objective_uuid": "6036b9bb-58ff-43ea-8440-266bc55a7a91"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.8",
+            "objective_text": "Identify simplest form.",
+            "objective_uuid": "56ee199b-dcae-4732-a243-987b93f3067e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.3",
+            "objective_text": "Recall that 2/4 is the same as 1/2.",
+            "objective_uuid": "d8069a1b-decd-497d-ba57-47c459b1c972"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.4",
+            "objective_text": "Observe folding paper.",
+            "objective_uuid": "2bfd6aa4-f40c-4474-9dee-72ef79831450"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.2",
+            "objective_text": "Match pictures of equal amounts.",
+            "objective_uuid": "3334fd80-b640-484b-90f1-84781250d292"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.5",
+            "objective_text": "Summarize how to make equivalent fractions (multiply top and bottom).",
+            "objective_uuid": "7308e560-c10c-46f6-ac3c-2a95ce714c61"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.6",
+            "objective_text": "Explain why the value doesn't change.",
+            "objective_uuid": "7d16fab7-af36-47f2-86d1-6c65339d6e36"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.7",
+            "objective_text": "Use visual models (bars/circles).",
+            "objective_uuid": "283e4ca8-794a-4845-bbe3-b059a0d4dc3c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.12",
+            "objective_text": "Explain scaling up and down.",
+            "objective_uuid": "76127d95-9e8d-4b10-99c8-b2d520034261"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.9",
+            "objective_text": "Analyze the identity property of multiplication (multiplying by 1).",
+            "objective_uuid": "0e681ec3-fd7c-4cfe-b3bd-408ad1f47dbf"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.10",
+            "objective_text": "Interpret cross-products to check equivalence.",
+            "objective_uuid": "05baf578-a6db-422b-82dc-9738a74ce464"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.11",
+            "objective_text": "Connect equivalence to common denominators.",
+            "objective_uuid": "b1ed61a3-2d62-4adb-94a4-4d106a26daf0"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.15",
+            "objective_text": "Defend the logic of algebraic simplification.",
+            "objective_uuid": "bcc81e16-cb95-4933-a673-bc6252a6a344"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.14",
+            "objective_text": "Evaluate equivalence classes.",
+            "objective_uuid": "544d8178-3178-4b17-aebe-0b19937988c1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.13",
+            "objective_text": "Construct equivalent rational expressions.",
+            "objective_uuid": "9a65b1f9-49fb-4c2c-86c1-d5d4a43818d1"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.3",
+            "sub_topic_name": "Equivalent Fractions (visual models and calculation)",
+            "objective_id": "MAT.4.2.3.16",
+            "objective_text": "Synthesize dimensional analysis using equivalence.",
+            "objective_uuid": "b99667a2-accd-437d-9b68-a15d72d2bdb8"
+          }
+        ]
+      }
+    }
+  }
+}

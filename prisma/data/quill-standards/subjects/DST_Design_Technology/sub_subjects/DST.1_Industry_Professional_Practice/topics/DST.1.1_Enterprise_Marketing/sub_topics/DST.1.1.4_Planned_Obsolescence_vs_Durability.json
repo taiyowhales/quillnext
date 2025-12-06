@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.1.1.4",
+    "name": "Planned Obsolescence vs. Durability",
+    "topic_id": "DST.1.1",
+    "topic_name": "Enterprise & Marketing",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.1",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Planned Obsolescence vs. Durability in Enterprise & Marketing (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.1",
+            "objective_text": "Identify a toy that broke quickly.",
+            "objective_uuid": "5b030e20-57bc-434e-a14a-f8da8b0ebf98"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.2",
+            "objective_text": "Name an old thing that still works (Grandma's clock).",
+            "objective_uuid": "2ffcf10c-6286-4321-b1d3-c956dc863836"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.8",
+            "objective_text": "Identify fashion trends as psychological obsolescence.",
+            "objective_uuid": "c995d6e2-350c-4e91-ab4c-a49c01279897"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.3",
+            "objective_text": "Recall that we have to buy new batteries.",
+            "objective_uuid": "e06e4bfc-8ac3-4542-ac6a-61675252993d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.4",
+            "objective_text": "Observe that some things are made to be thrown away.",
+            "objective_uuid": "3eb7eac9-1552-45f1-ae8c-593dc5716bb6"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.5",
+            "objective_text": "Summarize why companies want us to buy new things.",
+            "objective_uuid": "2e50b216-0426-42cb-bd25-81e3c6a0bcc1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.6",
+            "objective_text": "Explain 'Planned Obsolescence' (designed to fail/get old).",
+            "objective_uuid": "7e0702d7-88d8-493e-a564-baa39ee1d593"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.12",
+            "objective_text": "Explain the difference between technological and functional obsolescence.",
+            "objective_uuid": "6007b625-7da9-4a2a-9476-0929b9f5152d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.15",
+            "objective_text": "Defend the design of modular, repairable products.",
+            "objective_uuid": "bdee5c43-b615-4892-b0b8-54365e548a57"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.7",
+            "objective_text": "Compare a disposable camera with a digital one.",
+            "objective_uuid": "756a5852-7f19-4a65-b003-e0eff3c9556c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.9",
+            "objective_text": "Analyze the 'Right to Repair' movement.",
+            "objective_uuid": "003b58c9-f6ca-4536-864b-cfd7aa65b3fb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.10",
+            "objective_text": "Interpret the environmental cost of fast fashion.",
+            "objective_uuid": "126738d1-c9df-457c-8b19-173411097a60"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.11",
+            "objective_text": "Connect durability to brand reputation.",
+            "objective_uuid": "144d2c85-9afb-4682-b996-e658d33e5acd"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.14",
+            "objective_text": "Evaluate the economic necessity of consumption cycles.",
+            "objective_uuid": "dc44b67c-d6c6-42f5-b711-9e5538dacfa1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.13",
+            "objective_text": "Construct a critique of the upgrade culture.",
+            "objective_uuid": "cc475cde-3031-4ce6-acca-362798935585"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.4",
+            "sub_topic_name": "Planned Obsolescence vs. Durability",
+            "objective_id": "DST.1.1.4.16",
+            "objective_text": "Synthesize ethical design with business longevity.",
+            "objective_uuid": "90f28597-6da9-4294-8a0d-6133505e27a8"
+          }
+        ]
+      }
+    }
+  }
+}

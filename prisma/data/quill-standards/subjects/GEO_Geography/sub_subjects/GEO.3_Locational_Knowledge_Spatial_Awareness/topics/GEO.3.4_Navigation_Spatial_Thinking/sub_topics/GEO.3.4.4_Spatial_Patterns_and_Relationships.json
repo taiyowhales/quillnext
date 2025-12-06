@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.4.4",
+    "name": "Spatial Patterns and Relationships",
+    "topic_id": "GEO.3.4",
+    "topic_name": "Navigation & Spatial Thinking",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Spatial Patterns and Relationships in Navigation & Spatial Thinking (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.1",
+            "objective_text": "Identify that stores are often near each other.",
+            "objective_uuid": "29239064-63e8-4bc3-b7e5-83c7e1681565"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.2",
+            "objective_text": "Name a cluster of houses.",
+            "objective_uuid": "666c697b-ec3f-45ae-90ba-1bcb81268727"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.7",
+            "objective_text": "Identify a pattern in a city grid.",
+            "objective_uuid": "2a42742f-0221-46d9-946f-febb3ae06945"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.3",
+            "objective_text": "Recall that things are not random.",
+            "objective_uuid": "b496cd40-02f1-4b37-8490-6f9d78708814"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.4",
+            "objective_text": "Observe traffic patterns.",
+            "objective_uuid": "5a91ab91-755f-4491-b425-a626aa377c8f"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.5",
+            "objective_text": "Summarize 'Clustering' vs. 'Dispersal'.",
+            "objective_uuid": "78dab64b-1348-455e-ba4f-abe96aaae7eb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.6",
+            "objective_text": "Explain why towns are built by rivers.",
+            "objective_uuid": "cc8890dc-6213-463d-944a-7dd8046e03a2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.12",
+            "objective_text": "Explain Central Place Theory (intro).",
+            "objective_uuid": "2128d9c8-83e6-409e-be77-24d7ce6975bf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.15",
+            "objective_text": "Defend the orderliness of human settlement patterns.",
+            "objective_uuid": "9ee4ed52-efa3-49f6-ab68-fa74469b7036"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.8",
+            "objective_text": "Compare rural density with urban density.",
+            "objective_uuid": "f8179dc6-d383-4e67-a695-ce711fff26f9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.9",
+            "objective_text": "Analyze diffusion (how things spread).",
+            "objective_uuid": "7ae76d51-a21a-42ea-87aa-097981c41ed7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.10",
+            "objective_text": "Interpret distance decay (further away = less interaction).",
+            "objective_uuid": "af1abb0b-47a9-4a0b-9708-b9770579b715"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.11",
+            "objective_text": "Connect physical barriers to cultural borders.",
+            "objective_uuid": "512fa8e9-f72e-4b1e-89c3-8cf59d661c2c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.14",
+            "objective_text": "Evaluate the concept of 'Tobler's First Law of Geography'.",
+            "objective_uuid": "d2efb7db-36a1-4587-8aaa-1e07699df07b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.13",
+            "objective_text": "Construct a spatial analysis of local crime or disease.",
+            "objective_uuid": "975a8e3d-b9ad-4ef0-b8b4-82ca2ebc5556"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.4",
+            "sub_topic_name": "Spatial Patterns and Relationships",
+            "objective_id": "GEO.3.4.4.16",
+            "objective_text": "Synthesize math (statistics) with spatial reasoning.",
+            "objective_uuid": "ecaf4082-f643-47e3-ba9b-bf7fefee28ab"
+          }
+        ]
+      }
+    }
+  }
+}

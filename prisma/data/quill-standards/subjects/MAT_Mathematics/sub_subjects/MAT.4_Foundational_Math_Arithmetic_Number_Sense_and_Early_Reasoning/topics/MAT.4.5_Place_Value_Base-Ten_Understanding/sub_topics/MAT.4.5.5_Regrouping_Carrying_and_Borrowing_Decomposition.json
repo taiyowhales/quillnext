@@ -1,0 +1,303 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.5.5",
+    "name": "Regrouping (Carrying and Borrowing/Decomposition)",
+    "topic_id": "MAT.4.5",
+    "topic_name": "Place Value & Base-Ten Understanding",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Regrouping (Carrying and Borrowing/Decomposition) in Place Value & Base-Ten Understanding (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.1",
+            "objective_text": "Identify when we have more than 9 ones.",
+            "objective_uuid": "096e8fa9-7d82-4ce6-a09b-22195f135730"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.5,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.3",
+            "objective_text": "Recall that we can break a ten back into ones.",
+            "objective_uuid": "8413c919-7c52-4d01-a626-462e2b6323b5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.12",
+            "objective_text": "Explain subtraction of negative numbers.",
+            "objective_uuid": "f4d1792c-3b68-4a94-bba2-a7c2c28a47fc"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.2",
+            "objective_text": "Trade ten ones for a ten stick.",
+            "objective_uuid": "0de361bc-530c-4c5f-81bc-103061c2f3b7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.4",
+            "objective_text": "Solve simple addition with blocks.",
+            "objective_uuid": "81c5da80-21d3-4b9a-87b4-911146158a65"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.6",
+            "objective_text": "Explain why we 'carry' the one.",
+            "objective_uuid": "80272f41-f3e8-479a-b1ea-971ebd576311"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.7",
+            "objective_text": "Borrow (decompose) across zeros.",
+            "objective_uuid": "2de0693f-85f0-496c-af05-4cc4c9a82474"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.8",
+            "objective_text": "Solve multi-digit subtraction problems.",
+            "objective_uuid": "4ca89ed2-609e-4c32-82b7-08e9225c888a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.10",
+            "objective_text": "Interpret regrouping in decimal operations.",
+            "objective_uuid": "f4c903fd-caaf-4758-a342-7b136e4e6d32"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.11",
+            "objective_text": "Connect regrouping to time (60 minutes) or measurement.",
+            "objective_uuid": "35f66d5c-add6-4ad8-9024-7c1cb2575793"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.5",
+            "objective_text": "Summarize the standard algorithm for addition/subtraction.",
+            "objective_uuid": "e587dd19-8920-499a-a7a0-fddd07c7e7f7"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.14",
+            "objective_text": "Evaluate the efficiency of mental regrouping.",
+            "objective_uuid": "2da1c6bc-9b52-4e84-948c-9210145b07b3"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.5,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.15",
+            "objective_text": "Defend the coherence of the standard algorithm.",
+            "objective_uuid": "6972d5f4-9780-4294-9d1c-9bdddc262de7"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.16",
+            "objective_text": "Synthesize modular arithmetic concepts with 'wrapping around'.",
+            "objective_uuid": "eda1aa85-0232-4b4e-8e03-1af8128adbfb"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.9",
+            "objective_text": "Analyze the logic behind the algorithm.",
+            "objective_uuid": "e383e211-7ad5-430e-a3a2-48cf94f5f93e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.5",
+            "sub_topic_name": "Regrouping (Carrying and Borrowing/Decomposition)",
+            "objective_id": "MAT.4.5.5.13",
+            "objective_text": "Construct non-standard algorithms for arithmetic.",
+            "objective_uuid": "2aafb80f-ab8d-4b25-8238-8bd85e992011"
+          }
+        ]
+      }
+    }
+  }
+}

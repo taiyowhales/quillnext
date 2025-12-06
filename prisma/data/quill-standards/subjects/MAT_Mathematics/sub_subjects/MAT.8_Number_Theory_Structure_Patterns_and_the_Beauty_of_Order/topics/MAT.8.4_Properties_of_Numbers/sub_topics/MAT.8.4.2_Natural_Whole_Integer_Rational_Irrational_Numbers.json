@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.4.2",
+    "name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+    "topic_id": "MAT.8.4",
+    "topic_name": "Properties of Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Natural, Whole, Integer, Rational, Irrational Numbers in Properties of Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.67,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.1",
+            "objective_text": "Identify counting numbers (1, 2, 3...).",
+            "objective_uuid": "7ee03f5a-c98c-4f0d-a7dd-2fdea164a4dd"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.2",
+            "objective_text": "Name zero as a number meaning 'none'.",
+            "objective_uuid": "1dbacfcd-5fcb-42dc-a53f-f0444f53f58e"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.7",
+            "objective_text": "Identify integers on a thermometer.",
+            "objective_uuid": "d7ce253a-0968-4d48-908b-440200f70ca0"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.3",
+            "objective_text": "Recall that numbers go on forever.",
+            "objective_uuid": "cf81fecb-c4ae-49ff-a0ed-6fb78165751f"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.4",
+            "objective_text": "Observe whole numbers on a number line.",
+            "objective_uuid": "ae6c2208-f2e5-4eea-84b1-e02e200713c8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.5",
+            "objective_text": "Summarize the difference between Whole numbers and Integers (negatives).",
+            "objective_uuid": "e22bbb39-8282-48c6-994d-0e6de93845b3"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.6",
+            "objective_text": "Explain that a Rational number can be written as a fraction.",
+            "objective_uuid": "4acca931-44ab-4fd6-aa2f-f1b0ef25444a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.12",
+            "objective_text": "Explain why the square root of 2 is irrational.",
+            "objective_uuid": "e7fe9ff6-289f-4160-8eb3-e451f59f97c1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.15",
+            "objective_text": "Defend the necessity of Real numbers for measurement.",
+            "objective_uuid": "f3429501-7467-4247-86d0-49cfdf7f1136"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.8",
+            "objective_text": "Classify a number as even or odd.",
+            "objective_uuid": "e4fb5c4a-7f91-47e7-82cc-970138e625b3"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.9",
+            "objective_text": "Analyze the set hierarchy (N < W < Z < Q < R).",
+            "objective_uuid": "d9664490-c814-4f36-a95a-229d5e8dfc2f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.10",
+            "objective_text": "Interpret the definition of an Irrational number (non-terminating, non-repeating).",
+            "objective_uuid": "346aebaf-61b5-4d5e-82ad-3e07575f4268"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.11",
+            "objective_text": "Connect Pi ($\\pi$) to irrational numbers.",
+            "objective_uuid": "dead13b8-5269-4303-94e5-c8c3380f76ef"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.14",
+            "objective_text": "Evaluate the closure properties of different number sets.",
+            "objective_uuid": "d080f154-b0c7-484a-b2b7-ebc1cfba50a6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.13",
+            "objective_text": "Construct a proof for the irrationality of $\\sqrt{2}$.",
+            "objective_uuid": "bf5afbfb-4ba2-471d-b5a9-21b10e211303"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.2",
+            "sub_topic_name": "Natural, Whole, Integer, Rational, Irrational Numbers",
+            "objective_id": "MAT.8.4.2.16",
+            "objective_text": "Synthesize set notation with number classification.",
+            "objective_uuid": "31e3e5ce-2cf3-45dc-a991-2a2d4b75c00b"
+          }
+        ]
+      }
+    }
+  }
+}

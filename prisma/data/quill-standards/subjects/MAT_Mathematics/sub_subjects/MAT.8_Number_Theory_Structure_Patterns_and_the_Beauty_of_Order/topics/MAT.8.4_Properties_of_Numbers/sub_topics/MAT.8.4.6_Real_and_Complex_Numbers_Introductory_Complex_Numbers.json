@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.4.6",
+    "name": "Real and Complex Numbers (Introductory Complex Numbers)",
+    "topic_id": "MAT.8.4",
+    "topic_name": "Properties of Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Real and Complex Numbers (Introductory Complex Numbers) in Properties of Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 2.25,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.1",
+            "objective_text": "Identify real objects to count.",
+            "objective_uuid": "d28e84b1-9017-473f-b6b2-8067e54e756b"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.3",
+            "objective_text": "Name numbers we use in real life.",
+            "objective_uuid": "96417c3e-e656-4210-9a34-34310f41ef94"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.7",
+            "objective_text": "Identify the symbol for infinity.",
+            "objective_uuid": "cfec394d-d1c1-4086-b912-68f578c68fdd"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.4",
+            "objective_text": "Observe patterns in counting.",
+            "objective_uuid": "3757fade-6a9d-48fb-8974-8f559932a75f"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.2",
+            "objective_text": "Recall that we can't have less than zero apples.",
+            "objective_uuid": "47e6310b-2125-4822-a92f-c55721384c35"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.5",
+            "objective_text": "Summarize that all numbers on the line are 'Real'.",
+            "objective_uuid": "48d7d146-dc2c-4c7f-82aa-08c50c9e2697"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.6",
+            "objective_text": "Explain that we can't take the square root of a negative (yet).",
+            "objective_uuid": "5a1e467c-2658-4be5-940e-f2af5eaaf02a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.12",
+            "objective_text": "Explain the complex plane (intro).",
+            "objective_uuid": "37018cdb-54e6-46f0-a506-a425075fa42b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.15",
+            "objective_text": "Defend the mathematical existence of 'imaginary' numbers.",
+            "objective_uuid": "92841ad1-9497-4768-9ece-2af88f0b2828"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.8",
+            "objective_text": "Compare real numbers.",
+            "objective_uuid": "7b8404a0-f948-455b-a483-daa68dc8c056"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.9",
+            "objective_text": "Analyze the concept of an imaginary unit ($i$).",
+            "objective_uuid": "35d2d366-cad6-41ca-be9d-c373d304e736"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.10",
+            "objective_text": "Interpret graphs that require a new axis.",
+            "objective_uuid": "141d2b73-3fe0-4da3-b851-62f744bb13d1"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.11",
+            "objective_text": "Connect solving equations ($x^2 = -1$) to imaginary numbers.",
+            "objective_uuid": "e695a26d-3433-409d-b738-6340e8e04026"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.14",
+            "objective_text": "Evaluate operations with complex conjugates.",
+            "objective_uuid": "632be71b-fa58-4473-9260-b0deb3ecce8b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.13",
+            "objective_text": "Construct complex numbers in the form $a + bi$.",
+            "objective_uuid": "a3510aa7-4730-49b4-ab56-e64e16d9a3d5"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.6",
+            "sub_topic_name": "Real and Complex Numbers (Introductory Complex Numbers)",
+            "objective_id": "MAT.8.4.6.16",
+            "objective_text": "Synthesize the Fundamental Theorem of Algebra.",
+            "objective_uuid": "6bb40a17-b91b-45de-a9f2-94520535771a"
+          }
+        ]
+      }
+    }
+  }
+}

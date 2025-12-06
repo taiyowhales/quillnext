@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.3.1.9",
+    "name": "Patriarchs (Abraham to Joseph)",
+    "topic_id": "BIB.3.1",
+    "topic_name": "Chronological Bible Narrative",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.3",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Patriarchs (Abraham to Joseph) in Chronological Bible Narrative (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.1",
+            "objective_text": "Identify Abraham as the man who believed God's promise.",
+            "objective_uuid": "735b00b6-fcc7-4b04-ad18-95202284c0e0"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.2",
+            "objective_text": "Name Isaac, Jacob, and Joseph as the fathers of Israel.",
+            "objective_uuid": "5e2c0289-1ed4-4ea2-b54a-9b7d8ce094ab"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.4",
+            "objective_text": "Recall that God changed Jacob's name to Israel.",
+            "objective_uuid": "6c781965-9057-4f7d-8374-b7df3bfb26b9"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.3",
+            "objective_text": "Retell the story of Joseph's coat and his journey to Egypt.",
+            "objective_uuid": "672abfd1-d795-40d2-9bb2-d6ced5666ec0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.5",
+            "objective_text": "Summarize the call of Abraham and his journey to Canaan.",
+            "objective_uuid": "ff7a6258-92a2-417e-b9c6-3aeca1a47b65"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.6",
+            "objective_text": "Explain how Jacob tricked Esau but later learned to trust God.",
+            "objective_uuid": "a01ad0d6-4e62-42ff-a768-0c33b7756d0a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.8",
+            "objective_text": "Trace the movement of God's people from Ur to Canaan to Egypt.",
+            "objective_uuid": "79eecde2-4560-4558-a196-3b7c641c8096"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.12",
+            "objective_text": "Explain the concept of Election through the choice of Isaac over Ishmael, and Jacob over Esau.",
+            "objective_uuid": "15a8c18b-4667-4871-90b7-a0d5f0b47098"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.15",
+            "objective_text": "Defend the providence of God in preserving the messianic line through famine and conflict.",
+            "objective_uuid": "bb99dd32-672b-48bc-bd7e-6b0908f47564"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.7",
+            "objective_text": "Compare the faith of Abraham with the mistakes he made (like lying about Sarah).",
+            "objective_uuid": "5a0292a5-bfca-43e9-b803-b756bbdc3fa0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.9",
+            "objective_text": "Analyze the testing of Abraham's faith in Genesis 22 (The Binding of Isaac).",
+            "objective_uuid": "bf692f9c-001e-47b7-bd91-9c16ef038e4e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.10",
+            "objective_text": "Interpret Joseph's statement: 'You meant it for evil, but God meant it for good.'",
+            "objective_uuid": "57c9a957-f4de-4266-a3e5-56b0a422ce11"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.11",
+            "objective_text": "Connect the twelve sons of Jacob to the Twelve Tribes of Israel.",
+            "objective_uuid": "1fae489d-b6bf-449b-9631-eda2bde1c56d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.14",
+            "objective_text": "Evaluate the cultural context of patriarchal customs (covenants, birthrights, marriage).",
+            "objective_uuid": "d531648f-ec27-418c-afaf-ba2550f1ad58"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.13",
+            "objective_text": "Construct a family tree of the Patriarchs including wives and key descendants.",
+            "objective_uuid": "47a7bc9a-bde9-45af-9dcf-03179be1649b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.9",
+            "sub_topic_name": "Patriarchs (Abraham to Joseph)",
+            "objective_id": "BIB.3.1.9.16",
+            "objective_text": "Synthesize the Abrahamic Covenant with the rest of redemptive history.",
+            "objective_uuid": "a041a4ac-686d-4bee-b247-76440dcfeb80"
+          }
+        ]
+      }
+    }
+  }
+}

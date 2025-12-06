@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.2.4",
+    "name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+    "topic_id": "ART.4.2",
+    "topic_name": "Foundations of Music Theory & Notation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes) in Foundations of Music Theory & Notation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.1",
+            "objective_text": "Identify music that sounds happy (Major) vs. sad (Minor).",
+            "objective_uuid": "0ec64169-c63f-40f0-ab94-0d030c220707"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.8",
+            "objective_text": "Identify the Pentatonic scale (5 notes).",
+            "objective_uuid": "e76e7658-a03c-4b64-8fc4-d499b5bf8a73"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.3",
+            "objective_text": "Recall that scales are steps going up and down.",
+            "objective_uuid": "4d92cd88-25f3-4419-baa4-5bd9ff74f9e3"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.4",
+            "objective_text": "Observe sharps (#) and flats (b) as black keys.",
+            "objective_uuid": "c97d1fd0-5ffd-4333-8906-3f1d007f5b09"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.2",
+            "objective_text": "Sing the scale (Do-Re-Mi-Fa-Sol-La-Ti-Do).",
+            "objective_uuid": "7521b929-86e5-4470-815d-516cb8da73dd"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.5",
+            "objective_text": "Summarize the pattern of Whole and Half steps in a Major scale.",
+            "objective_uuid": "ef06e5d6-a8f5-4871-b582-4436e10cf243"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.6",
+            "objective_text": "Explain what a Key Signature does (tells us home).",
+            "objective_uuid": "cd5b258a-e168-45cd-860c-0a4bfc4c17ea"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.7",
+            "objective_text": "Play or sing a C Major and G Major scale.",
+            "objective_uuid": "b9b5e96e-e674-4d02-9976-a95604707c1b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.12",
+            "objective_text": "Explain the Blues scale structure.",
+            "objective_uuid": "a044cba4-f9c7-4701-9ff2-341d044bbda7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.15",
+            "objective_text": "Defend the concept of tonality and the 'home' key.",
+            "objective_uuid": "24831fe2-6c29-46bb-959e-07510281cabb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.9",
+            "objective_text": "Analyze the Circle of Fifths to find key signatures.",
+            "objective_uuid": "148458c6-476c-47f1-aa56-f49c3909de20"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.10",
+            "objective_text": "Interpret the difference between Natural, Harmonic, and Melodic Minor.",
+            "objective_uuid": "fd7b5197-a083-4012-82d2-407a343d82fe"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.11",
+            "objective_text": "Connect relative majors and minors.",
+            "objective_uuid": "fa0f2383-44a7-4b47-a732-aa52c3c2ea81"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.14",
+            "objective_text": "Evaluate the distinct character of Church Modes (Dorian, Phrygian, etc.).",
+            "objective_uuid": "da882d67-2387-48c4-b4d1-3d1b9948b6f3"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.13",
+            "objective_text": "Construct all 12 Major and Minor scales from memory.",
+            "objective_uuid": "90e8e86c-0b25-4858-a499-6e51786203a5"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.4",
+            "sub_topic_name": "Key Signatures & Scales (Major, Minor, Pentatonic, Blues, Modes)",
+            "objective_id": "ART.4.2.4.16",
+            "objective_text": "Synthesize modal theory with composition.",
+            "objective_uuid": "0c1ac121-5659-439a-bd1e-94a1d038080d"
+          }
+        ]
+      }
+    }
+  }
+}

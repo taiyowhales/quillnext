@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.1.1",
+    "name": "AI Code Review & Validation",
+    "topic_id": "CPT.7.1",
+    "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for AI Code Review & Validation in AI-Assisted Development (“Vibe Coding”) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.3",
+            "objective_text": "Recall that robots make mistakes too.",
+            "objective_uuid": "89280f60-1bf8-4482-9372-efc039c8a9fc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.4",
+            "objective_text": "Name a helper.",
+            "objective_uuid": "bd6930f0-bfb7-448f-be2b-94ae6733e960"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.7",
+            "objective_text": "Identify suggestions for improvement.",
+            "objective_uuid": "4204db40-2e48-41e8-a7e5-998052bd51af"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.1",
+            "objective_text": "Ask the robot 'Is this right?'.",
+            "objective_uuid": "375cf47c-79af-4f3a-adc1-e1cde07d66b3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.2",
+            "objective_text": "Check the work.",
+            "objective_uuid": "155f4644-c599-4586-b090-29c110564dad"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.5",
+            "objective_text": "Summarize using AI to find bugs.",
+            "objective_uuid": "c1fe10e8-a3a4-43af-bceb-07473900948e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.6",
+            "objective_text": "Explain why we double-check AI code.",
+            "objective_uuid": "ef841fa8-76f7-43ec-8298-b60120126731"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.12",
+            "objective_text": "Explain 'Hallucinated' libraries.",
+            "objective_uuid": "106881aa-a727-4f42-81ed-61180cd46db7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.15",
+            "objective_text": "Defend the role of the human expert.",
+            "objective_uuid": "3f005ee0-30dc-4143-9347-093be91be49e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.8",
+            "objective_text": "Compare human review vs. AI review.",
+            "objective_uuid": "150d776d-9b56-4d14-a3d3-938253c38bf9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.9",
+            "objective_text": "Analyze AI explanations of complex code.",
+            "objective_uuid": "75b31d64-3e2b-4bb4-bac7-98da57125f17"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.10",
+            "objective_text": "Interpret refactoring suggestions.",
+            "objective_uuid": "2c1bb5ab-f41f-44d9-a635-acc81b7d3de7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.11",
+            "objective_text": "Connect security vulnerabilities to AI oversight.",
+            "objective_uuid": "a659418b-9fae-4705-824a-aa7e36a503c0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.14",
+            "objective_text": "Evaluate the risks of pasting proprietary code into AI.",
+            "objective_uuid": "ccee0fba-8a29-448a-86f4-54531f9ac847"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.13",
+            "objective_text": "Construct a secure code review workflow.",
+            "objective_uuid": "82251b63-b9b3-4fc3-8e4b-095f2ac3d773"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.1",
+            "sub_topic_name": "AI Code Review & Validation",
+            "objective_id": "CPT.7.1.1.16",
+            "objective_text": "Synthesize security auditing with AI tools.",
+            "objective_uuid": "65b6b252-cf68-413b-9950-faa54afba6c1"
+          }
+        ]
+      }
+    }
+  }
+}

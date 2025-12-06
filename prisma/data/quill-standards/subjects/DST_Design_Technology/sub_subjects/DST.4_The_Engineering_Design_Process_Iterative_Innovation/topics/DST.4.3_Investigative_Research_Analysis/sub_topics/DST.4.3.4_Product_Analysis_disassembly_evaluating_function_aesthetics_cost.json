@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.3.4",
+    "name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+    "topic_id": "DST.4.3",
+    "topic_name": "Investigative Research & Analysis",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Product Analysis (disassembly, evaluating function/aesthetics/cost) in Investigative Research & Analysis (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.2",
+            "objective_text": "Name the materials used in a simple object.",
+            "objective_uuid": "96c200f8-f8ea-40b5-b634-59bd43277e96"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.1",
+            "objective_text": "Identify the parts of a toy (wheels, handle, body).",
+            "objective_uuid": "b0a596f3-af5f-45d6-818c-6a20ae462bf7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.3",
+            "objective_text": "Recall what an object is used for.",
+            "objective_uuid": "e3c645a9-90ad-4729-a67e-420c64b93731"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.4",
+            "objective_text": "Observe how parts fit together.",
+            "objective_uuid": "a3a4a662-1566-4fc7-acd1-75e6cc2261a5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.5",
+            "objective_text": "Disassemble a simple mechanical product safely.",
+            "objective_uuid": "68ad1f7b-042f-4cc0-82fd-fbe70f9ffc7a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 7,
+        "average_complexity": 21.71,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.6",
+            "objective_text": "Explain the function of specific components.",
+            "objective_uuid": "9da52241-28b0-4a5e-b5cb-cbcf945b724c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.12",
+            "objective_text": "Explain the concept of 'Reverse Engineering'.",
+            "objective_uuid": "92a9b957-284f-4144-9914-7690f09ec63c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.15",
+            "objective_text": "Defend a critique of a product's planned obsolescence.",
+            "objective_uuid": "307dc291-704d-4462-9882-9e2b33344e96"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.7",
+            "objective_text": "Compare two similar products (e.g., two different pens).",
+            "objective_uuid": "01687e4b-c1cc-43ba-86d5-ec66c64b5594"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.9",
+            "objective_text": "Analyze a product using ACCESS FM (Aesthetics, Cost, Customer, Environment, Size, Safety, Function, Material).",
+            "objective_uuid": "6251baf6-70fb-4ff8-a455-f6a2698b9727"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.10",
+            "objective_text": "Interpret how manufacturing methods influence design.",
+            "objective_uuid": "28603ddc-5cba-4591-9d88-52c44d4412cc"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.11",
+            "objective_text": "Connect material choices to the product's cost.",
+            "objective_uuid": "4c4e22c9-ca20-4573-85a4-41d0089a8333"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 27.5,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.8",
+            "objective_text": "Evaluate if a product looks good (Aesthetics).",
+            "objective_uuid": "c291ec58-36ef-48c6-b2c1-77a2a75efae6"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.14",
+            "objective_text": "Evaluate the 'Value Engineering' of a commercial product.",
+            "objective_uuid": "1de945d8-a70f-49f9-9a34-2d699fde8288"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.13",
+            "objective_text": "Construct a comprehensive teardown analysis report.",
+            "objective_uuid": "db900562-ffd2-4d89-a87b-afac8e91d553"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.3",
+            "topic_name": "Investigative Research & Analysis",
+            "sub_topic_id": "DST.4.3.4",
+            "sub_topic_name": "Product Analysis (disassembly, evaluating function/aesthetics/cost)",
+            "objective_id": "DST.4.3.4.16",
+            "objective_text": "Synthesize functional analysis with aesthetic theory.",
+            "objective_uuid": "1afdda65-c1a2-46a2-aa19-635ae38fe324"
+          }
+        ]
+      }
+    }
+  }
+}

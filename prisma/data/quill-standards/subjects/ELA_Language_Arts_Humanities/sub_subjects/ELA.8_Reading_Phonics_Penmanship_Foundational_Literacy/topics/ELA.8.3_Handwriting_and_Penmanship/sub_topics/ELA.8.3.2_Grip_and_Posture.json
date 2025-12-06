@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.3.2",
+    "name": "Grip and Posture",
+    "topic_id": "ELA.8.3",
+    "topic_name": "Handwriting and Penmanship",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Grip and Posture in Handwriting and Penmanship (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.4",
+            "objective_text": "Name the \"Pincher\" fingers.",
+            "objective_uuid": "068eee02-6b64-4347-8ceb-b6cfd0663337"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.8",
+            "objective_text": "Identify tension in the shoulder.",
+            "objective_uuid": "7b8f8923-07d0-4822-9ffe-d0e50bbe1ae1"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.3",
+            "objective_text": "Recall that the other hand holds the paper.",
+            "objective_uuid": "d5a7fbb3-1570-4732-b83f-dbb40e65528d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.1",
+            "objective_text": "Hold the pencil with three fingers (Tripod).",
+            "objective_uuid": "982e60f9-666e-43da-9e78-f5ca8b7cb4f2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.2",
+            "objective_text": "Sit up straight with feet on the floor.",
+            "objective_uuid": "2e1b735b-98d2-4abe-94ba-1eb3c5509f13"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.5",
+            "objective_text": "Summarize why good posture helps writing (less tired).",
+            "objective_uuid": "78bc4e89-b749-4f20-9d09-4bdaba568929"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.6",
+            "objective_text": "Explain how to tilt the paper for arm movement.",
+            "objective_uuid": "281c0df4-66bc-4d49-bec2-47a132afc320"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.7",
+            "objective_text": "Adjust grip to avoid squeezing too hard.",
+            "objective_uuid": "c1f7a604-03f6-4743-b35e-9c5a00a30c05"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.12",
+            "objective_text": "Explain left-handed vs. right-handed paper positioning.",
+            "objective_uuid": "88b57db3-b713-4786-9f65-0d609da65565"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.15",
+            "objective_text": "Defend the discipline of the body for intellectual work.",
+            "objective_uuid": "34b8def4-9ee2-4035-bfdd-1ea6648197c5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.9",
+            "objective_text": "Analyze the ergonomics of writing.",
+            "objective_uuid": "50ad04cc-4261-48cb-9f6e-79c69119d29c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.10",
+            "objective_text": "Interpret the effect of fatigue on handwriting quality.",
+            "objective_uuid": "ecf71b77-c16f-4d09-95ff-3cd14f856480"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.11",
+            "objective_text": "Connect arm movement vs. wrist movement.",
+            "objective_uuid": "2a9bb4a0-928c-4143-9cb1-dcf8543fc7a0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.14",
+            "objective_text": "Evaluate the relationship between posture and focus.",
+            "objective_uuid": "10ae3ccb-1a7f-479a-8e38-a13671ed56ae"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.13",
+            "objective_text": "Construct a workspace conducive to good penmanship.",
+            "objective_uuid": "a300bd5c-1011-43e1-95c9-eacd723202de"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.2",
+            "sub_topic_name": "Grip and Posture",
+            "objective_id": "ELA.8.3.2.16",
+            "objective_text": "Synthesize physical mechanics with artistic expression.",
+            "objective_uuid": "b26a2d42-2903-4c85-ba48-5a12d3d5c441"
+          }
+        ]
+      }
+    }
+  }
+}

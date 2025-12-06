@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.1.5",
+    "name": "Sprite Animation & Movement",
+    "topic_id": "CPT.3.1",
+    "topic_name": "Game Development",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sprite Animation & Movement in Game Development (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.3",
+            "objective_text": "Recall 'X' goes side-to-side.",
+            "objective_uuid": "e0c45849-429e-4e76-8f6d-6c802da302a3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.4",
+            "objective_text": "Observe animation speed.",
+            "objective_uuid": "3223b0c7-5a73-4da6-95b4-261ac8924e01"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.8",
+            "objective_text": "Identify smooth gliding.",
+            "objective_uuid": "fcf77e30-990a-4b5f-b592-9f4b087d4cc8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.1",
+            "objective_text": "Make a character walk.",
+            "objective_uuid": "bde0ff58-030f-4a78-adac-32827541d53d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.2",
+            "objective_text": "Change the costume to look like moving.",
+            "objective_uuid": "33eb9be6-ad79-4346-935a-271003be7fb3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.5",
+            "objective_text": "Summarize flipping through costumes (Frame Animation).",
+            "objective_uuid": "e49284bd-fe6e-483c-9539-bc3fcf105ade"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.6",
+            "objective_text": "Explain coordinates (X and Y position).",
+            "objective_uuid": "9b2ea704-c5be-4dbc-8547-fbb1f9eea53c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.7",
+            "objective_text": "Program arrow keys to move a sprite.",
+            "objective_uuid": "f42b0a5c-93fb-4b92-bfdb-45b6a1f94a49"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.12",
+            "objective_text": "Explain interpolation.",
+            "objective_uuid": "07856e5b-fc23-4fe6-bf29-8314106ab19c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.15",
+            "objective_text": "Defend the use of kinematics.",
+            "objective_uuid": "d295105e-e36c-4dea-bdde-acede7c8ad46"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.9",
+            "objective_text": "Analyze Sprite Sheets (grids of images).",
+            "objective_uuid": "97882945-9b8c-4194-afef-23848c0edbf3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.10",
+            "objective_text": "Interpret acceleration and deceleration (easing).",
+            "objective_uuid": "e8f70d1a-1ecd-4a30-b280-f420e6efca83"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.11",
+            "objective_text": "Connect rotation to direction vectors.",
+            "objective_uuid": "a88a6ac9-a202-483c-8e2e-69ee3bc7acf8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.14",
+            "objective_text": "Evaluate the fluidity of character controller scripts.",
+            "objective_uuid": "44d91179-7442-4bc1-8562-0067513e5f84"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.13",
+            "objective_text": "Construct a skeletal animation system (bones).",
+            "objective_uuid": "bceb7c8a-8f09-415a-bc25-89df2c91e910"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.5",
+            "sub_topic_name": "Sprite Animation & Movement",
+            "objective_id": "CPT.3.1.5.16",
+            "objective_text": "Synthesize physics-based movement with animation states.",
+            "objective_uuid": "1c48d301-ec4d-4470-88d0-dcb60ae924c2"
+          }
+        ]
+      }
+    }
+  }
+}

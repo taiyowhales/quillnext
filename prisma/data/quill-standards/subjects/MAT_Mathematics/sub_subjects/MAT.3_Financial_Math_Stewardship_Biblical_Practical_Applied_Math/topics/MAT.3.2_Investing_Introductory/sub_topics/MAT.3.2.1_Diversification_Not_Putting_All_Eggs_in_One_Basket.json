@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.2.1",
+    "name": "Diversification (Not Putting All Eggs in One Basket)",
+    "topic_id": "MAT.3.2",
+    "topic_name": "Investing (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Diversification (Not Putting All Eggs in One Basket) in Investing (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.1",
+            "objective_text": "Identify 'Don't drop all the eggs'.",
+            "objective_uuid": "bfb0b14b-8fe5-47c5-978d-c00e561c10b9"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.3",
+            "objective_text": "Name variety.",
+            "objective_uuid": "0e80d72c-aa34-4506-af3f-d1722d588df7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.7",
+            "objective_text": "Identify different sectors (Tech, Food, Energy).",
+            "objective_uuid": "eba63c4d-7f29-42b3-8ecd-2fd48e798fbf"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.2",
+            "objective_text": "Recall having different kinds of toys.",
+            "objective_uuid": "c7f9759a-da76-45de-8611-e4ec95f2dc7e"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.4",
+            "objective_text": "Observe a mixed bag of candy.",
+            "objective_uuid": "59417e2b-eb5b-4f2e-961c-c2a955de0da9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.5",
+            "objective_text": "Summarize Diversification (mixing it up).",
+            "objective_uuid": "9ad352ec-3909-456d-8a11-92b1bb9741a7"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.6",
+            "objective_text": "Explain why owning one company is scary.",
+            "objective_uuid": "8ef695d2-de86-4554-b302-eb1b23dd2c88"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.12",
+            "objective_text": "Explain rebalancing.",
+            "objective_uuid": "e5a47ac5-4c16-47a8-a8b1-8e8a092459ec"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.15",
+            "objective_text": "Defend the wisdom of Ecclesiastes 11:2 ('Divide your portion').",
+            "objective_uuid": "4b1f83fb-7e79-44c5-9497-810e2fc79fed"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.9",
+            "objective_text": "Analyze asset allocation (Stocks/Bonds/Cash).",
+            "objective_uuid": "92d4ae1b-077b-4ce9-a858-c5b3e0df3212"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.10",
+            "objective_text": "Interpret correlation (do they move together?).",
+            "objective_uuid": "19b5f025-b192-4c24-80c8-29a203020cf0"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.11",
+            "objective_text": "Connect diversification to safety.",
+            "objective_uuid": "937c44b1-996a-4f3a-ac14-f6da7085e1a8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 24.25,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.14",
+            "objective_text": "Evaluate the benefits of international exposure.",
+            "objective_uuid": "c37c8b7a-c4d4-41c5-9fe5-0132d4650029"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.8",
+            "objective_text": "Create a mixed collection.",
+            "objective_uuid": "5c14e822-c67b-44a6-8b82-bd3f4d38c7c1"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.13",
+            "objective_text": "Construct a diversified portfolio model.",
+            "objective_uuid": "fdf20a46-1ada-436d-8a9a-9f178ad41d76"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.1",
+            "sub_topic_name": "Diversification (Not Putting All Eggs in One Basket)",
+            "objective_id": "MAT.3.2.1.16",
+            "objective_text": "Synthesize modern portfolio theory (intro).",
+            "objective_uuid": "a4788668-6814-4d56-a80e-fac4b9d61c77"
+          }
+        ]
+      }
+    }
+  }
+}

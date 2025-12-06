@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.4.3",
+    "name": "Embedded Systems (microcontrollers)",
+    "topic_id": "CPT.7.4",
+    "topic_name": "Internet of Things (IoT) & Connectivity",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Embedded Systems (microcontrollers) in Internet of Things (IoT) & Connectivity (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.1",
+            "objective_text": "Identify a tiny computer inside a toy.",
+            "objective_uuid": "1063b0ef-4432-4b57-868f-de75ea0bcc31"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.2",
+            "objective_text": "Recall that it only does one job.",
+            "objective_uuid": "8ac7c7c3-f903-4b67-91b5-1f9afbc3b48e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.3",
+            "objective_text": "Name a chip.",
+            "objective_uuid": "36aedc87-dcf4-4bc9-8e41-8f80b4066957"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.4",
+            "objective_text": "Observe a washing machine brain.",
+            "objective_uuid": "7f448736-e17c-47fb-b7da-ddeae6b79223"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.8",
+            "objective_text": "Identify a microwave controller.",
+            "objective_uuid": "24c95e8c-d5a3-4ce3-be64-f40c15a5f637"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.5",
+            "objective_text": "Summarize Microcontroller (small brain).",
+            "objective_uuid": "8236f3fd-beea-4ec8-b6b7-0619f9095588"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.6",
+            "objective_text": "Explain inputs (buttons) and outputs (lights).",
+            "objective_uuid": "817979fa-9045-432d-aa9d-7c18f16da140"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.7",
+            "objective_text": "Program a Micro:bit.",
+            "objective_uuid": "54dd9f4b-7fa3-4f7e-bcea-64f06c1c1739"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.12",
+            "objective_text": "Explain firmware.",
+            "objective_uuid": "ad36ec08-2029-4ce5-929c-96e6fda7da35"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.15",
+            "objective_text": "Defend the choice of hardware (Arduino vs Pi).",
+            "objective_uuid": "840cc9ae-30ac-408f-bf08-f5f47892f64c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.9",
+            "objective_text": "Analyze the difference between a CPU and a Microcontroller.",
+            "objective_uuid": "3a2a19b1-c886-455d-823f-7d1cf280e246"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.10",
+            "objective_text": "Interpret pinout diagrams.",
+            "objective_uuid": "8946b69d-9ca0-4007-9603-4206b7e1a475"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.11",
+            "objective_text": "Connect code to physical action.",
+            "objective_uuid": "f671b2ef-e512-4a5e-904b-f3e83858fceb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.14",
+            "objective_text": "Evaluate power consumption constraints.",
+            "objective_uuid": "8f73a395-214c-49f0-8d34-97f2e939afa1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.13",
+            "objective_text": "Construct a functional embedded system prototype.",
+            "objective_uuid": "228cded7-12aa-4ed7-9093-669d6f7053e7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.3",
+            "sub_topic_name": "Embedded Systems (microcontrollers)",
+            "objective_id": "CPT.7.4.3.16",
+            "objective_text": "Synthesize low-level programming concepts.",
+            "objective_uuid": "ae0672b4-8f36-48ae-b291-94f9a7114398"
+          }
+        ]
+      }
+    }
+  }
+}

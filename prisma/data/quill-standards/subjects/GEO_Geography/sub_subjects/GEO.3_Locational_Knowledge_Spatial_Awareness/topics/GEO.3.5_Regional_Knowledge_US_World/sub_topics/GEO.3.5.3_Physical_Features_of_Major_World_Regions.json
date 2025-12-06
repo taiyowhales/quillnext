@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.5.3",
+    "name": "Physical Features of Major World Regions",
+    "topic_id": "GEO.3.5",
+    "topic_name": "Regional Knowledge (US & World)",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Physical Features of Major World Regions in Regional Knowledge (US & World) (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.1",
+            "objective_text": "Identify the biggest desert (Sahara).",
+            "objective_uuid": "f6bd455c-2a39-4439-80a3-9b95718d6d53"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.2",
+            "objective_text": "Name the highest mountain (Everest).",
+            "objective_uuid": "cc3dd7f1-0654-4df9-a359-6d2b82fd62d1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.7",
+            "objective_text": "Identify the Great Rift Valley.",
+            "objective_uuid": "95dd2f3f-c48b-48c0-ae97-24ecf4f77c1d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.3",
+            "objective_text": "Recall the longest river (Nile/Amazon).",
+            "objective_uuid": "d982a0dc-1646-4906-b539-98398f1ecf12"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.4",
+            "objective_text": "Observe the Alps or Andes.",
+            "objective_uuid": "6fbd280e-afd8-4fca-afed-3cb312339579"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.5",
+            "objective_text": "Summarize the physical layout of Europe (peninsulas).",
+            "objective_uuid": "f2607a59-777e-493f-b9eb-dabf9701f08d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.6",
+            "objective_text": "Explain the Monsoon system in Asia.",
+            "objective_uuid": "d6944869-067e-4406-b4ba-22c001acd908"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.12",
+            "objective_text": "Explain the Siberian Tundra.",
+            "objective_uuid": "316d66d9-ae81-44e3-9ab4-0a438c65634b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.15",
+            "objective_text": "Defend the strategic value of mountain passes.",
+            "objective_uuid": "e2c9be5f-4991-4db5-bdbc-30e3d23a288b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.8",
+            "objective_text": "Compare the Outback with the Pampas.",
+            "objective_uuid": "b16ec113-8269-417f-8bcd-749fbd121e46"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.9",
+            "objective_text": "Analyze the Himalayan rain shadow.",
+            "objective_uuid": "6d048d51-c40d-4ecf-8837-647233760530"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.10",
+            "objective_text": "Interpret the 'Ring of Fire' around the Pacific.",
+            "objective_uuid": "dc53ad3d-72b0-4e01-9d3b-e02624f5f998"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.11",
+            "objective_text": "Connect physical features to population density.",
+            "objective_uuid": "2269761d-960e-430f-b30a-78a569adca8f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.14",
+            "objective_text": "Evaluate the impact of geography on development (guns, germs, and steel).",
+            "objective_uuid": "e811b11c-8a8a-4ac0-8e8e-61c69205c25c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.13",
+            "objective_text": "Construct a physical profile of a continent.",
+            "objective_uuid": "326dc95b-88ca-4290-b0af-29c8f54958a2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.3",
+            "sub_topic_name": "Physical Features of Major World Regions",
+            "objective_id": "GEO.3.5.3.16",
+            "objective_text": "Synthesize geology with climatology.",
+            "objective_uuid": "888854bf-96ac-444f-9680-d7aa64be2afe"
+          }
+        ]
+      }
+    }
+  }
+}

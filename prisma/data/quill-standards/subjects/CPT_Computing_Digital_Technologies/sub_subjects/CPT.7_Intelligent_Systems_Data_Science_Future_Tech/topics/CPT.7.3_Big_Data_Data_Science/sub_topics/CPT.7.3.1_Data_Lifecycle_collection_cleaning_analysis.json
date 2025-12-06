@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.3.1",
+    "name": "Data Lifecycle (collection, cleaning, analysis)",
+    "topic_id": "CPT.7.3",
+    "topic_name": "Big Data & Data Science",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Lifecycle (collection, cleaning, analysis) in Big Data & Data Science (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.4",
+            "objective_text": "Recall the order of work.",
+            "objective_uuid": "9e2ab6fa-c959-4223-87fc-cc6132a7e816"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.7",
+            "objective_text": "Identify bad data (typos).",
+            "objective_uuid": "daf7b132-2859-468e-a9e6-ab274c72121f"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.1",
+            "objective_text": "Collect leaves.",
+            "objective_uuid": "995c16d7-7758-4844-a9d2-a2ee3e65deeb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.2",
+            "objective_text": "Clean the dirt off.",
+            "objective_uuid": "ae51df1d-c8d8-4abb-86cb-d67590c1c121"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.3",
+            "objective_text": "Sort them by shape.",
+            "objective_uuid": "8374b17b-c7cf-4110-8c36-720341afc037"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.5",
+            "objective_text": "Summarize the steps: Gather, Clean, Study.",
+            "objective_uuid": "315f81d1-bc5e-46f5-9fcb-6a778baeaaf2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.6",
+            "objective_text": "Explain 'Cleaning Data' (fixing mistakes).",
+            "objective_uuid": "05913936-746c-4811-b93c-6b926b0a5912"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.12",
+            "objective_text": "Explain data deletion policies.",
+            "objective_uuid": "c48f8c79-bd95-437d-bdb9-e432bcc1569e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.15",
+            "objective_text": "Defend the necessity of data governance.",
+            "objective_uuid": "f1b60fa9-2546-4396-90b3-0aff6b11410f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.8",
+            "objective_text": "Compare raw ingredients with a cooked meal.",
+            "objective_uuid": "46e39781-aa87-47d1-b967-686c3c8ec704"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.9",
+            "objective_text": "Analyze the ETL process (Extract, Transform, Load).",
+            "objective_uuid": "82271fa2-ebc7-4a8a-833a-f02cf4b6083b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.10",
+            "objective_text": "Interpret the impact of dirty data on results.",
+            "objective_uuid": "2c036e11-b27f-4bf0-8fed-d24c6ca59686"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.11",
+            "objective_text": "Connect data archiving to history.",
+            "objective_uuid": "4f9e743b-409d-4867-aee3-b7f01a040f45"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.14",
+            "objective_text": "Evaluate the cost of data storage over time.",
+            "objective_uuid": "f6b8fbec-c409-4f03-8f30-e2cf49da78d2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.13",
+            "objective_text": "Construct a data pipeline diagram.",
+            "objective_uuid": "842e6e24-1831-4d25-98e1-5b5cb340c3e7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.1",
+            "sub_topic_name": "Data Lifecycle (collection, cleaning, analysis)",
+            "objective_id": "CPT.7.3.1.16",
+            "objective_text": "Synthesize the full lifecycle from ingestion to insight.",
+            "objective_uuid": "b9d99f25-2920-4397-971a-ddf132ea1e3e"
+          }
+        ]
+      }
+    }
+  }
+}

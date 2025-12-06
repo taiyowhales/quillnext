@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.3.3",
+    "name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+    "topic_id": "LIF.4.3",
+    "topic_name": "Safety, Preparedness & Emergency Skills",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Home Security Awareness (locks, alarms, neighborhood watch) in Safety, Preparedness & Emergency Skills (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.2",
+            "objective_text": "Identify a stranger.",
+            "objective_uuid": "fcce6327-5a29-4007-ac1f-7df06b93c807"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.7",
+            "objective_text": "Identify safe neighbors.",
+            "objective_uuid": "2d019da7-8869-47a7-9acf-386063af453c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.3",
+            "objective_text": "Recall that we don't open the door for strangers.",
+            "objective_uuid": "f770e1ef-1896-4d85-bcb7-db2c927cde34"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.4",
+            "objective_text": "Observe keeping windows closed.",
+            "objective_uuid": "ea65b55e-4ac0-4382-aabc-a8bf30d9943a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.1",
+            "objective_text": "Lock the door.",
+            "objective_uuid": "bd723d76-9fef-44a9-b823-197de81e9cc6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.5",
+            "objective_text": "Summarize why we lock doors at night.",
+            "objective_uuid": "7c01942a-a53d-4331-b3d1-3d46880ab922"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.6",
+            "objective_text": "Explain how to answer the phone safely (don't say 'I'm alone').",
+            "objective_uuid": "04e9bdb1-74c7-49a8-9243-9d8f0316fbd0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.8",
+            "objective_text": "Check that the garage is closed.",
+            "objective_uuid": "61feca12-326a-4ace-9fa8-8e156e397830"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.12",
+            "objective_text": "Explain situational awareness.",
+            "objective_uuid": "33a49e64-3ce1-4b2d-9fbb-14713e8701a8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.15",
+            "objective_text": "Defend the role of community in safety.",
+            "objective_uuid": "892130b1-e4f4-4326-a781-f525fb5992c6"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.9",
+            "objective_text": "Analyze vulnerability points in a home.",
+            "objective_uuid": "31f3af0b-067e-43e8-be1e-83eb1bca6b8b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.10",
+            "objective_text": "Interpret the function of a security system.",
+            "objective_uuid": "f516d078-46e7-467f-bed8-66d2a214b0de"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.11",
+            "objective_text": "Connect lighting to deterrence.",
+            "objective_uuid": "68ca421c-20cf-4045-8979-4309218e1595"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.14",
+            "objective_text": "Evaluate the balance between security and paranoia.",
+            "objective_uuid": "f2f61075-d275-4845-af38-6e481eb4cb1b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.13",
+            "objective_text": "Construct a home security assessment.",
+            "objective_uuid": "e5dab33d-e034-43ba-a1bb-a22fc9fdd24d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.3",
+            "sub_topic_name": "Home Security Awareness (locks, alarms, neighborhood watch)",
+            "objective_id": "LIF.4.3.3.16",
+            "objective_text": "Synthesize technology (cameras) with habits.",
+            "objective_uuid": "4cab5b25-f7af-4b89-9de1-884ad541fde7"
+          }
+        ]
+      }
+    }
+  }
+}

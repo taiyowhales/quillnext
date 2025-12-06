@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.2.2",
+    "name": "Pythagorean, Quotient, and Reciprocal Identities",
+    "topic_id": "MAT.11.2",
+    "topic_name": "Identities & Equations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pythagorean, Quotient, and Reciprocal Identities in Identities & Equations (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 12,
+        "average_complexity": 14.5,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.1",
+            "objective_text": "Identify a puzzle piece that fits.",
+            "objective_uuid": "44d73f89-2fb8-4883-a161-91ab58015c2e"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.2",
+            "objective_text": "Name synonyms (words that mean the same).",
+            "objective_uuid": "70648672-df51-4b27-bc20-a6de25ff3d6e"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.8",
+            "objective_text": "Identify reciprocal pairs.",
+            "objective_uuid": "c04cff79-e25d-4082-b130-19ed05b39956"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.3",
+            "objective_text": "Recall that $1+2$ is the same as $3$.",
+            "objective_uuid": "b75272e5-d2d7-43bf-b5ac-947597cb799c"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.4",
+            "objective_text": "Observe equations.",
+            "objective_uuid": "53aa1960-4308-4a12-9cf9-1b26edc06e78"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.5",
+            "objective_text": "Summarize that $sin/cos = tan$.",
+            "objective_uuid": "a5ea3709-38a1-4a22-97e5-0d645488f930"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.6",
+            "objective_text": "Explain that $1/sin = csc$.",
+            "objective_uuid": "c4886b73-7ab7-483d-850d-6a3b1583517a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.7",
+            "objective_text": "Check if two sides are equal.",
+            "objective_uuid": "e7597d69-8319-4ec8-b255-f743a4dcb2d6"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.12",
+            "objective_text": "Explain why $tan^2 + 1 = sec^2$.",
+            "objective_uuid": "bc27da7e-cbca-4062-8bff-908f2c174edb"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.15",
+            "objective_text": "Defend the derivation of the Pythagorean identities.",
+            "objective_uuid": "6df954de-77ef-4d92-84cd-6c1e01a1f26f"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.9",
+            "objective_text": "Analyze $sin^2 + cos^2 = 1$.",
+            "objective_uuid": "a26895ae-305c-4a60-a7cc-38f3b2db1277"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.10",
+            "objective_text": "Interpret this as the Pythagorean theorem on the unit circle.",
+            "objective_uuid": "26e7553e-ddeb-4531-90f1-53cd478bec50"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.11",
+            "objective_text": "Connect algebraic substitution to simplifying.",
+            "objective_uuid": "3edf7bc9-0f3e-47b1-b7b0-55ffe50d4e24"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.14",
+            "objective_text": "Evaluate the domain validity of identities.",
+            "objective_uuid": "56ef7e80-d054-493d-b0f1-258d628ea126"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.5,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.13",
+            "objective_text": "Construct simplified expressions using identities.",
+            "objective_uuid": "64806724-bf03-4d74-b74f-0ba5aaaf343e"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.2",
+            "sub_topic_name": "Pythagorean, Quotient, and Reciprocal Identities",
+            "objective_id": "MAT.11.2.2.16",
+            "objective_text": "Synthesize algebraic skills with trig definitions.",
+            "objective_uuid": "35d92899-4098-4130-a1e8-630306b28deb"
+          }
+        ]
+      }
+    }
+  }
+}

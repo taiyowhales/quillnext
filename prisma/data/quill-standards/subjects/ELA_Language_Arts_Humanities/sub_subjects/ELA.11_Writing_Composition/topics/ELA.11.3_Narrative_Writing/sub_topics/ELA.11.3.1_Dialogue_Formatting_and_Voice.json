@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.11.3.1",
+    "name": "Dialogue Formatting and Voice",
+    "topic_id": "ELA.11.3",
+    "topic_name": "Narrative Writing",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.11",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Dialogue Formatting and Voice in Narrative Writing (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.1",
+            "objective_text": "Identify words spoken by characters.",
+            "objective_uuid": "ce4f8a09-51f1-4a2f-acc1-ae0beb90651a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.8",
+            "objective_text": "Identify punctuation inside the quotes.",
+            "objective_uuid": "185604ec-e6fd-4911-bea8-bf5bd44cbac0"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.3",
+            "objective_text": "Recall that we take turns talking.",
+            "objective_uuid": "7f42019b-8ff7-4206-8f61-88ef3c7addc5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.4",
+            "objective_text": "Observe quotation marks.",
+            "objective_uuid": "bfed0a70-0216-46d4-b373-9630686ea7eb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.2",
+            "objective_text": "Use speech bubbles.",
+            "objective_uuid": "a383f4b3-ecb0-45ec-8c44-dddf5fa0cb2d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.5",
+            "objective_text": "Summarize \"He said\" and \"She said\".",
+            "objective_uuid": "2f102640-96cb-408f-b478-c6532cb435c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.6",
+            "objective_text": "Explain that a new speaker gets a new paragraph.",
+            "objective_uuid": "cb541ad4-d4e3-4980-bb88-31a716203e75"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.7",
+            "objective_text": "Write a conversation between two friends.",
+            "objective_uuid": "4d69160e-1562-4020-a5bb-111aa91d48d6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.12",
+            "objective_text": "Explain subtext in dialogue.",
+            "objective_uuid": "a6acd523-7379-4ec5-a47c-ef28679af874"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.15",
+            "objective_text": "Defend the removal of unnecessary dialogue.",
+            "objective_uuid": "93bd4fbf-62c5-4986-b174-2c9ee912cd09"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.9",
+            "objective_text": "Analyze character voice (how they sound different).",
+            "objective_uuid": "061a8f00-3f4d-40de-b763-fbd51da309c7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.10",
+            "objective_text": "Interpret the use of dialogue tags vs. action beats.",
+            "objective_uuid": "e38ba200-b7ba-4bfe-bc07-39bb43ec4a37"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.11",
+            "objective_text": "Connect dialogue to character development.",
+            "objective_uuid": "5896508f-a911-4494-a2ed-aeb276fb5432"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.14",
+            "objective_text": "Evaluate the naturalism of speech.",
+            "objective_uuid": "fe19ff22-ca07-4325-a7ec-dbfe0654674c"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.13",
+            "objective_text": "Construct a scene driven by dialogue.",
+            "objective_uuid": "367aac51-5ac7-43f2-88bb-9bf58fe1ba00"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.1",
+            "sub_topic_name": "Dialogue Formatting and Voice",
+            "objective_id": "ELA.11.3.1.16",
+            "objective_text": "Synthesize distinct voices for multiple characters.",
+            "objective_uuid": "b51c2b8d-1c5b-4fba-8170-87a697231b08"
+          }
+        ]
+      }
+    }
+  }
+}

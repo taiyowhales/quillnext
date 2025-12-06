@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.4.3",
+    "name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+    "topic_id": "DST.3.4",
+    "topic_name": "Structures & Forces",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Structural Reinforcement (triangulation, gusset plates, ribs, webs) in Structures & Forces (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.1",
+            "objective_text": "Identify a triangle shape.",
+            "objective_uuid": "c7e6ba40-01d3-4cff-87bf-a574a9e24111"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.2",
+            "objective_text": "Name shapes in a bridge.",
+            "objective_uuid": "194e0b33-6aa7-4606-b932-36662b0ec4ef"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.8",
+            "objective_text": "Identify struts and ties.",
+            "objective_uuid": "3b9dcb0d-de5d-4d50-96de-3b65130d7557"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.3",
+            "objective_text": "Recall that squares can flop over, triangles are strong.",
+            "objective_uuid": "cd9754bd-f536-4ae1-bd5b-4d5fe365f262"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.4",
+            "objective_text": "Observe supports on a shelf.",
+            "objective_uuid": "dd7f816a-c786-4134-b39d-6ed50f3a8fd1"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.5",
+            "objective_text": "Summarize why Triangulation works (cannot change shape).",
+            "objective_uuid": "fd0ac482-1a52-467a-b112-ac3395e85d80"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.6",
+            "objective_text": "Explain a Gusset plate (corner strengthener).",
+            "objective_uuid": "ce4d0216-288a-4786-ad1c-2b830f81186a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.7",
+            "objective_text": "Build a bridge with straws.",
+            "objective_uuid": "a85d2ac4-1c1a-4f1d-887f-d7ff70bf5010"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.12",
+            "objective_text": "Explain the strength of a tube vs. a solid rod.",
+            "objective_uuid": "b64769c7-3d61-42f0-8839-1e8400672a7b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.15",
+            "objective_text": "Defend the use of composite reinforcement (e.g., carbon fiber).",
+            "objective_uuid": "19029348-5cde-4228-a96f-25322ba5edeb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.9",
+            "objective_text": "Analyze the use of Ribs and Webs to stiffen plastics.",
+            "objective_uuid": "36a739ce-c29b-423a-80f2-4fb68b7a86db"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.10",
+            "objective_text": "Interpret the effect of lamination on strength.",
+            "objective_uuid": "b7c41d14-9d97-437a-a82b-c3eafae7c4f5"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.14",
+            "objective_text": "Evaluate the strength-to-weight ratio of reinforced structures.",
+            "objective_uuid": "c55733de-9605-46ca-8e16-a0c51127c6ed"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.11",
+            "objective_text": "Connect geometry to rigidity.",
+            "objective_uuid": "b8c010a0-0797-40f1-a712-97c5e4e4fcd0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.13",
+            "objective_text": "Construct a structural model to test reinforcement strategies.",
+            "objective_uuid": "1f093a65-20d9-476a-aa81-5387ad8ffe62"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.3",
+            "sub_topic_name": "Structural Reinforcement (triangulation, gusset plates, ribs, webs)",
+            "objective_id": "DST.3.4.3.16",
+            "objective_text": "Synthesize structural theory with material reduction.",
+            "objective_uuid": "83c430d6-4863-41cf-8da9-24c2ec34deb4"
+          }
+        ]
+      }
+    }
+  }
+}

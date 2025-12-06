@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.6.2",
+    "name": "Factoring Trinomials and Grouping",
+    "topic_id": "MAT.1.6",
+    "topic_name": "Polynomials, Factoring & Rational Expressions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Factoring Trinomials and Grouping in Polynomials, Factoring & Rational Expressions (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.67,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.1",
+            "objective_text": "Identify what numbers multiply to make a big number.",
+            "objective_uuid": "9931373d-655c-426c-9f80-8379bc48d517"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.4",
+            "objective_text": "Name factors.",
+            "objective_uuid": "b1903e7f-6820-4fa3-b5a7-44d49ac36688"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.8",
+            "objective_text": "Identify prime factors.",
+            "objective_uuid": "8a3aa5e9-510a-4a17-8eae-0dffe5aacc7e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.3",
+            "objective_text": "Recall un-multiplying.",
+            "objective_uuid": "e10bd83e-d26c-4c32-a994-38a99bd25c3a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.7",
+            "objective_text": "Factor simple expressions.",
+            "objective_uuid": "f9b8575d-7804-4ad4-8775-6b14353a8492"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.2",
+            "objective_text": "Break 10 into $2 \\times 5$.",
+            "objective_uuid": "03da7aa0-9953-45fb-a7e6-b8f8f07a5c09"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.5",
+            "objective_text": "Summarize finding the GCF.",
+            "objective_uuid": "6f14c8d6-6a0a-4610-a69e-f0eadbfbfcb2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.6",
+            "objective_text": "Explain factoring out a common term.",
+            "objective_uuid": "d9f38c4e-ae3c-4c92-89ab-098ac1e56cb3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.12",
+            "objective_text": "Explain factoring by grouping.",
+            "objective_uuid": "a3be6e58-5a15-447b-8d7b-dc89a1e3ee4f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.15",
+            "objective_text": "Defend the zero product property.",
+            "objective_uuid": "b5ab5b91-7bf3-49e3-a642-426068efdc8c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.9",
+            "objective_text": "Analyze factoring $x^2 + bx + c$.",
+            "objective_uuid": "b538ef22-218f-41e4-b8ad-305bd71409ed"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.10",
+            "objective_text": "Interpret the 'X' game or diamond method.",
+            "objective_uuid": "39a3ca79-5e36-4c3d-a30e-8c1ff72965c5"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.11",
+            "objective_text": "Connect factoring to finding zeros.",
+            "objective_uuid": "413a27ce-56eb-4956-9468-0b967edf18ca"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.14",
+            "objective_text": "Evaluate cubic factoring strategies.",
+            "objective_uuid": "351f7925-78ef-426e-bda0-7be545fb43f7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.13",
+            "objective_text": "Construct factorizations of $ax^2 + bx + c$.",
+            "objective_uuid": "f8864755-542a-4370-9110-df1809d4d8fe"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.6",
+            "topic_name": "Polynomials, Factoring & Rational Expressions",
+            "sub_topic_id": "MAT.1.6.2",
+            "sub_topic_name": "Factoring Trinomials and Grouping",
+            "objective_id": "MAT.1.6.2.16",
+            "objective_text": "Synthesize roots and factors.",
+            "objective_uuid": "d2355a24-ee16-4f8a-887e-46345ac8c0ee"
+          }
+        ]
+      }
+    }
+  }
+}

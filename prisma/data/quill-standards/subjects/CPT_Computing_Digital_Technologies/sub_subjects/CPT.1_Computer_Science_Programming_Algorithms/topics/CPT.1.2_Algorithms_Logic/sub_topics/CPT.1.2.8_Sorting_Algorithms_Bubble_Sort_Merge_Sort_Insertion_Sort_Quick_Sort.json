@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.8",
+    "name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.4",
+            "objective_text": "Identify biggest and smallest.",
+            "objective_uuid": "b713c176-dbc7-43a2-9d1e-427c4ffe021f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.8",
+            "objective_text": "Identify a sorted list.",
+            "objective_uuid": "2ce08173-ac1a-4c57-bb78-254d338c34d6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 20.33,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.3",
+            "objective_text": "Recall sorting toys.",
+            "objective_uuid": "6c022d23-d3af-4be6-bf90-75308aa20b96"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.1",
+            "objective_text": "Put numbers in order.",
+            "objective_uuid": "e95849b6-9c84-4c72-99d0-69c4c3003a34"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.7",
+            "objective_text": "Sort a list of 5 numbers.",
+            "objective_uuid": "decbe25b-3b97-495a-9a73-f18ab631699d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.2",
+            "objective_text": "Line up from shortest to tallest.",
+            "objective_uuid": "3e76ac95-7c8c-4501-99bc-c0cf0bb187fa"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.5",
+            "objective_text": "Summarize swapping neighbors (Bubble Sort concept).",
+            "objective_uuid": "d97df651-c852-461c-aa91-ca5867bf7771"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.6",
+            "objective_text": "Explain putting cards in order one by one (Insertion).",
+            "objective_uuid": "da934b96-3554-4092-aac4-e1ac5bf8fd5f"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.12",
+            "objective_text": "Explain the pivot in Quick Sort.",
+            "objective_uuid": "5885b219-35ff-4fe8-b0f9-baab4461fae6"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.15",
+            "objective_text": "Defend the use of built-in sort functions.",
+            "objective_uuid": "7c8a652f-f2cc-4d9e-87dd-620a1764af57"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.9",
+            "objective_text": "Analyze the Bubble Sort pass-through method.",
+            "objective_uuid": "7e1ae7c4-4633-4737-81d9-32a2775c0ed2"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.10",
+            "objective_text": "Interpret the Merge Sort (splitting and combining).",
+            "objective_uuid": "3a83f476-6d86-4d3c-b941-647f621f6eeb"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.11",
+            "objective_text": "Connect sorting to searching efficiency.",
+            "objective_uuid": "84690e54-3a4a-4cfc-a3ba-ad3f94d88709"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.14",
+            "objective_text": "Evaluate time complexity ($O(n^2)$ vs $O(n \\log n)$).",
+            "objective_uuid": "c9a69f0f-6539-45ab-b60d-4be0cd254add"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.13",
+            "objective_text": "Construct code for a sorting algorithm.",
+            "objective_uuid": "504068b8-7f52-43fb-a76f-4a2bd0c8a1ff"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.8",
+            "sub_topic_name": "Sorting Algorithms (Bubble Sort, Merge Sort, Insertion Sort, Quick Sort)",
+            "objective_id": "CPT.1.2.8.16",
+            "objective_text": "Synthesize algorithmic comparisons.",
+            "objective_uuid": "c015e2b4-ca15-49cb-933f-57476ea36440"
+          }
+        ]
+      }
+    }
+  }
+}

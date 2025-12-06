@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.3",
+    "name": "Night Sky Observation",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Night Sky Observation in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.1",
+            "objective_text": "Identify stars in the night sky.",
+            "objective_uuid": "148a66ae-b089-4c6a-a7b0-1003cbe1b31b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.2",
+            "objective_text": "Name the Big Dipper.",
+            "objective_uuid": "fe20d5a2-e67d-46f6-9838-3e30e55d8e49"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.8",
+            "objective_text": "Identify Orion and Cassiopeia.",
+            "objective_uuid": "ba9a1641-2bc2-4f7e-b150-7d2e2fc4d002"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.3",
+            "objective_text": "Recall that the sun is a star.",
+            "objective_uuid": "0340b44e-da05-4194-8314-07e3d7dddbcb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.4",
+            "objective_text": "Observe that stars make pictures (constellations).",
+            "objective_uuid": "db8308b9-1470-44c3-96e7-6a3c118c82a4"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.5",
+            "objective_text": "Summarize why stars seem to move (Earth spinning).",
+            "objective_uuid": "91851d8b-aad7-466d-93f9-2ada2a15f451"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.6",
+            "objective_text": "Explain the North Star (Polaris) stays still.",
+            "objective_uuid": "8edd4c5e-d68b-48f9-8b21-04d8ba0ad838"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.12",
+            "objective_text": "Explain Light Years as a distance.",
+            "objective_uuid": "db6fc4e4-e0c1-4fee-9d17-be72de490cd4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.15",
+            "objective_text": "Defend the Psalmist's view: 'The heavens declare the glory of God'.",
+            "objective_uuid": "63550dc5-4fc9-40eb-89da-ae7f1381cde7"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.7",
+            "objective_text": "Compare a planet (wandering star) with a fixed star.",
+            "objective_uuid": "5c26677c-6e23-495b-9212-d50369b0ac98"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.9",
+            "objective_text": "Analyze the Celestial Sphere concept.",
+            "objective_uuid": "b490c861-5c5b-46c2-9572-2c60659e07a0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.10",
+            "objective_text": "Interpret star charts.",
+            "objective_uuid": "89cec01c-57d6-4ed5-976a-a7d2d863130f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.11",
+            "objective_text": "Connect the seasons to the constellations visible.",
+            "objective_uuid": "6f9af2be-da82-4d66-8c3a-03b4dcaf27c7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.14",
+            "objective_text": "Evaluate the magnitude scale of brightness.",
+            "objective_uuid": "95b3cff8-f0c6-40d9-8db0-f5016fbd6558"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.13",
+            "objective_text": "Construct a plan for observing a meteor shower or eclipse.",
+            "objective_uuid": "73c7f4c4-90e4-4534-8dd1-aaee6e53f173"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.3",
+            "sub_topic_name": "Night Sky Observation",
+            "objective_id": "SCI.5.1.3.16",
+            "objective_text": "Synthesize the history of navigation by stars.",
+            "objective_uuid": "cb673fc6-7119-4c68-a6f9-c29833f2c001"
+          }
+        ]
+      }
+    }
+  }
+}

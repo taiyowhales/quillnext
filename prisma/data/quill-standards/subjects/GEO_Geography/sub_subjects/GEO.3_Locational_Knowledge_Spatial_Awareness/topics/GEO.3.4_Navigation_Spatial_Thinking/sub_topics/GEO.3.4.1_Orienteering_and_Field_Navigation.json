@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.4.1",
+    "name": "Orienteering and Field Navigation",
+    "topic_id": "GEO.3.4",
+    "topic_name": "Navigation & Spatial Thinking",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Orienteering and Field Navigation in Navigation & Spatial Thinking (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.1",
+            "objective_text": "Identify a trail marker.",
+            "objective_uuid": "ada0201a-9a4f-4bd5-9729-4310b3e49856"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.8",
+            "objective_text": "Identify topographical features in the field.",
+            "objective_uuid": "a5628b64-cdaa-49b6-87f6-cffe8da54812"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.3",
+            "objective_text": "Recall keeping the map flat.",
+            "objective_uuid": "9943ef3d-1fb3-4927-94de-1185e246b729"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.4",
+            "objective_text": "Observe landmarks to stay found.",
+            "objective_uuid": "e0f4ed8d-dae2-4b5d-819d-c4da80527063"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.2",
+            "objective_text": "Follow a simple map to find a treasure.",
+            "objective_uuid": "bd1e696a-6e74-46ea-9ebe-8d59f343d2ae"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.5",
+            "objective_text": "Summarize how to set a map (align with North).",
+            "objective_uuid": "4bb94132-683e-496d-9a52-8777aad66bc9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.6",
+            "objective_text": "Explain 'Handrails' (following a road/fence).",
+            "objective_uuid": "bacc9a3a-633a-4fbd-add9-1b614dd06e4f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.7",
+            "objective_text": "Use a compass to walk a straight line.",
+            "objective_uuid": "667963cb-e3a2-4f98-b87d-cb2361bf49dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.12",
+            "objective_text": "Explain triangulation to find position.",
+            "objective_uuid": "892e6bb7-8b76-43bd-9acb-00e1683b8db6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.15",
+            "objective_text": "Defend the cognitive benefits of wayfinding.",
+            "objective_uuid": "12e4ad20-e1b7-417a-b11e-3a34aacd0402"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.11",
+            "objective_text": "Connect pacing (counting steps) to distance.",
+            "objective_uuid": "f73ee3a6-2d43-41e8-b5ab-bf7b67092063"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.9",
+            "objective_text": "Analyze 'Aiming Off' to find a point.",
+            "objective_uuid": "e8493ec2-da9f-4c8b-8f5a-e1611cb426d0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.10",
+            "objective_text": "Interpret contour lines on the ground (slope).",
+            "objective_uuid": "eedfe526-9ad8-4015-9856-2b558c1fc877"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.14",
+            "objective_text": "Evaluate route choice (safe vs. fast).",
+            "objective_uuid": "1b95bf07-2e5e-4444-b11a-b59d6d89ce90"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.13",
+            "objective_text": "Construct a route card for a hike.",
+            "objective_uuid": "9b8166da-8940-49c0-ba1f-467259f0cc6e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.1",
+            "sub_topic_name": "Orienteering and Field Navigation",
+            "objective_id": "GEO.3.4.1.16",
+            "objective_text": "Synthesize physical stamina with mental acuity.",
+            "objective_uuid": "ac5d9be6-e69f-4082-973e-d9a1199468f0"
+          }
+        ]
+      }
+    }
+  }
+}

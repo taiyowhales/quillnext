@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.3.4",
+    "name": "The Compass Rose and Directional Orientation",
+    "topic_id": "GEO.3.3",
+    "topic_name": "Map Skills & Cartography",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Compass Rose and Directional Orientation in Map Skills & Cartography (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.1",
+            "objective_text": "Identify the star with N, S, E, W.",
+            "objective_uuid": "5c747508-c147-45c5-86e0-136bb9fd97e1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.2",
+            "objective_text": "Name North as usually 'Up' on a map.",
+            "objective_uuid": "33a0dd33-7ea1-4f15-8bda-1cee6228e834"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.3",
+            "objective_text": "Recall 'Never Eat Soggy Waffles'.",
+            "objective_uuid": "db311878-3576-42e9-8785-0fa1b2df5338"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.4",
+            "objective_text": "Point to the East (sunrise).",
+            "objective_uuid": "62916f73-f1d6-4c74-8771-c2c4748cf618"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.5",
+            "objective_text": "Summarize Cardinal Directions.",
+            "objective_uuid": "70f2a0a6-1074-4031-9f29-7337c3b62a0c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.6",
+            "objective_text": "Explain Intermediate Directions (NW, SE).",
+            "objective_uuid": "f6ed9563-ac47-4acc-9495-2aa20a96ad80"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.7",
+            "objective_text": "Use a compass to find North.",
+            "objective_uuid": "90c24293-c7e6-4546-bae9-cc5e37ce7cce"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.8",
+            "objective_text": "Orient a map to the landscape.",
+            "objective_uuid": "7f9880e4-4e36-4ff6-bef8-5eceff6a2596"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.12",
+            "objective_text": "Explain why North isn't always Up (polar projections).",
+            "objective_uuid": "0b71eb06-1c2c-4080-94b7-325289f35f37"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.15",
+            "objective_text": "Defend the skill of orientation without GPS.",
+            "objective_uuid": "24e9fdcc-677a-4d14-a5c8-edc19d991d7e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.9",
+            "objective_text": "Analyze bearings (0 to 360 degrees).",
+            "objective_uuid": "ffe2a55c-1b71-4ae8-82dd-264948cd16c3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.10",
+            "objective_text": "Interpret 'Headings' in navigation.",
+            "objective_uuid": "3093d97b-e1a4-48f6-b9cd-b6fc6797179d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.11",
+            "objective_text": "Connect wind direction naming (from, not to).",
+            "objective_uuid": "f43e3815-3c46-4309-a41c-2104bc74a62e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.14",
+            "objective_text": "Evaluate the difference between magnetic and true bearings.",
+            "objective_uuid": "e676d056-6ffe-4823-a6a9-f5a97251bc05"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.13",
+            "objective_text": "Construct an orienteering course.",
+            "objective_uuid": "5d6b8bd5-3370-4241-b58d-196f1b48d1d8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.4",
+            "sub_topic_name": "The Compass Rose and Directional Orientation",
+            "objective_id": "GEO.3.3.4.16",
+            "objective_text": "Synthesize geometric angles with geographic direction.",
+            "objective_uuid": "5431f60b-763a-4343-a37d-afb6c3815f93"
+          }
+        ]
+      }
+    }
+  }
+}

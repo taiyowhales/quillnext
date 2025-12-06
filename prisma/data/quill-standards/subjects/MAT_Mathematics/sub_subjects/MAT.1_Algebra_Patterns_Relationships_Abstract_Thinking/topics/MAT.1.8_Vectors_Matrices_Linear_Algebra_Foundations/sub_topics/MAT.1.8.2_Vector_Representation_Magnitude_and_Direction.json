@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.8.2",
+    "name": "Vector Representation (Magnitude and Direction)",
+    "topic_id": "MAT.1.8",
+    "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Vector Representation (Magnitude and Direction) in Vectors & Matrices (Linear Algebra Foundations) (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.1",
+            "objective_text": "Identify an arrow.",
+            "objective_uuid": "12a2c3d8-a01e-47b6-aa72-8e5f62aedc0c"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.2",
+            "objective_text": "Name length and direction.",
+            "objective_uuid": "7bbcbac1-a059-413d-8fe6-eea80549db44"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.8",
+            "objective_text": "Identify force.",
+            "objective_uuid": "41d5adb5-6f61-4159-b1fb-6d43a288ac75"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.3",
+            "objective_text": "Recall pushing a toy car.",
+            "objective_uuid": "968c34d4-9f47-4840-ba37-bc7b8983506c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.4",
+            "objective_text": "Observe wind blowing.",
+            "objective_uuid": "692e3668-ea18-47d2-8867-3574e66d3f45"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.5",
+            "objective_text": "Summarize a vector (arrow with length).",
+            "objective_uuid": "09a29d8c-7854-4cc6-89d0-17a5864c3e99"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.6",
+            "objective_text": "Explain describing a path (3 steps North, 2 steps East).",
+            "objective_uuid": "85f89d39-e050-4b63-a868-8d7a7d8500d6"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.7",
+            "objective_text": "Draw a displacement vector.",
+            "objective_uuid": "d6ec4178-aed6-4967-8e56-9b9be6832c7e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.12",
+            "objective_text": "Explain resultants (adding arrows).",
+            "objective_uuid": "0bacca6b-26b6-4acb-b066-3423a3685a78"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.15",
+            "objective_text": "Defend the vector space definition.",
+            "objective_uuid": "963cf9a5-cba2-4da5-8fd3-c7bb40af3f50"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.9",
+            "objective_text": "Analyze component form $<x, y>$.",
+            "objective_uuid": "1ccef5ae-016e-4da4-800e-d0c3a598bb4e"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.10",
+            "objective_text": "Interpret magnitude using the distance formula.",
+            "objective_uuid": "012ea6e2-7910-4f82-828d-0e18183c3fcb"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.14",
+            "objective_text": "Evaluate direction angles.",
+            "objective_uuid": "447cde5c-9e02-47a7-afa9-e901db51e240"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.11",
+            "objective_text": "Connect vectors to translations.",
+            "objective_uuid": "c9c3c2b6-7a95-4cfe-9d80-c17605087fb1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.13",
+            "objective_text": "Construct unit vectors.",
+            "objective_uuid": "bdfdd061-392c-404b-acde-64235818e910"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.8",
+            "topic_name": "Vectors & Matrices (Linear Algebra Foundations)",
+            "sub_topic_id": "MAT.1.8.2",
+            "sub_topic_name": "Vector Representation (Magnitude and Direction)",
+            "objective_id": "MAT.1.8.2.16",
+            "objective_text": "Synthesize physics applications (velocity, force).",
+            "objective_uuid": "cf811e4d-d95c-4cfa-94f2-bf57f609d1cd"
+          }
+        ]
+      }
+    }
+  }
+}

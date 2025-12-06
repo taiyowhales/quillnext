@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.1.1",
+    "name": "AI & Human Identity (what makes humans human?)",
+    "topic_id": "CPT.5.1",
+    "topic_name": "Biblical Worldview & Technology",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for AI & Human Identity (what makes humans human?) in Biblical Worldview & Technology (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.1",
+            "objective_text": "Identify a robot has no heart.",
+            "objective_uuid": "5e017e28-ac7b-4796-b0c0-9c2b04ec6c07"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.2",
+            "objective_text": "Name a soul.",
+            "objective_uuid": "7d58ef7a-2514-4667-8335-b688bd2207c3"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.7",
+            "objective_text": "Identify emotions vs. simulation.",
+            "objective_uuid": "6f30428f-0533-42df-b466-849b2796063d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.3",
+            "objective_text": "Recall that God loves people, not machines.",
+            "objective_uuid": "9da715ea-eb0a-40d7-9c7b-a96ed2f71ae6"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.4",
+            "objective_text": "Observe feelings.",
+            "objective_uuid": "de430f90-deff-41fc-928a-db8e58205a7a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.5",
+            "objective_text": "Summarize the difference between calculating and thinking.",
+            "objective_uuid": "8bea81e0-54fd-4ad8-b38e-f5c4144868d4"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.6",
+            "objective_text": "Explain that AI doesn't 'know' anything.",
+            "objective_uuid": "1c310104-c512-41c8-828d-7841a722cb01"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.12",
+            "objective_text": "Explain Strong AI vs. Weak AI.",
+            "objective_uuid": "ef762baf-1e41-4fcf-bec4-d32e72652de8"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.15",
+            "objective_text": "Defend the Incarnation as the anchor of human identity.",
+            "objective_uuid": "33998663-9d9b-41fa-9c77-3920dd02462e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.8",
+            "objective_text": "Compare a pet dog with a robot dog.",
+            "objective_uuid": "95f92bb4-b6ce-40d5-ac43-4563f1530cb3"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.9",
+            "objective_text": "Analyze the Turing Test's limitations.",
+            "objective_uuid": "03b9bc29-5aed-4ffc-b8d4-64b07eec8f47"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.10",
+            "objective_text": "Interpret the Chinese Room Argument (Searle).",
+            "objective_uuid": "a0eddd3e-c606-4989-97dc-71e7ba182654"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.11",
+            "objective_text": "Connect consciousness to the soul.",
+            "objective_uuid": "4befb4fc-250d-475d-a799-8c43a8d15f67"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.14",
+            "objective_text": "Evaluate the 'ghost in the machine' fallacy.",
+            "objective_uuid": "fe8b7ef0-0c01-426a-8fdb-b32b093d6aee"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.13",
+            "objective_text": "Construct an argument for human exceptionalism.",
+            "objective_uuid": "ec86e84a-b139-4cfc-b381-bd9b9c0df23e"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.1",
+            "sub_topic_name": "AI & Human Identity (what makes humans human?)",
+            "objective_id": "CPT.5.1.1.16",
+            "objective_text": "Synthesize philosophy of mind with AI capabilities.",
+            "objective_uuid": "54a5984e-f4ab-467d-84be-a026040517cf"
+          }
+        ]
+      }
+    }
+  }
+}

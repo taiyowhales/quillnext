@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.5.3.3",
+    "name": "Land Management",
+    "topic_id": "GEO.5.3",
+    "topic_name": "Environmental Stewardship & Creation Care",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.5",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Land Management in Environmental Stewardship & Creation Care (Geography)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.1",
+            "objective_text": "Identify farmers taking care of the soil.",
+            "objective_uuid": "d4120176-cc38-4c1a-bef4-b2c18de9d06c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.2",
+            "objective_text": "Name forests as places for animals.",
+            "objective_uuid": "70242650-fb71-439f-b86e-acd64a82f899"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.3",
+            "objective_text": "Recall that trees help the earth.",
+            "objective_uuid": "392f9162-f00d-4711-9ac8-18244e0f1de7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.4",
+            "objective_text": "Observe that plants need good dirt.",
+            "objective_uuid": "f61c6a4f-3852-4f80-b5e3-e40b65335317"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.5",
+            "objective_text": "Summarize why soil is important for food.",
+            "objective_uuid": "5aec7b1d-a81a-4eaf-931f-230e82e0ea88"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.6",
+            "objective_text": "Explain erosion (wind/water moving dirt).",
+            "objective_uuid": "edde96be-5636-45d4-abf1-3db80f044392"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.12",
+            "objective_text": "Explain sustainable forestry practices.",
+            "objective_uuid": "80e851dd-27b3-4214-8f42-45817ee55642"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.15",
+            "objective_text": "Defend the biblical mandate to 'keep' the garden.",
+            "objective_uuid": "629765f0-1dfe-4d7b-8704-fd5b31707d4d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 5,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.7",
+            "objective_text": "Compare healthy land with desertification.",
+            "objective_uuid": "8925cca7-2dc9-4249-b57c-196d46397042"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.8",
+            "objective_text": "Apply the idea of crop rotation (giving land a rest).",
+            "objective_uuid": "2fe75caf-b0c1-4478-95b7-7fd6d6325822"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.9",
+            "objective_text": "Analyze the causes of deforestation.",
+            "objective_uuid": "ffc3e1b6-43a6-47c4-b228-c592835d6169"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.10",
+            "objective_text": "Interpret the Sabbath Year for the land (Leviticus 25).",
+            "objective_uuid": "510902c3-5b82-4a45-9af2-3dfc00218c37"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.11",
+            "objective_text": "Connect soil health to human health.",
+            "objective_uuid": "5783b331-53c0-4184-ac3b-a139ee836081"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.14",
+            "objective_text": "Evaluate the trade-offs of urban sprawl vs. agricultural land.",
+            "objective_uuid": "e9ad17cb-7789-4b2e-a539-6bb8c7ad7b11"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.13",
+            "objective_text": "Construct a plan for preventing soil degradation.",
+            "objective_uuid": "daeb143a-db92-445d-8a5b-bb52794db5ae"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.5",
+            "sub_subject_name": "Worldview, Biblical Geography & Stewardship",
+            "topic_id": "GEO.5.3",
+            "topic_name": "Environmental Stewardship & Creation Care",
+            "sub_topic_id": "GEO.5.3.3",
+            "sub_topic_name": "Land Management",
+            "objective_id": "GEO.5.3.3.16",
+            "objective_text": "Synthesize land management with food security.",
+            "objective_uuid": "c52ab654-7ac2-4fc3-a519-fd0e62edb144"
+          }
+        ]
+      }
+    }
+  }
+}

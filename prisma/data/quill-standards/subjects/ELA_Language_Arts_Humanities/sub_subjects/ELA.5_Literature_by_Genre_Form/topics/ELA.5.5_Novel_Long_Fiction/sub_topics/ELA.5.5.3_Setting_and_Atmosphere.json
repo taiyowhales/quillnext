@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.5.5.3",
+    "name": "Setting and Atmosphere",
+    "topic_id": "ELA.5.5",
+    "topic_name": "Novel & Long Fiction",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.5",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Setting and Atmosphere in Novel & Long Fiction (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.1",
+            "objective_text": "Identify where the story happens.",
+            "objective_uuid": "1071d33c-977f-47f9-8e1a-0af20419cf6a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.2",
+            "objective_text": "Name the time (day/night, past/future).",
+            "objective_uuid": "6bf819b7-5e62-4036-b9bc-9643c0726dd3"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.8",
+            "objective_text": "Identify \"World-Building\" in fantasy.",
+            "objective_uuid": "b06841db-89b5-46b2-8e03-0836ef00c3a0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.3",
+            "objective_text": "Recall that setting creates a feeling.",
+            "objective_uuid": "809931ec-97f0-4999-beb7-9131678d487d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.4",
+            "objective_text": "Observe weather in the story.",
+            "objective_uuid": "e4a0f4ae-6fbc-4a31-a3fd-7375148e03c8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.5",
+            "objective_text": "Summarize the \"World\" of the book (e.g., Middle Earth).",
+            "objective_uuid": "b1f2f319-0c88-407a-9cb4-d55f6a835c98"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.6",
+            "objective_text": "Explain how the setting affects the plot (e.g., island survival).",
+            "objective_uuid": "3914c4fe-0564-46fc-92a8-655417968b5a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.12",
+            "objective_text": "Explain the social setting (class/culture).",
+            "objective_uuid": "69cb930c-2a8f-4398-9e2d-afc72829a553"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.15",
+            "objective_text": "Defend the importance of place in narrative.",
+            "objective_uuid": "3a628f45-381e-47d9-846f-3d6f94b1dc18"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.7",
+            "objective_text": "Compare a scary setting with a peaceful one.",
+            "objective_uuid": "551c50fb-0fbc-445f-8aeb-ffca9dc8dc42"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.9",
+            "objective_text": "Analyze the mood created by description.",
+            "objective_uuid": "ba35c505-f35b-437a-841e-eef1d1fcee9f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.10",
+            "objective_text": "Interpret the setting as a character (e.g., the moors in Wuthering Heights).",
+            "objective_uuid": "7dd4fee9-46d8-4e01-a11a-d0b303844738"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.11",
+            "objective_text": "Connect historical context to the setting.",
+            "objective_uuid": "afd00257-1f59-409f-b43a-eda7d626962e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.14",
+            "objective_text": "Evaluate the sensory details used to establish atmosphere.",
+            "objective_uuid": "5cc9c923-91f2-4c80-8609-10ba4f2a8780"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.13",
+            "objective_text": "Construct a map of the novel's setting.",
+            "objective_uuid": "c2447258-a753-4109-8ccc-320b8667e47f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.5",
+            "topic_name": "Novel & Long Fiction",
+            "sub_topic_id": "ELA.5.5.3",
+            "sub_topic_name": "Setting and Atmosphere",
+            "objective_id": "ELA.5.5.3.16",
+            "objective_text": "Synthesize environmental determinism in literature.",
+            "objective_uuid": "a1ae3bbf-7595-4096-93a0-0b41d4548520"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.3.4.2",
+    "name": "Structural Failure (buckling, snapping, fatigue)",
+    "topic_id": "DST.3.4",
+    "topic_name": "Structures & Forces",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Structural Failure (buckling, snapping, fatigue) in Structures & Forces (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.1",
+            "objective_text": "Identify when something breaks.",
+            "objective_uuid": "23895f2c-07ae-4299-958d-283032388f44"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.2",
+            "objective_text": "Name snapping or bending.",
+            "objective_uuid": "2136d2d4-7389-4b92-912e-3f6e61b589b2"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.7",
+            "objective_text": "Identify a weak point.",
+            "objective_uuid": "aded65b4-36e5-417a-bc35-bceb5f72962f"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.3",
+            "objective_text": "Recall that if we put too much weight, it falls.",
+            "objective_uuid": "de7f7270-cae9-40c0-bd88-48bda425dbb6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.4",
+            "objective_text": "Observe a broken toy.",
+            "objective_uuid": "a1d60471-012b-4ba4-8538-52a959eb78d6"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.5",
+            "objective_text": "Summarize why things break (force > strength).",
+            "objective_uuid": "dbc6d3e4-0509-4cbc-b6bd-e4575a984d63"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.6",
+            "objective_text": "Explain Buckling (bending under compression).",
+            "objective_uuid": "d3ab3810-3680-4bcb-98bd-a898ac7a080b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.12",
+            "objective_text": "Explain creep (slow deformation).",
+            "objective_uuid": "137af94a-7977-4eb8-8926-e2d6915af4c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.15",
+            "objective_text": "Defend the necessity of redundancy in critical structures.",
+            "objective_uuid": "48234f50-2052-466e-8dde-5762d564db38"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.8",
+            "objective_text": "Compare brittle snapping vs. plastic bending.",
+            "objective_uuid": "7ff338c9-29a7-407b-9758-26dc2f8986ec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.9",
+            "objective_text": "Analyze Metal Fatigue (repeated bending).",
+            "objective_uuid": "dd441c00-8b39-4fd5-aed6-e0d1c3449aef"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.10",
+            "objective_text": "Interpret the factor of safety.",
+            "objective_uuid": "cc41c03c-590d-4516-9e0f-d06561ee77ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.11",
+            "objective_text": "Connect design flaws to failure.",
+            "objective_uuid": "ed7201a5-ed2a-4514-ae73-b5c55a77fa58"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.14",
+            "objective_text": "Evaluate the yield point of a material.",
+            "objective_uuid": "9cce5055-da18-4a6f-8381-0f58bddce66a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.13",
+            "objective_text": "Construct a failure mode and effects analysis (FMEA).",
+            "objective_uuid": "b1d323e3-d6ac-4519-b0f6-cc277c97d3eb"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.2",
+            "sub_topic_name": "Structural Failure (buckling, snapping, fatigue)",
+            "objective_id": "DST.3.4.2.16",
+            "objective_text": "Synthesize forensic engineering concepts.",
+            "objective_uuid": "8281abd0-9024-4836-ab46-d446017112f4"
+          }
+        ]
+      }
+    }
+  }
+}

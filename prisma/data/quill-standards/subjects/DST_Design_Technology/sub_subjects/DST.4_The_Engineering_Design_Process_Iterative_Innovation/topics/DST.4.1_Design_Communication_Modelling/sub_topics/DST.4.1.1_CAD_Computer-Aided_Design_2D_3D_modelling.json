@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "DST.4.1.1",
+    "name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+    "topic_id": "DST.4.1",
+    "topic_name": "Design Communication & Modelling",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for CAD (Computer-Aided Design) 2D & 3D modelling in Design Communication & Modelling (Design & Technology)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 8,
+        "average_complexity": 19.75,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.5",
+            "objective_text": "Use simple solid modeling software (e.g., Tinkercad).",
+            "objective_uuid": "c925ce44-668c-46da-ba3d-0045e6b08bc3"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.1",
+            "objective_text": "Drag shapes on a screen to build something.",
+            "objective_uuid": "a664f611-767d-4ac8-a300-0b424900dfae"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.2",
+            "objective_text": "Change the color of a digital block.",
+            "objective_uuid": "ec81ae92-028f-4624-b6b3-64929a94c5e9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.3",
+            "objective_text": "Rotate a 3D view on a tablet.",
+            "objective_uuid": "01f5f03d-6e59-4946-be17-4d082bde363c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.4",
+            "objective_text": "Print a picture of the design.",
+            "objective_uuid": "5a1f796a-b628-472f-8e52-76e5aee9c929"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.6",
+            "objective_text": "Combine shapes (Group/Union).",
+            "objective_uuid": "68b1bc6d-eb09-4826-a3b1-346515c23030"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.7",
+            "objective_text": "Subtract shapes (Hole/Cut).",
+            "objective_uuid": "1dd6974e-c71d-44e8-94f8-63a5e933776c"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.8",
+            "objective_text": "Explain why computers help us design faster.",
+            "objective_uuid": "f3e0dfce-df68-4a17-bca0-e90f453c062c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.12",
+            "objective_text": "Explain the 'Fillet' and 'Chamfer' tools.",
+            "objective_uuid": "bd364bff-cf94-4ad1-8264-25e1b1ff7702"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.15",
+            "objective_text": "Defend the workflow of parametric modelling.",
+            "objective_uuid": "c2afbf66-a50b-4900-92d8-5f056b3b1e10"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.9",
+            "objective_text": "Analyze the difference between 2D vector design and 3D solid modeling.",
+            "objective_uuid": "934e20c6-e8f3-40b7-84cd-ad4b70960936"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.11",
+            "objective_text": "Connect CAD files to CAM (3D printing/Laser cutting).",
+            "objective_uuid": "b8459614-ea92-441d-afba-832f53ef3755"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 28.25,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.14",
+            "objective_text": "Evaluate the stress analysis (FEA) simulations in CAD.",
+            "objective_uuid": "eb594608-81ba-4995-8632-5dfc78860c86"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.10",
+            "objective_text": "Construct a model using extrude and revolve tools.",
+            "objective_uuid": "8564744f-7777-49d4-bf34-58f65e62ab5f"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.13",
+            "objective_text": "Construct complex assemblies with constraints and joints.",
+            "objective_uuid": "59cbcda9-e582-4125-a3ba-c291b2c3fb77"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.1",
+            "sub_topic_name": "CAD (Computer-Aided Design) 2D & 3D modelling",
+            "objective_id": "DST.4.1.1.16",
+            "objective_text": "Synthesize photorealistic rendering with technical modeling.",
+            "objective_uuid": "3c6986eb-892a-4d54-82cb-a8f0fce3d101"
+          }
+        ]
+      }
+    }
+  }
+}

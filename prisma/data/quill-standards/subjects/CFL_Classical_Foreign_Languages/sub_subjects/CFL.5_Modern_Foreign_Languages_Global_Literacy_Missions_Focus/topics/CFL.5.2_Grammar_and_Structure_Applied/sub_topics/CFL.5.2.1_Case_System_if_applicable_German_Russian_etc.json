@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CFL.5.2.1",
+    "name": "Case System (if applicable: German, Russian, etc.)",
+    "topic_id": "CFL.5.2",
+    "topic_name": "Grammar and Structure (Applied)",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.5",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Case System (if applicable: German, Russian, etc.) in Grammar and Structure (Applied) (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.1",
+            "objective_text": "Identify who is doing the action.",
+            "objective_uuid": "9b230282-777d-4249-ac20-f295bf3dfa7e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.2",
+            "objective_text": "Identify who is receiving the action.",
+            "objective_uuid": "8e3c481b-bd1a-45b5-8748-67422d5d562b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.4",
+            "objective_text": "Name 'Subject' and 'Object'.",
+            "objective_uuid": "599f4989-e2cb-4996-9c9a-412a56428730"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.7",
+            "objective_text": "Identify possession ('of' or Genitive).",
+            "objective_uuid": "a3711ca7-315f-497a-9bfc-91c927d5282f"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.3",
+            "objective_text": "Recall that word endings matter.",
+            "objective_uuid": "0cc1e5ab-f3aa-4631-a27d-a37d26f296fb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.5",
+            "objective_text": "Summarize Nominative (Subject) and Accusative (Object).",
+            "objective_uuid": "62fece1f-1d6d-43c0-be03-93511fcdff66"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.6",
+            "objective_text": "Explain 'to me' or 'for me' (Dative idea).",
+            "objective_uuid": "4cdda78e-1c28-4904-9631-a209b08e3be0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.8",
+            "objective_text": "Change a sentence from 'I see him' to 'He sees me'.",
+            "objective_uuid": "7f11842c-9ed8-4e1b-baac-da03b5aaf3f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.12",
+            "objective_text": "Explain the function of each case.",
+            "objective_uuid": "684ca1f3-514e-4718-854c-044f0a4a80ef"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.15",
+            "objective_text": "Defend the precision of a case system.",
+            "objective_uuid": "84192757-af56-4177-ac37-5b5c8d4a3b69"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.9",
+            "objective_text": "Analyze the declension tables for the specific language.",
+            "objective_uuid": "895d1ecc-e1ff-4dec-8f7d-4dd7d28b4763"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.10",
+            "objective_text": "Interpret prepositions that trigger specific cases.",
+            "objective_uuid": "488d1525-3414-4432-bea5-d48ab0c6adec"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.11",
+            "objective_text": "Connect case to word order flexibility.",
+            "objective_uuid": "c237a820-27b1-49e9-bb85-4dc5b14f2c5c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.14",
+            "objective_text": "Evaluate the impact of case on meaning.",
+            "objective_uuid": "8183e1c9-bed9-4e90-b9d9-3aaefbbd9aba"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.13",
+            "objective_text": "Construct sentences using all cases correctly.",
+            "objective_uuid": "3acf9b4e-19de-44cc-861e-770964a2664e"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.1",
+            "sub_topic_name": "Case System (if applicable: German, Russian, etc.)",
+            "objective_id": "CFL.5.2.1.16",
+            "objective_text": "Synthesize morphology with communication.",
+            "objective_uuid": "d49b2937-6040-4faf-a3db-78dd69967376"
+          }
+        ]
+      }
+    }
+  }
+}

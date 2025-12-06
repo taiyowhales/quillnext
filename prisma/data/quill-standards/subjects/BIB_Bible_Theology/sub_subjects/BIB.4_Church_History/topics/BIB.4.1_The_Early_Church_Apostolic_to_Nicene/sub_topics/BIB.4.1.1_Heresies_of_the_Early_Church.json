@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.4.1.1",
+    "name": "Heresies of the Early Church",
+    "topic_id": "BIB.4.1",
+    "topic_name": "The Early Church (Apostolic to Nicene)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.4",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Heresies of the Early Church in The Early Church (Apostolic to Nicene) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.1",
+            "objective_text": "Identify a heresy as a lie about God.",
+            "objective_uuid": "1e71b2ca-0247-4512-bfc8-1d837e193091"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.2",
+            "objective_text": "Name the truth: Jesus is God and Man.",
+            "objective_uuid": "09611c27-3ecb-44c4-bf0e-d09d68d8481b"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.3",
+            "objective_text": "Recall that we must be careful what we listen to.",
+            "objective_uuid": "10743634-44fd-4c10-9401-7eb7c3ecf724"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.4",
+            "objective_text": "Observe that the Bible helps us spot lies.",
+            "objective_uuid": "e262d9d4-6242-40f0-b8d8-187cefb03839"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.5",
+            "objective_text": "Summarize the error of Gnosticism (Body is bad, Spirit is good).",
+            "objective_uuid": "0607f9df-f01f-4e7f-9e54-b157d1dcceed"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.6",
+            "objective_text": "Explain why Arianism (Jesus is a creature) is wrong.",
+            "objective_uuid": "76a62b60-aa89-4205-8844-8400298b679f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.12",
+            "objective_text": "Explain Docetism (Jesus only *seemed* human).",
+            "objective_uuid": "6a17485c-132b-4bc8-a786-cbf51f1042c0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.15",
+            "objective_text": "Defend the biblical view of sin against Pelagius.",
+            "objective_uuid": "fc539550-1662-4f6e-9c61-021092f66e23"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.7",
+            "objective_text": "Compare truth with a counterfeit (looks real but isn't).",
+            "objective_uuid": "d28a8304-8fe4-4552-b212-28e93797da2a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.8",
+            "objective_text": "Apply the need to know the real Jesus.",
+            "objective_uuid": "74e076c0-9551-4aaf-a604-23f596bcb29f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.9",
+            "objective_text": "Analyze the danger of Marcionism (rejecting the Old Testament).",
+            "objective_uuid": "c6f84086-ceb6-4d62-95da-659c21d27211"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.10",
+            "objective_text": "Interpret the error of Pelagianism (we can save ourselves).",
+            "objective_uuid": "dcf0f612-4eec-458c-a9c3-4daa34a9814e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.11",
+            "objective_text": "Connect ancient heresies to modern cults (e.g., Arianism -> Jehovah's Witnesses).",
+            "objective_uuid": "28b3a752-62c4-43ab-9b56-e3cc905cd48d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.14",
+            "objective_text": "Evaluate the church's response to heresy (it sharpened doctrine).",
+            "objective_uuid": "e658a008-0dea-47b6-ad79-3c3cc8fb6c0d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.13",
+            "objective_text": "Construct a taxonomy of Christological heresies.",
+            "objective_uuid": "51aa5bbc-bfcb-43b3-a140-6162aa768eae"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.4",
+            "sub_subject_name": "Church History",
+            "topic_id": "BIB.4.1",
+            "topic_name": "The Early Church (Apostolic to Nicene)",
+            "sub_topic_id": "BIB.4.1.1",
+            "sub_topic_name": "Heresies of the Early Church",
+            "objective_id": "BIB.4.1.1.16",
+            "objective_text": "Synthesize the importance of 'Orthodoxy' (Right Glory/Belief).",
+            "objective_uuid": "a198201a-c470-414c-b4f8-82d824890d0c"
+          }
+        ]
+      }
+    }
+  }
+}

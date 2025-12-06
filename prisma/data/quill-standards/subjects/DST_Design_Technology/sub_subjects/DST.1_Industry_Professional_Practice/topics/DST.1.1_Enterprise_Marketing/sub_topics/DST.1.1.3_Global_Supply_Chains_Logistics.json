@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.1.1.3",
+    "name": "Global Supply Chains & Logistics",
+    "topic_id": "DST.1.1",
+    "topic_name": "Enterprise & Marketing",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.1",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Global Supply Chains & Logistics in Enterprise & Marketing (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.1",
+            "objective_text": "Identify a banana from another country.",
+            "objective_uuid": "7d0aefce-e083-496d-a812-8ae831874de5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.2",
+            "objective_text": "Name a big ship carrying boxes.",
+            "objective_uuid": "965b55e3-791a-4743-8aa5-95b3ed278ad5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.8",
+            "objective_text": "Identify 'Food Miles'.",
+            "objective_uuid": "e4a4ef08-fdaa-4f02-820f-0a4f088b649b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.3",
+            "objective_text": "Recall that planes fly mail to us.",
+            "objective_uuid": "b6090328-2ff2-4b95-b0ba-f2258a956d7d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.4",
+            "objective_text": "Observe a 'Made in China' sticker.",
+            "objective_uuid": "9ce15574-32a5-4cc1-b5f1-a984589bb6ba"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.5",
+            "objective_text": "Summarize how parts come from all over the world.",
+            "objective_uuid": "8c99ad8c-30af-4206-9bef-0a0d771033b1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.6",
+            "objective_text": "Explain what a Shipping Container is.",
+            "objective_uuid": "067f4e88-ca62-426e-b6b6-87e37346af7a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.7",
+            "objective_text": "Trace the journey of a t-shirt.",
+            "objective_uuid": "a914b615-a7ea-4cfb-b82c-317d3918b62e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.12",
+            "objective_text": "Explain the role of distribution centers.",
+            "objective_uuid": "3c0087a6-2e1c-41fe-956e-3e216092c856"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.15",
+            "objective_text": "Defend the resilience vs. efficiency of supply chains.",
+            "objective_uuid": "c5ce05af-708b-411c-8338-61c77cce9a07"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.9",
+            "objective_text": "Analyze the complexity of global logistics.",
+            "objective_uuid": "fb1a418e-6860-4c92-ba01-183ee13045ab"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.10",
+            "objective_text": "Interpret the impact of the Suez Canal blockage.",
+            "objective_uuid": "487f41b1-7e06-43a4-8640-11be36f8d286"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.11",
+            "objective_text": "Connect outsourcing to cheaper labor costs.",
+            "objective_uuid": "0c3ddc5e-ae92-48e1-aea6-e01ba7a3021f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.14",
+            "objective_text": "Evaluate the ethical implications of offshore manufacturing.",
+            "objective_uuid": "03261747-4de4-4978-814e-8eee26b86257"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.13",
+            "objective_text": "Construct a supply chain map for a complex product.",
+            "objective_uuid": "a23fc72c-b111-47c1-ad4c-fc6e4264f583"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.3",
+            "sub_topic_name": "Global Supply Chains & Logistics",
+            "objective_id": "DST.1.1.3.16",
+            "objective_text": "Synthesize geopolitical awareness with industrial management.",
+            "objective_uuid": "1725f4c4-9cb5-4e66-b4d3-c523fcc8f7a8"
+          }
+        ]
+      }
+    }
+  }
+}

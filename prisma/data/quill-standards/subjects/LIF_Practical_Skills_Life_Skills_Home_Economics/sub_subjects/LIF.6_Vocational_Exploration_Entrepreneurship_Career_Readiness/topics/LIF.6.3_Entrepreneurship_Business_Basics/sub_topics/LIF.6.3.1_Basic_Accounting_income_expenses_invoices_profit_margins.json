@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.6.3.1",
+    "name": "Basic Accounting (income, expenses, invoices, profit margins)",
+    "topic_id": "LIF.6.3",
+    "topic_name": "Entrepreneurship & Business Basics",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.6",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Basic Accounting (income, expenses, invoices, profit margins) in Entrepreneurship & Business Basics (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.3",
+            "objective_text": "Identify profit (money kept).",
+            "objective_uuid": "1296bcb7-3c88-44c1-a818-9c61f51d5681"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.8",
+            "objective_text": "Identify the cost of goods sold.",
+            "objective_uuid": "6f9767b9-5a64-44ab-af03-7e8da595664d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 6,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.1",
+            "objective_text": "Count money earned.",
+            "objective_uuid": "29589c62-ac06-41e6-a99c-1fd5c130d486"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.2",
+            "objective_text": "Subtract money spent on supplies.",
+            "objective_uuid": "1ba7e8be-74c7-40cf-a0a4-90646222ca32"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.4",
+            "objective_text": "Keep money in a safe box.",
+            "objective_uuid": "4d772112-a479-4553-9091-ff93916839bb"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.5",
+            "objective_text": "Summarize Income (money in) and Expenses (money out).",
+            "objective_uuid": "00f7c851-600a-4a1b-81c6-91babdcd34b5"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.6",
+            "objective_text": "Explain what a Receipt is.",
+            "objective_uuid": "f31ab8f3-4854-4140-9e5a-2449ca3b8085"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.12",
+            "objective_text": "Explain an Invoice (bill sent to customer).",
+            "objective_uuid": "49e591c2-0cc2-4728-802c-9a2a4e27d720"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.7",
+            "objective_text": "Calculate profit from a lemonade stand.",
+            "objective_uuid": "1b047999-c652-4d29-b1cb-a78479e97d94"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.9",
+            "objective_text": "Analyze a Profit and Loss statement (P&L).",
+            "objective_uuid": "7c78c804-0df2-4b11-9f76-5fa700427ae1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.10",
+            "objective_text": "Interpret the difference between Revenue and Profit.",
+            "objective_uuid": "70f19cef-5abc-4198-a6ad-02f50cb8aaca"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.11",
+            "objective_text": "Connect pricing to profit margins.",
+            "objective_uuid": "8267ab36-bd7e-423e-a1ea-a35f81e6e47a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.15",
+            "objective_text": "Defend financial transparency and honesty.",
+            "objective_uuid": "8e339395-67da-4431-929a-e7e0cd68e588"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.13",
+            "objective_text": "Construct a break-even analysis.",
+            "objective_uuid": "f4570f7d-0cbc-4e5f-9fd9-dd4f5cd4c42a"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.16",
+            "objective_text": "Synthesize bookkeeping skills with strategic planning.",
+            "objective_uuid": "b7d2beba-f680-4c51-b9a4-e12d2bbdddba"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.3",
+            "topic_name": "Entrepreneurship & Business Basics",
+            "sub_topic_id": "LIF.6.3.1",
+            "sub_topic_name": "Basic Accounting (income, expenses, invoices, profit margins)",
+            "objective_id": "LIF.6.3.1.14",
+            "objective_text": "Evaluate the financial health of a small business.",
+            "objective_uuid": "b78a8bff-0f3c-496d-b051-1a1d97b7318e"
+          }
+        ]
+      }
+    }
+  }
+}

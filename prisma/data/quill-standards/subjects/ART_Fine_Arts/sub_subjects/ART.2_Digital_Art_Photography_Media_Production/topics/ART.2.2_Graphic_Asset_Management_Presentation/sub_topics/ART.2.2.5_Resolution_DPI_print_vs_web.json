@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.2.5",
+    "name": "Resolution & DPI (print vs web)",
+    "topic_id": "ART.2.2",
+    "topic_name": "Graphic Asset Management & Presentation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Resolution & DPI (print vs web) in Graphic Asset Management & Presentation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.1",
+            "objective_text": "Identify a blurry picture.",
+            "objective_uuid": "499d60a0-465e-45af-9680-5d03937f91fa"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.2",
+            "objective_text": "Name 'HD' or 'High Quality'.",
+            "objective_uuid": "1bc197b6-d403-42f3-89fc-509bf98a24a7"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.3",
+            "objective_text": "Recall that big pictures take up more space.",
+            "objective_uuid": "0f3ecf50-41bf-44dc-be7e-08394281de98"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.4",
+            "objective_text": "Observe pixels on a TV screen up close.",
+            "objective_uuid": "7f29233f-4162-463e-8e6d-f1d4b1f6078e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.5",
+            "objective_text": "Summarize what a Pixel is.",
+            "objective_uuid": "ffb63a82-cef5-409e-8fcc-8b3f8842d84b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.6",
+            "objective_text": "Explain screen resolution (72 dpi) vs. print (300 dpi).",
+            "objective_uuid": "aedefd13-667a-49e8-8206-d0cbbd4da165"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.7",
+            "objective_text": "Resize an image.",
+            "objective_uuid": "47739150-295b-45ab-a524-a1f6d2cf389c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.12",
+            "objective_text": "Explain 4K vs. 1080p.",
+            "objective_uuid": "c8023141-1acd-4161-8705-d72f4beda7ab"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.15",
+            "objective_text": "Defend the importance of high-resolution source material.",
+            "objective_uuid": "284862d4-2e83-440a-930f-60e31b2cb6be"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.8",
+            "objective_text": "Compare a thumbnail with a full-size image.",
+            "objective_uuid": "904714dd-026a-4323-b331-b3b3d0d21df1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.9",
+            "objective_text": "Analyze aspect ratios (16:9 vs. 4:3).",
+            "objective_uuid": "98c75244-d677-43cb-8c1e-f0ab45988227"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.10",
+            "objective_text": "Interpret megapixels.",
+            "objective_uuid": "8dc5906c-080d-4087-ac42-8bd2b86a9119"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.11",
+            "objective_text": "Connect scaling up to quality loss (pixelation).",
+            "objective_uuid": "330f0f44-e568-4d78-9cca-e9f48643e745"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.14",
+            "objective_text": "Evaluate the requirements for large-format printing.",
+            "objective_uuid": "e6b8f8bc-1926-486e-acff-8e93bb0cf69d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.13",
+            "objective_text": "Construct a project with mixed-resolution assets.",
+            "objective_uuid": "25240b15-0b27-4c5b-bf31-2161a72438fa"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.5",
+            "sub_topic_name": "Resolution & DPI (print vs web)",
+            "objective_id": "ART.2.2.5.16",
+            "objective_text": "Synthesize upscaling technology (AI) with traditional resizing.",
+            "objective_uuid": "e7340922-46be-44e4-9063-324800ba90b3"
+          }
+        ]
+      }
+    }
+  }
+}

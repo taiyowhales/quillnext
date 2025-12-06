@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.1.6",
+    "name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+    "topic_id": "MAT.5.1",
+    "topic_name": "Coordinate Geometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Transformations on a Coordinate Plane (Translation, Rotation, Dilation) in Coordinate Geometry (Mathematics)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.1",
+            "objective_text": "Identify sliding, turning, and flipping.",
+            "objective_uuid": "37156d60-1f29-4336-9898-2eb460d06e88"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.8",
+            "objective_text": "Identify congruent shapes after moving.",
+            "objective_uuid": "31aa4ca1-2a0e-4308-9e2c-cb76e5676b5c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.3",
+            "objective_text": "Recall that the shape stays the same.",
+            "objective_uuid": "babd066c-5a26-40e7-ab52-ab784410e839"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.4",
+            "objective_text": "Observe a pattern.",
+            "objective_uuid": "ad14f0a1-7410-4049-8c8c-42babc6fcb19"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.2",
+            "objective_text": "Move a shape on a table.",
+            "objective_uuid": "ac03138e-8aab-44c0-907c-c5e5e023fca3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.5",
+            "objective_text": "Summarize Translation (slide).",
+            "objective_uuid": "0cf4f0c4-adc1-416a-802c-c25d2c71c00b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.6",
+            "objective_text": "Explain Reflection (mirror).",
+            "objective_uuid": "141f4c6f-7bbd-4cf5-b7c8-f234183efd2b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.7",
+            "objective_text": "Rotate a shape 90 degrees.",
+            "objective_uuid": "bdb1d724-d27c-4670-8f50-722b91e2cd37"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.12",
+            "objective_text": "Explain Isometry (rigid motion).",
+            "objective_uuid": "9eff5a69-e39d-4336-af5e-1a55837cef9e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.15",
+            "objective_text": "Defend the properties of invariance.",
+            "objective_uuid": "072166a3-f886-4369-9bbd-8bb374d37dcb"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 21.75,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.9",
+            "objective_text": "Analyze coordinate rules (e.g., $(x, y) \\rightarrow (x+2, y-3)$).",
+            "objective_uuid": "54cfe231-5925-448f-b11b-f957422d495b"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.10",
+            "objective_text": "Interpret Dilation (resizing).",
+            "objective_uuid": "b655d9d0-26d3-4081-b687-2c6896f80019"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.11",
+            "objective_text": "Connect scale factor to coordinates.",
+            "objective_uuid": "70574ba1-88e6-4454-b864-da5ca2ae37f7"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.14",
+            "objective_text": "Evaluate matrix multiplication for transformations.",
+            "objective_uuid": "f1afdbf2-9435-484d-b1ca-cebd8cc9d4d9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 27.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.13",
+            "objective_text": "Construct composite transformations.",
+            "objective_uuid": "71782c00-4e84-407f-b197-ae3a65c9f16f"
+          },
+          {
+            "complexity": 27,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.6",
+            "sub_topic_name": "Transformations on a Coordinate Plane (Translation, Rotation, Dilation)",
+            "objective_id": "MAT.5.1.6.16",
+            "objective_text": "Synthesize inverse transformations.",
+            "objective_uuid": "633fa232-00f4-4a1e-b3c9-198096b811c9"
+          }
+        ]
+      }
+    }
+  }
+}

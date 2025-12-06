@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.1.1.1",
+    "name": "Branding & Packaging Design",
+    "topic_id": "DST.1.1",
+    "topic_name": "Enterprise & Marketing",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.1",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Branding & Packaging Design in Enterprise & Marketing (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.1",
+            "objective_text": "Identify the Golden Arches (McDonalds).",
+            "objective_uuid": "62a8960b-2a4c-435a-9411-cfa65dc69b8e"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.2",
+            "objective_text": "Name a favorite cereal box.",
+            "objective_uuid": "85c8542c-5235-4bf8-b8af-fd0fbfcd6879"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.3",
+            "objective_text": "Recall that bright colors make us look.",
+            "objective_uuid": "378e2aef-c6a6-4f41-807b-a1fcb2f868d5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.4",
+            "objective_text": "Observe that packaging protects the toy.",
+            "objective_uuid": "afc81637-34a3-4d6c-bf2d-bf5eba4c3f70"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.5",
+            "objective_text": "Summarize what a Brand is (personality of a company).",
+            "objective_uuid": "af2984b0-65b9-4333-9d26-963d558f0a06"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.6",
+            "objective_text": "Explain why packaging needs information (ingredients).",
+            "objective_uuid": "6ac9f88b-3f15-4df0-8f0f-17cb52399f3e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.12",
+            "objective_text": "Explain the 'unboxing experience'.",
+            "objective_uuid": "12767f72-b9a7-4424-a6a6-15e18ef5cfe9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.15",
+            "objective_text": "Defend the cost of premium packaging for high-end goods.",
+            "objective_uuid": "063d18c7-c907-4049-af5d-7037270d0c32"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.8",
+            "objective_text": "Compare a generic brand with a famous brand.",
+            "objective_uuid": "bcc5bf77-2041-490e-a6ad-4bc246961bd8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.9",
+            "objective_text": "Analyze the psychology of color in branding.",
+            "objective_uuid": "edc658b8-abb3-46a0-90f6-961dc35b3a3e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.10",
+            "objective_text": "Interpret brand loyalty.",
+            "objective_uuid": "1cca3f82-83aa-4134-86d1-460a5f1bd9fe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.11",
+            "objective_text": "Connect packaging design to sustainability (waste).",
+            "objective_uuid": "38783929-af74-4166-97d1-5ff78ab85c89"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.14",
+            "objective_text": "Evaluate the legal requirements of packaging labeling.",
+            "objective_uuid": "26314c0f-6397-49f4-bc06-548585d45a32"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.7",
+            "objective_text": "Design a logo for a lemonade stand.",
+            "objective_uuid": "5954ba3d-615e-44b3-bb56-7aaae41ab657"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.13",
+            "objective_text": "Construct a comprehensive brand identity.",
+            "objective_uuid": "7541f0c7-cc4c-4733-b4ea-fbaff47a9f7d"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.1",
+            "topic_name": "Enterprise & Marketing",
+            "sub_topic_id": "DST.1.1.1",
+            "sub_topic_name": "Branding & Packaging Design",
+            "objective_id": "DST.1.1.1.16",
+            "objective_text": "Synthesize graphic design with structural packaging engineering.",
+            "objective_uuid": "930fd629-c1ba-4810-8826-611205cdc2a4"
+          }
+        ]
+      }
+    }
+  }
+}

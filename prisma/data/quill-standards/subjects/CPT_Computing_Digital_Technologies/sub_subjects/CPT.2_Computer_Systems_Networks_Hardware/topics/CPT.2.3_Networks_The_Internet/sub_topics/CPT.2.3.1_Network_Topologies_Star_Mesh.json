@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.3.1",
+    "name": "Network Topologies (Star, Mesh)",
+    "topic_id": "CPT.2.3",
+    "topic_name": "Networks & The Internet",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Network Topologies (Star, Mesh) in Networks & The Internet (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.1",
+            "objective_text": "Identify connecting in a circle or line.",
+            "objective_uuid": "58085251-5e8b-4c65-9828-7ade5ab1313b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.2",
+            "objective_text": "Recall that if a wire breaks, it might stop.",
+            "objective_uuid": "1de7c679-cb00-49f5-a013-758230d92898"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.3",
+            "objective_text": "Name the center hub.",
+            "objective_uuid": "0d048117-e1f4-43c3-8e83-4f4c51da18af"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.4",
+            "objective_text": "Observe drawing lines between dots.",
+            "objective_uuid": "0150bdf1-73ea-4db9-8f0a-4fd30950d846"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.7",
+            "objective_text": "Identify a broken link.",
+            "objective_uuid": "ff0e4a4a-7e7a-4c0e-b5e3-5c01567ad47c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.5",
+            "objective_text": "Summarize Star topology (all connect to middle).",
+            "objective_uuid": "d2f1f99c-ff8c-4ed3-aea0-e8f0a1846d88"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.6",
+            "objective_text": "Explain Mesh (everyone connects to everyone).",
+            "objective_uuid": "8031ffe9-71bb-469f-969a-ab9f8dd939f6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.12",
+            "objective_text": "Explain redundancy.",
+            "objective_uuid": "df5c71a7-ebfe-42d6-ae22-ad136bb63b05"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.15",
+            "objective_text": "Defend the dominance of Star topology in LANs.",
+            "objective_uuid": "126e2d4e-4f62-4350-b921-d9ba3d66e058"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.8",
+            "objective_text": "Compare reliability.",
+            "objective_uuid": "9fa9e069-f777-47df-88ab-c567ea529319"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.9",
+            "objective_text": "Analyze the pros and cons of Star vs. Mesh vs. Bus.",
+            "objective_uuid": "ddf4802d-a6e4-4168-9cae-88c325dd4940"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.10",
+            "objective_text": "Interpret failure points.",
+            "objective_uuid": "e8e9e411-789b-41b7-b38b-c13d8ece1fee"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.11",
+            "objective_text": "Connect Wifi to a logical Star topology.",
+            "objective_uuid": "8ba5c56f-b405-49ba-b1ce-8e367bec1351"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.14",
+            "objective_text": "Evaluate the cost vs. reliability trade-off.",
+            "objective_uuid": "6361ae72-b09a-4c9e-8cb7-955fe390798b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.13",
+            "objective_text": "Construct a robust topology design.",
+            "objective_uuid": "0cf10122-ddf9-4c15-bfcf-ca2803a9c9c7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.1",
+            "sub_topic_name": "Network Topologies (Star, Mesh)",
+            "objective_id": "CPT.2.3.1.16",
+            "objective_text": "Synthesize packet routing through a mesh.",
+            "objective_uuid": "9b7e74fc-de98-4691-8f43-95372b167945"
+          }
+        ]
+      }
+    }
+  }
+}

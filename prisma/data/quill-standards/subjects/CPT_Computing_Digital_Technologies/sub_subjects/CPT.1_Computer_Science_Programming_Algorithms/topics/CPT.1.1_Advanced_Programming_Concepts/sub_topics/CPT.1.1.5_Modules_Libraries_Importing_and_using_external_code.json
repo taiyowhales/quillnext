@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.5",
+    "name": "Modules & Libraries (Importing and using external code)",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Modules & Libraries (Importing and using external code) in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.1",
+            "objective_text": "Identify using someone else's blocks.",
+            "objective_uuid": "de4246c4-52d6-467f-949a-09b5a467a7d4"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.2",
+            "objective_text": "Name a toolbox.",
+            "objective_uuid": "dc508396-84a5-4d51-bfe1-76a80580108a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.8",
+            "objective_text": "Identify the benefits of not reinventing the wheel.",
+            "objective_uuid": "e51ff500-97de-4e31-a08c-80561ff98fdd"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 7,
+        "average_complexity": 21.14,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.3",
+            "objective_text": "Recall borrowing a tool.",
+            "objective_uuid": "61a0745f-0a6e-4217-83ab-c4931e6df5ee"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.4",
+            "objective_text": "Observe extra features.",
+            "objective_uuid": "431b38a5-01da-4c1f-8b10-016a6886f928"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.5",
+            "objective_text": "Summarize 'import random'.",
+            "objective_uuid": "95758bc3-ccb0-42e1-8ead-17698725d085"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.6",
+            "objective_text": "Explain that libraries are code written by others.",
+            "objective_uuid": "576c10a4-37ee-45b0-9d3b-b672aa6d7c7b"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.7",
+            "objective_text": "Use a math library function.",
+            "objective_uuid": "ca88360f-2e3f-45d1-aeed-2ecfc15e9c7a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.12",
+            "objective_text": "Explain dependencies.",
+            "objective_uuid": "7cf52c96-9c23-41f1-b576-288585bf6895"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.15",
+            "objective_text": "Defend the use of standard libraries.",
+            "objective_uuid": "169f3ac7-94f3-4b39-91e8-bf66a4cc69bf"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.9",
+            "objective_text": "Analyze documentation to learn a library.",
+            "objective_uuid": "9bdb8acf-9847-4516-85b5-20d0c723b3bb"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.10",
+            "objective_text": "Interpret the namespace concept.",
+            "objective_uuid": "73558ad9-20e8-4245-b86a-60b03a7c381e"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.11",
+            "objective_text": "Connect PIP/Package Managers to installing code.",
+            "objective_uuid": "17c16522-48d5-4c15-8e1f-150b6a0d5629"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.14",
+            "objective_text": "Evaluate the trade-offs of third-party dependencies.",
+            "objective_uuid": "228c102a-d782-492b-8b65-b3b663db4041"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.13",
+            "objective_text": "Construct a custom module.",
+            "objective_uuid": "2f2870dd-1c71-40ca-a1cc-914a65dc571a"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.5",
+            "sub_topic_name": "Modules & Libraries (Importing and using external code)",
+            "objective_id": "CPT.1.1.5.16",
+            "objective_text": "Synthesize API integration.",
+            "objective_uuid": "5a5fab0b-238a-4184-b952-a3cf129ee225"
+          }
+        ]
+      }
+    }
+  }
+}

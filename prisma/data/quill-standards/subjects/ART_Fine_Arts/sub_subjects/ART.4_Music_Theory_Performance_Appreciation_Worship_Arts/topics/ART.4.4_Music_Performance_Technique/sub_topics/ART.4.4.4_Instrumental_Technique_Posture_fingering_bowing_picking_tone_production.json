@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.4.4",
+    "name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+    "topic_id": "ART.4.4",
+    "topic_name": "Music Performance & Technique",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Instrumental Technique (Posture, fingering, bowing/picking, tone production) in Music Performance & Technique (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.3",
+            "objective_text": "Recall finger numbers.",
+            "objective_uuid": "5a926059-fb46-4235-940b-70d51a6af234"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.4",
+            "objective_text": "Observe the teacher's hands.",
+            "objective_uuid": "91d133e0-d89d-4876-93e0-e6d5e35ba0f1"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.7",
+            "objective_text": "Play a simple scale with even tone.",
+            "objective_uuid": "00c482b4-6ac2-4f57-88f1-3b681fcd8a10"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.1",
+            "objective_text": "Hold an instrument correctly.",
+            "objective_uuid": "6f82437f-bc28-4280-bf0c-beb4e13b44bd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.2",
+            "objective_text": "Make a pleasing sound (not noise).",
+            "objective_uuid": "af383f1b-88cf-4c2e-8997-6ba6674ddbcc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.5",
+            "objective_text": "Summarize correct hand position.",
+            "objective_uuid": "befe94eb-f019-4616-b596-c9d39cf3900e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.6",
+            "objective_text": "Explain how to care for the instrument.",
+            "objective_uuid": "9620bfd0-22bc-47c0-8953-30e1be106f69"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.8",
+            "objective_text": "Coordinate left and right hands.",
+            "objective_uuid": "c8180246-f59d-470d-8f29-0bdf3466186a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.12",
+            "objective_text": "Explain alternate fingerings.",
+            "objective_uuid": "e97a1333-42b0-41cf-9c5e-f65f2c77a5ed"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.15",
+            "objective_text": "Defend the necessity of scales and arpeggios.",
+            "objective_uuid": "3195a6e1-2f37-48c9-a255-d9765efac21a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.9",
+            "objective_text": "Analyze tension in the body and release it.",
+            "objective_uuid": "7d595ba9-6d02-4b09-b433-9e9aaf5987a4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.10",
+            "objective_text": "Interpret markings for bowing or tonguing.",
+            "objective_uuid": "8780cfb8-a142-4131-b7e3-e4dfc8b61f16"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.11",
+            "objective_text": "Connect breath/bow speed to dynamics.",
+            "objective_uuid": "34c47b53-a565-4bd4-a810-e0ef435610e5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.14",
+            "objective_text": "Evaluate tone quality and intonation.",
+            "objective_uuid": "03457470-2489-4125-b909-4f5d27a90f0e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.13",
+            "objective_text": "Construct a polished performance of technical etudes.",
+            "objective_uuid": "0c1be507-9030-49ee-9f15-57c48b2fc8fb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.4",
+            "sub_topic_name": "Instrumental Technique (Posture, fingering, bowing/picking, tone production)",
+            "objective_id": "ART.4.4.4.16",
+            "objective_text": "Synthesize technical facility with musicality.",
+            "objective_uuid": "09f46022-aa5f-4e9e-a635-d7aade32e819"
+          }
+        ]
+      }
+    }
+  }
+}

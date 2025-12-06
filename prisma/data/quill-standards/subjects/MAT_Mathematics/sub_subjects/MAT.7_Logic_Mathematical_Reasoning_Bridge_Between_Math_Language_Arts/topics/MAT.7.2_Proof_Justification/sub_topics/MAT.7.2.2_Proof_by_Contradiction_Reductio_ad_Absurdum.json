@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.2.2",
+    "name": "Proof by Contradiction (Reductio ad Absurdum)",
+    "topic_id": "MAT.7.2",
+    "topic_name": "Proof & Justification",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Proof by Contradiction (Reductio ad Absurdum) in Proof & Justification (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.8",
+            "objective_text": "Identify inconsistent clues.",
+            "objective_uuid": "1fe67e1c-e840-46bf-ba27-61946634a722"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.3",
+            "objective_text": "Recall 'It can't be that, so it must be this'.",
+            "objective_uuid": "a41637d8-6b12-4add-b934-e9a93753e943"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.1",
+            "objective_text": "Assume the opposite.",
+            "objective_uuid": "7eb64fb3-2075-44ee-ad11-2593ee5773e7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.2",
+            "objective_text": "Show it leads to silliness.",
+            "objective_uuid": "62eb7b6f-3b55-405b-9f21-d821c1c4036a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.4",
+            "objective_text": "Play guessing games.",
+            "objective_uuid": "28fedfba-a92f-4280-bdf4-4a572ebc2572"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.5",
+            "objective_text": "Summarize the process of elimination.",
+            "objective_uuid": "6cdf6dbb-b02d-4ea7-ad57-a5612019517b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.6",
+            "objective_text": "Explain 'If it were true, then... but that's impossible'.",
+            "objective_uuid": "d8dca700-bc17-4fba-a057-41719bf47c7f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.12",
+            "objective_text": "Explain the contradiction symbol ($\\rightarrow\\leftarrow$).",
+            "objective_uuid": "1413a30a-b60d-420e-b2a3-7c6089ad6c37"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.15",
+            "objective_text": "Defend the Law of Excluded Middle.",
+            "objective_uuid": "86716df0-7ef4-491b-84ba-d186622cf9d5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.7",
+            "objective_text": "Solve logic grid puzzles.",
+            "objective_uuid": "d92cde2c-74c5-4a91-a841-9631804a60d6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.9",
+            "objective_text": "Analyze indirect proof structure.",
+            "objective_uuid": "b4726bad-4418-4b11-8e75-5a02325f068c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.10",
+            "objective_text": "Interpret the assumption of the negation.",
+            "objective_uuid": "5e4af0de-66da-4dd7-a5ba-4e698a471645"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.11",
+            "objective_text": "Connect to the irrationality of $\\sqrt{2}$.",
+            "objective_uuid": "bf8d62ca-a122-4832-ae32-21bce2159e85"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.14",
+            "objective_text": "Evaluate the logical validity of the contradiction.",
+            "objective_uuid": "4c7b9beb-9b72-4309-977e-ed020b1086c8"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.13",
+            "objective_text": "Construct a formal indirect proof.",
+            "objective_uuid": "4f26f881-ede7-4a37-80b9-45f1e46e845b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.2",
+            "sub_topic_name": "Proof by Contradiction (Reductio ad Absurdum)",
+            "objective_id": "MAT.7.2.2.16",
+            "objective_text": "Synthesize Euclidian proofs using contradiction.",
+            "objective_uuid": "7cac80f5-6970-45ef-bcac-844e6a93cea1"
+          }
+        ]
+      }
+    }
+  }
+}

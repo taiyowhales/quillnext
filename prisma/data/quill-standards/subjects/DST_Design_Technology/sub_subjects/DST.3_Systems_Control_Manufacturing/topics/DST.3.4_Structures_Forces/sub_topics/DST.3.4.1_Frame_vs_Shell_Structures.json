@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.4.1",
+    "name": "Frame vs. Shell Structures",
+    "topic_id": "DST.3.4",
+    "topic_name": "Structures & Forces",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Frame vs. Shell Structures in Structures & Forces (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.1",
+            "objective_text": "Identify a skeleton (frame).",
+            "objective_uuid": "6876473e-8770-4b89-926e-fae30bf25e2c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.2",
+            "objective_text": "Name an egg or helmet (shell).",
+            "objective_uuid": "9a35d513-26d2-4755-b537-58fb48c65ce8"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.7",
+            "objective_text": "Identify a car body (Monocoque - mixture).",
+            "objective_uuid": "a45ade2d-aacb-4160-8596-699ae6395b2a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.3",
+            "objective_text": "Recall that both protect what is inside.",
+            "objective_uuid": "69e1ad4a-13df-40e2-8349-5b5f4725b2da"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.4",
+            "objective_text": "Observe a tent pole vs. a tent fabric.",
+            "objective_uuid": "4592c1d7-05ca-489e-b0b8-08eebfa8d9dd"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.5",
+            "objective_text": "Summarize Frame structures (sticks joined together).",
+            "objective_uuid": "8b15b5a7-f822-4bda-8c93-e7d74ebbb325"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.6",
+            "objective_text": "Explain Shell structures (curved skin).",
+            "objective_uuid": "cf3b4ab0-aa0c-4bc5-b09f-d7e13aabc8e9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.12",
+            "objective_text": "Explain triangulation in frames.",
+            "objective_uuid": "970d7921-e31f-4106-8c0f-6a810cdc0a78"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.15",
+            "objective_text": "Defend the choice of structure for a specific building.",
+            "objective_uuid": "826c9f5a-bdf5-4c7c-958a-5a34d71bb5e7"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.8",
+            "objective_text": "Compare a crane (frame) with a plastic bottle (shell).",
+            "objective_uuid": "3ae78b6b-8aa0-4ee6-8be6-72ae3e5db130"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.9",
+            "objective_text": "Analyze the load distribution in frames vs. shells.",
+            "objective_uuid": "47910913-9607-412f-a24a-0c4df002da31"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.10",
+            "objective_text": "Interpret the difficulty of manufacturing shells.",
+            "objective_uuid": "042aac8b-4722-424f-ba2f-807ff93e413b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.14",
+            "objective_text": "Evaluate the material efficiency of shell structures.",
+            "objective_uuid": "b0a9fca7-2b52-4a67-91f4-1e91126b5d5a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.11",
+            "objective_text": "Connect nature's designs (spider web vs. crab shell) to engineering.",
+            "objective_uuid": "f72cf2d8-6f2b-4283-969f-50a7ad92dc30"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.13",
+            "objective_text": "Construct a comparative analysis of structural typologies.",
+            "objective_uuid": "7758bf3b-3226-4349-b992-b8daf738eeed"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.1",
+            "sub_topic_name": "Frame vs. Shell Structures",
+            "objective_id": "DST.3.4.1.16",
+            "objective_text": "Synthesize aesthetic form with structural function.",
+            "objective_uuid": "a2407d73-f001-437b-a306-534405957494"
+          }
+        ]
+      }
+    }
+  }
+}

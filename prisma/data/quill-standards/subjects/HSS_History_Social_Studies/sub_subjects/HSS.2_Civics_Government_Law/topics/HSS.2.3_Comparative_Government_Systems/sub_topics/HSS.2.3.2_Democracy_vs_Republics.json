@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.3.2",
+    "name": "Democracy vs Republics",
+    "topic_id": "HSS.2.3",
+    "topic_name": "Comparative Government Systems",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Democracy vs Republics in Comparative Government Systems (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.1",
+            "objective_text": "Identify voting.",
+            "objective_uuid": "b287f7ba-b2b0-46ef-b544-aa04b261de42"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.2",
+            "objective_text": "Name the USA as a Republic.",
+            "objective_uuid": "944fe469-7565-4e2a-89bd-ef9125a764f5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.8",
+            "objective_text": "Identify the danger of the 'mob'.",
+            "objective_uuid": "dbc7d63a-2a92-4c31-9fcc-74fb70f4876b"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.3",
+            "objective_text": "Recall that we choose people to speak for us.",
+            "objective_uuid": "c84c2b2c-823d-4745-a3da-8eef2f2154c2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.4",
+            "objective_text": "Observe that the people are the boss.",
+            "objective_uuid": "0d6be837-36ee-4ed3-aaf4-ba3c0ccdd015"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.5",
+            "objective_text": "Summarize the difference between Direct Democracy (everyone votes on everything) and Representative Democracy.",
+            "objective_uuid": "ed20e338-89e7-4762-9a14-30254d6e806c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.6",
+            "objective_text": "Explain the Pledge of Allegiance ('to the Republic').",
+            "objective_uuid": "74f42dcb-ff8d-4f1f-a0af-63da27c2faeb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.12",
+            "objective_text": "Explain the Parliamentary system vs. Presidential system.",
+            "objective_uuid": "99eb6fc0-5c87-44c8-8d46-ce01cff77abd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.15",
+            "objective_text": "Defend the Constitutional Republic as the best protection for liberty.",
+            "objective_uuid": "f2186750-a5db-4dd4-b82f-896ee06c9432"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.7",
+            "objective_text": "Compare Athens (Democracy) with Rome (Republic).",
+            "objective_uuid": "e11f3db0-c860-4758-ac0b-ccb0b6a1cc98"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.9",
+            "objective_text": "Analyze the phrase 'Tyranny of the Majority'.",
+            "objective_uuid": "297c8ea2-970f-40ef-8692-81425c893a54"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.10",
+            "objective_text": "Interpret the protections for the minority in a Republic.",
+            "objective_uuid": "e36ce0c2-92bf-4b90-807a-bfd99d55a8cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.11",
+            "objective_text": "Connect the Founding Fathers' fear of democracy to the Constitution.",
+            "objective_uuid": "6b7b13bb-f62c-43de-a35b-9bc70c078a58"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.14",
+            "objective_text": "Evaluate the strengths and weaknesses of democratic systems.",
+            "objective_uuid": "06ad9828-4ac0-43ae-9175-b0b4c0c7ae16"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.13",
+            "objective_text": "Construct a comparison of the US and UK governments.",
+            "objective_uuid": "340fb814-13f0-4292-b199-9a423e562cb4"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.3",
+            "topic_name": "Comparative Government Systems",
+            "sub_topic_id": "HSS.2.3.2",
+            "sub_topic_name": "Democracy vs Republics",
+            "objective_id": "HSS.2.3.2.16",
+            "objective_text": "Synthesize the biblical view of representation (Moses/Jethro).",
+            "objective_uuid": "55cb61a6-5fa7-41f6-a702-2d5885143b43"
+          }
+        ]
+      }
+    }
+  }
+}

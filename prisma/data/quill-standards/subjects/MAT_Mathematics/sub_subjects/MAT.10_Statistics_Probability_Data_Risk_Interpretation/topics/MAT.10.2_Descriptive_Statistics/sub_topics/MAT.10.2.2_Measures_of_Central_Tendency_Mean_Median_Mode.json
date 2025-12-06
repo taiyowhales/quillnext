@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.2.2",
+    "name": "Measures of Central Tendency (Mean, Median, Mode)",
+    "topic_id": "MAT.10.2",
+    "topic_name": "Descriptive Statistics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Measures of Central Tendency (Mean, Median, Mode) in Descriptive Statistics (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.1",
+            "objective_text": "Identify the 'most popular' item (Mode).",
+            "objective_uuid": "ea870d3b-15b1-4a25-8261-8a74d85812a4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.8",
+            "objective_text": "Identify the median in an ordered list.",
+            "objective_uuid": "5c6a911c-ed65-44d4-b3d1-cac47b54e729"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.3",
+            "objective_text": "Recall that we can describe a group with one number.",
+            "objective_uuid": "21e5a852-c1c7-44e5-a46f-1c8b552d0820"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.4",
+            "objective_text": "Observe what is 'typical'.",
+            "objective_uuid": "d51a5683-4997-454e-8100-a473b2e62fe0"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.7",
+            "objective_text": "Explain when to use the Mode (for non-numbers).",
+            "objective_uuid": "d0c57ee0-68ba-40db-863b-8b1fa4dd02be"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.2",
+            "objective_text": "Find the middle of a small line of objects.",
+            "objective_uuid": "83993368-51b1-404d-b465-edb424389f66"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.5",
+            "objective_text": "Summarize Mean (average), Median (middle), and Mode (most).",
+            "objective_uuid": "01605c58-2b72-42a2-b44e-8f9967242973"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.12",
+            "objective_text": "Explain how to find the mean from a frequency table.",
+            "objective_uuid": "7cd038ac-e168-430b-baaa-a88e8d040188"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.15",
+            "objective_text": "Defend the choice of statistic for a specific context.",
+            "objective_uuid": "4314e6b1-f8a9-48df-92f3-a6b75104e548"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.6",
+            "objective_text": "Calculate the average of test scores.",
+            "objective_uuid": "e3e2ecc9-68a4-4b8a-8855-0cd4059b84d4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.9",
+            "objective_text": "Analyze the effect of an outlier on the Mean vs. Median.",
+            "objective_uuid": "61c692cc-fa21-41bb-9856-f2d6debb5955"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.10",
+            "objective_text": "Interpret which measure best represents a dataset.",
+            "objective_uuid": "fe19e208-7a29-4eca-87fe-9d1257132c8d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.11",
+            "objective_text": "Connect 'central tendency' to summarizing data.",
+            "objective_uuid": "e0ae5a49-ce75-42d9-8bfd-568c2fb053dd"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.14",
+            "objective_text": "Evaluate the use of Mean vs. Median in skewed data (e.g., housing prices).",
+            "objective_uuid": "c5519f85-4a82-4072-ae77-196e8407b4b9"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.13",
+            "objective_text": "Construct a comparison of distributions based on centers.",
+            "objective_uuid": "59939ff9-ef2c-41a1-825d-dd8982ea824c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.2",
+            "sub_topic_name": "Measures of Central Tendency (Mean, Median, Mode)",
+            "objective_id": "MAT.10.2.2.16",
+            "objective_text": "Synthesize summation notation ($\\Sigma$) for the mean.",
+            "objective_uuid": "b0b4b041-de46-4021-89c0-6b08940a444b"
+          }
+        ]
+      }
+    }
+  }
+}

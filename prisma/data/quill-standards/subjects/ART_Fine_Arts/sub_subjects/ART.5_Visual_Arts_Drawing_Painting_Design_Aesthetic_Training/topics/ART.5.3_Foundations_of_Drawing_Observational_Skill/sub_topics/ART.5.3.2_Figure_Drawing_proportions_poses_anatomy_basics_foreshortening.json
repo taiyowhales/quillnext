@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.3.2",
+    "name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+    "topic_id": "ART.5.3",
+    "topic_name": "Foundations of Drawing & Observational Skill",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Figure Drawing (proportions, poses, anatomy basics, foreshortening) in Foundations of Drawing & Observational Skill (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.1",
+            "objective_text": "Identify head, body, arms, and legs.",
+            "objective_uuid": "0c3cc961-2ae0-4dad-9fa3-822191bf2371"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.4",
+            "objective_text": "Name joints like elbows and knees.",
+            "objective_uuid": "a66900f1-3555-4629-a835-ab2098271ea1"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.3",
+            "objective_text": "Observe that people come in different sizes.",
+            "objective_uuid": "dee73d3b-6f53-4a21-b08a-3893d01e7bd6"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.2",
+            "objective_text": "Draw a person doing an action (running, jumping).",
+            "objective_uuid": "c857e0b8-963b-437d-a9be-be1f20f90d1f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.5",
+            "objective_text": "Summarize the 'stick figure' skeleton.",
+            "objective_uuid": "cde72311-128b-4089-9ae6-9e6a314f989a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.6",
+            "objective_text": "Explain that eyes are in the middle of the head.",
+            "objective_uuid": "430a547d-e945-477a-8480-776aa447389f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.7",
+            "objective_text": "Draw hands and feet as shapes (mittens/wedges).",
+            "objective_uuid": "4831ec2e-0143-4dfb-ac7e-91d59d2b284d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.12",
+            "objective_text": "Explain foreshortening (limbs coming toward you).",
+            "objective_uuid": "985ba8b8-a516-45cd-ab24-1ecc8e782a2b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.15",
+            "objective_text": "Defend the dignity of the human form (Imago Dei).",
+            "objective_uuid": "b673c7bc-e36d-40b5-b3ef-460ba19671d6"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.8",
+            "objective_text": "Compare the length of legs to the body.",
+            "objective_uuid": "1390adb3-9aa6-41f9-a0ee-88bdd639469c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.9",
+            "objective_text": "Analyze the 7.5-head proportion rule.",
+            "objective_uuid": "6f36880c-e043-46c7-a638-d163d666944c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.10",
+            "objective_text": "Interpret the gesture line of the spine.",
+            "objective_uuid": "92a53fae-89e1-40c2-bad6-2a5bda4a7d54"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.11",
+            "objective_text": "Connect muscle groups to surface forms.",
+            "objective_uuid": "3d9571bd-aa0e-4458-ae29-6a424c8c5027"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.14",
+            "objective_text": "Evaluate the weight distribution (contrapposto) in a pose.",
+            "objective_uuid": "fb6c8244-64c3-4e27-8b19-23e2d8274947"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.13",
+            "objective_text": "Construct a figure drawing with anatomical precision.",
+            "objective_uuid": "a14cea86-ffde-4fac-9de3-10ffff614016"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.2",
+            "sub_topic_name": "Figure Drawing (proportions, poses, anatomy basics, foreshortening)",
+            "objective_id": "ART.5.3.2.16",
+            "objective_text": "Synthesize skeletal structure with gesture drawing.",
+            "objective_uuid": "bd3cecb7-3a5f-4c76-a9df-413f70613b88"
+          }
+        ]
+      }
+    }
+  }
+}

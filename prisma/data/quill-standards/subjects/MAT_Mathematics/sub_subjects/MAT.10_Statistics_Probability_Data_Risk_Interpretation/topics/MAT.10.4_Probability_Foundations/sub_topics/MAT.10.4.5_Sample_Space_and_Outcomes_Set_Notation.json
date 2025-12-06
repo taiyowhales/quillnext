@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.4.5",
+    "name": "Sample Space and Outcomes (Set Notation)",
+    "topic_id": "MAT.10.4",
+    "topic_name": "Probability Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sample Space and Outcomes (Set Notation) in Probability Foundations (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.1",
+            "objective_text": "Identify 'Impossible', 'Possible', and 'Certain'.",
+            "objective_uuid": "9f3951f7-1de7-4c14-8f2d-bfbd1569de04"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.2",
+            "objective_text": "Name the sides of a coin or dice.",
+            "objective_uuid": "dcac25fc-1b13-4d10-9c00-fbfb026283fb"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.8",
+            "objective_text": "Identify an 'Event' (what we want to happen).",
+            "objective_uuid": "c59d1a43-03f0-4ec5-96d1-c410906c4b5e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.3",
+            "objective_text": "Recall that games have different endings.",
+            "objective_uuid": "aeb7a50d-f2fd-4392-9364-4f307c3f9a5b"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.4",
+            "objective_text": "Observe chance.",
+            "objective_uuid": "0788862b-1783-4803-b2fa-b6ac70886164"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.7",
+            "objective_text": "List outcomes for spinning a spinner.",
+            "objective_uuid": "43ec914c-3dce-423d-8a7b-d022ede5106b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.5",
+            "objective_text": "Summarize all possible outcomes (Sample Space).",
+            "objective_uuid": "c2e30dbf-b678-42a3-bc2a-0e2e3e61ec33"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.6",
+            "objective_text": "Explain that a coin has 2 outcomes.",
+            "objective_uuid": "4bb4acfa-3835-497c-ac43-91cb1a881035"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.12",
+            "objective_text": "Explain the Complement of an event (Not A).",
+            "objective_uuid": "3c0cb585-c05f-4437-be71-fbdbde7ec246"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.15",
+            "objective_text": "Defend the axioms of probability.",
+            "objective_uuid": "0f43bfb2-a3e4-4af0-a114-d96858428116"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.9",
+            "objective_text": "Analyze the sample space for compound events (rolling two dice).",
+            "objective_uuid": "5f0e1bff-1a3e-4a20-9e74-b23d4ca1dd6f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.10",
+            "objective_text": "Interpret set notation (Union $\\cup$, Intersection $\\cap$).",
+            "objective_uuid": "6d704a02-b870-47f3-aaea-ac8c3a5f2b3f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.11",
+            "objective_text": "Connect Venn Diagrams to probability.",
+            "objective_uuid": "f397f8a2-cf70-4d79-94c8-3e92d94ba240"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.14",
+            "objective_text": "Evaluate subsets and power sets.",
+            "objective_uuid": "d68719f5-b7d9-4b8c-83df-35dedeb05de2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.13",
+            "objective_text": "Construct formal probability spaces.",
+            "objective_uuid": "f14f6549-ebab-4cd7-85a2-ff88e06cbdb4"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.5",
+            "sub_topic_name": "Sample Space and Outcomes (Set Notation)",
+            "objective_id": "MAT.10.4.5.16",
+            "objective_text": "Synthesize set theory with probabilistic reasoning.",
+            "objective_uuid": "51ad612d-95d4-4123-aeb4-d571201c6abc"
+          }
+        ]
+      }
+    }
+  }
+}

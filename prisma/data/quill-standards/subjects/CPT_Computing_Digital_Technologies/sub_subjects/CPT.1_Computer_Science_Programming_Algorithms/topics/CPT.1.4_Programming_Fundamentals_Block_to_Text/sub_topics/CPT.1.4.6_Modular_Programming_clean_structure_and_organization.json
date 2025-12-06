@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.6",
+    "name": "Modular Programming (clean structure and organization)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Modular Programming (clean structure and organization) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.1",
+            "objective_text": "Identify grouping blocks.",
+            "objective_uuid": "162fcfd2-db90-426e-a22d-3d97725b9cc2"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.2",
+            "objective_text": "Name keeping code tidy.",
+            "objective_uuid": "c6099ddc-f9b3-41b2-bb45-95d39afb9021"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.8",
+            "objective_text": "Identify comments explaining code.",
+            "objective_uuid": "cbea1892-733d-40e7-b2cb-a688635b9146"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.3",
+            "objective_text": "Recall that mess is hard to read.",
+            "objective_uuid": "be6563f8-2470-41f5-927e-00f24895ac67"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.4",
+            "objective_text": "Observe distinct parts.",
+            "objective_uuid": "5b7dcf76-f524-4655-aadf-0bf8133b0df1"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.5",
+            "objective_text": "Summarize putting code in chunks.",
+            "objective_uuid": "2e6efaf8-d4d6-45bd-b789-7dc88c2b346c"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.6",
+            "objective_text": "Explain why we name sections.",
+            "objective_uuid": "05563b04-af2c-4a36-946e-a09a8f75edfb"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.12",
+            "objective_text": "Explain 'Don't Repeat Yourself' (DRY).",
+            "objective_uuid": "67898269-5c19-4108-b655-981b3fcaff41"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.15",
+            "objective_text": "Defend architectural choices.",
+            "objective_uuid": "975b2afe-8912-4984-9ed2-4ede6d82397f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.7",
+            "objective_text": "Organize a long script.",
+            "objective_uuid": "566e7417-d98c-4a41-9bd1-75ed2db0380b"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.9",
+            "objective_text": "Analyze the benefits of readability.",
+            "objective_uuid": "6d8159d0-b3ea-483b-91f4-1b58ebbfecc7"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.10",
+            "objective_text": "Interpret code refactoring.",
+            "objective_uuid": "5df5c54b-26ac-4337-a758-90d0ab8d0383"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.11",
+            "objective_text": "Connect reuse to modularity.",
+            "objective_uuid": "13e36e35-0366-4952-b8e5-9704ff7b8893"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.14",
+            "objective_text": "Evaluate coupling and cohesion.",
+            "objective_uuid": "59fb3953-eb03-4083-9cea-d90973af7eae"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.13",
+            "objective_text": "Construct a multi-module application.",
+            "objective_uuid": "eeae0b56-beac-4bc7-8f02-e549d7876556"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.6",
+            "sub_topic_name": "Modular Programming (clean structure and organization)",
+            "objective_id": "CPT.1.4.6.16",
+            "objective_text": "Synthesize libraries and namespaces.",
+            "objective_uuid": "92917421-5de8-4ac0-b499-a8c9a1f01d5c"
+          }
+        ]
+      }
+    }
+  }
+}

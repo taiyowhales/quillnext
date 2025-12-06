@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.11.3.2",
+    "name": "Personal Narratives (Memoir)",
+    "topic_id": "ELA.11.3",
+    "topic_name": "Narrative Writing",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.11",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Personal Narratives (Memoir) in Narrative Writing (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.2",
+            "objective_text": "Name a memory.",
+            "objective_uuid": "8f02c6f4-84cf-4e20-85d3-6383e8182df8"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.8",
+            "objective_text": "Identify feelings in the story.",
+            "objective_uuid": "78ea7819-0191-454f-903d-559708120dc8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.3",
+            "objective_text": "Recall a happy or sad day.",
+            "objective_uuid": "cbd8d6d1-89b9-4d25-ad57-3ce82fd9bb86"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.4",
+            "objective_text": "Observe using \"I\".",
+            "objective_uuid": "17f7be1b-5137-481f-8589-854645840bbf"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.1",
+            "objective_text": "Tell a story about me.",
+            "objective_uuid": "26cc5324-edeb-4a19-a896-757cf3985acd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.5",
+            "objective_text": "Summarize a true event from my life.",
+            "objective_uuid": "b7838b9c-890a-46fe-8912-a8bc04bce7a5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.6",
+            "objective_text": "Explain why it was important.",
+            "objective_uuid": "66c346c7-be5c-482d-bbc3-4e6f677a085c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.7",
+            "objective_text": "Focus on a small moment (seed story).",
+            "objective_uuid": "c0019bdd-a503-455d-a516-0df7d7161b37"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.12",
+            "objective_text": "Explain the narrative arc in non-fiction.",
+            "objective_uuid": "825747b6-dea1-42d4-92c8-7ef73ad3d863"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.15",
+            "objective_text": "Defend the subjective truth of memory.",
+            "objective_uuid": "200bec4f-19e9-406c-a63a-9a70413cf3f6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.9",
+            "objective_text": "Analyze the significance of the event (reflection).",
+            "objective_uuid": "fd5d96ec-ebba-45a1-a555-c41e29870790"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.10",
+            "objective_text": "Interpret the lesson learned.",
+            "objective_uuid": "a55e8503-238b-418a-abff-38a4e4b25f59"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.11",
+            "objective_text": "Connect the personal story to a universal theme.",
+            "objective_uuid": "d26e819b-b2e9-4c47-b671-d6932be98b31"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.14",
+            "objective_text": "Evaluate the balance of showing vs. telling in memoir.",
+            "objective_uuid": "b1c8290f-44bf-4b89-ae06-3c86e2dc2711"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.13",
+            "objective_text": "Construct a college application essay or personal statement.",
+            "objective_uuid": "cbe7dfc5-4121-468d-a957-629cf1a227fd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.2",
+            "sub_topic_name": "Personal Narratives (Memoir)",
+            "objective_id": "ELA.11.3.2.16",
+            "objective_text": "Synthesize vulnerability with storytelling structure.",
+            "objective_uuid": "4f84410f-e4c4-4ada-b05f-a147d446e2c5"
+          }
+        ]
+      }
+    }
+  }
+}

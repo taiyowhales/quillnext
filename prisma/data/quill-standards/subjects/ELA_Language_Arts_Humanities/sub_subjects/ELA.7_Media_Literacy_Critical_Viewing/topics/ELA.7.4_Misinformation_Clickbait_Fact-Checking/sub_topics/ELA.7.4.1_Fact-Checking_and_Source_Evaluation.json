@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.7.4.1",
+    "name": "Fact-Checking and Source Evaluation",
+    "topic_id": "ELA.7.4",
+    "topic_name": "Misinformation, Clickbait & Fact-Checking",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.7",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fact-Checking and Source Evaluation in Misinformation, Clickbait & Fact-Checking (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.1",
+            "objective_text": "Identify a lie vs. a truth.",
+            "objective_uuid": "309d2828-8862-4872-8f34-f23f661e30e6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.2",
+            "objective_text": "Name a person we can trust (parent, teacher).",
+            "objective_uuid": "4f5cadcd-ab3e-485d-b75f-92d94975c7bf"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.8",
+            "objective_text": "Identify a 'fake news' story (too crazy to be true).",
+            "objective_uuid": "16bb49f6-ae2d-4375-82bd-fdf5b0e5999b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.3",
+            "objective_text": "Recall that not everything on a screen is true.",
+            "objective_uuid": "62f539fd-75a4-41cd-aeee-51185f4930cc"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.4",
+            "objective_text": "Ask 'Who said that?'",
+            "objective_uuid": "a69e9e6a-0163-4111-85a5-d126229250a0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.5",
+            "objective_text": "Summarize why we need to check facts.",
+            "objective_uuid": "8f80c956-6934-45ea-a930-8d48acc85369"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.6",
+            "objective_text": "Explain that anyone can post on the internet.",
+            "objective_uuid": "70221c82-f776-441e-832a-1e8004a861a7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.12",
+            "objective_text": "Explain Confirmation Bias (believing what we want to be true).",
+            "objective_uuid": "66e1e03a-bd37-4f15-a875-7c4bac981993"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.15",
+            "objective_text": "Defend the pursuit of objective truth.",
+            "objective_uuid": "cba1db53-6bb8-4024-ba84-0adba7ead311"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.7",
+            "objective_text": "Compare a trustworthy site (.gov, .edu) with a random site.",
+            "objective_uuid": "b88a1938-8488-46a6-a1e2-2cceeb8b8ec1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.9",
+            "objective_text": "Analyze the 'About Us' page of a website.",
+            "objective_uuid": "3f3b87a9-37ae-49ec-827f-9d7a77352777"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.10",
+            "objective_text": "Interpret the difference between Satire (joke) and Hoax.",
+            "objective_uuid": "9f4ae6d1-4df7-4bb7-a010-f17f5f5497db"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.11",
+            "objective_text": "Connect 'Lateral Reading' (opening new tabs to check) to verification.",
+            "objective_uuid": "4077ad13-dbee-472b-9769-87330bbc46f6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.14",
+            "objective_text": "Evaluate the credibility of 'Expert' consensus.",
+            "objective_uuid": "43c29b6a-1a9b-4ed7-b675-da35c8f9674f"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.13",
+            "objective_text": "Construct a verification protocol for social media claims.",
+            "objective_uuid": "df1f051b-54c7-4d2d-9dd6-89dbc8bfca01"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.7",
+            "sub_subject_name": "Media Literacy & Critical Viewing",
+            "topic_id": "ELA.7.4",
+            "topic_name": "Misinformation, Clickbait & Fact-Checking",
+            "sub_topic_id": "ELA.7.4.1",
+            "sub_topic_name": "Fact-Checking and Source Evaluation",
+            "objective_id": "ELA.7.4.1.16",
+            "objective_text": "Synthesize the impact of 'Deepfakes' (AI video) on evidence.",
+            "objective_uuid": "fffb006c-3609-442d-a561-3713db261a2b"
+          }
+        ]
+      }
+    }
+  }
+}

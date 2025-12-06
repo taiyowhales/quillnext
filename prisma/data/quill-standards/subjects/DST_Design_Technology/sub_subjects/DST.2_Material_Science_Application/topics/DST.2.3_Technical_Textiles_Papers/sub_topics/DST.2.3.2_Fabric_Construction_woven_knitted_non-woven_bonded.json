@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.2.3.2",
+    "name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+    "topic_id": "DST.2.3",
+    "topic_name": "Technical Textiles & Papers",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.2",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fabric Construction (woven, knitted, non-woven/bonded) in Technical Textiles & Papers (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.1",
+            "objective_text": "Identify weaving (over-under).",
+            "objective_uuid": "5d9a0410-a630-4b0d-8b74-d1c14b94df1f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.2",
+            "objective_text": "Name knitting (loops).",
+            "objective_uuid": "68cfc818-1e0d-4d5c-a82d-35adca2f7ed3"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.3",
+            "objective_text": "Recall that felt is pressed together.",
+            "objective_uuid": "7a65ca05-f155-4ae1-9ea2-b3f1e08d09a4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.4",
+            "objective_text": "Observe a hole in jeans (seeing the threads).",
+            "objective_uuid": "ada81e6a-420a-4fb4-91f7-11887a1eec29"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.7",
+            "objective_text": "Make a simple felt sample.",
+            "objective_uuid": "d2711ebb-a5d4-453e-95fe-945282f58786"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.5",
+            "objective_text": "Summarize Weaving (Warps and Wefts).",
+            "objective_uuid": "9e6d88d4-ae9c-4d0b-9e02-40dfa9317286"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.6",
+            "objective_text": "Explain why knitted fabric stretches (t-shirts).",
+            "objective_uuid": "04004939-efd7-4572-be76-e23cd3809581"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.12",
+            "objective_text": "Explain the selvage edge.",
+            "objective_uuid": "dea0838e-6e8c-4f2e-a5d3-ca38551b14b0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.15",
+            "objective_text": "Defend the choice of construction for performance wear.",
+            "objective_uuid": "c3360c81-b0e6-4af2-aef6-da56cb09bc37"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.8",
+            "objective_text": "Compare a basket weave with a sweater.",
+            "objective_uuid": "d87bf5ca-b259-43e0-9571-8b81747e6741"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.9",
+            "objective_text": "Analyze the structure of Plain, Twill, and Satin weaves.",
+            "objective_uuid": "8a94266f-50dd-4c6c-8c1f-b03a13de4b40"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.10",
+            "objective_text": "Interpret the drape of different constructions.",
+            "objective_uuid": "d6208d6b-73c7-41bb-8ce2-fe9c7d955482"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.11",
+            "objective_text": "Connect non-woven fabrics to disposable medical use.",
+            "objective_uuid": "8f501111-b7a0-407e-ae8d-7a43e2504cb1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.14",
+            "objective_text": "Evaluate the durability of woven vs. knitted textiles.",
+            "objective_uuid": "eae2f5f1-b888-4584-8eb7-c7f7c808f50f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.13",
+            "objective_text": "Construct a sample of varied fabric constructions using basic weave patterns.",
+            "objective_uuid": "8388d7e3-cb4b-4ea2-8875-f32cf9005dc1"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.2",
+            "sub_topic_name": "Fabric Construction (woven, knitted, non-woven/bonded)",
+            "objective_id": "DST.2.3.2.16",
+            "objective_text": "Synthesize structural mechanics of textiles.",
+            "objective_uuid": "fdd8e24c-4257-46a9-b714-9024308f04c4"
+          }
+        ]
+      }
+    }
+  }
+}

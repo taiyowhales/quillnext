@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.3.4",
+    "name": "Recognizing and Avoiding Contradictions",
+    "topic_id": "MAT.7.3",
+    "topic_name": "Reasoning Skills",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Recognizing and Avoiding Contradictions in Reasoning Skills (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.1",
+            "objective_text": "Identify impossible things (a round square).",
+            "objective_uuid": "0bad2e47-e781-47d3-8f18-2748355e48b4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.7",
+            "objective_text": "Identify impossible outcomes.",
+            "objective_uuid": "cbff791f-5788-4b98-8f26-e8677743125a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.3",
+            "objective_text": "Recall that truth doesn't change.",
+            "objective_uuid": "816c2e9a-4b31-47b9-8a0b-b56e6ffe5434"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.4",
+            "objective_text": "Observe opposites.",
+            "objective_uuid": "a0c56f51-eb52-47bc-ac57-0d385b85ae67"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.2",
+            "objective_text": "Say 'That can't be true'.",
+            "objective_uuid": "c4b990ca-314d-4c54-a9e4-4afe4e6a1093"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.5",
+            "objective_text": "Summarize why a number can't be both 5 and 6.",
+            "objective_uuid": "950df495-ff1f-4e18-9602-43824258b663"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.6",
+            "objective_text": "Explain that if an answer doesn't make sense, check the work.",
+            "objective_uuid": "a0d7db37-8305-47e2-a17d-875bc8a494e4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.8",
+            "objective_text": "Check assumptions.",
+            "objective_uuid": "06e0f2b3-4d6e-4f66-ac30-e1615190d219"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.12",
+            "objective_text": "Explain how a false premise leads to a false conclusion.",
+            "objective_uuid": "ee205f44-5312-45e8-a237-39dd58f24b99"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.15",
+            "objective_text": "Defend the unity of truth.",
+            "objective_uuid": "67fb0079-c10f-4ee3-9f3c-1742fa357b32"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.9",
+            "objective_text": "Analyze the Law of Non-Contradiction.",
+            "objective_uuid": "e5c580e9-7447-4eff-95e2-afba29fc32f2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.11",
+            "objective_text": "Connect consistency to truth.",
+            "objective_uuid": "8d708ec2-9c44-4e61-82f7-3a27cedfab62"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.10",
+            "objective_text": "Interpret algebraic errors that lead to $1 = 2$.",
+            "objective_uuid": "9e05a28c-aecb-4eb0-ad4b-1fd56c9d80bd"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.14",
+            "objective_text": "Evaluate systems of equations for inconsistency.",
+            "objective_uuid": "97e7fb3f-d362-47e0-abcc-5ada5cd73622"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.13",
+            "objective_text": "Construct a reductio ad absurdum argument.",
+            "objective_uuid": "2439e581-eff9-4788-8f5c-2931f0d88a79"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.4",
+            "sub_topic_name": "Recognizing and Avoiding Contradictions",
+            "objective_id": "MAT.7.3.4.16",
+            "objective_text": "Synthesize logic puzzles (Knights and Knaves).",
+            "objective_uuid": "a3c8638a-b087-47ea-8e0a-a677d86facb3"
+          }
+        ]
+      }
+    }
+  }
+}

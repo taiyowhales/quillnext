@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.2.4",
+    "name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+    "topic_id": "ART.2.2",
+    "topic_name": "Graphic Asset Management & Presentation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for File Formats (JPEG, PNG, GIF, TIFF, SVG) in Graphic Asset Management & Presentation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.1",
+            "objective_text": "Identify a picture file vs. a word file.",
+            "objective_uuid": "24616c2a-df14-4f2a-8f2e-01e83c7c1bfb"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.2",
+            "objective_text": "Name a GIF (moving picture).",
+            "objective_uuid": "3cd92643-831f-4104-b109-27eedcd2d548"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.8",
+            "objective_text": "Identify a video file (MP4).",
+            "objective_uuid": "4b849a82-77a6-4e59-a76c-32d4f209acfd"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.3",
+            "objective_text": "Recall that files live in folders.",
+            "objective_uuid": "c5dcad22-3304-4e7f-bb30-d5324e51c308"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.4",
+            "objective_text": "Observe file icons.",
+            "objective_uuid": "9ef9ced8-2776-41cd-84d3-ed2038047b06"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.5",
+            "objective_text": "Summarize JPEG (photo) vs. PNG (transparent background).",
+            "objective_uuid": "9e9d1ee4-d723-41dc-8158-798305d6e45a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.6",
+            "objective_text": "Explain why some files are huge and some are small.",
+            "objective_uuid": "4f88bb82-b48d-4d24-804d-e23dabd7c11d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.7",
+            "objective_text": "Use a PDF for a document.",
+            "objective_uuid": "47e74efd-49bc-4da9-b88c-75781504fb4f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.12",
+            "objective_text": "Explain the RAW format.",
+            "objective_uuid": "504ce1bc-5669-4fcd-8677-77478bb77680"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.15",
+            "objective_text": "Defend the need for archival formats (TIFF).",
+            "objective_uuid": "9b9bf49c-3ea9-4825-922b-de89d61e56d2"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.9",
+            "objective_text": "Analyze Vector formats (SVG, AI) vs. Raster.",
+            "objective_uuid": "1f83caa0-27b6-4ee9-8a17-8ba05d83e9e8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.10",
+            "objective_text": "Interpret compression artifacts.",
+            "objective_uuid": "45f4c583-8def-4530-9759-a54edab3901c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.11",
+            "objective_text": "Connect file type to usage (web vs. print).",
+            "objective_uuid": "ac719163-45ef-4079-a0d2-a6cf17c5a54a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.14",
+            "objective_text": "Evaluate lossless vs. lossy compression.",
+            "objective_uuid": "88abd0aa-783d-40b6-b437-70d93dcff248"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.13",
+            "objective_text": "Construct a workflow using appropriate codecs.",
+            "objective_uuid": "f52f6060-0eaa-4953-b8e1-44f566d7f400"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.4",
+            "sub_topic_name": "File Formats (JPEG, PNG, GIF, TIFF, SVG)",
+            "objective_id": "ART.2.2.4.16",
+            "objective_text": "Synthesize cross-platform compatibility.",
+            "objective_uuid": "9bfa1964-40ba-4d3b-99b4-b404d8bfe988"
+          }
+        ]
+      }
+    }
+  }
+}

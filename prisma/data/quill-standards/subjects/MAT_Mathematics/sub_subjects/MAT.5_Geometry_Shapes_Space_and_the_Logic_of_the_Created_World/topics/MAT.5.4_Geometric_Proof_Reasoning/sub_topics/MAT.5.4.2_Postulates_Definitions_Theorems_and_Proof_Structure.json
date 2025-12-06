@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.4.2",
+    "name": "Postulates, Definitions, Theorems, and Proof Structure",
+    "topic_id": "MAT.5.4",
+    "topic_name": "Geometric Proof & Reasoning",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Postulates, Definitions, Theorems, and Proof Structure in Geometric Proof & Reasoning (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 8.2,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.1",
+            "objective_text": "Identify a rule of the game.",
+            "objective_uuid": "dfa7d53c-7c99-407b-858a-9f1cd8024377"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.2",
+            "objective_text": "Name a 'fact' vs. a 'guess'.",
+            "objective_uuid": "ba27d340-ce19-443c-90ad-aa542a00eace"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.8",
+            "objective_text": "Identify a 'Given'.",
+            "objective_uuid": "a0a223cc-52b2-4040-8ffb-888c60054659"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.3",
+            "objective_text": "Recall that we must follow rules.",
+            "objective_uuid": "c654d98c-34ac-4cc7-8d5a-f4ebe494af1b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.4",
+            "objective_text": "Observe that some things are always true.",
+            "objective_uuid": "bcae9155-68ee-426a-9d4f-e093c1ff97bb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.5",
+            "objective_text": "Summarize definitions (e.g., a triangle has 3 sides).",
+            "objective_uuid": "52b69358-343d-47ac-af4a-d70c65c0d3b8"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.6",
+            "objective_text": "Explain that we prove things to be sure.",
+            "objective_uuid": "3c915702-932c-4d03-aa36-86799a30e179"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.7",
+            "objective_text": "State a geometric fact.",
+            "objective_uuid": "e894d84f-91e6-42c9-9a11-bd60513206f7"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.12",
+            "objective_text": "Explain the role of axioms.",
+            "objective_uuid": "49b075d8-0c07-4a4a-bd08-c141a18c8877"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.15",
+            "objective_text": "Defend Euclid's Elements as a model of thought.",
+            "objective_uuid": "721af224-80ac-45d5-85a0-24831d2a41e5"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.9",
+            "objective_text": "Analyze the difference between a postulate (assumed true) and a theorem (proven true).",
+            "objective_uuid": "a075cb04-9faa-4be5-8ca9-29715da2c5bf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.10",
+            "objective_text": "Interpret the structure of an argument.",
+            "objective_uuid": "51debe8f-e020-43b0-bf98-ca5a71222bbf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.11",
+            "objective_text": "Connect definitions to evidence.",
+            "objective_uuid": "b7005f62-24ec-46c2-90bb-3dab6a16dcc5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.14",
+            "objective_text": "Evaluate the dependence of theorems on postulates.",
+            "objective_uuid": "582c208b-66f2-489d-891d-15de1a7a1dae"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.13",
+            "objective_text": "Construct an axiomatic system (miniature).",
+            "objective_uuid": "e2ad56b7-225a-447f-a396-72189bf464e7"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.4",
+            "topic_name": "Geometric Proof & Reasoning",
+            "sub_topic_id": "MAT.5.4.2",
+            "sub_topic_name": "Postulates, Definitions, Theorems, and Proof Structure",
+            "objective_id": "MAT.5.4.2.16",
+            "objective_text": "Synthesize proof writing style.",
+            "objective_uuid": "046a5f18-1075-4c15-acc6-37a3eba1d5c9"
+          }
+        ]
+      }
+    }
+  }
+}

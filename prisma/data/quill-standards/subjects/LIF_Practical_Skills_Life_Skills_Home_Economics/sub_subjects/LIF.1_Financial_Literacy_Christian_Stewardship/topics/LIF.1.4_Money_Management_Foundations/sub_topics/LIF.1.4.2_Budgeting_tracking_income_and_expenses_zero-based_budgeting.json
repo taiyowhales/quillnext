@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "LIF.1.4.2",
+    "name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+    "topic_id": "LIF.1.4",
+    "topic_name": "Money Management Foundations",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.1",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Budgeting (tracking income and expenses, zero-based budgeting) in Money Management Foundations (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.2",
+            "objective_text": "Identify how much money I have.",
+            "objective_uuid": "25767ce4-a67d-4ac0-ab58-2ed99f442314"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.8",
+            "objective_text": "Identify a 'leak' in spending (candy/toys).",
+            "objective_uuid": "9278060d-484a-4ad8-9520-697240d49f55"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.3",
+            "objective_text": "Recall that when money is gone, it's gone.",
+            "objective_uuid": "7f2018c5-bce2-4918-8b39-a5ebadddff6c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 6,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.1",
+            "objective_text": "Put money in three jars: Spend, Save, Give.",
+            "objective_uuid": "dae4bc6d-8086-4a81-a9d0-ca79c0b3b443"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.4",
+            "objective_text": "Plan to buy a small treat.",
+            "objective_uuid": "b9be83b6-5e6e-404e-a64b-aa11908ca4ea"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.5",
+            "objective_text": "Summarize income (allowance/jobs) vs. expenses (spending).",
+            "objective_uuid": "9238e101-96cf-4a8f-8350-e1583c48878b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.6",
+            "objective_text": "Explain why we write down what we spend.",
+            "objective_uuid": "5dcda871-c260-49d8-b961-a55d4eae77c6"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.12",
+            "objective_text": "Explain the 50/30/20 rule (Needs/Wants/Savings).",
+            "objective_uuid": "b8b3c005-6dbc-42d6-91bd-c0c2888dd531"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.15",
+            "objective_text": "Defend the discipline of budgeting as an act of stewardship.",
+            "objective_uuid": "de90b1d4-b449-4acc-9266-6be316017f05"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.9",
+            "objective_text": "Analyze a Zero-Based Budget (giving every dollar a job).",
+            "objective_uuid": "1f7b3937-6ffb-4672-b76b-317296468dfd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.10",
+            "objective_text": "Interpret a bank statement.",
+            "objective_uuid": "557a7ebd-8b15-4704-83c9-b7d3360cae8e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.11",
+            "objective_text": "Connect daily habits to monthly costs (the latte factor).",
+            "objective_uuid": "72b89430-42f9-4300-947b-6019d4fe6405"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 22.75,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.14",
+            "objective_text": "Evaluate the variance between budgeted and actual spending.",
+            "objective_uuid": "c9347780-423d-4736-a28c-3a832ba38c7e"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.7",
+            "objective_text": "Create a simple budget for a lemonade stand.",
+            "objective_uuid": "95f3aad2-ee8b-46f7-be69-36555f43fd10"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.13",
+            "objective_text": "Construct a comprehensive personal budget using a spreadsheet.",
+            "objective_uuid": "a2a407ad-9d5c-4852-9861-f0939f56b3e6"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.2",
+            "sub_topic_name": "Budgeting (tracking income and expenses, zero-based budgeting)",
+            "objective_id": "LIF.1.4.2.16",
+            "objective_text": "Synthesize irregular income planning.",
+            "objective_uuid": "73e187cc-4d63-4ae4-a334-d6d466f5662f"
+          }
+        ]
+      }
+    }
+  }
+}

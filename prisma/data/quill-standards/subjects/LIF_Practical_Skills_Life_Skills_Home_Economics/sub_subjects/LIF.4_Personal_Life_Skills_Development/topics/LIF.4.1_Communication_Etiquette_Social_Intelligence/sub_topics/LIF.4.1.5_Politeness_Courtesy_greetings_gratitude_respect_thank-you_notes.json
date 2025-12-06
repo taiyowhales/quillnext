@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.1.5",
+    "name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+    "topic_id": "LIF.4.1",
+    "topic_name": "Communication, Etiquette & Social Intelligence",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Politeness & Courtesy (greetings, gratitude, respect, thank-you notes) in Communication, Etiquette & Social Intelligence (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.8",
+            "objective_text": "Identify rude behavior.",
+            "objective_uuid": "75c405f5-04f0-4273-8ee9-3e078083f3b5"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.3",
+            "objective_text": "Recall that we don't interrupt.",
+            "objective_uuid": "ec1bc213-573c-4e9a-b336-b05a0b28d7a9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.4",
+            "objective_text": "Write a simple thank-you card.",
+            "objective_uuid": "431b4759-f77a-45f7-b821-0449cf14ae6c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.1",
+            "objective_text": "Say 'Please' and 'Thank You'.",
+            "objective_uuid": "28a6b6fa-34e6-4d4d-a82b-aa0c4e62a7a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.2",
+            "objective_text": "Greet adults by name.",
+            "objective_uuid": "f531c4fe-f02e-44b5-bad3-3d0bc2c013ec"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.5",
+            "objective_text": "Summarize why manners matter (respect).",
+            "objective_uuid": "7fa2de94-2a6a-41de-b227-a3f5da240159"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.6",
+            "objective_text": "Explain how to introduce two people.",
+            "objective_uuid": "a30b54a2-4231-4227-9a5f-edaee2f98931"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.12",
+            "objective_text": "Explain the etiquette of being a house guest.",
+            "objective_uuid": "488a7c8c-cc1f-4699-8a96-547fc0108d9a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.15",
+            "objective_text": "Defend manners as a liturgy of love, not just rules.",
+            "objective_uuid": "6904471a-f6ac-41d5-bf12-c1720ffbd834"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.7",
+            "objective_text": "Demonstrate good table manners.",
+            "objective_uuid": "0459c450-4333-49f2-a37f-059bddc5dec3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.9",
+            "objective_text": "Analyze the Golden Rule in social interaction.",
+            "objective_uuid": "aebc877c-8322-4304-a06f-319294b9dba1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.10",
+            "objective_text": "Interpret cultural differences in politeness.",
+            "objective_uuid": "f4582d0c-de97-48d8-a8be-09e6dfb88825"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.11",
+            "objective_text": "Connect gratitude to relationship health.",
+            "objective_uuid": "b537105a-286f-4576-ad0e-8894c89eb752"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.14",
+            "objective_text": "Evaluate the impact of civility on public discourse.",
+            "objective_uuid": "dcddedb8-382a-4561-a266-00e489aaedfb"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.13",
+            "objective_text": "Construct a formal letter of appreciation.",
+            "objective_uuid": "a6ca7e29-c14c-41d5-a94c-294eb123f1f7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.5",
+            "sub_topic_name": "Politeness & Courtesy (greetings, gratitude, respect, thank-you notes)",
+            "objective_id": "LIF.4.1.5.16",
+            "objective_text": "Synthesize emotional intelligence with social protocols.",
+            "objective_uuid": "a1624c34-c608-4b3c-b3c5-fb3af62e1ead"
+          }
+        ]
+      }
+    }
+  }
+}

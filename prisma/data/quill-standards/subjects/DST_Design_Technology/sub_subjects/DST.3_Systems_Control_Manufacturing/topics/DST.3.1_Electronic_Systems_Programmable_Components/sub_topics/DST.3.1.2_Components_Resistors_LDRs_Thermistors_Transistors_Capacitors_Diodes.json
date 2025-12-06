@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.1.2",
+    "name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+    "topic_id": "DST.3.1",
+    "topic_name": "Electronic Systems & Programmable Components",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes) in Electronic Systems & Programmable Components (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.1",
+            "objective_text": "Identify a battery.",
+            "objective_uuid": "b25da901-5a4b-448f-85a7-a825f5bec39e"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.2",
+            "objective_text": "Name a wire.",
+            "objective_uuid": "ada1aa28-33fd-4c8d-afc7-c7159cfef787"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.7",
+            "objective_text": "Identify a Resistor (slows down current).",
+            "objective_uuid": "ff97413b-d3aa-4f34-939c-3985bc2d9bd0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.3",
+            "objective_text": "Recall that electricity needs a circle (circuit).",
+            "objective_uuid": "ddf7f614-9914-4bf8-b3f9-32d3d6c81736"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.4",
+            "objective_text": "Observe a buzzer.",
+            "objective_uuid": "5e27a4ff-64d8-41a0-b2b1-b7b900d55ea3"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.5",
+            "objective_text": "Summarize what a Battery does (voltage/push).",
+            "objective_uuid": "970ac895-d0bc-4153-850e-9346a193db40"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.6",
+            "objective_text": "Explain an LED (Light Emitting Diode).",
+            "objective_uuid": "54245eed-24fe-4ec9-9fa9-6dc4f2b4bc36"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.12",
+            "objective_text": "Explain the Diode (one-way valve).",
+            "objective_uuid": "18bd06ba-c777-4220-9d81-a3c6e3aebafd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.15",
+            "objective_text": "Defend the selection of specific components for a circuit.",
+            "objective_uuid": "84fe6808-cee9-4f76-802b-0c724d2fe4f0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.8",
+            "objective_text": "Compare a conductor with an insulator.",
+            "objective_uuid": "57100f9c-1317-4010-8c77-1ce2c877c6fe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.9",
+            "objective_text": "Analyze the function of sensors (LDR=Light, Thermistor=Heat).",
+            "objective_uuid": "9eb34dde-445a-44ed-8f5c-ca3cceae4198"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.10",
+            "objective_text": "Interpret the Transistor as an electronic switch.",
+            "objective_uuid": "eb71816c-257e-4ce0-a992-e10c943d8de5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.11",
+            "objective_text": "Connect the Capacitor to storing charge.",
+            "objective_uuid": "3da05ba3-bc73-42e1-b062-f0c837543c04"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.14",
+            "objective_text": "Evaluate component tolerance and power rating.",
+            "objective_uuid": "4208d211-5584-4ce4-bca8-d8efb0c75223"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.13",
+            "objective_text": "Construct a calculation using Ohm's Law (V=IR).",
+            "objective_uuid": "b00cac04-dac1-4801-b10f-4a0cbc4e86e2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.2",
+            "sub_topic_name": "Components (Resistors, LDRs, Thermistors, Transistors, Capacitors, Diodes)",
+            "objective_id": "DST.3.1.2.16",
+            "objective_text": "Synthesize potential divider calculations for sensing circuits.",
+            "objective_uuid": "8feed6fd-39d5-4ca3-80e3-c2a05f5c4203"
+          }
+        ]
+      }
+    }
+  }
+}

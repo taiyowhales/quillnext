@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.4.3",
+    "name": "Experimental vs Theoretical Probability (Relative Frequency)",
+    "topic_id": "MAT.10.4",
+    "topic_name": "Probability Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Experimental vs Theoretical Probability (Relative Frequency) in Probability Foundations (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.8",
+            "objective_text": "Identify a 'fair' game.",
+            "objective_uuid": "92129af9-9e51-45bb-845c-132c4bf19eda"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.3",
+            "objective_text": "Recall that we don't know what will happen next.",
+            "objective_uuid": "be64be5e-34cb-4717-9a87-5cfef18fd5d4"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.1",
+            "objective_text": "Flip a coin 10 times.",
+            "objective_uuid": "fb0bbeb1-5134-4839-87b5-3f2cb047728c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.2",
+            "objective_text": "Record heads or tails.",
+            "objective_uuid": "d3364ab7-2325-4bab-a8d1-68f335fbccb6"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.4",
+            "objective_text": "Guess the winner of a race.",
+            "objective_uuid": "6fc9fc75-7cbf-4f75-a2ba-24ed1d6b44c9"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.5",
+            "objective_text": "Summarize Theoretical Probability (what should happen).",
+            "objective_uuid": "2a270615-ee6b-4e52-b769-2bdbf3affc66"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.6",
+            "objective_text": "Explain Experimental Probability (what actually happened).",
+            "objective_uuid": "61248802-ebdd-4ad7-8fb4-9731b285fe89"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.12",
+            "objective_text": "Explain why experimental results vary.",
+            "objective_uuid": "4e272f62-bb1d-4298-ab14-cd9f29bc939e"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.15",
+            "objective_text": "Defend the use of simulation for complex problems.",
+            "objective_uuid": "21d2280f-c453-47f1-9173-2525b4c4a828"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 10.75,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.9",
+            "objective_text": "Analyze the Law of Large Numbers (intro).",
+            "objective_uuid": "cbbbf8a1-dae3-492e-a2a0-32dfa3d50407"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.7",
+            "objective_text": "Compare the results of 10 flips vs. 100 flips.",
+            "objective_uuid": "0e8a2c86-59a0-4252-a60a-f2427f9f2aa3"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.10",
+            "objective_text": "Interpret relative frequency as an estimate of probability.",
+            "objective_uuid": "a167619f-2235-4f74-870e-b2ce8139a5a4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.11",
+            "objective_text": "Connect simulation to prediction.",
+            "objective_uuid": "dce297cc-a653-4eb6-9cce-9db2ebcb9c4e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.14",
+            "objective_text": "Evaluate the convergence of experimental data to theoretical values.",
+            "objective_uuid": "eb655f20-ca58-4b50-a580-e6d54d8c5bbe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.13",
+            "objective_text": "Construct a Monte Carlo simulation.",
+            "objective_uuid": "ac28fee4-a4dd-4d49-aea9-1ea088f9423d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.3",
+            "sub_topic_name": "Experimental vs Theoretical Probability (Relative Frequency)",
+            "objective_id": "MAT.10.4.3.16",
+            "objective_text": "Synthesize coding with probability models.",
+            "objective_uuid": "6dc8c2df-2dce-4e04-94da-f748318f0ced"
+          }
+        ]
+      }
+    }
+  }
+}

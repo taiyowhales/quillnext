@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.3.5",
+    "name": "The Pythagorean Theorem and its Converse",
+    "topic_id": "MAT.5.3",
+    "topic_name": "Euclidean Geometry (Form and Measurement)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Pythagorean Theorem and its Converse in Euclidean Geometry (Form and Measurement) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 8.2,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.1",
+            "objective_text": "Identify a triangle with a square corner.",
+            "objective_uuid": "b39581e4-6553-4727-98f2-03fcb128b485"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.3",
+            "objective_text": "Name a ramp (wedge shape).",
+            "objective_uuid": "4241db4b-f96b-4eb3-b3c5-afdea8657b1e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.8",
+            "objective_text": "Identify the legs and hypotenuse.",
+            "objective_uuid": "2bfff6f2-a058-4560-8765-d8307b4cb3b0"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.2",
+            "objective_text": "Recall that the long side is across from the corner.",
+            "objective_uuid": "e3917f24-21ea-4276-9fa9-4cf76aba082b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.4",
+            "objective_text": "Observe tiles on a floor.",
+            "objective_uuid": "3c9ce6de-e5ea-4f19-bbf8-8388eb7e5c25"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.5",
+            "objective_text": "Summarize the 3-4-5 triangle rule.",
+            "objective_uuid": "bb86e167-aefd-476b-abd0-ce10feabbb06"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.6",
+            "objective_text": "Explain that $a^2 + b^2 = c^2$ works for right triangles.",
+            "objective_uuid": "4de54e7d-1011-41e9-9d9e-16d4a107a678"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.12",
+            "objective_text": "Explain distance on a grid.",
+            "objective_uuid": "cd4f582c-3c64-4964-8daf-efb011ad0cc5"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.15",
+            "objective_text": "Defend the theorem's generalization (Law of Cosines).",
+            "objective_uuid": "cded45ef-183d-4441-a372-abd9b6085363"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.7",
+            "objective_text": "Calculate the long side of a simple right triangle.",
+            "objective_uuid": "44302890-48ac-4b5c-895c-a62a8ae478d9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.9",
+            "objective_text": "Analyze Pythagorean Triples ($5, 12, 13$, etc.).",
+            "objective_uuid": "d341d33f-d07d-4237-981c-01da74dfb999"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.10",
+            "objective_text": "Interpret the geometric proof (squares on sides).",
+            "objective_uuid": "1a83163c-39df-4865-80cf-88022f962136"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.11",
+            "objective_text": "Connect the Converse to checking for right angles.",
+            "objective_uuid": "e60d5258-8e15-4a19-a192-61f68835ea64"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.14",
+            "objective_text": "Evaluate 3D diagonal applications.",
+            "objective_uuid": "75d9a2be-d63d-477c-9cd0-d376ebbf86db"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.13",
+            "objective_text": "Construct a proof of the theorem (e.g., Garfield's proof).",
+            "objective_uuid": "bb341cb2-c2d9-4d6d-8b57-fc2652a34cca"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 29,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.5",
+            "sub_topic_name": "The Pythagorean Theorem and its Converse",
+            "objective_id": "MAT.5.3.5.16",
+            "objective_text": "Synthesize trigonometry identities ($sin^2 + cos^2 = 1$).",
+            "objective_uuid": "36035eef-b3c9-4d80-98c6-adcf93540797"
+          }
+        ]
+      }
+    }
+  }
+}

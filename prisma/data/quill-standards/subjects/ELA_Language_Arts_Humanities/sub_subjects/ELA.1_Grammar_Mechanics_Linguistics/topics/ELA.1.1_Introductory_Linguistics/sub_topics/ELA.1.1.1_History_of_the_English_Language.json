@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.1.1",
+    "name": "History of the English Language",
+    "topic_id": "ELA.1.1",
+    "topic_name": "Introductory Linguistics",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for History of the English Language in Introductory Linguistics (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.1",
+            "objective_text": "Identify that words change over time.",
+            "objective_uuid": "5ef56b00-6760-46aa-8c84-d0229addef44"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.2",
+            "objective_text": "Name \"Old English\" as the language of Beowulf.",
+            "objective_uuid": "aee71f49-6af9-47d2-982e-31189bcb0e33"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.8",
+            "objective_text": "Identify the Great Vowel Shift.",
+            "objective_uuid": "b95d2ba5-463e-44aa-a31c-fe24730cead9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.3",
+            "objective_text": "Recall that English borrowed words from French and Latin.",
+            "objective_uuid": "64bcfa6c-eb72-4cb0-bafa-87d75d9896ae"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.4",
+            "objective_text": "Observe how Shakespeare’s words look different from ours.",
+            "objective_uuid": "9d26f057-de7b-4c34-8029-401c15c2d178"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 8.75,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.6",
+            "objective_text": "Explain the impact of the Norman Conquest (1066) on vocabulary.",
+            "objective_uuid": "99e1b40d-cd2b-484b-aa03-8d385346baaa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.5",
+            "objective_text": "Summarize the three main periods: Old, Middle, and Modern English.",
+            "objective_uuid": "81b922bd-267a-444f-bd49-12f6845c7f3a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.12",
+            "objective_text": "Explain the standardization of spelling (dictionaries).",
+            "objective_uuid": "cd370a11-2133-40a2-82c7-264a148890f0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.15",
+            "objective_text": "Defend the beauty of language evolution.",
+            "objective_uuid": "2c541338-fefb-4820-bb1e-b7001f21f159"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.9",
+            "objective_text": "Analyze the influence of the King James Bible on English idioms.",
+            "objective_uuid": "0eb45155-2c28-4a77-8b69-c1122b4c074e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.10",
+            "objective_text": "Interpret the etymology of common words.",
+            "objective_uuid": "6ec8620e-ef3a-4555-aced-a5e2905e0c17"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.11",
+            "objective_text": "Connect global trade to loanwords (e.g., pajama, ketchup).",
+            "objective_uuid": "f7c5e076-f3fd-4ac0-ac74-fac00813c2a8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.14",
+            "objective_text": "Evaluate the fluidity of language (\"correctness\" vs. usage).",
+            "objective_uuid": "06c1a29b-e8e8-486a-97e2-5e333a434958"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 17.67,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.7",
+            "objective_text": "Compare a passage of Chaucer with a modern translation.",
+            "objective_uuid": "9972630f-ca08-4153-8c07-d5d43ccd76dc"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.13",
+            "objective_text": "Construct a timeline of the development of English.",
+            "objective_uuid": "1498aadd-89bb-43f8-8185-ea10a846eaa6"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.1",
+            "sub_topic_name": "History of the English Language",
+            "objective_id": "ELA.1.1.1.16",
+            "objective_text": "Synthesize the Indo-European language family tree.",
+            "objective_uuid": "5d7846dc-98d8-49cf-9998-b929d5fa8876"
+          }
+        ]
+      }
+    }
+  }
+}

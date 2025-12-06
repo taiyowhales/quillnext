@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ART.2.4.6",
+    "name": "Storyboarding & Scripting",
+    "topic_id": "ART.2.4",
+    "topic_name": "Videography, Film & Audio Production",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Storyboarding & Scripting in Videography, Film & Audio Production (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.3",
+            "objective_text": "Identify the main character.",
+            "objective_uuid": "07cf959c-bb9e-4563-b7b5-79d21f0a6373"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.4",
+            "objective_text": "Recall that movies are planned.",
+            "objective_uuid": "139c8e8e-0e6d-4cec-a036-6ba4d1622728"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.1",
+            "objective_text": "Draw three boxes: Beginning, Middle, End.",
+            "objective_uuid": "6e6df4e5-260f-43a6-9d45-bdcf11181f64"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.2",
+            "objective_text": "Tell the story out loud.",
+            "objective_uuid": "1a36b631-bfcd-44ee-a596-d7fbf898896e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.5",
+            "objective_text": "Summarize a scene in comic strip form.",
+            "objective_uuid": "f19002e6-60f1-429c-9687-256009e4b7d8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.6",
+            "objective_text": "Write dialogue for two characters.",
+            "objective_uuid": "4366aa24-fdbc-4e03-b83b-eb7f08edd6d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.7",
+            "objective_text": "Explain a 'Shot' (one piece of video).",
+            "objective_uuid": "76656e31-8f17-4f45-84f2-5151bc5e5518"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.8",
+            "objective_text": "Plan a location for filming.",
+            "objective_uuid": "7e5e42ff-3832-40d8-a43f-a27c40f01de7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.12",
+            "objective_text": "Explain the 'Beat Sheet'.",
+            "objective_uuid": "e1db9383-368b-4c96-9a57-ba45db23ad52"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.15",
+            "objective_text": "Defend the necessity of pre-production.",
+            "objective_uuid": "afc78ef3-6f78-4445-96e7-1394a7c08feb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.9",
+            "objective_text": "Analyze Shot Types (Close Up, Wide, Medium).",
+            "objective_uuid": "c89b3ca4-2805-4471-8e61-838c366945d2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.10",
+            "objective_text": "Interpret screenplay formatting (Scene Heading, Action, Dialogue).",
+            "objective_uuid": "55f97ca8-10c7-46b0-91a1-c30ee8f3dee6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.11",
+            "objective_text": "Connect the storyboard to the final edit.",
+            "objective_uuid": "fb4f977a-cf28-4bc1-b546-891b4eb5e36a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.14",
+            "objective_text": "Evaluate the visual narrative structure.",
+            "objective_uuid": "3538e031-2fad-4e55-83e5-bc2f0be837e4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.13",
+            "objective_text": "Construct a shooting script and shot list.",
+            "objective_uuid": "9939f8b1-ddda-4655-ae79-0f2cbae4f635"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.6",
+            "sub_topic_name": "Storyboarding & Scripting",
+            "objective_id": "ART.2.4.6.16",
+            "objective_text": "Synthesize visual planning with logistical scheduling.",
+            "objective_uuid": "26ad2c18-b23a-41dd-882f-69190a8c60f8"
+          }
+        ]
+      }
+    }
+  }
+}

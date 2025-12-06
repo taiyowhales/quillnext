@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.2.2",
+    "name": "Converting Between Fractions, Decimals, and Percentages",
+    "topic_id": "MAT.4.2",
+    "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Converting Between Fractions, Decimals, and Percentages in Fractions, Decimals, & Percentages (Rational Numbers) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.1",
+            "objective_text": "Identify 50 cents as half a dollar.",
+            "objective_uuid": "d6dbaae3-2ec5-45a4-aa1d-ac206cd34d08"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.3",
+            "objective_text": "Name 100% as the whole thing.",
+            "objective_uuid": "8fb6515c-52d7-492b-8bf5-0874b65645d8"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.8",
+            "objective_text": "Identify benchmark percentages (25%, 10%).",
+            "objective_uuid": "907e1500-ddac-47d6-9945-47485ab0ede0"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.33,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.2",
+            "objective_text": "Recall that 'percent' means part of 100.",
+            "objective_uuid": "5817a3f5-e34f-4fdf-a68c-05c11f84de77"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.4",
+            "objective_text": "Observe sale signs.",
+            "objective_uuid": "b66ea0df-d470-4114-9ea0-ec4cd09f5a65"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.5",
+            "objective_text": "Summarize converting simple fractions (1/2 = 0.5 = 50%).",
+            "objective_uuid": "184daa7a-5b65-455e-b83c-a8cfb587cbab"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.6",
+            "objective_text": "Explain that a percentage is a fraction over 100.",
+            "objective_uuid": "121a5fb0-682a-47d9-9fc4-25f488981f96"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.7",
+            "objective_text": "Convert decimals to percentages.",
+            "objective_uuid": "fb66a5f6-8c1b-43ab-ad01-417da2538180"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.12",
+            "objective_text": "Explain how to calculate tips/tax.",
+            "objective_uuid": "fa0cea9b-fbec-44be-b5dc-a4f49ae22e4e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.15",
+            "objective_text": "Defend the utility of percentages in statistics.",
+            "objective_uuid": "36ad41a8-7631-46da-81ba-d87d0d4b9abb"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.9",
+            "objective_text": "Analyze repeating decimals to fractions.",
+            "objective_uuid": "f999fd52-b980-477f-823c-9aec39aa588c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.10",
+            "objective_text": "Interpret percent increase and decrease.",
+            "objective_uuid": "f8249670-dfbc-4b4a-a978-0bc3997ba258"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.11",
+            "objective_text": "Connect all three forms to the number line.",
+            "objective_uuid": "63980929-5286-4682-82c4-e60394d86f76"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.14",
+            "objective_text": "Evaluate compound interest formulas.",
+            "objective_uuid": "0725b18d-d929-460c-8b1d-7a464dc6f5dc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.13",
+            "objective_text": "Construct calculations using the most efficient form.",
+            "objective_uuid": "9abb5a4b-886c-4997-b206-a702e2fecf4f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.2",
+            "topic_name": "Fractions, Decimals, & Percentages (Rational Numbers)",
+            "sub_topic_id": "MAT.4.2.2",
+            "sub_topic_name": "Converting Between Fractions, Decimals, and Percentages",
+            "objective_id": "MAT.4.2.2.16",
+            "objective_text": "Synthesize algebra with percentage growth/decay.",
+            "objective_uuid": "a0536a53-3e8c-4ae6-b953-2f3c0bba7168"
+          }
+        ]
+      }
+    }
+  }
+}

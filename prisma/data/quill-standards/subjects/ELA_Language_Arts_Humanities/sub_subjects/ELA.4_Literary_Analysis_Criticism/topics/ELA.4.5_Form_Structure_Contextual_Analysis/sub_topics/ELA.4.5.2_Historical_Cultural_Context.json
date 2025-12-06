@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.4.5.2",
+    "name": "Historical & Cultural Context",
+    "topic_id": "ELA.4.5",
+    "topic_name": "Form, Structure & Contextual Analysis",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.4",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Historical & Cultural Context in Form, Structure & Contextual Analysis (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.1",
+            "objective_text": "Identify that people lived differently a long time ago.",
+            "objective_uuid": "1e5c647a-08b6-4db8-b334-aae96804e8fb"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.2",
+            "objective_text": "Name the time when the story happens.",
+            "objective_uuid": "009657a2-2996-42b1-9435-3f03c8620c55"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.8",
+            "objective_text": "Identify old-fashioned words or customs.",
+            "objective_uuid": "07b6b536-ad42-4a85-95a1-9dadce3d2332"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.3",
+            "objective_text": "Recall that they didn't have cars or phones.",
+            "objective_uuid": "78247658-13c1-4209-9bf7-e6d557cc02e8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.4",
+            "objective_text": "Observe how characters dress and speak.",
+            "objective_uuid": "1dc3c4ed-9009-4941-944f-81d48387f827"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.5",
+            "objective_text": "Summarize the time period of the book.",
+            "objective_uuid": "5fbe2cca-acac-45de-9285-8c27ec735586"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.6",
+            "objective_text": "Explain how history changes the story (e.g., war time).",
+            "objective_uuid": "1cfc8999-2d87-4a02-8193-c6e20e488fa2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.12",
+            "objective_text": "Explain the danger of 'Presentism' (judging the past by today's standards).",
+            "objective_uuid": "82bc15c9-d8a7-42b2-9edb-da35c4448125"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.15",
+            "objective_text": "Defend the text as a product of its time while finding universal truth.",
+            "objective_uuid": "420038fb-53ae-4e15-a4c2-9f8296a96fd4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.7",
+            "objective_text": "Compare the culture in the book with our culture today.",
+            "objective_uuid": "d6565927-1fc8-4ae2-8667-cee1a24dd943"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.9",
+            "objective_text": "Analyze how the author's life influenced the book.",
+            "objective_uuid": "e2a19a94-ceae-49c1-8ee5-ef48d1c6c9f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.10",
+            "objective_text": "Interpret the social issues addressed in the text (e.g., poverty, slavery).",
+            "objective_uuid": "7fdb51ef-57b6-4050-b464-28b59339c3f4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.11",
+            "objective_text": "Connect the story to specific historical events.",
+            "objective_uuid": "7bdae896-c720-4ccd-9827-6c3474c5b517"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.14",
+            "objective_text": "Evaluate the influence of the 'Zeitgeist' (Spirit of the Age) on the work.",
+            "objective_uuid": "fa763568-b652-45ca-823c-e037d20bb03a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.13",
+            "objective_text": "Construct a biographical criticism of a text.",
+            "objective_uuid": "4213fd59-d6bb-43a5-b43c-2ea3d4ec4f78"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.2",
+            "sub_topic_name": "Historical & Cultural Context",
+            "objective_id": "ELA.4.5.2.16",
+            "objective_text": "Synthesize historical research with literary analysis.",
+            "objective_uuid": "1ccf76c8-4427-4dde-ae5f-378c03631fe0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.4.4",
+    "name": "Multiplication (arrays, repeated addition, area model)",
+    "topic_id": "MAT.4.4",
+    "topic_name": "Operations with Whole Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Multiplication (arrays, repeated addition, area model) in Operations with Whole Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.67,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.1",
+            "objective_text": "Identify groups of equal size.",
+            "objective_uuid": "1825fd55-e674-48fb-a32c-7394c508217f"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.8",
+            "objective_text": "Identify factors and products.",
+            "objective_uuid": "2024db9d-b7ac-4cb6-8bba-423190925450"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.3",
+            "objective_text": "Recall that $3 \\times 2$ means 3 groups of 2.",
+            "objective_uuid": "c376cf22-259d-49b1-be84-3fc8a69fc666"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 7,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.2",
+            "objective_text": "Skip count to find a total.",
+            "objective_uuid": "7949fe89-adbd-4f94-a852-aa8de6aed778"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.4",
+            "objective_text": "Draw an array.",
+            "objective_uuid": "dc0e2488-5d14-490c-a598-a1c03b4e178b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.5",
+            "objective_text": "Summarize the multiplication table (0-12).",
+            "objective_uuid": "fa9a5e6c-5fef-4381-9a3c-feafa1402888"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.6",
+            "objective_text": "Explain the Area Model (box method).",
+            "objective_uuid": "36c0bd2e-9eda-4a46-9704-ecf18e6dcbe5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.7",
+            "objective_text": "Multiply two-digit numbers.",
+            "objective_uuid": "0da90593-e48b-4362-ae41-9f9af5d7c117"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.12",
+            "objective_text": "Explain exponents as repeated multiplication.",
+            "objective_uuid": "8fe52855-3c5e-40d8-bcca-2d80930224d4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.15",
+            "objective_text": "Defend the variety of multiplication definitions.",
+            "objective_uuid": "7a2b566b-7aba-4da1-b63e-ee34c84f7169"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.9",
+            "objective_text": "Analyze the Distributive Property.",
+            "objective_uuid": "3e30e4a9-1119-4b5e-80f6-78f7aec01521"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.10",
+            "objective_text": "Interpret multiplication of negatives.",
+            "objective_uuid": "4b7d76b1-20b8-4e54-8c5b-b01964521af3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.11",
+            "objective_text": "Connect multiplication to scaling.",
+            "objective_uuid": "107592b1-beed-410f-a5f1-3e0be3a259ad"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.5,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.14",
+            "objective_text": "Evaluate the cross product vs. dot product.",
+            "objective_uuid": "1e2fb1df-e8e4-4870-a5a8-854dbdcec20c"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.16",
+            "objective_text": "Synthesize combinatorics (counting principle) with multiplication.",
+            "objective_uuid": "09603f6e-ce17-4b84-9fcd-f410c9428325"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.4",
+            "sub_topic_name": "Multiplication (arrays, repeated addition, area model)",
+            "objective_id": "MAT.4.4.4.13",
+            "objective_text": "Construct a matrix multiplication.",
+            "objective_uuid": "b9d6cf36-e36a-4134-93a5-48afd56b571f"
+          }
+        ]
+      }
+    }
+  }
+}

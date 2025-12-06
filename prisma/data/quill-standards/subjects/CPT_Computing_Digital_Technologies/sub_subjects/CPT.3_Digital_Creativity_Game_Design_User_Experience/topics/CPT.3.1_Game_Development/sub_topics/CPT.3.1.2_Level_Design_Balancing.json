@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.1.2",
+    "name": "Level Design & Balancing",
+    "topic_id": "CPT.3.1",
+    "topic_name": "Game Development",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Level Design & Balancing in Game Development (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.3",
+            "objective_text": "Recall that a game should be fun, not impossible.",
+            "objective_uuid": "4578136d-96cc-448e-b8a2-b5b4fb3192c7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.4",
+            "objective_text": "Name the 'Goal'.",
+            "objective_uuid": "1964820a-d7a1-4284-acc5-ebd63e915e86"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.8",
+            "objective_text": "Identify a 'power-up'.",
+            "objective_uuid": "548f288a-9c46-4f32-9bfc-6b393a0cc4be"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.1",
+            "objective_text": "Draw a maze.",
+            "objective_uuid": "c5f8a9fe-3676-4790-a71b-9ad0168ce8f0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.2",
+            "objective_text": "Place treasure to find.",
+            "objective_uuid": "6e419fe9-c329-44c3-adf8-23e01543252e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.5",
+            "objective_text": "Summarize making levels get harder (difficulty curve).",
+            "objective_uuid": "cc4e35f6-05de-4daf-9b19-2b024b0e5aa8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.6",
+            "objective_text": "Explain placing enemies to challenge the player.",
+            "objective_uuid": "2616aacf-f6f2-4fcf-9391-9335d031b62e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.7",
+            "objective_text": "Test if a jump is possible.",
+            "objective_uuid": "20979d19-7210-4744-90a4-c3bf446cf90b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.12",
+            "objective_text": "Explain procedural generation (random levels).",
+            "objective_uuid": "6d0775a2-b7a3-4bfe-9164-6ed2c358c0dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.15",
+            "objective_text": "Defend the psychology of 'Flow' (challenge vs. skill).",
+            "objective_uuid": "151c0e77-01e7-468e-a733-1e4a7350da31"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.9",
+            "objective_text": "Analyze flow and pacing.",
+            "objective_uuid": "7cf5a9a2-8a95-44aa-b2f5-7aa5f9e6a46c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.10",
+            "objective_text": "Interpret heatmaps of player deaths.",
+            "objective_uuid": "6caff302-dbed-41ca-afc3-cb03d499bdc9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.11",
+            "objective_text": "Connect reward loops to player motivation.",
+            "objective_uuid": "14456b55-a21e-495c-9114-071a02df5f98"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.14",
+            "objective_text": "Evaluate game balance (nerfing/buffing).",
+            "objective_uuid": "5fb02586-189b-411c-a16b-5e796bcf0808"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.13",
+            "objective_text": "Construct a level design document (LDD).",
+            "objective_uuid": "22ce54f7-cf37-4ff3-a362-f54211e9278d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.2",
+            "sub_topic_name": "Level Design & Balancing",
+            "objective_id": "CPT.3.1.2.16",
+            "objective_text": "Synthesize environmental storytelling.",
+            "objective_uuid": "258cc9df-f7fc-43d3-86cb-e1b20a023b13"
+          }
+        ]
+      }
+    }
+  }
+}

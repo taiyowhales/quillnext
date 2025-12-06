@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.1.4",
+    "name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+    "topic_id": "ART.4.1",
+    "topic_name": "Composition & Arranging",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations) in Composition & Arranging (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.1",
+            "objective_text": "Identify the beginning, middle, and end of a song.",
+            "objective_uuid": "856672ba-e8e0-49a2-8eff-e42d9a3115b1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.2",
+            "objective_text": "Name the parts as 'Same' or 'Different'.",
+            "objective_uuid": "b8142782-9ce3-490e-bcab-4ff333d6ef2b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.8",
+            "objective_text": "Identify a Theme and Variation.",
+            "objective_uuid": "e952b63e-1ce2-441a-9fee-fa91648e282e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.3",
+            "objective_text": "Recall ABA form (Sandwich).",
+            "objective_uuid": "a4624bb0-199b-4183-82ca-f0aa088d1858"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.4",
+            "objective_text": "Move differently for different sections.",
+            "objective_uuid": "e5d5ec3e-9475-44be-8ae0-039e4c3460cd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.5",
+            "objective_text": "Summarize Binary (AB) vs. Ternary (ABA) form.",
+            "objective_uuid": "bdef51bb-a464-4f3d-aa2d-ebe168abd6c0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.6",
+            "objective_text": "Explain Rondo form (ABACA).",
+            "objective_uuid": "db16d946-f8e7-47d4-bdff-03cdac304b4e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.7",
+            "objective_text": "Map out the structure of a hymn (Verse/Chorus).",
+            "objective_uuid": "5947cfa6-da8c-4ce0-a0d1-538d293e84af"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.12",
+            "objective_text": "Explain the Coda.",
+            "objective_uuid": "c4572a63-5def-41e2-9d56-b00d959264ba"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.15",
+            "objective_text": "Defend the use of form to guide the listener.",
+            "objective_uuid": "b906e417-7978-47a6-a77b-4a0377340234"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.9",
+            "objective_text": "Analyze Sonata-Allegro form (Exposition, Development, Recapitulation - intro).",
+            "objective_uuid": "280b7420-650a-42d4-a31a-a1f1e8d9f4de"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.10",
+            "objective_text": "Interpret the bridge in a pop song.",
+            "objective_uuid": "736423f7-3733-4b85-abe0-db3abe1ef0b8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.11",
+            "objective_text": "Connect form to architectural structure.",
+            "objective_uuid": "10b25e7a-0abb-44e9-85f5-b426f0b3aea3"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.14",
+            "objective_text": "Evaluate the structural unity of a large work.",
+            "objective_uuid": "9da28665-c319-4254-b555-d7b06637456c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.13",
+            "objective_text": "Construct a composition in a specific classical form.",
+            "objective_uuid": "028c22e7-4a83-401c-9cc2-5e4a1f69c7d0"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.4",
+            "sub_topic_name": "Musical Form & Structure (Binary AB, Ternary ABA, Rondo ABACA, Theme & Variations)",
+            "objective_id": "ART.4.1.4.16",
+            "objective_text": "Synthesize coherence and contrast in formal design.",
+            "objective_uuid": "bfd7c2fd-84a3-4a88-8f9d-10c9d6d7253a"
+          }
+        ]
+      }
+    }
+  }
+}

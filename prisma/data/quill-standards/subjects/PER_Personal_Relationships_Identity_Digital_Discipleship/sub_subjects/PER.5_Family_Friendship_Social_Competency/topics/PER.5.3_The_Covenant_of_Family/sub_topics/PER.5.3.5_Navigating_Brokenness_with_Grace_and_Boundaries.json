@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "PER.5.3.5",
+    "name": "Navigating Brokenness with Grace and Boundaries",
+    "topic_id": "PER.5.3",
+    "topic_name": "The Covenant of Family",
+    "subject_id": "PER",
+    "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+    "sub_subject_id": "PER.5",
+    "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Navigating Brokenness with Grace and Boundaries in The Covenant of Family (Personal Relationships, Identity & Digital Discipleship)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.1",
+            "objective_text": "Identify that people make mistakes.",
+            "objective_uuid": "cc1c23e3-a527-467e-bdd0-ba7b6d3ad0f7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.4",
+            "objective_text": "Name a time to say sorry.",
+            "objective_uuid": "d09e8daf-3c89-4154-aa7a-daffb5afc8ee"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.7",
+            "objective_text": "Identify that we can love someone but not like their behavior.",
+            "objective_uuid": "257a8cc9-9a20-4fd3-8247-bca886fdea20"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.3",
+            "objective_text": "Recall that Jesus forgives us.",
+            "objective_uuid": "4dc676e4-ae74-4011-8c74-f3fbe4d47444"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.2",
+            "objective_text": "Say 'I forgive you'.",
+            "objective_uuid": "1dad1ad7-fc2b-4f3f-ae3a-ffe9d568930a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.5",
+            "objective_text": "Summarize why families fight (sin).",
+            "objective_uuid": "b0970e7c-5c09-4c77-936d-65f2f67c37a5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.6",
+            "objective_text": "Explain how to ask for forgiveness.",
+            "objective_uuid": "5d7dcff2-65d2-42d1-99b0-3e745caf9c1f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.12",
+            "objective_text": "Explain how to love a difficult family member.",
+            "objective_uuid": "aad72795-01ae-4b76-8499-8a129cd890da"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.15",
+            "objective_text": "Defend the priority of one's own future family unit (Leave and Cleave).",
+            "objective_uuid": "da5b3be6-6150-4e5c-bb38-585044aae129"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.8",
+            "objective_text": "Compare holding a grudge with letting go.",
+            "objective_uuid": "aa7afc65-c6c2-4938-a53b-909d40730398"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.9",
+            "objective_text": "Analyze the impact of generational sin patterns.",
+            "objective_uuid": "8553adb2-485a-4bc2-aa83-2e5598d6768b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.10",
+            "objective_text": "Interpret the role of boundaries in maintaining relationships.",
+            "objective_uuid": "4fd781ec-a6e1-4680-b2cf-7c8c5a932aec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.11",
+            "objective_text": "Connect grace to truth.",
+            "objective_uuid": "607705d9-09f8-4946-89dc-ce0dd931d255"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.14",
+            "objective_text": "Evaluate the possibility of reconciliation vs. estrangement.",
+            "objective_uuid": "b21349c0-e4e7-40e3-b183-4a88c613eb57"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.13",
+            "objective_text": "Construct a theology of forgiveness in complex scenarios.",
+            "objective_uuid": "539b0a4d-ec3a-433d-b02f-4d29e2c99cd2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.3",
+            "topic_name": "The Covenant of Family",
+            "sub_topic_id": "PER.5.3.5",
+            "sub_topic_name": "Navigating Brokenness with Grace and Boundaries",
+            "objective_id": "PER.5.3.5.16",
+            "objective_text": "Synthesize patience with self-protection.",
+            "objective_uuid": "d8132110-f223-4dea-afe9-80ece26f7d11"
+          }
+        ]
+      }
+    }
+  }
+}

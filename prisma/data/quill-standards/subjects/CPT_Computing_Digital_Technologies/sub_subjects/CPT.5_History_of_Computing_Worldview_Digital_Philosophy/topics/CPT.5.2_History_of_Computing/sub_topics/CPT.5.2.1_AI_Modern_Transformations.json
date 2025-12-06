@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.2.1",
+    "name": "AI & Modern Transformations",
+    "topic_id": "CPT.5.2",
+    "topic_name": "History of Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for AI & Modern Transformations in History of Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.1",
+            "objective_text": "Identify smart speakers.",
+            "objective_uuid": "16a3c29a-7a89-4707-a841-bf347f6c4a88"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.2",
+            "objective_text": "Name a robot helper.",
+            "objective_uuid": "e2afdc50-48a4-438e-9079-508c219cf1b5"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.7",
+            "objective_text": "Identify self-driving cars.",
+            "objective_uuid": "f18a289d-e8e3-4527-9673-6582deb43ab9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.3",
+            "objective_text": "Recall that computers are learning.",
+            "objective_uuid": "20543e7e-15b7-40b9-966e-856ba2a9620b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.4",
+            "objective_text": "Observe AI art.",
+            "objective_uuid": "43b741d5-5173-4364-936f-6f5989b45366"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.5",
+            "objective_text": "Summarize the history of chess computers (Deep Blue).",
+            "objective_uuid": "661834c1-7898-4363-905e-8640e2df5f4e"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.6",
+            "objective_text": "Explain ChatGPT (talking computer).",
+            "objective_uuid": "40f565ab-e8e0-4194-a11c-c01c49ed6aba"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.12",
+            "objective_text": "Explain the Turing Test today.",
+            "objective_uuid": "b0b1e855-5924-4515-9625-961634fe2b1d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.15",
+            "objective_text": "Defend human uniqueness in the age of AI.",
+            "objective_uuid": "09a1ec86-d1cd-4a85-be42-dc6e8eba681f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.8",
+            "objective_text": "Compare old robots (dumb) with new AI (smart).",
+            "objective_uuid": "ab5a368d-880d-4d22-9cc5-8183839e4906"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.9",
+            "objective_text": "Analyze the 'AI Winter' periods.",
+            "objective_uuid": "4305c884-1d29-4900-89ea-b070e1529f21"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.10",
+            "objective_text": "Interpret the explosion of Generative AI.",
+            "objective_uuid": "53df3b1a-43c5-4d92-a97a-eb23aa57b027"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.11",
+            "objective_text": "Connect GPU power to AI growth.",
+            "objective_uuid": "fe714eb9-6422-45e5-b3dd-38d0b24d7072"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.14",
+            "objective_text": "Evaluate the societal disruption of AI.",
+            "objective_uuid": "b30d8e55-3d65-4086-becc-e7aa2bc7146d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.13",
+            "objective_text": "Construct a timeline of machine learning milestones.",
+            "objective_uuid": "93d238c0-96cc-41b0-a1ef-aa9b4ff92502"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.1",
+            "sub_topic_name": "AI & Modern Transformations",
+            "objective_id": "CPT.5.2.1.16",
+            "objective_text": "Synthesize technological singularity theories.",
+            "objective_uuid": "b3f6f863-6ba7-4e9e-8153-60979172150c"
+          }
+        ]
+      }
+    }
+  }
+}

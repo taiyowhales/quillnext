@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.3.3",
+    "name": "Ethics of Image Manipulation",
+    "topic_id": "ART.2.3",
+    "topic_name": "Photography (Artistic & Technical)",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ethics of Image Manipulation in Photography (Artistic & Technical) (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.1",
+            "objective_text": "Identify that some pictures are tricks.",
+            "objective_uuid": "f2f94481-7c13-4b7b-ae9a-a5ee6f3c09b7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.4",
+            "objective_text": "Name 'Photoshop' as a tool.",
+            "objective_uuid": "c3a963ce-969d-49a9-b089-2a74dcac2898"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.8",
+            "objective_text": "Identify deepfakes (video tricks).",
+            "objective_uuid": "1c963744-595c-4117-a234-5f6abf8e6470"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.2",
+            "objective_text": "Recall that we should tell the truth.",
+            "objective_uuid": "f2b4d3bb-4ef0-47ef-b596-2ef5035b3a08"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.3",
+            "objective_text": "Observe a cartoon mixed with a real photo.",
+            "objective_uuid": "d521a29a-247b-4aec-b616-9e8a8d5c5559"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.5",
+            "objective_text": "Summarize why changing a news photo is bad.",
+            "objective_uuid": "24b03a58-4a27-44c8-813d-1dd0aaea50b8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.6",
+            "objective_text": "Explain that magazine covers are often changed.",
+            "objective_uuid": "d48b6231-8301-4806-aa75-255fa67b4386"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.12",
+            "objective_text": "Explain digital watermarking.",
+            "objective_uuid": "7408bdce-4a50-4ebf-8e4a-cdbdb8199acf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.15",
+            "objective_text": "Defend truth in photojournalism.",
+            "objective_uuid": "300f7fb6-308e-4016-9373-631107e66070"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.7",
+            "objective_text": "Compare a filtered face with a real face.",
+            "objective_uuid": "f5130d04-98f2-467a-9999-d7cfc558dfae"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.9",
+            "objective_text": "Analyze the impact of airbrushing on self-esteem.",
+            "objective_uuid": "485f79a4-6788-405b-a38e-76f19884c508"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.10",
+            "objective_text": "Interpret the journalistic code of ethics.",
+            "objective_uuid": "93d0ac87-47dc-4286-ae04-90d862b7dae0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.11",
+            "objective_text": "Connect AI generation to copyright issues.",
+            "objective_uuid": "c88abf04-a9b0-4cab-b386-3b535c06702e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.14",
+            "objective_text": "Evaluate the theological implications of 'bearing false witness' visually.",
+            "objective_uuid": "fb7c9c86-684a-44b9-9085-e5b1d050e818"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.13",
+            "objective_text": "Construct a policy for ethical image use.",
+            "objective_uuid": "4d716f05-4d77-431f-84a2-493af545d1f3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.3",
+            "sub_topic_name": "Ethics of Image Manipulation",
+            "objective_id": "ART.2.3.3.16",
+            "objective_text": "Synthesize artistic license with moral responsibility.",
+            "objective_uuid": "b85f05df-6a9d-46b0-8740-adce0b855c39"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.5.5",
+    "name": "Swarm Robotics",
+    "topic_id": "CPT.7.5",
+    "topic_name": "Modern Robotics & Autonomous Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Swarm Robotics in Modern Robotics & Autonomous Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.1",
+            "objective_text": "Identify a group of ants.",
+            "objective_uuid": "557f15c9-af03-4da5-ae6e-072837e877c5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.2",
+            "objective_text": "Recall that many small things can do big work.",
+            "objective_uuid": "b6ba1955-044a-4321-a827-04a57fa3b373"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.3",
+            "objective_text": "Name a swarm of drones.",
+            "objective_uuid": "886cb3ab-eb8a-42ee-bb10-3173a10b4350"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.4",
+            "objective_text": "Observe birds flying together.",
+            "objective_uuid": "9f81b329-6a1c-46e9-bbeb-aa31f2cd5b14"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.7",
+            "objective_text": "Identify simple rules (don't bump, stay close).",
+            "objective_uuid": "d47295ca-e9df-4fa2-a36a-e0f3f5d5b6a4"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.5",
+            "objective_text": "Summarize many robots talking to each other.",
+            "objective_uuid": "2e4f7a59-87b4-4ecf-bb60-5a45dba3c713"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.6",
+            "objective_text": "Explain that there is no single leader.",
+            "objective_uuid": "f8b4e88b-4eaa-44da-be3c-a7e9e5e8ced6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.12",
+            "objective_text": "Explain decentralized control.",
+            "objective_uuid": "0410f78a-1306-4dc7-9d63-72a4f07e29ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.15",
+            "objective_text": "Defend the efficiency of swarm intelligence.",
+            "objective_uuid": "ec53c17d-877b-43de-867d-d70c6da928b8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.8",
+            "objective_text": "Compare a bee hive with a robot swarm.",
+            "objective_uuid": "345a3938-6a5b-4d97-a749-bf97c1ca5cd6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.9",
+            "objective_text": "Analyze emergent behavior.",
+            "objective_uuid": "b13a6462-d734-402b-ac8c-bfeefcdb54f2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.10",
+            "objective_text": "Interpret the robustness of swarms (one breaks, others continue).",
+            "objective_uuid": "a86f8240-0fe2-46bf-b5fd-f7f9bed5d672"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.14",
+            "objective_text": "Evaluate applications in search and rescue.",
+            "objective_uuid": "2e69f10b-f9e3-4d94-a0c5-c0655a9e712d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.67,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.13",
+            "objective_text": "Construct a simulation of swarm behavior.",
+            "objective_uuid": "317a1e6b-4048-4955-abe2-9541f999b223"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.16",
+            "objective_text": "Synthesize complexity theory with robotics.",
+            "objective_uuid": "b66c013d-b648-4658-a8d2-6a6eb0e0ded7"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.5",
+            "sub_topic_name": "Swarm Robotics",
+            "objective_id": "CPT.7.5.5.11",
+            "objective_text": "Connect biomimicry to swarm algorithms.",
+            "objective_uuid": "f8424103-2876-4ab4-97cf-d2764c63324f"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.4.4",
+    "name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+    "topic_id": "MAT.8.4",
+    "topic_name": "Properties of Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Prime and Composite Numbers (Sieve of Eratosthenes) in Properties of Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.1",
+            "objective_text": "Identify that some numbers can only be made one way.",
+            "objective_uuid": "9600958d-88a6-40e1-acbe-ff7790fdbca7"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.8",
+            "objective_text": "Identify 1 as neither prime nor composite.",
+            "objective_uuid": "1f1d2110-162f-425b-8528-f12431fb00ed"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.3",
+            "objective_text": "Recall that 2, 3, 5 are special.",
+            "objective_uuid": "aedf4307-9b93-42b4-bc9a-8bbc4552d70c"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.4",
+            "objective_text": "Observe factors using blocks.",
+            "objective_uuid": "3a10fede-b7f9-4f55-8787-c2b393174fac"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.2",
+            "objective_text": "Group items to see if they can make a rectangle.",
+            "objective_uuid": "3e187d4f-e929-46c8-9e31-a99b37e31a22"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.5",
+            "objective_text": "Summarize the definition of a Prime (only 1 and itself).",
+            "objective_uuid": "f68b46ba-87bc-4376-8868-72f083f5a028"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.6",
+            "objective_text": "Explain Composite numbers (have many factors).",
+            "objective_uuid": "4bdc9824-964e-446c-84f8-8f3a8e1115d7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.7",
+            "objective_text": "Use the Sieve of Eratosthenes to find primes to 100.",
+            "objective_uuid": "b23d9a63-169e-498a-844a-c6cf228089fa"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.12",
+            "objective_text": "Explain why 2 is the only even prime.",
+            "objective_uuid": "3f477450-e379-48a8-be5b-3800a30d1cd8"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.15",
+            "objective_text": "Defend the importance of large primes in cryptography.",
+            "objective_uuid": "29f1b949-d2c3-4735-a87d-117f202d850c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.9",
+            "objective_text": "Analyze the density of primes.",
+            "objective_uuid": "8657d224-7f7a-46a8-ba68-aa36e7815bb7"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.10",
+            "objective_text": "Interpret the Twin Prime conjecture (intro).",
+            "objective_uuid": "55ae61da-d927-4fd1-aa71-4af73ebee069"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.11",
+            "objective_text": "Connect primes to building blocks of numbers.",
+            "objective_uuid": "e93a624c-d4b3-444f-83c8-d77c78935e2b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.14",
+            "objective_text": "Evaluate the Mersenne Primes.",
+            "objective_uuid": "bfe54811-ad3d-403f-9de3-39a31f7cccea"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.13",
+            "objective_text": "Construct a proof that there are infinitely many primes (Euclid).",
+            "objective_uuid": "683650f9-b2ee-4ab3-b048-5f7c026fe981"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.4",
+            "sub_topic_name": "Prime and Composite Numbers (Sieve of Eratosthenes)",
+            "objective_id": "MAT.8.4.4.16",
+            "objective_text": "Synthesize number theory with computing power.",
+            "objective_uuid": "9718f755-5bb1-43a2-8ee4-65014439e0a5"
+          }
+        ]
+      }
+    }
+  }
+}

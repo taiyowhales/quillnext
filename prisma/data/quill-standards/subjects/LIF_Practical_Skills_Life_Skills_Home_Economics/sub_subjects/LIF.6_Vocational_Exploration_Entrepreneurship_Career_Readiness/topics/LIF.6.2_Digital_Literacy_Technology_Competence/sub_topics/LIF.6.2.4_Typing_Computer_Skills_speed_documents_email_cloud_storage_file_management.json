@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.6.2.4",
+    "name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+    "topic_id": "LIF.6.2",
+    "topic_name": "Digital Literacy & Technology Competence",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.6",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Typing & Computer Skills (speed, documents, email, cloud storage, file management) in Digital Literacy & Technology Competence (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.1",
+            "objective_text": "Identify the keyboard and mouse.",
+            "objective_uuid": "37d39476-2702-44eb-93f6-395c72af6ef0"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.8",
+            "objective_text": "Identify the 'Save' icon.",
+            "objective_uuid": "faa23bd3-e481-4d35-ba79-01e6e940f8f3"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.3",
+            "objective_text": "Recall how to open a program.",
+            "objective_uuid": "53b5013d-df16-45e1-ab40-9f287c161606"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.2",
+            "objective_text": "Type my name.",
+            "objective_uuid": "e19b39f6-defa-4c82-9e4b-944a66665c30"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.4",
+            "objective_text": "Save a file.",
+            "objective_uuid": "486c7c50-5a5a-4f29-a600-32b00d281910"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.5",
+            "objective_text": "Summarize 'Home Row' typing.",
+            "objective_uuid": "5f8af93d-859d-420c-8c66-27f63301a2b3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.6",
+            "objective_text": "Explain how to organize folders.",
+            "objective_uuid": "4ccc190b-3f49-498e-a5cd-f177ee0aeca1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.7",
+            "objective_text": "Write a document in a word processor.",
+            "objective_uuid": "ae102b3f-547c-48a2-b6b3-91dd7f479de8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.12",
+            "objective_text": "Explain keyboard shortcuts (Ctrl+C, Ctrl+V).",
+            "objective_uuid": "2a3e0a94-6860-4387-a514-4727748cbdee"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.15",
+            "objective_text": "Defend digital organization habits.",
+            "objective_uuid": "2efc6fec-e366-431d-a75c-0dbe3e30d8ba"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.9",
+            "objective_text": "Analyze touch typing speed (WPM).",
+            "objective_uuid": "af321731-6117-4415-ad61-98768aed127f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.10",
+            "objective_text": "Interpret cloud storage (Google Drive/OneDrive).",
+            "objective_uuid": "a9ef8736-cdbb-4e35-b1cc-0c156de76a82"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.11",
+            "objective_text": "Connect file naming conventions to finding things.",
+            "objective_uuid": "f2966705-7ad1-4b41-9b0f-9210624d0b97"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.14",
+            "objective_text": "Evaluate the efficiency of workflow.",
+            "objective_uuid": "5c7470bd-cc4c-4801-be3b-c0efb7df1833"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.13",
+            "objective_text": "Construct a professional document portfolio.",
+            "objective_uuid": "2b9c7611-686f-4204-ab16-ba1c20b5c954"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.2",
+            "topic_name": "Digital Literacy & Technology Competence",
+            "sub_topic_id": "LIF.6.2.4",
+            "sub_topic_name": "Typing & Computer Skills (speed, documents, email, cloud storage, file management)",
+            "objective_id": "LIF.6.2.4.16",
+            "objective_text": "Synthesize advanced formatting with content creation.",
+            "objective_uuid": "58ab4a54-0057-4e4f-8e3d-5b1f0c22ff54"
+          }
+        ]
+      }
+    }
+  }
+}

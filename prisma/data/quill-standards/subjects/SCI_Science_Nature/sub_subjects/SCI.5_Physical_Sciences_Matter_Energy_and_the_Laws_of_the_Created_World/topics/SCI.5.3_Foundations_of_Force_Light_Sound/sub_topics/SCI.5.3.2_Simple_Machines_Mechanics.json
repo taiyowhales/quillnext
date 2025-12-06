@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.3.2",
+    "name": "Simple Machines & Mechanics",
+    "topic_id": "SCI.5.3",
+    "topic_name": "Foundations of Force, Light & Sound",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Simple Machines & Mechanics in Foundations of Force, Light & Sound (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.1",
+            "objective_text": "Identify a wheel.",
+            "objective_uuid": "4370b73f-1294-4c42-b09c-41abd68e2871"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.2",
+            "objective_text": "Name a ramp (Inclined Plane).",
+            "objective_uuid": "a3bbfd43-db1e-4299-9b9f-e81aeb4d2734"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.8",
+            "objective_text": "Identify a screw (wrapped ramp).",
+            "objective_uuid": "de9c935f-46f5-44c8-aae9-125fdf5b98d7"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.3",
+            "objective_text": "Recall that machines make work easier.",
+            "objective_uuid": "175f1f9b-9a41-493e-98a7-1f536173736b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.4",
+            "objective_text": "Observe a seesaw (Lever).",
+            "objective_uuid": "1f220078-5003-4bba-bd0f-2db0dc78f8c5"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.5",
+            "objective_text": "Summarize the 6 simple machines.",
+            "objective_uuid": "4508eabe-df12-49d5-aff3-312834d004f1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.6",
+            "objective_text": "Explain 'Work' (Force $\\times$ Distance).",
+            "objective_uuid": "e3240f3c-bb0b-4d37-985f-58fc4848cedd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.7",
+            "objective_text": "Use a pulley to lift a weight.",
+            "objective_uuid": "8e9714d4-1e86-4113-9c9d-89f8cf831447"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.12",
+            "objective_text": "Explain efficiency (friction loss).",
+            "objective_uuid": "e7860bc9-e0bc-48f0-9f0b-8b023ad2e9bf"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.9",
+            "objective_text": "Analyze Mechanical Advantage (MA).",
+            "objective_uuid": "527da709-ba77-420a-aea4-4b416ee4a50a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.10",
+            "objective_text": "Interpret the trade-off: Less force means more distance.",
+            "objective_uuid": "8f26ed00-2ef8-4187-a26a-5671c4d5548a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.11",
+            "objective_text": "Connect complex machines to simple ones.",
+            "objective_uuid": "3009bcdf-5011-47e4-8fb2-7502e98a9954"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.15",
+            "objective_text": "Defend the utility of ancient engineering.",
+            "objective_uuid": "47c5cbf9-6a7f-4a49-8e3e-31d84cba9f2d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.13",
+            "objective_text": "Construct a compound machine (Rube Goldberg).",
+            "objective_uuid": "d12e4a57-82d0-436a-b21e-de196f1c8589"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.16",
+            "objective_text": "Synthesize mechanics with design.",
+            "objective_uuid": "5769f17c-de28-443c-9d17-7b8191233a44"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.3",
+            "topic_name": "Foundations of Force, Light & Sound",
+            "sub_topic_id": "SCI.5.3.2",
+            "sub_topic_name": "Simple Machines & Mechanics",
+            "objective_id": "SCI.5.3.2.14",
+            "objective_text": "Evaluate the physics of torque.",
+            "objective_uuid": "1578206a-b374-46ef-b163-b1e59b62b62d"
+          }
+        ]
+      }
+    }
+  }
+}

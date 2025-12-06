@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.3.2",
+    "name": "Network Types (LAN, WAN, PAN, WLAN)",
+    "topic_id": "CPT.2.3",
+    "topic_name": "Networks & The Internet",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Network Types (LAN, WAN, PAN, WLAN) in Networks & The Internet (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.1",
+            "objective_text": "Identify connected computers.",
+            "objective_uuid": "04342c39-eec7-4340-b56b-5f99bbbcb76d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.2",
+            "objective_text": "Name the Wifi.",
+            "objective_uuid": "df3afa87-0688-46ce-9b35-540d29b2bbf6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.3",
+            "objective_text": "Recall sharing a printer.",
+            "objective_uuid": "95baed62-e413-4127-9616-6cc96a9269c9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.4",
+            "objective_text": "Observe Bluetooth headphones.",
+            "objective_uuid": "789a17a4-37f2-4b1e-893b-f86bc34c14ae"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.7",
+            "objective_text": "Identify PAN (Personal - phone to watch).",
+            "objective_uuid": "166123fc-86ff-495b-97a1-f1f107f92dda"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.5",
+            "objective_text": "Summarize LAN (Local Area - house/school).",
+            "objective_uuid": "0db5206d-dbb9-46cf-ba69-0b82a7f31892"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.6",
+            "objective_text": "Explain WAN (Wide Area - internet).",
+            "objective_uuid": "6a6c309a-734a-44e1-a517-b7da2b24b61f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.12",
+            "objective_text": "Explain VPNs (Virtual Private Networks).",
+            "objective_uuid": "7e79f2c5-d4ed-4075-bccb-ef9122aa0de6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.15",
+            "objective_text": "Defend the choice of network type for a scenario.",
+            "objective_uuid": "c4ba7ef1-2f71-49b9-8815-96be42984886"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.8",
+            "objective_text": "Compare wired vs. wireless.",
+            "objective_uuid": "1133ba5b-2c4b-4bc8-9520-1215b6c4cec4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.9",
+            "objective_text": "Analyze the scope of different networks.",
+            "objective_uuid": "37ef0dcf-a278-4159-90fb-174bf8252cbe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.10",
+            "objective_text": "Interpret the hardware needed for a LAN.",
+            "objective_uuid": "cbbb7173-aad4-487d-b3ac-d99579a0f4dc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.11",
+            "objective_text": "Connect the internet as a network of networks.",
+            "objective_uuid": "4070b912-7867-4ec2-856f-6b8f2e8a472d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.14",
+            "objective_text": "Evaluate the security implications of WLAN.",
+            "objective_uuid": "5cddcde0-19d7-41a0-9408-b66f72a8109c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.13",
+            "objective_text": "Construct a network diagram for a business.",
+            "objective_uuid": "a744aca8-9e10-46fd-bc4e-6d545c7c2750"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.3",
+            "topic_name": "Networks & The Internet",
+            "sub_topic_id": "CPT.2.3.2",
+            "sub_topic_name": "Network Types (LAN, WAN, PAN, WLAN)",
+            "objective_id": "CPT.2.3.2.16",
+            "objective_text": "Synthesize network topology with scale.",
+            "objective_uuid": "178b30b9-69c5-43d7-89db-1dd4377d523f"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.3.2",
+    "name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+    "topic_id": "LIF.4.3",
+    "topic_name": "Safety, Preparedness & Emergency Skills",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Basic Outdoor Survival Skills (shelter, water purification, signaling) in Safety, Preparedness & Emergency Skills (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.1",
+            "objective_text": "Identify staying warm and dry.",
+            "objective_uuid": "249c84ef-51e8-4303-863c-bfd541f2dc31"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.2",
+            "objective_text": "Name water as the most important thing.",
+            "objective_uuid": "584194b0-f725-4c12-b36d-72d998bca909"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.8",
+            "objective_text": "Identify safe vs. poisonous plants (basics).",
+            "objective_uuid": "0ea0b622-526d-4d0e-8e40-1b334d7780c0"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.33,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.3",
+            "objective_text": "Recall to blow a whistle if lost.",
+            "objective_uuid": "b44599ca-2d05-423b-a824-17c382ff8de1"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.4",
+            "objective_text": "Observe building a fort.",
+            "objective_uuid": "a7c2a11f-bce8-4a52-a1eb-b300063408d8"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.7",
+            "objective_text": "Build a simple debris shelter.",
+            "objective_uuid": "b1ff4c02-cfb8-408d-af01-93d90bdecffa"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.5",
+            "objective_text": "Summarize the 'Rule of 3s' (air, shelter, water, food).",
+            "objective_uuid": "33b62036-babf-4fb7-849d-0d043b7e4e5b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.6",
+            "objective_text": "Explain why we boil water from a stream.",
+            "objective_uuid": "db6c4a6c-df35-4daa-912d-b4a9c5781392"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.12",
+            "objective_text": "Explain water filtration.",
+            "objective_uuid": "e72bb79e-95e9-47fa-95c6-dbf4c8da5c75"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.15",
+            "objective_text": "Defend the ethics of Leave No Trace in survival situations.",
+            "objective_uuid": "81b20c0f-2099-434a-a37f-e77cfc2f25a9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.9",
+            "objective_text": "Analyze heat loss mechanisms (convection, conduction).",
+            "objective_uuid": "787cd719-960e-4089-9e3b-f0beacd72420"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.10",
+            "objective_text": "Interpret different fire-starting methods.",
+            "objective_uuid": "0f6e7bef-ea62-45bd-bc61-3d877f10a799"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.11",
+            "objective_text": "Connect signaling (mirror/smoke) to rescue.",
+            "objective_uuid": "974c349c-f5c8-4964-a519-a2da7ad56dd1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.14",
+            "objective_text": "Evaluate the psychological aspect of survival (will to live).",
+            "objective_uuid": "eca7c639-4821-4dc1-98f8-7aa03253ff60"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.13",
+            "objective_text": "Construct a survival scenario plan.",
+            "objective_uuid": "0fbaff29-cd19-439b-a546-efb8fdce822d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.3",
+            "topic_name": "Safety, Preparedness & Emergency Skills",
+            "sub_topic_id": "LIF.4.3.2",
+            "sub_topic_name": "Basic Outdoor Survival Skills (shelter, water purification, signaling)",
+            "objective_id": "LIF.4.3.2.16",
+            "objective_text": "Synthesize bushcraft skills with modern gear.",
+            "objective_uuid": "e618bf8b-e066-4f3e-9eae-195777428425"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.6.2.2",
+    "name": "Mathematics and the Rationality of God",
+    "topic_id": "MAT.6.2",
+    "topic_name": "Philosophy of Mathematics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.6",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Mathematics and the Rationality of God in Philosophy of Mathematics (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.1",
+            "objective_text": "Identify God as a God of order.",
+            "objective_uuid": "10bfd66a-63cc-4cf1-a415-a3f39912d077"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.3",
+            "objective_text": "Name math as God's language.",
+            "objective_uuid": "811d7b48-b177-41cd-b8d4-d641315ded40"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.7",
+            "objective_text": "Identify beauty in order.",
+            "objective_uuid": "179e28f0-b306-405e-a8d0-6d5e2bc56c93"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.2",
+            "objective_text": "Recall that God does not make mistakes.",
+            "objective_uuid": "ee2bd766-9637-44f7-a5c2-aa8f52b6f4fc"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.4",
+            "objective_text": "Observe patterns in creation.",
+            "objective_uuid": "3b0a9c7a-a470-485b-b70b-a1683f81c389"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.75,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.12",
+            "objective_text": "Explain Augustine's view of numbers.",
+            "objective_uuid": "4dec876d-04b2-4eb7-a59e-ef33cf2db520"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.5",
+            "objective_text": "Summarize why $2+2$ always equals 4 (God is consistent).",
+            "objective_uuid": "d12c712e-72c2-47dd-8591-da7e2abe264f"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.6",
+            "objective_text": "Explain that chaos is the opposite of God's nature.",
+            "objective_uuid": "237a5b81-9da3-466e-a880-0c3d2dddfb14"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.15",
+            "objective_text": "Defend the intelligibility of the universe as a proof for God.",
+            "objective_uuid": "13cfc937-c282-4b6e-8a86-f65b31f432f6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 20.6,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.8",
+            "objective_text": "Compare magic (rules change) with miracles (God acts).",
+            "objective_uuid": "28a07ba7-6552-4ba2-9235-f5fdc8e3083b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.9",
+            "objective_text": "Analyze the immutability of math as a reflection of God.",
+            "objective_uuid": "3a847c08-dbd9-45d1-9739-481208519ebc"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.10",
+            "objective_text": "Interpret logic as an attribute of the Divine.",
+            "objective_uuid": "b0dbb19b-0ed7-47db-8043-9ede39c43172"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.11",
+            "objective_text": "Connect the laws of nature to the Lawgiver.",
+            "objective_uuid": "651062d8-0771-4dbf-a43e-24e044c41f91"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.14",
+            "objective_text": "Evaluate the 'Euthyphro Dilemma' applied to logic.",
+            "objective_uuid": "759df29d-959e-4869-8dc5-f902d2ea45e9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.13",
+            "objective_text": "Construct a theological deduction of logic.",
+            "objective_uuid": "c56fc864-ae87-467f-ade3-d9c50df119bd"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.6",
+            "sub_subject_name": "History & Philosophy of Mathematics (Theological Context)",
+            "topic_id": "MAT.6.2",
+            "topic_name": "Philosophy of Mathematics",
+            "sub_topic_id": "MAT.6.2.2",
+            "sub_topic_name": "Mathematics and the Rationality of God",
+            "objective_id": "MAT.6.2.2.16",
+            "objective_text": "Synthesize Logos theology (John 1) with mathematics.",
+            "objective_uuid": "2c69fd37-9f04-42c6-83f9-f16f2c35e33c"
+          }
+        ]
+      }
+    }
+  }
+}

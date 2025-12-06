@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.1.4",
+    "name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+    "topic_id": "CPT.4.1",
+    "topic_name": "Cyber Security",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Threats to Systems (Viruses, Trojans, Ransomware) in Cyber Security (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.1",
+            "objective_text": "Identify a sick computer.",
+            "objective_uuid": "993ddece-72c7-4d3e-ba70-09982fb6f989"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.2",
+            "objective_text": "Recall that bad programs hurt the computer.",
+            "objective_uuid": "ffe89cab-9983-4924-900d-4ee258abbea7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.3",
+            "objective_text": "Name a 'Bug'.",
+            "objective_uuid": "643bc503-030a-45e1-aac9-4dad6fae198c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.4",
+            "objective_text": "Observe an error message.",
+            "objective_uuid": "606e0d58-295c-4d16-a0cf-f1cb9c6707af"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.7",
+            "objective_text": "Identify signs of a hack.",
+            "objective_uuid": "7d547b83-9ff0-47d5-8f54-74aa265c16d4"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.5",
+            "objective_text": "Summarize a Virus (spreads) vs. Trojan (hides).",
+            "objective_uuid": "0dab6777-2b1b-413d-bcec-b763ab65e101"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.6",
+            "objective_text": "Explain Ransomware (locking files for money).",
+            "objective_uuid": "91c6731b-1ba2-4cce-a14c-4195c33476b5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.12",
+            "objective_text": "Explain rootkits.",
+            "objective_uuid": "397fd48e-d91d-49b4-a1d1-70f2d6a9163c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.15",
+            "objective_text": "Defend the need for constant vigilance.",
+            "objective_uuid": "86cde267-fa6b-4ba2-90c0-60b2e0a55ff4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.8",
+            "objective_text": "Compare computer virus with human virus.",
+            "objective_uuid": "9e12cc03-fbe3-45fc-b124-a7c7a40ef360"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.9",
+            "objective_text": "Analyze how worms spread without human help.",
+            "objective_uuid": "0c33aeaf-96ae-4e70-8b1c-01c88806f7d1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.10",
+            "objective_text": "Interpret the payload of a virus.",
+            "objective_uuid": "d46591cf-4924-4048-acba-c38b7888cdf4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.11",
+            "objective_text": "Connect spyware to data theft.",
+            "objective_uuid": "edb8ca20-3648-4fb1-a776-7f5609102aa6"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.14",
+            "objective_text": "Evaluate the economic impact of cybercrime.",
+            "objective_uuid": "53b73a52-1b68-44f9-8710-4dba704310b6"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.13",
+            "objective_text": "Construct a threat landscape analysis.",
+            "objective_uuid": "8583f9d3-e451-4d95-9ce7-62ad570b4083"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.4",
+            "sub_topic_name": "Threats to Systems (Viruses, Trojans, Ransomware)",
+            "objective_id": "CPT.4.1.4.16",
+            "objective_text": "Synthesize malware analysis concepts.",
+            "objective_uuid": "96f9c63d-8bab-4b7a-857d-0a5694c2eb07"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.3.5",
+    "name": "Search Engine Strategies (keywords, operators)",
+    "topic_id": "CPT.4.3",
+    "topic_name": "Information Literacy",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Search Engine Strategies (keywords, operators) in Information Literacy (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.1",
+            "objective_text": "Identify a search bar.",
+            "objective_uuid": "27f130f2-3928-4890-8687-931ec88ebf3f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.3",
+            "objective_text": "Recall asking the right question.",
+            "objective_uuid": "e7603182-8a98-4204-8a33-4d9969944e97"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.4",
+            "objective_text": "Observe results.",
+            "objective_uuid": "e8053c45-4d90-40a1-ac7a-37ce5759fe02"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.8",
+            "objective_text": "Identify sponsored results (ads).",
+            "objective_uuid": "7c4c9df9-b6d5-4bc9-a9cf-2345a04c2656"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.2",
+            "objective_text": "Speak a question to a device.",
+            "objective_uuid": "c5a4c371-26f3-4e9c-af00-4e338edf1f8a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.5",
+            "objective_text": "Summarize choosing good keywords.",
+            "objective_uuid": "87febbed-2e63-4140-9576-24180c88439b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.6",
+            "objective_text": "Explain using quotes for exact phrases.",
+            "objective_uuid": "046ceb37-6401-458a-b7fc-e254336a5cee"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.7",
+            "objective_text": "Filter image searches by color or type.",
+            "objective_uuid": "be5557b0-43fb-4c89-8954-d669845740df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.12",
+            "objective_text": "Explain how search engines crawl the web.",
+            "objective_uuid": "f831bf58-015c-49f8-82b2-e1b9acfee6c1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.15",
+            "objective_text": "Defend the need for diverse information sources.",
+            "objective_uuid": "8e0db6da-2858-454f-9ef2-09e547d76cd8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.9",
+            "objective_text": "Analyze boolean operators (AND, OR, NOT).",
+            "objective_uuid": "a85fce1f-10db-4c33-afdf-79af728f492a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.10",
+            "objective_text": "Interpret search modifiers (filetype:pdf, site:edu).",
+            "objective_uuid": "ccae29c9-8e9b-47ab-8925-8f767cb89020"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.11",
+            "objective_text": "Connect search ranking to SEO.",
+            "objective_uuid": "0b7f85b5-d186-493f-b33b-b4209a7017ee"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.14",
+            "objective_text": "Evaluate the 'filter bubble' effect.",
+            "objective_uuid": "0cf21f1f-4a46-47ee-80eb-9db2a43bc48f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.13",
+            "objective_text": "Construct complex search queries for research.",
+            "objective_uuid": "dfe83b07-dd56-460f-a01d-58d6dd78a65c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.5",
+            "sub_topic_name": "Search Engine Strategies (keywords, operators)",
+            "objective_id": "CPT.4.3.5.16",
+            "objective_text": "Synthesize advanced search techniques.",
+            "objective_uuid": "502d6de4-42cf-4602-99a0-ef27e7aebe23"
+          }
+        ]
+      }
+    }
+  }
+}

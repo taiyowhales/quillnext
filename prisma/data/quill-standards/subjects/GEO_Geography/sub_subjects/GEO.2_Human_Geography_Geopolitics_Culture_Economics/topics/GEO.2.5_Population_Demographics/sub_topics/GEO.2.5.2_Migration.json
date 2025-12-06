@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "GEO.2.5.2",
+    "name": "Migration",
+    "topic_id": "GEO.2.5",
+    "topic_name": "Population & Demographics",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.2",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Migration in Population & Demographics (Geography)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.1",
+            "objective_text": "Identify moving to a new house.",
+            "objective_uuid": "010b3b96-8c64-4ef0-8459-9aee7ccebc7a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.2",
+            "objective_text": "Name a person who moved from another country.",
+            "objective_uuid": "7213e50e-4cc5-4d30-be91-4f21d4742688"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.8",
+            "objective_text": "Identify the difference between an Immigrant and an Emigrant.",
+            "objective_uuid": "f9778b20-5b2d-4bdf-b2e9-8d777b8eecaa"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.3",
+            "objective_text": "Recall that people move for jobs or safety.",
+            "objective_uuid": "6b11605e-5387-4618-9ea4-b7ee395213f3"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.4",
+            "objective_text": "Observe that moving is hard work.",
+            "objective_uuid": "57b494c2-6ff2-44e0-a6d9-1174bc2ca46d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.5",
+            "objective_text": "Summarize 'Push Factors' (bad things) and 'Pull Factors' (good things).",
+            "objective_uuid": "21bd2b58-2cb4-4d89-bfb2-bcc7a03b7f52"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.6",
+            "objective_text": "Explain what a Refugee is.",
+            "objective_uuid": "133c910c-530f-4593-9630-ca54a28a2c9c"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.12",
+            "objective_text": "Explain 'Brain Drain' (smart people leaving).",
+            "objective_uuid": "d566d140-4cd0-4938-be7d-30612723fca1"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.15",
+            "objective_text": "Defend the biblical command to care for the sojourner.",
+            "objective_uuid": "06483aa5-869f-43f3-9f9e-45ad38a24a95"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.7",
+            "objective_text": "Compare voluntary moving with forced moving.",
+            "objective_uuid": "1ec2b395-08a8-4a77-b8d0-a121fe797027"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.9",
+            "objective_text": "Analyze the Great Migration in the US.",
+            "objective_uuid": "5fe9a5ea-2cbf-4ad2-9945-6a7aecf49b03"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.10",
+            "objective_text": "Interpret the flow of remittances (money sent home).",
+            "objective_uuid": "af880057-8d9c-4105-94d6-1b5b903684e9"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.11",
+            "objective_text": "Connect war and famine to migration crises.",
+            "objective_uuid": "2f2deed0-d2a7-4a68-b39c-cd2da91db7e6"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.14",
+            "objective_text": "Evaluate the ethics of border control vs. humanitarian aid.",
+            "objective_uuid": "f39ac2f3-ce69-4d92-aa84-dae55e1a41fe"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.13",
+            "objective_text": "Construct a map of current global migration flows.",
+            "objective_uuid": "9e5353c4-9822-4386-b19a-b2cdab012182"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.5",
+            "topic_name": "Population & Demographics",
+            "sub_topic_id": "GEO.2.5.2",
+            "sub_topic_name": "Migration",
+            "objective_id": "GEO.2.5.2.16",
+            "objective_text": "Synthesize the economic impact of migration on host countries.",
+            "objective_uuid": "df07d513-bee4-4eb6-8039-dd3c235f3d42"
+          }
+        ]
+      }
+    }
+  }
+}

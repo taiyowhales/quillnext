@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.2.5",
+    "name": "User Testing & Feedback",
+    "topic_id": "CPT.3.2",
+    "topic_name": "Interaction Design & Accessibility",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for User Testing & Feedback in Interaction Design & Accessibility (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.3",
+            "objective_text": "Recall fixing things that were too hard.",
+            "objective_uuid": "934bd125-fbc2-4d34-8734-a8d70a6ccdab"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.4",
+            "objective_text": "Observe where they get stuck.",
+            "objective_uuid": "8655bd31-837b-475f-a885-b7874041aa51"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.8",
+            "objective_text": "Identify bugs found by others.",
+            "objective_uuid": "3013caa6-b220-4442-ba93-e5d87cf5913d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.1",
+            "objective_text": "Watch a friend play my game.",
+            "objective_uuid": "226752ec-bdcc-4d64-962b-a7f4a25c4c22"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.2",
+            "objective_text": "Ask 'Was it fun?'.",
+            "objective_uuid": "41a5d888-6a1e-4c57-8bea-5f74dc98bccb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.5",
+            "objective_text": "Summarize 'Playtesting'.",
+            "objective_uuid": "64665012-8ec1-47eb-9bac-165d22c21612"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.6",
+            "objective_text": "Explain why we don't tell them how to play (let them try).",
+            "objective_uuid": "40794290-7806-4f9b-8796-18da62ed4050"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.7",
+            "objective_text": "Record feedback.",
+            "objective_uuid": "f1d8e6c9-a728-4d3e-9e02-ad3d5fc28cb3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.12",
+            "objective_text": "Explain confirmation bias.",
+            "objective_uuid": "bf5ecf19-dccd-4164-8520-ce8d3a84ee08"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.15",
+            "objective_text": "Defend design changes based on evidence.",
+            "objective_uuid": "b27d2710-96cf-4be0-8c51-e465a86456b0"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.10",
+            "objective_text": "Interpret qualitative (words) vs. quantitative (numbers) feedback.",
+            "objective_uuid": "1edf78a3-ed97-480b-bab6-1996cc1d9045"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.9",
+            "objective_text": "Analyze A/B testing (trying two versions).",
+            "objective_uuid": "8fa9dbfd-063f-4f8f-aef8-f1a8710715fd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.11",
+            "objective_text": "Connect iteration to user data.",
+            "objective_uuid": "1a5a911a-35e4-4e03-971a-49a0a07f8fce"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.14",
+            "objective_text": "Evaluate user journey maps.",
+            "objective_uuid": "dd11aede-7386-4621-acd8-976002d2f974"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.13",
+            "objective_text": "Construct a formal usability study protocol.",
+            "objective_uuid": "ffcb2e25-3b6b-4c8a-8f29-162ff9b96433"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.5",
+            "sub_topic_name": "User Testing & Feedback",
+            "objective_id": "CPT.3.2.5.16",
+            "objective_text": "Synthesize feedback loops.",
+            "objective_uuid": "8d338128-38f1-48a8-a52f-e481c44f5235"
+          }
+        ]
+      }
+    }
+  }
+}

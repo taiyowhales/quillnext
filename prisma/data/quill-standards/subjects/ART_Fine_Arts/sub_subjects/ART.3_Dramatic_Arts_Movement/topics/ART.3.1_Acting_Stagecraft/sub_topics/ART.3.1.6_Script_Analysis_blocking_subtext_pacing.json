@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.3.1.6",
+    "name": "Script Analysis (blocking, subtext, pacing)",
+    "topic_id": "ART.3.1",
+    "topic_name": "Acting & Stagecraft",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.3",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Script Analysis (blocking, subtext, pacing) in Acting & Stagecraft (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.1",
+            "objective_text": "Identify the beginning, middle, and end of a play.",
+            "objective_uuid": "0d364285-52b9-4e60-9440-92eaff6ea3d7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.2",
+            "objective_text": "Name the characters in the script.",
+            "objective_uuid": "91006b4f-5127-4c8c-82ac-f5ba0ddaf9b6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.7",
+            "objective_text": "Identify the climax of the story.",
+            "objective_uuid": "0b6febd7-4e9e-44a2-9a0c-4c96beb90a21"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.3",
+            "objective_text": "Recall where the scene takes place.",
+            "objective_uuid": "c763a7ee-ceeb-4a88-adc2-6e824f4ffc0b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.4",
+            "objective_text": "Observe stage directions (enter, exit).",
+            "objective_uuid": "f5afeda7-3c93-4b8e-9d26-903099b0fc07"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.5",
+            "objective_text": "Summarize the plot of a scene.",
+            "objective_uuid": "915c4081-be4e-4b94-b72f-220fced66fe9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.6",
+            "objective_text": "Explain 'Blocking' (where actors move).",
+            "objective_uuid": "fa61250e-db42-4aa9-857b-565e3bd6d066"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.8",
+            "objective_text": "Mark the script for pauses.",
+            "objective_uuid": "1cad5a3a-b7d0-43d9-9f88-f47cf86178ca"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.12",
+            "objective_text": "Explain pacing and tempo.",
+            "objective_uuid": "18c14dd1-bdb2-458f-9191-e57e343eed75"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.15",
+            "objective_text": "Defend an interpretive choice based on textual evidence.",
+            "objective_uuid": "4f2c6e6f-8dba-43c9-8755-48cd3c163928"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.9",
+            "objective_text": "Analyze the script into 'Beats' (shifts in action).",
+            "objective_uuid": "f037ba0a-25c0-4951-abc3-d5301e2e9327"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.10",
+            "objective_text": "Interpret Subtext (what is meant vs. what is said).",
+            "objective_uuid": "20145e99-9dda-4aa7-a042-28a5c901d68d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.11",
+            "objective_text": "Connect given circumstances to performance choices.",
+            "objective_uuid": "723f2f1b-1037-4177-b300-95861f9494b7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.14",
+            "objective_text": "Evaluate the structural integrity of a play.",
+            "objective_uuid": "3ed11620-f842-4d7e-960a-c02f142df8fe"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.13",
+            "objective_text": "Construct a director's prompt book with detailed analysis.",
+            "objective_uuid": "6a3a1771-5a62-45e2-bc42-c2c7151ce6eb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.1",
+            "topic_name": "Acting & Stagecraft",
+            "sub_topic_id": "ART.3.1.6",
+            "sub_topic_name": "Script Analysis (blocking, subtext, pacing)",
+            "objective_id": "ART.3.1.6.16",
+            "objective_text": "Synthesize historical context with script analysis.",
+            "objective_uuid": "10b1589c-8099-4b1c-a683-445ab4eaa91a"
+          }
+        ]
+      }
+    }
+  }
+}

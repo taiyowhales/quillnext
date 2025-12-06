@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.11.3.3",
+    "name": "Story Structure (Arc, Pacing, Resolution)",
+    "topic_id": "ELA.11.3",
+    "topic_name": "Narrative Writing",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.11",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Story Structure (Arc, Pacing, Resolution) in Narrative Writing (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.1",
+            "objective_text": "Identify beginning, middle, and end.",
+            "objective_uuid": "41099b95-e071-4836-a5b2-a85aea57c346"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.2",
+            "objective_text": "Name the problem.",
+            "objective_uuid": "ce8b3526-9f0f-40a8-b832-c3d3843407c3"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.7",
+            "objective_text": "Identify Rising Action and Falling Action.",
+            "objective_uuid": "33735974-646f-4314-a73b-da813c5f0746"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.3",
+            "objective_text": "Recall the solution.",
+            "objective_uuid": "320f962a-3156-4177-8851-792b323b5b1f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.4",
+            "objective_text": "Observe a story mountain.",
+            "objective_uuid": "0cacd17a-b69b-495c-a670-57b41941ac4c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.5",
+            "objective_text": "Summarize the Plot.",
+            "objective_uuid": "580f5040-3747-40c3-a580-29681d037fe7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.6",
+            "objective_text": "Explain the Climax (most exciting part).",
+            "objective_uuid": "02e8d493-6b0a-4082-ae10-05b56b7f4a4a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.8",
+            "objective_text": "Write a story with a clear sequence.",
+            "objective_uuid": "38123250-dd55-43ab-bfae-4b863bfb0022"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.12",
+            "objective_text": "Explain foreshadowing.",
+            "objective_uuid": "a3d94d70-754b-4b54-90b4-17edbe84724f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.15",
+            "objective_text": "Defend the necessity of conflict.",
+            "objective_uuid": "fd0dba8e-8c6e-466d-9b49-2270d59a3761"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.9",
+            "objective_text": "Analyze the Inciting Incident.",
+            "objective_uuid": "c046fd90-7448-4727-a9bb-8ce3de1d6398"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.10",
+            "objective_text": "Interpret the Resolution (Denouement).",
+            "objective_uuid": "a7c3323a-3065-46af-a415-d0606d0ce5bf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.11",
+            "objective_text": "Connect pacing to tension.",
+            "objective_uuid": "cddd748d-cff8-4d6b-8afe-763131b9f9e4"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.14",
+            "objective_text": "Evaluate the satisfaction of the ending.",
+            "objective_uuid": "cb24a811-e8be-4e33-943b-8c3d36393c0c"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.13",
+            "objective_text": "Construct a short story adhering to Freytag's Pyramid.",
+            "objective_uuid": "d9e241c4-108d-4d33-89b6-ea3f810bef5c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.3",
+            "topic_name": "Narrative Writing",
+            "sub_topic_id": "ELA.11.3.3",
+            "sub_topic_name": "Story Structure (Arc, Pacing, Resolution)",
+            "objective_id": "ELA.11.3.3.16",
+            "objective_text": "Synthesize structural innovation (non-linear) with coherence.",
+            "objective_uuid": "b1792285-438d-4e2f-ae18-bfe3a072317b"
+          }
+        ]
+      }
+    }
+  }
+}

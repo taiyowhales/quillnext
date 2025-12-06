@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CFL.4.2.3",
+    "name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+    "topic_id": "CFL.4.2",
+    "topic_name": "Foundations of Latin Literacy",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.4",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent) in Foundations of Latin Literacy (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.2",
+            "objective_text": "Identify the 'loud' part of the word.",
+            "objective_uuid": "3fc220fe-c2f7-4075-bab1-60a00d67b8be"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.8",
+            "objective_text": "Identify the Antepenult (third to last).",
+            "objective_uuid": "bbab0cbd-b147-4d67-ba87-2a60bd2ffd0e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.3",
+            "objective_text": "Recall that every syllable has a vowel.",
+            "objective_uuid": "c9ca8ae8-6a82-4ceb-9f8f-f31f14b55595"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.1",
+            "objective_text": "Clap syllables in a word.",
+            "objective_uuid": "60ef2a0a-2c1b-44fe-b0ba-37925dfa2ac2"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.4",
+            "objective_text": "Count syllables.",
+            "objective_uuid": "bc8e07ad-8f2a-437d-b823-fad16180bed0"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.5",
+            "objective_text": "Summarize the Penult (second to last) rule.",
+            "objective_uuid": "671b7a0f-17fc-40c9-ab1b-1ea12cc0498b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.6",
+            "objective_text": "Explain that long vowels pull the accent.",
+            "objective_uuid": "07fe22a1-a268-4299-b1f5-0d5b11a31809"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.7",
+            "objective_text": "Mark the stress on a vocab list.",
+            "objective_uuid": "81f1dca7-82a1-4b00-adea-bd08a709d332"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.12",
+            "objective_text": "Explain elision in poetry.",
+            "objective_uuid": "58a486cb-cbc4-4aba-bb3d-a8d9be90d360"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.15",
+            "objective_text": "Defend the importance of accent for correct pronunciation.",
+            "objective_uuid": "e0bd610a-bb47-4268-a977-8102922e75fc"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.9",
+            "objective_text": "Analyze syllable quantity (long by nature vs. position).",
+            "objective_uuid": "f6961ff4-c3b9-4202-b723-e8531ad86aba"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.10",
+            "objective_text": "Interpret the stress rule for 2-syllable vs. 3-syllable words.",
+            "objective_uuid": "c6e787b8-c134-4144-8482-2977750dc374"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.11",
+            "objective_text": "Connect accent to poetic meter.",
+            "objective_uuid": "d0f5f38f-ad10-474a-81be-e17863629f3e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.14",
+            "objective_text": "Evaluate the shift from pitch accent to stress accent.",
+            "objective_uuid": "af138dc3-ff03-4b52-94b0-db0319c8ffab"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.13",
+            "objective_text": "Construct scansion of Dactylic Hexameter.",
+            "objective_uuid": "53a3130c-27b6-4dbc-a937-2cd8e03a33cd"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.2",
+            "topic_name": "Foundations of Latin Literacy",
+            "sub_topic_id": "CFL.4.2.3",
+            "sub_topic_name": "Syllabication & Accent Rules (stress patterns, quantitative vs qualitative accent)",
+            "objective_id": "CFL.4.2.3.16",
+            "objective_text": "Synthesize prosody with reading fluency.",
+            "objective_uuid": "a04f3aa9-4970-4072-a2fe-e2e75c800419"
+          }
+        ]
+      }
+    }
+  }
+}

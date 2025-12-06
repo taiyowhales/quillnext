@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.2.4",
+    "name": "Evaluation",
+    "topic_id": "GEO.1.2",
+    "topic_name": "Fieldwork Enquiry",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Evaluation in Fieldwork Enquiry (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.5",
+            "objective_text": "Identify mistakes in the counting or measuring.",
+            "objective_uuid": "082ebe83-d17c-41b6-915c-220db4a90b7e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.1",
+            "objective_text": "Say what went well.",
+            "objective_uuid": "37b7c2e6-1b63-4a8a-93d4-6231c0813ed9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.2",
+            "objective_text": "Say what was hard.",
+            "objective_uuid": "e30585e2-f867-4e3e-8e0f-1f812ef1e65f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.3",
+            "objective_text": "Think of a better way to do it next time.",
+            "objective_uuid": "39a07bdc-8377-4753-b91d-6136822af94b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.4",
+            "objective_text": "Decide if the guess was right.",
+            "objective_uuid": "37af9127-2d18-449c-b200-ef853d034963"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.6",
+            "objective_text": "Explain how the weather or time of day changed things.",
+            "objective_uuid": "da19f060-afaf-47b4-964d-e799ea7c11bb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.7",
+            "objective_text": "Suggest one improvement for the method.",
+            "objective_uuid": "e99ce73a-cc85-465f-a023-054db889d6c4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.8",
+            "objective_text": "Discuss if the results are true.",
+            "objective_uuid": "0c025a5e-66b0-48bc-9d56-d2f59a6a1553"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.15",
+            "objective_text": "Defend the significance of the study despite limitations.",
+            "objective_uuid": "0fe8cb42-8626-4d44-8006-f4b245061889"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.9",
+            "objective_text": "Analyze the reliability (repeatability) of the data.",
+            "objective_uuid": "a9b67810-6b97-4bf1-a358-2216930fbdd3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.10",
+            "objective_text": "Interpret the validity (did we measure what we wanted?).",
+            "objective_uuid": "f015c2e6-21e1-4e24-acae-58538e92e9f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.11",
+            "objective_text": "Connect equipment limitations to errors.",
+            "objective_uuid": "7d4e7933-6c62-43ca-854f-4dae21ddf236"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.12",
+            "objective_text": "Critique the sampling strategy.",
+            "objective_uuid": "4f6a91a1-b340-4514-bf62-410792fa0d85"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.14",
+            "objective_text": "Evaluate the impact of bias on the results.",
+            "objective_uuid": "96a78581-6ed2-4e79-b949-d138ebf767e8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.13",
+            "objective_text": "Construct a critical review of the entire methodology.",
+            "objective_uuid": "1bb43a71-6510-4929-9d1b-75e9da143bc2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.4",
+            "sub_topic_name": "Evaluation",
+            "objective_id": "GEO.1.2.4.16",
+            "objective_text": "Synthesize lessons learned for future research.",
+            "objective_uuid": "65457262-4f70-4910-96db-12ea505b0aa7"
+          }
+        ]
+      }
+    }
+  }
+}

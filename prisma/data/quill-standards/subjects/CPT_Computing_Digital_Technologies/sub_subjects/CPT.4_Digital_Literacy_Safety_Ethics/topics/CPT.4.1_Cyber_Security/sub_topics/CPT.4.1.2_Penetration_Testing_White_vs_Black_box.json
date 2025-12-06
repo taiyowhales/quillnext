@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.1.2",
+    "name": "Penetration Testing (White vs Black box)",
+    "topic_id": "CPT.4.1",
+    "topic_name": "Cyber Security",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Penetration Testing (White vs Black box) in Cyber Security (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.1",
+            "objective_text": "Identify checking if a door is locked.",
+            "objective_uuid": "3f35d5d9-cba7-479f-90e9-b2dd249787e4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.2",
+            "objective_text": "Recall testing a fort.",
+            "objective_uuid": "ee37d1cd-d4aa-4dfc-a489-f487be1f80dd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.3",
+            "objective_text": "Name a 'Good guy' hacker.",
+            "objective_uuid": "c4a10397-9292-4921-9fbc-f91ab85a2f68"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.4",
+            "objective_text": "Observe a safety drill.",
+            "objective_uuid": "d2edd9b0-40f4-4c11-8649-9af3bf41fb81"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.7",
+            "objective_text": "Identify a vulnerability (weak spot).",
+            "objective_uuid": "10f55c71-97f8-4eb3-976d-8c713a941cfd"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.5",
+            "objective_text": "Summarize 'Ethical Hacking' (hacking to fix).",
+            "objective_uuid": "2ca74813-b81e-487f-8228-0ad83ced1933"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.6",
+            "objective_text": "Explain White Hat vs. Black Hat.",
+            "objective_uuid": "fc2a0422-69ad-4285-b7de-38dfe779993a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.15",
+            "objective_text": "Defend the necessity of offensive security.",
+            "objective_uuid": "b1cbc38a-c7f2-4cb3-80e0-baa7717b10fc"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.8",
+            "objective_text": "Compare a burglar alarm test with a real burglary.",
+            "objective_uuid": "c29cc980-3326-4ff7-bd2c-aead93d6474e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.9",
+            "objective_text": "Analyze the phases of a pen test (reconnaissance, scanning, exploitation).",
+            "objective_uuid": "dd715d4b-68f2-4fe3-bf33-dd954c788c9c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.10",
+            "objective_text": "Interpret a vulnerability report.",
+            "objective_uuid": "d368d3e7-7262-404a-8191-e4d574ab00af"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.11",
+            "objective_text": "Connect bug bounties to software security.",
+            "objective_uuid": "72e25e96-bebe-413d-8e7f-85e5eb9feed8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.12",
+            "objective_text": "Explain social engineering tests.",
+            "objective_uuid": "ea033a29-1e2e-4d85-a5db-2317baae96c0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.14",
+            "objective_text": "Evaluate the legal implications of unauthorized testing.",
+            "objective_uuid": "501793e6-cd4c-4d61-8f66-af03d03506d9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.13",
+            "objective_text": "Construct a scope of work for a pen test.",
+            "objective_uuid": "bf11ff2d-266d-41d3-817b-12781b0300e9"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.2",
+            "sub_topic_name": "Penetration Testing (White vs Black box)",
+            "objective_id": "CPT.4.1.2.16",
+            "objective_text": "Synthesize Red Team vs. Blue Team exercises.",
+            "objective_uuid": "06e2326b-9149-40f9-b443-656e47a950f9"
+          }
+        ]
+      }
+    }
+  }
+}

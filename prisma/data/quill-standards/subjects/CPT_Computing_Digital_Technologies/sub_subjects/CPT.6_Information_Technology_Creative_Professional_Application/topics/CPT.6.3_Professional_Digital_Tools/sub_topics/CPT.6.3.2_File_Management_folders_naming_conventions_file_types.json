@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.3.2",
+    "name": "File Management (folders, naming conventions, file types)",
+    "topic_id": "CPT.6.3",
+    "topic_name": "Professional Digital Tools",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for File Management (folders, naming conventions, file types) in Professional Digital Tools (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.1",
+            "objective_text": "Identify a folder.",
+            "objective_uuid": "8b671f77-4fb9-47b2-ae8c-66ba1d8fe6d5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.2",
+            "objective_text": "Name a file so I can find it.",
+            "objective_uuid": "95f79fbd-52fd-4067-a985-de73eb3d1360"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.3",
+            "objective_text": "Recall 'Trash'.",
+            "objective_uuid": "ae9207d4-776e-4872-acd9-13b99274a4f6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.4",
+            "objective_text": "Observe icons.",
+            "objective_uuid": "cebf29e1-34b0-4cdd-a886-5be21044bd0b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.8",
+            "objective_text": "Identify downloads folder.",
+            "objective_uuid": "08b9bb74-09b4-4d80-88d3-fe0f7a158bfe"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.5",
+            "objective_text": "Summarize organizing by subject.",
+            "objective_uuid": "468e8cf4-a589-49fe-a59e-77b7d66db177"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.6",
+            "objective_text": "Explain file extensions (.docx, .pdf).",
+            "objective_uuid": "b53d418b-654e-4283-af07-c56711b5e8dc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.7",
+            "objective_text": "Search for a lost file.",
+            "objective_uuid": "027864fb-5028-4f0c-aea1-ed6805cdcd98"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.12",
+            "objective_text": "Explain standard naming conventions (YYYY-MM-DD).",
+            "objective_uuid": "2c9ac70a-8254-4772-9f84-4503652a75c1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.15",
+            "objective_text": "Defend the necessity of backups (3-2-1 rule).",
+            "objective_uuid": "12561f1e-df5b-4c76-86de-776dfe5c0f87"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.9",
+            "objective_text": "Analyze hierarchical directory structures.",
+            "objective_uuid": "ee06ab79-2956-4a7a-be1a-86a806a340cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.10",
+            "objective_text": "Interpret file sizes (KB, MB, GB).",
+            "objective_uuid": "691a8e2b-89a2-4b21-b27c-14cf3f2d014a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.11",
+            "objective_text": "Connect compression (ZIP) to storage.",
+            "objective_uuid": "6df1c9d9-e7bf-4528-a13f-679d93a06af2"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.14",
+            "objective_text": "Evaluate file format obsolescence.",
+            "objective_uuid": "666cd147-e7e6-4aff-9ec6-6af652f545b9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.13",
+            "objective_text": "Construct a digital archiving system.",
+            "objective_uuid": "6b04f515-d0c9-4dde-b44d-b0db6b4ec08c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.2",
+            "sub_topic_name": "File Management (folders, naming conventions, file types)",
+            "objective_id": "CPT.6.3.2.16",
+            "objective_text": "Synthesize data management policies.",
+            "objective_uuid": "b86bd675-b013-4e45-890d-212fd34f2f5b"
+          }
+        ]
+      }
+    }
+  }
+}

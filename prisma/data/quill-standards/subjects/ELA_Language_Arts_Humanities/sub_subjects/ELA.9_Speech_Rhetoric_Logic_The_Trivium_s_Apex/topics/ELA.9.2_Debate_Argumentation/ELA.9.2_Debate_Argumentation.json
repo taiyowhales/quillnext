@@ -1,0 +1,518 @@
+{
+  "topic": {
+    "id": "ELA.9.2",
+    "name": "Debate & Argumentation",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.9",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 32,
+    "description": "13-year academic progression (K-12) for Debate & Argumentation in Language Arts & Humanities",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.4",
+            "objective_text": "Vote on a simple class choice.",
+            "objective_uuid": "f9b96900-b9f9-4710-8766-f784ee99aa12"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.7",
+            "objective_text": "Follow a simple time limit for speaking.",
+            "objective_uuid": "d7d105af-8c12-4953-9e7b-d4557a2f2d8f"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 9,
+        "average_complexity": 6.78,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.3",
+            "objective_text": "Listen to someone else's opinion without interrupting.",
+            "objective_uuid": "8e55dd5d-8773-4508-934c-3c0a6a19feeb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.7",
+            "objective_text": "Listen to an opposing view and restate it.",
+            "objective_uuid": "19e66e76-ce8f-4376-ac49-7b3427bea69f"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.1",
+            "objective_text": "Take turns speaking in a circle.",
+            "objective_uuid": "3f6fa280-ccdb-4330-baba-46b3146efbc8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.2",
+            "objective_text": "Raise hand to speak.",
+            "objective_uuid": "4dae89c1-28ae-4758-bbca-65be89593b82"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.3",
+            "objective_text": "Follow the rules of a class discussion.",
+            "objective_uuid": "30ba1e78-c4d8-4f54-8f13-6489eb4dc4fe"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.5",
+            "objective_text": "Participate in a structured 'Pro vs. Con' list making.",
+            "objective_uuid": "37dea9d7-8781-49bb-9ed0-44ee4ad16545"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.6",
+            "objective_text": "Understand the roles of 'Affirmative' and 'Negative'.",
+            "objective_uuid": "44305f12-b26a-434b-ae26-d9f1a670e97e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.12",
+            "objective_text": "Explain the role of the judge/adjudicator.",
+            "objective_uuid": "5d3502c2-c3e0-47c7-a88f-ec586dfd4f1e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.15",
+            "objective_text": "Defend a position you personally disagree with (intellectual exercise).",
+            "objective_uuid": "25036d4f-1591-4656-bf1a-0a58749dcfa3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.1",
+            "objective_text": "State an opinion using 'I think...'.",
+            "objective_uuid": "d6d9a980-78bb-4b12-b2a9-19252119a2b8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.2",
+            "objective_text": "Give one reason for the opinion using 'because'.",
+            "objective_uuid": "79514a4b-1d87-474a-b20a-adf84367159b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.4",
+            "objective_text": "Disagree politely ('I think differently').",
+            "objective_uuid": "4d680f90-e42c-4ce4-8872-20a74b9ee42d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.5",
+            "objective_text": "Distinguish between a Fact and an Opinion.",
+            "objective_uuid": "96e9d498-8adf-4b71-b424-71015a4fe5ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.6",
+            "objective_text": "Give three reasons to support a claim.",
+            "objective_uuid": "cb29c4f8-a65a-41b8-bfb6-439563253e73"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.8",
+            "objective_text": "Respond to a counter-point with 'Yes, but...'.",
+            "objective_uuid": "0415ac90-3e86-4bce-a0b7-b4b190f830e9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.12",
+            "objective_text": "Explain the difference between constructive and rebuttal speeches.",
+            "objective_uuid": "d7628dab-4bf3-4fd1-bb79-05347ef1692f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.15",
+            "objective_text": "Defend a position using the Toulmin Model (Claim, Data, Warrant).",
+            "objective_uuid": "e24af414-533e-4aee-b40c-c36b8581d922"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.9",
+            "objective_text": "Analyze the structure of a Team Policy debate.",
+            "objective_uuid": "d02d8800-cefd-4002-98de-0e15132dd8d1"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.10",
+            "objective_text": "Interpret the resolution (the topic being debated).",
+            "objective_uuid": "b70b3e48-c300-43b9-b75f-77156582abc2"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.11",
+            "objective_text": "Connect cross-examination questions to setting up an argument.",
+            "objective_uuid": "24040d2a-c58a-43c7-ae07-6b197134a737"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.9",
+            "objective_text": "Analyze the 'Burden of Proof' (who has to prove it?).",
+            "objective_uuid": "4634d489-f2c6-4f9b-9057-e249e0e2d4c5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.10",
+            "objective_text": "Interpret the opponent's argument to find weaknesses.",
+            "objective_uuid": "1ac7d113-172f-4c4c-a213-f1536cc35455"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.11",
+            "objective_text": "Connect evidence (stats, quotes) to the claim.",
+            "objective_uuid": "fc1045ee-29e6-48b5-bf01-3d65fd2c1fdc"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 13.67,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.8",
+            "objective_text": "Judge a debate based on reasons, not popularity.",
+            "objective_uuid": "c2d1a841-c6a6-4899-8c67-58e84ed7c697"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.14",
+            "objective_text": "Evaluate the strategic use of time in a debate round.",
+            "objective_uuid": "ddd9b406-deca-4d3c-b16e-cdb3422b6174"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.14",
+            "objective_text": "Evaluate the validity of the opponent's evidence.",
+            "objective_uuid": "59eaa749-4d27-4665-9e85-b6af5513839e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.13",
+            "objective_text": "Construct a case for Lincoln-Douglas (Value) debate.",
+            "objective_uuid": "77b5c184-787a-4a41-8294-68b0297dccdb"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.1",
+            "sub_topic_name": "Basic Debate Formats",
+            "objective_id": "ELA.9.2.1.16",
+            "objective_text": "Synthesize flow-charting (taking notes) to track arguments.",
+            "objective_uuid": "688beff5-c1d0-4942-8d8b-ecab4fe0b64b"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.13",
+            "objective_text": "Construct a formal case with Contentions and Sub-points.",
+            "objective_uuid": "fce82679-ea34-49d7-96fe-869f97c454fd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.2",
+            "topic_name": "Debate & Argumentation",
+            "sub_topic_id": "ELA.9.2.2",
+            "sub_topic_name": "Constructing and Refuting Arguments",
+            "objective_id": "ELA.9.2.2.16",
+            "objective_text": "Synthesize clash points to summarize the debate.",
+            "objective_uuid": "17cb07c7-65cd-4212-b6eb-8d4fd542c7d9"
+          }
+        ]
+      }
+    }
+  }
+}

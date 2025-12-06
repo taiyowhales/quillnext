@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.4.4",
+    "name": "IoT Security Risks (botnets, insecure devices)",
+    "topic_id": "CPT.7.4",
+    "topic_name": "Internet of Things (IoT) & Connectivity",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for IoT Security Risks (botnets, insecure devices) in Internet of Things (IoT) & Connectivity (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.1",
+            "objective_text": "Identify a digital lock.",
+            "objective_uuid": "1e288ed5-871e-4ba1-9e08-58608ed2aed0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.2",
+            "objective_text": "Recall keeping secrets.",
+            "objective_uuid": "2cb68ac5-ffb3-4007-bd14-21bdb4ba1281"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.3",
+            "objective_text": "Name a bad guy hacker.",
+            "objective_uuid": "b870aa1e-3fb0-4976-a274-4f4b68e9fd50"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.4",
+            "objective_text": "Observe updating a device.",
+            "objective_uuid": "4ebe4c82-382d-41f2-a168-52d68a85a6a7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.7",
+            "objective_text": "Identify a 'Botnet' (zombie toasters).",
+            "objective_uuid": "8b375f4d-0c57-4a30-9cd8-ca49de18141d"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.5",
+            "objective_text": "Summarize why smart things can be hacked.",
+            "objective_uuid": "b1cccb6a-1768-4b2e-8819-f34a0cbc5af8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.6",
+            "objective_text": "Explain default passwords (admin/admin).",
+            "objective_uuid": "5ff90da1-4fab-4883-a191-21c1d2c321eb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.12",
+            "objective_text": "Explain endpoint security.",
+            "objective_uuid": "adc20c24-c3dc-4ca1-8a08-cdf3ed5d4b45"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.15",
+            "objective_text": "Defend the need for industry regulation on IoT security.",
+            "objective_uuid": "d86e1a11-60e9-4edc-91ed-77019c74b3b1"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.8",
+            "objective_text": "Compare a secure device with a cheap one.",
+            "objective_uuid": "f08d609f-4fd2-4db9-9c00-d7c617a85306"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.9",
+            "objective_text": "Analyze the Mirai Botnet attack.",
+            "objective_uuid": "7ac3d937-2577-4b83-91b0-a441d3b722e3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.10",
+            "objective_text": "Interpret firmware updates as security patches.",
+            "objective_uuid": "5e081c79-b5c3-4164-82d2-75a41d142a69"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.11",
+            "objective_text": "Connect network segmentation to IoT safety.",
+            "objective_uuid": "41a006dc-b3ba-4efb-af83-a4cf45c27812"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.14",
+            "objective_text": "Evaluate the risk of unencrypted traffic.",
+            "objective_uuid": "f09fe92f-040d-4d64-8c45-709eadc08a2b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.13",
+            "objective_text": "Construct a security audit for a smart home.",
+            "objective_uuid": "387bc259-ac65-47ee-a950-361c3c246c0a"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.4",
+            "sub_topic_name": "IoT Security Risks (botnets, insecure devices)",
+            "objective_id": "CPT.7.4.4.16",
+            "objective_text": "Synthesize cybersecurity principles with hardware.",
+            "objective_uuid": "9ab17493-0b03-4d9a-aa3c-3f22450e020e"
+          }
+        ]
+      }
+    }
+  }
+}

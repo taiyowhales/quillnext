@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.4.2",
+    "name": "Mental Mapping and Wayfinding",
+    "topic_id": "GEO.3.4",
+    "topic_name": "Navigation & Spatial Thinking",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Mental Mapping and Wayfinding in Navigation & Spatial Thinking (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.2",
+            "objective_text": "Name the way to the park.",
+            "objective_uuid": "1c4f3432-bd9b-486a-bff8-25b1a6c7d9de"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.3",
+            "objective_text": "Recall landmarks like the big tree.",
+            "objective_uuid": "83a7f8da-f0a0-43d6-9091-e5452a7f9c11"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.1",
+            "objective_text": "Draw a map of my bedroom.",
+            "objective_uuid": "cd4ad3e0-d108-4e3d-a39c-04f78f118251"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.4",
+            "objective_text": "Close eyes and picture the route.",
+            "objective_uuid": "4b974432-3713-44ad-bd56-c13744609340"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.5",
+            "objective_text": "Summarize a 'Mental Map' (the map in your head).",
+            "objective_uuid": "0b63cdbe-2048-4749-a4cc-1b7fb5f76da8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.6",
+            "objective_text": "Explain relative location (next to, behind).",
+            "objective_uuid": "2cd8b432-8dd5-42d5-9383-8e566c1b7003"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.7",
+            "objective_text": "Draw a map of the neighborhood from memory.",
+            "objective_uuid": "a56169a6-c528-4de9-9f32-1ee696faa7ff"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.8",
+            "objective_text": "Give directions to a stranger.",
+            "objective_uuid": "29ebcbe7-8d75-4b24-809a-86f876a572d5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.12",
+            "objective_text": "Explain why mental maps are distorted.",
+            "objective_uuid": "2830b099-711b-4323-97c8-1b815d9c0ade"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.15",
+            "objective_text": "Defend the importance of knowing where you are.",
+            "objective_uuid": "7eeb50f0-6a7c-4d71-991a-e74270312cfe"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.9",
+            "objective_text": "Analyze how personal experience shapes mental maps.",
+            "objective_uuid": "3d6ed364-ef9b-4a58-892e-7cf9052c5871"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.10",
+            "objective_text": "Interpret the 'Egocentric' vs. 'Allocentric' frame of reference.",
+            "objective_uuid": "04ccb6b3-9494-41b3-86b6-212103293fc9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.11",
+            "objective_text": "Connect spatial awareness to problem solving.",
+            "objective_uuid": "a76daf43-64f1-4821-b5e7-69e722988c21"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.14",
+            "objective_text": "Evaluate the impact of GPS on spatial memory (atrophy).",
+            "objective_uuid": "d77319f6-04ed-4cb7-80aa-1d2df053e3cc"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.13",
+            "objective_text": "Construct a cognitive map of a city center.",
+            "objective_uuid": "8718c6f7-28af-46e9-988d-a943e5451fc3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.2",
+            "sub_topic_name": "Mental Mapping and Wayfinding",
+            "objective_id": "GEO.3.4.2.16",
+            "objective_text": "Synthesize psychology with geography.",
+            "objective_uuid": "791036a4-805c-4f19-b6b2-7dfee889be12"
+          }
+        ]
+      }
+    }
+  }
+}

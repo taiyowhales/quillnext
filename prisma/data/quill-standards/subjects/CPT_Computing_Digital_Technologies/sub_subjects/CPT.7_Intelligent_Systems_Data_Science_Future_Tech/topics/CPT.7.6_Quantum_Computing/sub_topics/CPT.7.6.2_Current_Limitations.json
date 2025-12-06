@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.6.2",
+    "name": "Current Limitations",
+    "topic_id": "CPT.7.6",
+    "topic_name": "Quantum Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Current Limitations in Quantum Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.1",
+            "objective_text": "Identify that they are very cold.",
+            "objective_uuid": "226a584b-9b99-4b66-9d31-7a0cf666b92f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.3",
+            "objective_text": "Name a big machine.",
+            "objective_uuid": "1729e76b-4adb-45ff-a7bb-eec590dc52a8"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.7",
+            "objective_text": "Identify that they are not for gaming or email.",
+            "objective_uuid": "f1ed3927-dfc4-4499-b0a1-73d738d78de8"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.2",
+            "objective_text": "Recall they make mistakes (Noise).",
+            "objective_uuid": "11f96e00-ea2d-4706-a8ae-1bf2058be274"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.4",
+            "objective_text": "Observe fragility.",
+            "objective_uuid": "b7567f16-6b97-43ea-ade8-7594ebb4f103"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.5",
+            "objective_text": "Summarize 'Noise' (errors).",
+            "objective_uuid": "15eba852-2656-465e-8559-6f384c9bf585"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.6",
+            "objective_text": "Explain why they need to be near absolute zero.",
+            "objective_uuid": "bd17a046-7728-40bd-a03f-861381aef103"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.12",
+            "objective_text": "Explain the NISQ era (Noisy Intermediate-Scale Quantum).",
+            "objective_uuid": "0641d062-5272-4b20-9d34-274088097cc6"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.15",
+            "objective_text": "Defend the continued relevance of classical computing.",
+            "objective_uuid": "57fcb158-6aff-4765-9c83-6cd84740ecfc"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.8",
+            "objective_text": "Compare a stable computer with a quantum one.",
+            "objective_uuid": "de1b272e-8c06-4439-aefe-fec48602e85d"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.9",
+            "objective_text": "Analyze Decoherence (environment ruining the state).",
+            "objective_uuid": "f57618c8-ca7f-45d8-8faa-1b8cff22454d"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.10",
+            "objective_text": "Interpret the need for Error Correction.",
+            "objective_uuid": "0d5d99c9-0c05-484a-a272-d084bd60cce2"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.11",
+            "objective_text": "Connect qubit count to power.",
+            "objective_uuid": "25b9ba3a-71b2-4aa5-960c-7f27d47cb2ae"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 33.0,
+        "objectives": [
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.13",
+            "objective_text": "Construct an analysis of logical vs. physical qubits.",
+            "objective_uuid": "3961e321-dcdc-4347-ad14-4d64dc1be0a2"
+          },
+          {
+            "complexity": 33,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.14",
+            "objective_text": "Evaluate the engineering challenges of scaling.",
+            "objective_uuid": "f6c0c2d6-106d-49a8-8aca-990dee4a089f"
+          },
+          {
+            "complexity": 36,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.2",
+            "sub_topic_name": "Current Limitations",
+            "objective_id": "CPT.7.6.2.16",
+            "objective_text": "Synthesize physics constraints with computational goals.",
+            "objective_uuid": "b8c8ee6a-112b-4eb4-8d9e-ab7cbaaa65de"
+          }
+        ]
+      }
+    }
+  }
+}

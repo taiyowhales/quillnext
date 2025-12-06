@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.5",
+    "name": "Responsive Design (media queries, flexbox, grid)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Responsive Design (media queries, flexbox, grid) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.1",
+            "objective_text": "Identify a phone screen vs. a computer screen.",
+            "objective_uuid": "06971555-6e06-4f80-a4fc-32470f7004a8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.2",
+            "objective_text": "Recall that pages shrink to fit.",
+            "objective_uuid": "3a6f3532-0f90-4ccc-ab1f-46be5dd4b8a4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.3",
+            "objective_text": "Name 'Mobile'.",
+            "objective_uuid": "ca8aa63a-0f33-48a8-99ab-aa8c985c77e6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.4",
+            "objective_text": "Observe scrolling.",
+            "objective_uuid": "8f14ed04-3241-473d-9f63-1b12d2167adf"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.8",
+            "objective_text": "Identify a hamburger menu.",
+            "objective_uuid": "13f17124-9ef0-45ec-b53c-98ec316e1ca1"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.5",
+            "objective_text": "Summarize why phone websites look different.",
+            "objective_uuid": "bab8ba3d-0295-46b9-89cb-0fb15756efe3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.6",
+            "objective_text": "Explain 'Responsive' (reacts to size).",
+            "objective_uuid": "8c88a380-9524-47eb-83ec-4500b4293cc4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.7",
+            "objective_text": "Test a page by resizing the window.",
+            "objective_uuid": "c1ed8489-06be-419c-92e9-5a648ceba5e9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.12",
+            "objective_text": "Explain the 'Mobile First' approach.",
+            "objective_uuid": "4a435ab6-e825-43a6-8cbd-3619d670aae0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.15",
+            "objective_text": "Defend the fluid grid system.",
+            "objective_uuid": "2913c0af-fdae-415c-8336-6b286fabd9ce"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.9",
+            "objective_text": "Analyze Media Queries ('@media').",
+            "objective_uuid": "48fd364d-44c3-422c-b591-a27786b6efe9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.10",
+            "objective_text": "Interpret fluid layouts (percentages).",
+            "objective_uuid": "b357a05b-59c1-4c56-8a0e-33c0e303a74d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.11",
+            "objective_text": "Connect Flexbox to alignment.",
+            "objective_uuid": "0e7ac40d-a079-43bc-88a4-a11910867df5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.14",
+            "objective_text": "Evaluate breakpoints for different devices.",
+            "objective_uuid": "47ec6162-7f12-4089-bc68-e81d4cf347c6"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.13",
+            "objective_text": "Construct a fully responsive layout.",
+            "objective_uuid": "0e312822-097a-401d-a422-c013ca3dfe77"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.5",
+            "sub_topic_name": "Responsive Design (media queries, flexbox, grid)",
+            "objective_id": "CPT.6.4.5.16",
+            "objective_text": "Synthesize CSS Grid for complex arrangements.",
+            "objective_uuid": "8efddd13-71e2-4f97-aa49-a45e5524bce5"
+          }
+        ]
+      }
+    }
+  }
+}

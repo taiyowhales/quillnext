@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.5.2",
+    "name": "Slope (rate of change) and Intercepts",
+    "topic_id": "MAT.1.5",
+    "topic_name": "Linear Relationships and Systems",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Slope (rate of change) and Intercepts in Linear Relationships and Systems (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.1",
+            "objective_text": "Identify steepness.",
+            "objective_uuid": "ba281b2f-69f4-4fa4-b0e5-ee31a4a733e2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.2",
+            "objective_text": "Name the starting point.",
+            "objective_uuid": "6d80cae3-bb8c-48ac-a027-1836ff81a736"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.7",
+            "objective_text": "Identify the y-intercept (where it hits the wall).",
+            "objective_uuid": "b208e7d1-7b3d-4d6d-b4ef-79e6e99fbc43"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.3",
+            "objective_text": "Recall going up and over.",
+            "objective_uuid": "75472c86-f8cb-47d1-b4a2-70b9015f2e19"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.4",
+            "objective_text": "Observe a ramp.",
+            "objective_uuid": "912d1285-1aee-48b6-8533-b6ae6d31d565"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.5",
+            "objective_text": "Summarize 'Rise over Run'.",
+            "objective_uuid": "aafa3270-867d-4fcb-b3f0-fe67794b9fd5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.6",
+            "objective_text": "Explain that a flat line has zero slope.",
+            "objective_uuid": "f0469041-9f4a-4769-8831-4e9ddc3a1003"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.12",
+            "objective_text": "Explain undefined slope (vertical).",
+            "objective_uuid": "94a98b5c-870d-45a8-a746-871fc88cf42f"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.8",
+            "objective_text": "Compare steep and shallow lines.",
+            "objective_uuid": "d41483a0-8dca-4d6a-b048-8bc45ada492c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.9",
+            "objective_text": "Analyze slope as a constant rate of change.",
+            "objective_uuid": "82b306d5-d344-4adf-b0da-3128ebca9e47"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.10",
+            "objective_text": "Interpret the meaning of slope in context (miles per hour).",
+            "objective_uuid": "167ddbab-d079-4c46-8514-41056886b813"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.11",
+            "objective_text": "Connect x-intercepts to zeros of the function.",
+            "objective_uuid": "45b40a2c-dbec-49b9-a502-8e786cbcd4d7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.14",
+            "objective_text": "Evaluate the average rate of change.",
+            "objective_uuid": "907bdc77-9fb5-4d0d-9166-428c9c7a8ee4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.5,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.13",
+            "objective_text": "Construct tangent lines to estimate slope of curves.",
+            "objective_uuid": "a1e06221-d710-44b8-91a9-7fa3850e56b6"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.15",
+            "objective_text": "Defend slope as the derivative (intro).",
+            "objective_uuid": "5baa8369-0e26-45d2-8b84-754a2d7aeb51"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 42.0,
+        "objectives": [
+          {
+            "complexity": 42,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.2",
+            "sub_topic_name": "Slope (rate of change) and Intercepts",
+            "objective_id": "MAT.1.5.2.16",
+            "objective_text": "Synthesize physics (velocity) with calculus concepts.",
+            "objective_uuid": "dd39595f-68e4-48d5-a09e-b6f6e4294e66"
+          }
+        ]
+      }
+    }
+  }
+}

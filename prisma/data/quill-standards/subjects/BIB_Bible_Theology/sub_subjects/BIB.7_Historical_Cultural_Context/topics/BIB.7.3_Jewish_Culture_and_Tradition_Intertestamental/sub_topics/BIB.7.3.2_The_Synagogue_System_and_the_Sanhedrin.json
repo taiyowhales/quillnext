@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.7.3.2",
+    "name": "The Synagogue System and the Sanhedrin",
+    "topic_id": "BIB.7.3",
+    "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.7",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Synagogue System and the Sanhedrin in Jewish Culture and Tradition (Intertestamental) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.1",
+            "objective_text": "Identify a Synagogue as a church for Jews.",
+            "objective_uuid": "e3079139-f4e1-484f-af3d-0cfa8f531bb9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.2",
+            "objective_text": "Name the Rabbi (teacher).",
+            "objective_uuid": "b474acfa-20b0-4557-945b-07bb0e06c4ba"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.8",
+            "objective_text": "Identify the seat of Moses.",
+            "objective_uuid": "cec46ae8-6ef3-4344-90d9-f987aae2ad8f"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.3",
+            "objective_text": "Recall that they read the Bible every Sabbath.",
+            "objective_uuid": "2e48215e-5105-4c61-bbda-9cacbed54b34"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.4",
+            "objective_text": "Observe Jesus teaching in the synagogue.",
+            "objective_uuid": "fd3b5486-ed8f-4da5-b947-d8309b71aaee"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.5",
+            "objective_text": "Summarize what happened in a Synagogue service (Reading, Prayer).",
+            "objective_uuid": "64ccc204-0c71-4eaf-814f-a9e7add77540"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.6",
+            "objective_text": "Explain that the Temple was for sacrifice, Synagogue for learning.",
+            "objective_uuid": "c6095d0e-2a85-4587-9add-6e3722fdf410"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.12",
+            "objective_text": "Explain the significance of 10 men (Minyan).",
+            "objective_uuid": "d3aabd3d-67a9-41ee-934e-6672fe35e18f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.15",
+            "objective_text": "Defend the importance of the Synagogue in preserving the faith.",
+            "objective_uuid": "e4003273-1ff0-474a-8ede-3e5691c5791a"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.7",
+            "objective_text": "Compare a Synagogue ruler with a Priest.",
+            "objective_uuid": "ddeab6f7-756e-49bf-9f26-432690a13665"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.9",
+            "objective_text": "Analyze the role of the Sanhedrin in the trial of Jesus.",
+            "objective_uuid": "7c7d20fc-2deb-411b-9502-e2c1656f2dab"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.10",
+            "objective_text": "Interpret the Diaspora (Jews living outside Israel).",
+            "objective_uuid": "f3d352ca-0402-459e-96d8-a9ad51c31976"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.11",
+            "objective_text": "Connect the Synagogue to the pattern of early Christian worship.",
+            "objective_uuid": "e25e624a-5212-431b-9a21-157117b54a8e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.14",
+            "objective_text": "Evaluate the legal authority of Jewish courts under Rome.",
+            "objective_uuid": "768de2ee-10e3-4e36-924e-1de6d374843e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.13",
+            "objective_text": "Construct a diagram of the Sanhedrin's structure.",
+            "objective_uuid": "1873b1f3-b14f-40fa-a879-9501ff2e37b5"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.2",
+            "sub_topic_name": "The Synagogue System and the Sanhedrin",
+            "objective_id": "BIB.7.3.2.16",
+            "objective_text": "Synthesize the transition from Temple-based to Torah-based religion.",
+            "objective_uuid": "7b641e0f-da62-4821-b173-dcd17288b692"
+          }
+        ]
+      }
+    }
+  }
+}

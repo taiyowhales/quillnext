@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.3.3",
+    "name": "Quantifiers (For All, There Exists)",
+    "topic_id": "MAT.2.3",
+    "topic_name": "Mathematical Logic",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Quantifiers (For All, There Exists) in Mathematical Logic (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.1",
+            "objective_text": "Identify 'All', 'Some', 'None'.",
+            "objective_uuid": "469edce0-25f8-412a-9063-d5f9718591ee"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.8",
+            "objective_text": "Identify 'There exists...'.",
+            "objective_uuid": "aab1c68d-a7eb-4ec6-a717-8223534fd785"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.2",
+            "objective_text": "Recall that 'All dogs bark' might be true.",
+            "objective_uuid": "6a32d359-519b-48c3-8920-afe07c21ed30"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.4",
+            "objective_text": "Observe groups.",
+            "objective_uuid": "a5e51ad2-1a7a-4478-bf8c-86336c9d96fe"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.3",
+            "objective_text": "Find one exception.",
+            "objective_uuid": "16b545cf-a2b4-4501-b690-968c987dde00"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.5",
+            "objective_text": "Summarize Universal (Every) vs. Existential (At least one).",
+            "objective_uuid": "7318dd7b-6b53-446e-bd82-d450128f9134"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.6",
+            "objective_text": "Explain how to disprove 'All' (find one counterexample).",
+            "objective_uuid": "2bdaf348-d8c3-464e-83e8-c1747fd3bf63"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.7",
+            "objective_text": "Write sentences using 'For every...'.",
+            "objective_uuid": "bd73116b-9184-4dd7-b96a-f78d116c1566"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.12",
+            "objective_text": "Explain nested quantifiers (Every pot has a lid).",
+            "objective_uuid": "f6e515d3-5ce3-4af8-9cb2-6aae80fa91f6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.15",
+            "objective_text": "Defend the rigor of predicate logic.",
+            "objective_uuid": "8a7c0db1-e152-41a4-a79f-995d5923c6ed"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.9",
+            "objective_text": "Analyze symbols ($\\forall, \\exists$).",
+            "objective_uuid": "42f9ad30-747e-48ec-934a-5667a00c1dfc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.10",
+            "objective_text": "Interpret negated quantifiers (Not All = Some are not).",
+            "objective_uuid": "6a5201c5-26f7-4cb1-9ea4-e49f04a12e5b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.11",
+            "objective_text": "Connect quantifiers to sets.",
+            "objective_uuid": "be27b368-2010-4273-bb40-38f0c32be56d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.14",
+            "objective_text": "Evaluate the truth of quantified statements over specific domains.",
+            "objective_uuid": "8c2a9e01-91fc-4bea-baf2-60a5157a9523"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.13",
+            "objective_text": "Construct formal logical statements using quantifiers.",
+            "objective_uuid": "18af535a-3524-4f21-bdbd-636524850445"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.3",
+            "sub_topic_name": "Quantifiers (For All, There Exists)",
+            "objective_id": "MAT.2.3.3.16",
+            "objective_text": "Synthesize proof writing with quantifier logic.",
+            "objective_uuid": "e638b4a6-a1ff-4492-b795-2e08854dce47"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.1.4",
+    "name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+    "topic_id": "MAT.8.1",
+    "topic_name": "Modular Arithmetic (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$) in Modular Arithmetic (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.1",
+            "objective_text": "Identify leftovers when sharing.",
+            "objective_uuid": "6be06a78-6d0a-4b5f-8aea-0695f127a248"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.8",
+            "objective_text": "Identify equivalent remainders (15 and 8 both have rem 1 when div by 7).",
+            "objective_uuid": "5988cb55-41a6-4780-869e-67bb9b3d6479"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.5,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.4",
+            "objective_text": "Observe counting off by groups.",
+            "objective_uuid": "34d848b8-b9c0-4ec7-8ce6-3b225edf5a0b"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.3",
+            "objective_text": "Recall that sometimes numbers don't fit perfectly.",
+            "objective_uuid": "87e00032-1df5-49ea-8186-b0c8119d6423"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.12",
+            "objective_text": "Explain why negative numbers have positive modular equivalents.",
+            "objective_uuid": "278ba472-8300-4c01-88fe-66841b7555f6"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.2",
+            "objective_text": "Divide cookies and see what remains.",
+            "objective_uuid": "c7a27da6-51bb-438d-8221-dc0df4bed85f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.5",
+            "objective_text": "Summarize division with remainders.",
+            "objective_uuid": "03646b27-8e90-4042-af6e-7b04f5f8779b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.6",
+            "objective_text": "Explain that 7 days makes a week (Mod 7).",
+            "objective_uuid": "04d510ae-840e-4513-bb5f-1ae6dbf8901c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.7",
+            "objective_text": "Find the remainder of $10 \\div 3$.",
+            "objective_uuid": "ff57a7b7-e036-4b71-a8eb-7c136678cddb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.15",
+            "objective_text": "Defend the consistency of modular systems.",
+            "objective_uuid": "9ac73132-e463-4495-b8b3-f389861866de"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.9",
+            "objective_text": "Analyze the notation $a \\equiv b \\pmod{n}$.",
+            "objective_uuid": "8c05aee6-00f4-4bb0-aafa-09b71663f488"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.10",
+            "objective_text": "Interpret congruence classes.",
+            "objective_uuid": "35e4a905-4e0d-4aa3-a570-93be378ea012"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.11",
+            "objective_text": "Connect divisibility rules to modular arithmetic.",
+            "objective_uuid": "0ac76423-b124-484d-b1cb-58abb01e6210"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.14",
+            "objective_text": "Evaluate linear congruences ($ax \\equiv b \\pmod{n}$).",
+            "objective_uuid": "9975b783-593d-4e4f-ad42-8058858dea37"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.13",
+            "objective_text": "Construct proofs for properties of congruence.",
+            "objective_uuid": "50df422c-14f9-4354-90e8-7fde6641db0b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.4",
+            "sub_topic_name": "Remainders and Congruence Notation ($a \\equiv b \\pmod{n}$)",
+            "objective_id": "MAT.8.1.4.16",
+            "objective_text": "Synthesize Euler's Totient Theorem.",
+            "objective_uuid": "a63bc738-933c-4e96-a379-199101c684ed"
+          }
+        ]
+      }
+    }
+  }
+}

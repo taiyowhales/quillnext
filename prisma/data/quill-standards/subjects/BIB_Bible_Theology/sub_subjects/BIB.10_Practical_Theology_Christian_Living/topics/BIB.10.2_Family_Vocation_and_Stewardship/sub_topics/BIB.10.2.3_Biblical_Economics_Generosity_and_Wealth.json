@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "BIB.10.2.3",
+    "name": "Biblical Economics, Generosity, and Wealth",
+    "topic_id": "BIB.10.2",
+    "topic_name": "Family, Vocation, and Stewardship",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.10",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Biblical Economics, Generosity, and Wealth in Family, Vocation, and Stewardship (Bible & Theology)",
+    "grade_levels": {
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.1",
+            "objective_text": "Identify money as a tool.",
+            "objective_uuid": "71c3a59a-1a4e-4f76-b409-7245fc509ce2"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.2",
+            "objective_text": "Name sharing as good.",
+            "objective_uuid": "e9f2e6cb-96b4-46d3-87e4-d6091c68cd89"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.8",
+            "objective_text": "Identify debt as a burden.",
+            "objective_uuid": "35541acc-d08e-4a7e-93c6-c314dd49f361"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.3",
+            "objective_text": "Recall that God owns everything.",
+            "objective_uuid": "bd62fb89-466d-4eea-84d3-a80867b081e3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.4",
+            "objective_text": "Observe tithing.",
+            "objective_uuid": "c51a4eb4-78f6-4e33-877e-b3147b755c6a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.5",
+            "objective_text": "Summarize 'The love of money is a root of all kinds of evil'.",
+            "objective_uuid": "19c48e92-7d8a-4af6-8620-b11a1b55c8af"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.6",
+            "objective_text": "Explain stewardship (managing God's stuff).",
+            "objective_uuid": "f3967bf2-2b01-4296-be5d-1f7be907a486"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.12",
+            "objective_text": "Explain the biblical view of private property (Thou shalt not steal).",
+            "objective_uuid": "dd0c3e82-bee6-4229-876b-71e4581757a2"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.15",
+            "objective_text": "Defend the moral obligation to care for the poor.",
+            "objective_uuid": "f76f3e72-1033-4c25-855c-f1b27218962b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.7",
+            "objective_text": "Compare greed with contentment.",
+            "objective_uuid": "5b584b87-b3ef-43a6-b0ef-fdec3ed0582e"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.9",
+            "objective_text": "Analyze the Parable of the Talents.",
+            "objective_uuid": "3fb49d4a-adea-4c55-ab1d-562e53cabd4a"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.10",
+            "objective_text": "Interpret Jesus' warning about Mammon.",
+            "objective_uuid": "fc2ac2b5-8b1c-42dd-b5de-592c5d34196f"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.11",
+            "objective_text": "Connect generosity to trust in God.",
+            "objective_uuid": "99a8164c-60d1-483c-b502-1a9c8685db22"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 30.33,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.14",
+            "objective_text": "Evaluate socialism and capitalism through a biblical lens.",
+            "objective_uuid": "afc250cf-01be-473f-846a-57af5aa4fddc"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.16",
+            "objective_text": "Synthesize wealth creation with kingdom purposes.",
+            "objective_uuid": "3579cb5d-16cc-4c6a-b153-dcbb2d3ff2a2"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.2",
+            "topic_name": "Family, Vocation, and Stewardship",
+            "sub_topic_id": "BIB.10.2.3",
+            "sub_topic_name": "Biblical Economics, Generosity, and Wealth",
+            "objective_id": "BIB.10.2.3.13",
+            "objective_text": "Construct a plan for financial stewardship.",
+            "objective_uuid": "510bdc3f-ef96-48fe-a00e-d8305c988cf1"
+          }
+        ]
+      }
+    }
+  }
+}

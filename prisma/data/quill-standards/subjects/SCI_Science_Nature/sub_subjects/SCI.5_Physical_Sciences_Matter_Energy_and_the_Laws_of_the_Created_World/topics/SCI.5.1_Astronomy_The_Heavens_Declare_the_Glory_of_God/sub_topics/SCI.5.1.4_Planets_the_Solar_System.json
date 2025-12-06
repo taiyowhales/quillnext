@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.4",
+    "name": "Planets & the Solar System",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Planets & the Solar System in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.1",
+            "objective_text": "Identify the 8 planets.",
+            "objective_uuid": "5c667c68-4309-4100-9298-05db28551dd3"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.2",
+            "objective_text": "Name Earth as our home.",
+            "objective_uuid": "b0cd2912-27ef-451d-bde8-7a893d8259a4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.8",
+            "objective_text": "Identify the Asteroid Belt.",
+            "objective_uuid": "98851f78-a419-42bc-b99e-341f211809d9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.3",
+            "objective_text": "Recall 'My Very Educated Mother Just Served Us Noodles'.",
+            "objective_uuid": "991f25f7-3e80-4347-a267-27ae716e7cd9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.4",
+            "objective_text": "Observe pictures of Saturn's rings.",
+            "objective_uuid": "a8f94f7d-f0fe-4176-a9f7-204738530a74"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.5",
+            "objective_text": "Summarize the Inner (Rocky) vs. Outer (Gas Giant) planets.",
+            "objective_uuid": "34036ff4-6e5b-4649-9baf-c6ddba4046e6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.6",
+            "objective_text": "Explain orbit (going around the sun).",
+            "objective_uuid": "547b95f3-79fe-4636-8f19-6df527fc4d79"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.12",
+            "objective_text": "Explain the conditions of the Goldilocks Zone.",
+            "objective_uuid": "8486695c-b359-4625-a941-679aa7c8bf6a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.15",
+            "objective_text": "Defend the uniqueness of Earth among the planets.",
+            "objective_uuid": "97ce7c49-5ec3-4475-a963-c4e79e397095"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.7",
+            "objective_text": "Compare Earth with Mars.",
+            "objective_uuid": "6fe910b6-a379-4e93-9193-960421dd332a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.9",
+            "objective_text": "Analyze Kepler's Laws of Planetary Motion.",
+            "objective_uuid": "7d88d55d-f054-4167-9ab7-c50800e5d4b0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.10",
+            "objective_text": "Interpret the retrograde motion of Mars.",
+            "objective_uuid": "25fd4eb7-fc76-4f7b-a4aa-3e151b6bb448"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.11",
+            "objective_text": "Connect the Kuiper Belt to Pluto.",
+            "objective_uuid": "8d339956-00f1-4420-b763-f88f7b5b3ff1"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.14",
+            "objective_text": "Evaluate the definition of a Planet (IAU criteria).",
+            "objective_uuid": "028d2cdd-a94a-472f-851c-b71cde221030"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.13",
+            "objective_text": "Construct a scale model of the Solar System.",
+            "objective_uuid": "9bbf3069-bd30-4667-90de-075e75c3c21a"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.4",
+            "sub_topic_name": "Planets & the Solar System",
+            "objective_id": "SCI.5.1.4.16",
+            "objective_text": "Synthesize the formation theories of the solar system.",
+            "objective_uuid": "b8d48874-e9c2-4565-8bc9-99402c192e2e"
+          }
+        ]
+      }
+    }
+  }
+}

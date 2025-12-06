@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.5.2",
+    "name": "Expanded Form and Standard Form",
+    "topic_id": "MAT.4.5",
+    "topic_name": "Place Value & Base-Ten Understanding",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Expanded Form and Standard Form in Place Value & Base-Ten Understanding (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.1",
+            "objective_text": "Identify a number written as 20 + 5.",
+            "objective_uuid": "956f3f05-f3b4-44b7-a903-e1063b8f68ef"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.3",
+            "objective_text": "Recall that we say numbers left to right.",
+            "objective_uuid": "f51f495d-a7ba-4372-ad06-79138fa13436"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.2",
+            "objective_text": "Write numbers in standard form.",
+            "objective_uuid": "b9b2d11b-79a2-4c5e-b394-2927d506ea94"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.7",
+            "objective_text": "Write numbers in expanded notation (300 + 40 + 2).",
+            "objective_uuid": "a39dc522-6950-48b8-b23f-b4d427e2d429"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.8",
+            "objective_text": "Compose and decompose numbers.",
+            "objective_uuid": "85bc6bf9-0a1d-4176-9a97-da40330bc2c6"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.4",
+            "objective_text": "Match expanded form to standard form.",
+            "objective_uuid": "632835e0-a780-4717-a36e-4ca468be0753"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.5",
+            "objective_text": "Summarize how to break a number into its parts.",
+            "objective_uuid": "cebadf35-adbe-478b-affb-2d7c8db1afa7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.6",
+            "objective_text": "Explain word form vs. number form.",
+            "objective_uuid": "ec1459c1-d8d1-4fb3-aae4-5e766229c110"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.12",
+            "objective_text": "Explain the distributive property using expanded form.",
+            "objective_uuid": "53026cc5-b7de-4c4a-8808-17d2cf3cda42"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.15",
+            "objective_text": "Defend the utility of various number forms.",
+            "objective_uuid": "9cd78449-e3ed-4e7c-a0a9-b0304381ae41"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.9",
+            "objective_text": "Analyze expanded form with exponents ($3 \\times 10^2$).",
+            "objective_uuid": "bfa9ec11-bd3e-40cf-a1ae-01a2c6334725"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.10",
+            "objective_text": "Interpret scientific notation as a type of expanded form.",
+            "objective_uuid": "9b0f241a-6000-4abb-b096-0f1851680e70"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.11",
+            "objective_text": "Connect decompostion to mental math strategies.",
+            "objective_uuid": "8dd1a51d-748f-440e-a673-757086af4b4f"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.14",
+            "objective_text": "Evaluate operations using polynomial expansion.",
+            "objective_uuid": "53474d4b-c531-4b72-b503-9c9d2acf6982"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.13",
+            "objective_text": "Construct polynomials where $x=10$ represents number structure.",
+            "objective_uuid": "f9f2e79b-f0f0-4026-878b-bd52debf38d9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.2",
+            "sub_topic_name": "Expanded Form and Standard Form",
+            "objective_id": "MAT.4.5.2.16",
+            "objective_text": "Synthesize algebraic structure with arithmetic form.",
+            "objective_uuid": "a4844402-bc19-4524-837c-7bc68977e98d"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "ART.4.1.7",
+    "name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+    "topic_id": "ART.4.1",
+    "topic_name": "Composition & Arranging",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Using Music Technology (DAWs, Notation Software, MIDI sequencing) in Composition & Arranging (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.2",
+            "objective_text": "Identify sounds made by computers.",
+            "objective_uuid": "c276ebf6-c51f-49ed-83e5-46aa98be3e2d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.4",
+            "objective_text": "Observe that music can be saved as a file.",
+            "objective_uuid": "552da82e-c0cf-45d0-8716-781a1dc8419c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.6",
+            "objective_text": "Use a simple app to make a beat.",
+            "objective_uuid": "bd262a7f-73b0-4f15-856e-22c70ff07ff0"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.1",
+            "objective_text": "Record singing on a device.",
+            "objective_uuid": "93864200-a51f-4cfb-a605-dffed6579815"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.3",
+            "objective_text": "Play a virtual instrument.",
+            "objective_uuid": "f0d741b0-44c3-47b3-a115-d98fc2b51cfc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.5",
+            "objective_text": "Summarize what a Loop is.",
+            "objective_uuid": "405f99f8-95e8-4102-a5d3-720709e0c4a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.7",
+            "objective_text": "Explain that computers can write music notes.",
+            "objective_uuid": "1ba68782-95c4-4513-8802-ba2a4c81e982"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.8",
+            "objective_text": "Layer two sounds in a recording.",
+            "objective_uuid": "76ba1d88-7dce-41a5-a520-a04c4d98095d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.12",
+            "objective_text": "Explain the difference between Audio and MIDI.",
+            "objective_uuid": "402e207a-1e62-4c2e-a250-26a3b26f2aea"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.10",
+            "objective_text": "Interpret basic audio editing (cut, copy, paste).",
+            "objective_uuid": "f57cddf4-e7d9-43d5-997a-2c83975b429e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.9",
+            "objective_text": "Analyze a MIDI grid (Piano Roll).",
+            "objective_uuid": "c14b0ecb-b434-4b86-868c-0bd503b813b9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.11",
+            "objective_text": "Connect notation software to printing sheet music.",
+            "objective_uuid": "2adaa1f4-f216-4065-b19e-7b148d5bf473"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.15",
+            "objective_text": "Defend the use of technology as a tool for stewardship.",
+            "objective_uuid": "e81af419-098e-47e1-8868-f7d4f1198fa4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.14",
+            "objective_text": "Evaluate the production quality of a mix.",
+            "objective_uuid": "b915d3b3-dd34-4e20-9cf5-23dba46cfc4d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.13",
+            "objective_text": "Construct a multi-track recording in a DAW.",
+            "objective_uuid": "598dc46b-76bf-49f6-9836-dbd7c41c6083"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.7",
+            "sub_topic_name": "Using Music Technology (DAWs, Notation Software, MIDI sequencing)",
+            "objective_id": "ART.4.1.7.16",
+            "objective_text": "Synthesize musical creativity with technical production skills.",
+            "objective_uuid": "6be9c2ef-63d0-4556-bde3-820702f28baa"
+          }
+        ]
+      }
+    }
+  }
+}

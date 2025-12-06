@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.1.1",
+    "name": "Breaking Down Complex Problems (Decomposition)",
+    "topic_id": "MAT.7.1",
+    "topic_name": "Logic in Problem Solving",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Breaking Down Complex Problems (Decomposition) in Logic in Problem Solving (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.1",
+            "objective_text": "Identify the first thing to do.",
+            "objective_uuid": "cb622ae0-db61-4585-a44c-30247d141396"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.8",
+            "objective_text": "Identify hidden questions.",
+            "objective_uuid": "5449b011-4c1a-40ed-937c-6e52ab0e0f9f"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.3",
+            "objective_text": "Recall steps to tie shoes.",
+            "objective_uuid": "058dd2b0-7afb-4113-9402-85382f3a8687"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.7",
+            "objective_text": "List the sub-goals.",
+            "objective_uuid": "e3572108-c845-45d3-aab4-ddeba2699067"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.2",
+            "objective_text": "Break a big cookie into bites.",
+            "objective_uuid": "65eabe75-795d-4922-9125-a4b2d0abd36a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.5",
+            "objective_text": "Summarize a multi-step word problem.",
+            "objective_uuid": "ef956dc4-b8bd-462f-bff5-42ec24dbf0bc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.6",
+            "objective_text": "Explain solving the easy part first.",
+            "objective_uuid": "abfd362e-51b2-44ee-8a3d-f30dc48ec749"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.12",
+            "objective_text": "Explain modular thinking.",
+            "objective_uuid": "1bd93290-9107-4bf3-9dfb-9b69a9d4a59b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.15",
+            "objective_text": "Defend the divide-and-conquer approach.",
+            "objective_uuid": "d4778a56-c25c-487a-ba6c-c637cf230b48"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.4",
+            "objective_text": "Solve one part at a time.",
+            "objective_uuid": "3eed4f4e-e0f3-438a-b487-f3ba6d3d371a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.9",
+            "objective_text": "Analyze Fermi problems (estimation).",
+            "objective_uuid": "5d16fb28-e7ee-4959-93e7-acf004a301aa"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.14",
+            "objective_text": "Evaluate the interdependencies of sub-problems.",
+            "objective_uuid": "d56b0234-1f0e-48e3-b384-69441e470680"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.11",
+            "objective_text": "Connect decomposition to computer programming.",
+            "objective_uuid": "32d470de-d81b-49d3-9631-9b78d618e671"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.13",
+            "objective_text": "Construct a strategy for a large modeling problem.",
+            "objective_uuid": "241acf2f-f81f-4174-9d9a-1cff3bc63468"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.10",
+            "objective_text": "Interpret algorithms (step-by-step procedures).",
+            "objective_uuid": "ca519875-b0a6-4d4b-ad26-b6fdd611ec0b"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.1",
+            "sub_topic_name": "Breaking Down Complex Problems (Decomposition)",
+            "objective_id": "MAT.7.1.1.16",
+            "objective_text": "Synthesize systems engineering concepts.",
+            "objective_uuid": "5c9008b6-62ae-44d0-833a-dd36e7ea51de"
+          }
+        ]
+      }
+    }
+  }
+}

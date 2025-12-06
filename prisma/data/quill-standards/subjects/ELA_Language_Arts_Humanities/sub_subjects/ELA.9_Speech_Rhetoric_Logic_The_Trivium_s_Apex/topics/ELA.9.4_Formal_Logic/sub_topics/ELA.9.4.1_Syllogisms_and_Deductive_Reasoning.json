@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.9.4.1",
+    "name": "Syllogisms and Deductive Reasoning",
+    "topic_id": "ELA.9.4",
+    "topic_name": "Formal Logic",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.9",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Syllogisms and Deductive Reasoning in Formal Logic (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.2",
+            "objective_text": "Identify patterns (A, B, A, B...).",
+            "objective_uuid": "a3ac0caf-4aec-42bd-8d2f-e71edc3a4eae"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.8",
+            "objective_text": "Identify a logical conclusion.",
+            "objective_uuid": "614b1eda-141f-47b7-8ffa-69847bcd2747"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.3",
+            "objective_text": "Recall that if all dogs bark, and Fido is a dog, Fido barks.",
+            "objective_uuid": "692b9779-e8c9-485e-a304-f98b0cd2ef2f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.4",
+            "objective_text": "Observe that some things must be true if other things are true.",
+            "objective_uuid": "5f04e150-a426-431e-9d96-4df745edb155"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.1",
+            "objective_text": "Sort things into groups (Red things vs. Blue things).",
+            "objective_uuid": "bd9bfe8b-746c-42b8-af6e-18c7e84b9ef3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.5",
+            "objective_text": "Summarize an 'If... Then...' statement.",
+            "objective_uuid": "0c2f817b-3f78-4c6f-b698-279d637c8d41"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.6",
+            "objective_text": "Explain what a premise is (a starting fact).",
+            "objective_uuid": "ef78e632-97ac-477a-88c8-237e1d07f068"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.12",
+            "objective_text": "Explain Deductive vs. Inductive reasoning.",
+            "objective_uuid": "5f75e516-2d42-469b-82d0-018f5fbac0ad"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.15",
+            "objective_text": "Defend the laws of logic (Identity, Non-Contradiction, Excluded Middle).",
+            "objective_uuid": "e8cc0184-0095-40a8-bd3f-f68d4eb89d2c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.7",
+            "objective_text": "Compare General rules to Specific examples.",
+            "objective_uuid": "4a6fcdd0-2bb0-403d-839e-1b556a2d52be"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.9",
+            "objective_text": "Analyze the structure of a Categorical Syllogism (All A are B...).",
+            "objective_uuid": "a6e81b0b-9c64-4991-b6da-bf7a066ecb0b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.10",
+            "objective_text": "Interpret the difference between Valid (structure) and Sound (truth).",
+            "objective_uuid": "80b2806e-3875-49de-833a-02ef088a1c75"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.11",
+            "objective_text": "Connect logic to the nature of God (Logos).",
+            "objective_uuid": "7e5e5684-dcc3-4ceb-b9cd-dc21c8dcc268"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.14",
+            "objective_text": "Evaluate the 'Undistributed Middle' term error.",
+            "objective_uuid": "131b5a37-6bd2-4f93-b463-617786616403"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.16",
+            "objective_text": "Synthesize formal logic with propositional logic (basic symbols).",
+            "objective_uuid": "f5e25847-5d27-48c8-bb3d-3acae7571856"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.4",
+            "topic_name": "Formal Logic",
+            "sub_topic_id": "ELA.9.4.1",
+            "sub_topic_name": "Syllogisms and Deductive Reasoning",
+            "objective_id": "ELA.9.4.1.13",
+            "objective_text": "Construct valid syllogisms (Modus Ponens, Modus Tollens).",
+            "objective_uuid": "0fce1768-6797-4671-95f7-ab2f7aa81093"
+          }
+        ]
+      }
+    }
+  }
+}

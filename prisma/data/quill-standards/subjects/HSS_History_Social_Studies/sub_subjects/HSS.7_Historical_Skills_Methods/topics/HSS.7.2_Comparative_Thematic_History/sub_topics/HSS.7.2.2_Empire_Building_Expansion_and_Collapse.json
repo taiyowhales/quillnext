@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.7.2.2",
+    "name": "Empire Building, Expansion, and Collapse",
+    "topic_id": "HSS.7.2",
+    "topic_name": "Comparative Thematic History",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.7",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Empire Building, Expansion, and Collapse in Comparative Thematic History (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.1",
+            "objective_text": "Identify a King who wants more land.",
+            "objective_uuid": "5038aaf1-9714-4a83-9c4d-e392c450e379"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.2",
+            "objective_text": "Name the Roman Empire.",
+            "objective_uuid": "84ef2436-287c-4e69-a0eb-187512872453"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.8",
+            "objective_text": "Identify the Spanish Empire in the Americas.",
+            "objective_uuid": "c342792f-5180-49a5-90fe-e8e744d9be9f"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.3",
+            "objective_text": "Recall that empires grow and then shrink.",
+            "objective_uuid": "fbfa6580-86d6-4e56-ae22-77c524ce1a28"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.4",
+            "objective_text": "Observe maps changing colors.",
+            "objective_uuid": "533feef2-c128-4809-beed-48a6e75c1c5f"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.5",
+            "objective_text": "Summarize the rise and fall of Rome.",
+            "objective_uuid": "c812194d-6c65-4bc8-86f5-2828d4ae317c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.6",
+            "objective_text": "Explain the British Empire ('Sun never sets').",
+            "objective_uuid": "9a9c08d1-e4a9-4b68-b3db-26f3c2f8d2da"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.12",
+            "objective_text": "Explain the Ottoman Empire.",
+            "objective_uuid": "fbb7db60-4e18-4d28-be19-31ec9810f7b3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.15",
+            "objective_text": "Defend the distinction between colonization and conquest.",
+            "objective_uuid": "3d4227af-9c47-4fb7-8982-85de5e50a3f7"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.7",
+            "objective_text": "Compare the Mongol Empire (land) with the British (sea).",
+            "objective_uuid": "9629130b-fdd9-4e7e-8e66-00e1a9fbb7b4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.9",
+            "objective_text": "Analyze the motives: God, Gold, Glory.",
+            "objective_uuid": "6cd56c3f-fe27-45a0-9244-bfd5b49673b4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.10",
+            "objective_text": "Interpret the cost of maintaining an empire (overstretch).",
+            "objective_uuid": "cd0fbd71-7c53-45c1-85ce-cd39b97e53d9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.11",
+            "objective_text": "Connect technology (roads, ships) to expansion.",
+            "objective_uuid": "a731f6f0-ab64-4e21-9276-04b615778ef9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.14",
+            "objective_text": "Evaluate the legacy of imperialism (language, borders).",
+            "objective_uuid": "93890628-f3e0-469f-b0ef-74598adae2c0"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.13",
+            "objective_text": "Construct a theory on why empires fall (moral decay, debt, invasion).",
+            "objective_uuid": "35681b19-e05c-4575-8a7e-173d1bd594b0"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.7",
+            "sub_subject_name": "Historical Skills & Methods",
+            "topic_id": "HSS.7.2",
+            "topic_name": "Comparative Thematic History",
+            "sub_topic_id": "HSS.7.2.2",
+            "sub_topic_name": "Empire Building, Expansion, and Collapse",
+            "objective_id": "HSS.7.2.2.16",
+            "objective_text": "Synthesize the translatio imperii (transfer of rule) concept.",
+            "objective_uuid": "f365f979-0b6c-42f1-8476-53777fcac4b4"
+          }
+        ]
+      }
+    }
+  }
+}

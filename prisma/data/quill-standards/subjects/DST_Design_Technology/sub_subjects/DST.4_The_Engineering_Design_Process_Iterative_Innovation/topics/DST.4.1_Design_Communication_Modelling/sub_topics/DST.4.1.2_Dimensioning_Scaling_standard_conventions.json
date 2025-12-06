@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.1.2",
+    "name": "Dimensioning & Scaling (standard conventions)",
+    "topic_id": "DST.4.1",
+    "topic_name": "Design Communication & Modelling",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Dimensioning & Scaling (standard conventions) in Design Communication & Modelling (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.2",
+            "objective_text": "Identify that a drawing is smaller than the real thing.",
+            "objective_uuid": "25d6359e-b0b3-42fe-b077-07d882ce248d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.3",
+            "objective_text": "Write numbers next to the lines.",
+            "objective_uuid": "f4ed7997-43af-462d-bac9-4dfcbbd16340"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 7,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.1",
+            "objective_text": "Measure a line with a ruler.",
+            "objective_uuid": "233edcfa-142d-4bcd-a67d-219d5d3dc442"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.5",
+            "objective_text": "Use millimeters (mm) for measuring.",
+            "objective_uuid": "9a20fe6a-83c6-4e6c-b656-7ce4bb6856bc"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.6",
+            "objective_text": "Explain Scale (e.g., 1:2 means half size).",
+            "objective_uuid": "0f370aca-4267-4069-ae58-3aa7dd321a72"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.7",
+            "objective_text": "Draw dimension lines with arrows.",
+            "objective_uuid": "b44bfe34-0ce0-4310-8695-4de6f2704b5e"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.8",
+            "objective_text": "Measure accurate lengths.",
+            "objective_uuid": "387eb90e-7d8e-41de-b451-e33454b5e2d5"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.12",
+            "objective_text": "Explain radius and diameter symbols.",
+            "objective_uuid": "d0eac2b9-f71b-4a7b-ad13-399eb8c2dc18"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.15",
+            "objective_text": "Defend the necessity of precision in communication.",
+            "objective_uuid": "f8996326-62dd-449a-b76e-8de50e4bebb8"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.4",
+            "objective_text": "Compare big and small drawings.",
+            "objective_uuid": "e41dc160-42ac-4c6a-93e4-a2377f631865"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.9",
+            "objective_text": "Analyze standard dimensioning conventions (leader lines, spacing).",
+            "objective_uuid": "5917a6fe-c317-4cf0-a8d6-91cd50c83f5d"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.10",
+            "objective_text": "Interpret scale ratios (1:1, 1:10, 2:1).",
+            "objective_uuid": "a8e7bbc3-01f6-4c58-941c-c40c01c4cf75"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.11",
+            "objective_text": "Connect accuracy in drawing to accuracy in making.",
+            "objective_uuid": "3679a031-c8aa-45a8-8bc3-e647494c08b9"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.14",
+            "objective_text": "Evaluate tolerance dimensions.",
+            "objective_uuid": "00dd07e6-2a96-4286-9bc7-7ae7426202bc"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.13",
+            "objective_text": "Construct a fully dimensioned production drawing.",
+            "objective_uuid": "71a00ce1-c1ab-4f7e-882b-7ef4d1eb16fb"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.1",
+            "topic_name": "Design Communication & Modelling",
+            "sub_topic_id": "DST.4.1.2",
+            "sub_topic_name": "Dimensioning & Scaling (standard conventions)",
+            "objective_id": "DST.4.1.2.16",
+            "objective_text": "Synthesize scaling calculations for large/micro objects.",
+            "objective_uuid": "cec343d7-be7c-4d52-a6a8-23ad3df9dca6"
+          }
+        ]
+      }
+    }
+  }
+}

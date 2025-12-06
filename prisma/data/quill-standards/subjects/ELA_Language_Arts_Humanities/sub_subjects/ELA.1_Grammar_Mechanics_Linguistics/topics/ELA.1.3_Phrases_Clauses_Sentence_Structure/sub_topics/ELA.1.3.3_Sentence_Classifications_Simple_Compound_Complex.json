@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.3.3",
+    "name": "Sentence Classifications (Simple, Compound, Complex)",
+    "topic_id": "ELA.1.3",
+    "topic_name": "Phrases, Clauses & Sentence Structure",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sentence Classifications (Simple, Compound, Complex) in Phrases, Clauses & Sentence Structure (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.1",
+            "objective_text": "Identify a short sentence.",
+            "objective_uuid": "3ab9f30c-1de8-4d38-8a31-886e701a51d8"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.8",
+            "objective_text": "Identify FANBOYS conjunctions.",
+            "objective_uuid": "3abf22c0-81a6-41ca-bb4c-4d70e1e5f596"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.3",
+            "objective_text": "Recall that we can make long sentences.",
+            "objective_uuid": "a69e86b7-b4be-4aeb-8f39-1fe8aff63cff"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.4",
+            "objective_text": "Observe punctuation rules for joining.",
+            "objective_uuid": "0d338060-4ef2-4fef-bc1e-931c29d6f6de"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.2",
+            "objective_text": "Combine two sentences with \"and\".",
+            "objective_uuid": "d757237d-3036-422c-865b-e427d7718eab"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.5",
+            "objective_text": "Summarize Simple (one idea) vs. Compound (two equal ideas).",
+            "objective_uuid": "adfefca1-51c5-4930-a2fe-428458f168cb"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.6",
+            "objective_text": "Explain Complex sentences (one strong, one weak part).",
+            "objective_uuid": "0b5d12c9-c526-439c-9701-10fff12b9d4b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.12",
+            "objective_text": "Explain run-on sentences and splices.",
+            "objective_uuid": "ed45e62b-abc0-4a7f-a745-09769cce5f31"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.15",
+            "objective_text": "Defend the need for variety to keep reader interest.",
+            "objective_uuid": "7288287f-3ec1-4965-aba7-5319c25d92e2"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.9",
+            "objective_text": "Analyze sentence variety in a paragraph.",
+            "objective_uuid": "2ad9d30c-b464-4ed7-967a-8c2a82db992d"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.10",
+            "objective_text": "Interpret the relationship between clauses in a complex sentence.",
+            "objective_uuid": "06ef9cc7-f073-40ca-85d6-8ebba31b0963"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.11",
+            "objective_text": "Connect sentence structure to pacing.",
+            "objective_uuid": "d93977d6-3063-486b-b1ea-352b16af0d49"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.14",
+            "objective_text": "Evaluate the impact of short, choppy sentences vs. flowing ones.",
+            "objective_uuid": "3fa9c912-8c36-4193-ab53-669215998bd4"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.7",
+            "objective_text": "Create a Compound-Complex sentence.",
+            "objective_uuid": "9f00ea91-2f4a-4808-b39b-bcf8c5913910"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.13",
+            "objective_text": "Construct a persuasive paragraph using all four types.",
+            "objective_uuid": "b4b8fa85-9665-47a3-8b30-8daf57ac36cf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.3",
+            "topic_name": "Phrases, Clauses & Sentence Structure",
+            "sub_topic_id": "ELA.1.3.3",
+            "sub_topic_name": "Sentence Classifications (Simple, Compound, Complex)",
+            "objective_id": "ELA.1.3.3.16",
+            "objective_text": "Synthesize syntax with logical argumentation.",
+            "objective_uuid": "3d753478-9201-4334-884c-34b121d165e7"
+          }
+        ]
+      }
+    }
+  }
+}

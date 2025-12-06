@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.3.4",
+    "name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+    "topic_id": "LIF.3.3",
+    "topic_name": "Handcrafts & Traditional Skills",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Preserving Herbs & Medicinals (drying, tinctures, salves) in Handcrafts & Traditional Skills (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.1",
+            "objective_text": "Identify a mint leaf.",
+            "objective_uuid": "4fe58349-f293-4b49-aeb6-57f0fb29970d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.8",
+            "objective_text": "Identify Lavender or Chamomile.",
+            "objective_uuid": "82a190d2-08fb-4860-b048-3a3f7ddfc728"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.3",
+            "objective_text": "Recall that plants can be medicine.",
+            "objective_uuid": "48c046f9-5cdf-4983-bd5a-69a5d78da357"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.2",
+            "objective_text": "Smell dried herbs.",
+            "objective_uuid": "d7c3390f-e099-4132-a568-83ca08dc595d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.4",
+            "objective_text": "Help pick leaves.",
+            "objective_uuid": "a5007e32-b510-4e80-bfcd-24f0e1b1b23e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.5",
+            "objective_text": "Summarize how to dry herbs (hanging/dehydrator).",
+            "objective_uuid": "2f2eea43-2acc-4367-b256-a8ccaf94b91b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.6",
+            "objective_text": "Explain making tea from leaves.",
+            "objective_uuid": "d3bd0e81-2c0d-4cc5-b1d4-e13010d12284"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.7",
+            "objective_text": "Infuse oil with an herb.",
+            "objective_uuid": "61f460d8-b442-48f1-ab62-1c275eb6fed5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.12",
+            "objective_text": "Explain safety (dosages/allergies).",
+            "objective_uuid": "ae62e0cf-9dd8-4f27-a99c-e9eeed95bfe5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.15",
+            "objective_text": "Defend the complementarity of natural and modern medicine.",
+            "objective_uuid": "3adb0642-2f83-46f0-9e2a-a8009eaf42c9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.9",
+            "objective_text": "Analyze the properties of a carrier oil vs. essential oil.",
+            "objective_uuid": "5fe71b37-8614-4ac5-946c-e58cddb3a77c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.10",
+            "objective_text": "Interpret the difference between infusion and tincture.",
+            "objective_uuid": "2bdb60b0-6108-4010-960a-23015cce1752"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.11",
+            "objective_text": "Connect beeswax to making a salve.",
+            "objective_uuid": "34e137de-ed63-4be4-81ad-a09a9a0b4985"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.14",
+            "objective_text": "Evaluate the historical use of plant medicine.",
+            "objective_uuid": "4b6930c7-be50-454d-9210-b962cb44b7ef"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.13",
+            "objective_text": "Construct a herbal first aid kit.",
+            "objective_uuid": "37341b4d-5bba-458e-a886-e13b6eead7bb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.4",
+            "sub_topic_name": "Preserving Herbs & Medicinals (drying, tinctures, salves)",
+            "objective_id": "LIF.3.3.4.16",
+            "objective_text": "Synthesize botany with home healthcare.",
+            "objective_uuid": "c0899fa0-540d-45d5-862a-af32aa211767"
+          }
+        ]
+      }
+    }
+  }
+}

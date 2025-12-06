@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.1.3",
+    "name": "Oceans, Major Seas, and Currents",
+    "topic_id": "GEO.3.1",
+    "topic_name": "Global Orientation",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Oceans, Major Seas, and Currents in Global Orientation (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.1",
+            "objective_text": "Identify the 5 oceans.",
+            "objective_uuid": "aed3b3c8-f667-45c3-8809-ce336eb2b193"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.2",
+            "objective_text": "Name the Pacific as the biggest.",
+            "objective_uuid": "7d266679-2fc1-47d5-8cae-a5f802fdd71a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.8",
+            "objective_text": "Identify the Gulf Stream.",
+            "objective_uuid": "cc80cce6-0135-4a93-a950-ead90769715d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.3",
+            "objective_text": "Recall that water covers most of the earth.",
+            "objective_uuid": "6e57e2d9-c611-45d1-8dcb-1f8ebd9dd3ce"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.4",
+            "objective_text": "Observe the waves.",
+            "objective_uuid": "8d0d09f0-67a2-435d-9c9b-c0f07bf5ef50"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.5",
+            "objective_text": "Summarize the difference between an Ocean and a Sea (usually enclosed).",
+            "objective_uuid": "b2022335-9356-4196-9aa4-6036709d1d94"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.6",
+            "objective_text": "Explain the Mediterranean Sea.",
+            "objective_uuid": "ebec393f-af89-4e43-aa7b-592ed067764c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.7",
+            "objective_text": "Locate the Atlantic and Indian Oceans.",
+            "objective_uuid": "55e0cbff-b586-41a3-9a3c-d03e8721c78b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.12",
+            "objective_text": "Explain El Niño and La Niña.",
+            "objective_uuid": "b572f79d-5a2f-40fc-8ced-8173f85d5945"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.15",
+            "objective_text": "Defend the ocean's role in regulating God's creation.",
+            "objective_uuid": "6ef0e99d-0ece-4655-a413-df1a479f38ae"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.9",
+            "objective_text": "Analyze the Great Ocean Conveyor Belt.",
+            "objective_uuid": "3deeedea-e0f0-4f06-be34-2d034e02f694"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.10",
+            "objective_text": "Interpret the effect of currents on weather (e.g., UK is warm for its latitude).",
+            "objective_uuid": "4174d791-fe07-470b-a528-323504c6b450"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.11",
+            "objective_text": "Connect the 'Gyres' to plastic pollution.",
+            "objective_uuid": "05b19418-dafe-4f20-8d5b-ecb2980f9589"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.14",
+            "objective_text": "Evaluate the strategic importance of the South China Sea.",
+            "objective_uuid": "018790f6-33b4-4c95-999c-839da8c63491"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.13",
+            "objective_text": "Construct a map of major ocean currents.",
+            "objective_uuid": "3cdc38ba-3360-457f-bc24-02096e6616dd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.3",
+            "sub_topic_name": "Oceans, Major Seas, and Currents",
+            "objective_id": "GEO.3.1.3.16",
+            "objective_text": "Synthesize oceanography with climate science.",
+            "objective_uuid": "30d9d0b4-bc04-48e8-8105-125ea55ac07c"
+          }
+        ]
+      }
+    }
+  }
+}

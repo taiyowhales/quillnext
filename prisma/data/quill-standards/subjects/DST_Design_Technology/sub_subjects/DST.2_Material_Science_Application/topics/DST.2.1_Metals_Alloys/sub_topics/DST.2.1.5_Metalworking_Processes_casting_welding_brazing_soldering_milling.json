@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.2.1.5",
+    "name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+    "topic_id": "DST.2.1",
+    "topic_name": "Metals & Alloys",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.2",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Metalworking Processes (casting, welding, brazing, soldering, milling) in Metals & Alloys (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.1",
+            "objective_text": "Identify melting metal to pour into a shape.",
+            "objective_uuid": "81bb5ffc-80e6-4ee1-957d-18e3c09b0886"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.2",
+            "objective_text": "Name welding as gluing metal with fire.",
+            "objective_uuid": "9e5aef32-6cc0-4ae9-891c-11f99911b8e7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.8",
+            "objective_text": "Identify a file.",
+            "objective_uuid": "95d0bcce-7475-4c43-bba0-4ffff9a4b325"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.3",
+            "objective_text": "Recall that we need safety gear (masks/gloves).",
+            "objective_uuid": "cf71c230-1234-4636-b4d8-c1febd906c70"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.4",
+            "objective_text": "Observe a drill making a hole.",
+            "objective_uuid": "aacc13b1-f9c6-436c-8eae-79ae92731daf"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.5",
+            "objective_text": "Summarize Casting (pouring liquid metal into a mold).",
+            "objective_uuid": "49981975-9020-4d3f-9ed3-fee22e741192"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.6",
+            "objective_text": "Explain Soldering (joining wires).",
+            "objective_uuid": "3f72d91b-0290-43a7-a50c-9da7850db303"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.12",
+            "objective_text": "Explain Sand Casting.",
+            "objective_uuid": "fc3c9ae7-89a2-48aa-a89c-b4e47e1a3ec4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.15",
+            "objective_text": "Defend the choice of fabrication method for volume production.",
+            "objective_uuid": "bde40033-cc03-418a-9ae2-7c3dd8196b2c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.7",
+            "objective_text": "Compare cutting with a saw vs. bending.",
+            "objective_uuid": "490c278c-e728-4d6c-8dba-ef94f9a4f125"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.9",
+            "objective_text": "Analyze the difference between Welding (melting base metal) and Brazing (melting filler only).",
+            "objective_uuid": "7669895a-f99d-453a-b3d2-08b9436c7fa0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.10",
+            "objective_text": "Interpret the Milling process (removing material).",
+            "objective_uuid": "52e851c7-c7b6-4123-bf86-d00d8c76743b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.11",
+            "objective_text": "Connect Lathe work to cylindrical shapes.",
+            "objective_uuid": "5c92b8db-8209-4542-8f6d-55493c5f4930"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.14",
+            "objective_text": "Evaluate the structural integrity of a welded joint.",
+            "objective_uuid": "1bcc9c75-ba76-46ce-83d6-08baed54351d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.13",
+            "objective_text": "Construct a component using multiple machining operations.",
+            "objective_uuid": "59b06f9d-0942-428f-901f-ac1a983072e8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.1",
+            "topic_name": "Metals & Alloys",
+            "sub_topic_id": "DST.2.1.5",
+            "sub_topic_name": "Metalworking Processes (casting, welding, brazing, soldering, milling)",
+            "objective_id": "DST.2.1.5.16",
+            "objective_text": "Synthesize safety protocols with advanced manufacturing.",
+            "objective_uuid": "84599b08-ba7d-47e8-8e64-73076961a28b"
+          }
+        ]
+      }
+    }
+  }
+}

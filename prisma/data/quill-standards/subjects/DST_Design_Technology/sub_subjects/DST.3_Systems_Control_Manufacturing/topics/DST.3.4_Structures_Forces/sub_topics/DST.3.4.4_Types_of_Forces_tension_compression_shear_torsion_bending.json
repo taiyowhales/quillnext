@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "DST.3.4.4",
+    "name": "Types of Forces (tension, compression, shear, torsion, bending)",
+    "topic_id": "DST.3.4",
+    "topic_name": "Structures & Forces",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Types of Forces (tension, compression, shear, torsion, bending) in Structures & Forces (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.1",
+            "objective_text": "Identify pushing and pulling.",
+            "objective_uuid": "3cdfc306-5c4c-44a8-b64a-b3fcc94a4c2a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.2",
+            "objective_text": "Name twisting and squashing.",
+            "objective_uuid": "f8935a2c-5746-4bed-bdae-d46183b67004"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.7",
+            "objective_text": "Identify Shear (cutting like scissors).",
+            "objective_uuid": "b219da74-c326-4d73-bf76-5dec71a444fe"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.3",
+            "objective_text": "Recall that heavy things push down.",
+            "objective_uuid": "1396865c-481c-4358-a51d-b724aba80801"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.4",
+            "objective_text": "Observe stretching a rubber band.",
+            "objective_uuid": "4b52fa10-9290-4f7b-b176-dcb7eafccec8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.5",
+            "objective_text": "Summarize Compression (squash) and Tension (stretch).",
+            "objective_uuid": "f0e17c29-c608-4af5-8a73-ddec06927ea5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.6",
+            "objective_text": "Explain Bending (both tension and compression).",
+            "objective_uuid": "067cc33c-4339-4b71-b54c-7c0679cbcf69"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.12",
+            "objective_text": "Explain static vs. dynamic loads.",
+            "objective_uuid": "0f1f7f89-c4a7-42b6-bfbe-92a0879945c6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.15",
+            "objective_text": "Defend the structural design against specific force vectors.",
+            "objective_uuid": "a14e721e-132b-4bee-99ed-c0f0fe6e2682"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.8",
+            "objective_text": "Compare a rigid object with a flexible one.",
+            "objective_uuid": "70d6f71f-0ed7-4225-bf23-9e21effee971"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.9",
+            "objective_text": "Analyze Torsion (twisting force).",
+            "objective_uuid": "d4e013a4-8728-4dea-9eef-8f617873fd1b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.10",
+            "objective_text": "Interpret force arrows on a diagram.",
+            "objective_uuid": "6194df12-38a3-4941-8064-8257f4aa8717"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.11",
+            "objective_text": "Connect material properties to resistance of forces.",
+            "objective_uuid": "d64e1865-3e39-4271-b0ca-9304925c3195"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.14",
+            "objective_text": "Evaluate Young's Modulus (stiffness).",
+            "objective_uuid": "76f9eb49-35a1-4c38-98c1-5da4702a4592"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.13",
+            "objective_text": "Construct a stress/strain analysis.",
+            "objective_uuid": "4e337f7b-d1ea-4a20-940a-fef7f136dbcb"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.4",
+            "topic_name": "Structures & Forces",
+            "sub_topic_id": "DST.3.4.4",
+            "sub_topic_name": "Types of Forces (tension, compression, shear, torsion, bending)",
+            "objective_id": "DST.3.4.4.16",
+            "objective_text": "Synthesize physics of forces with architectural design.",
+            "objective_uuid": "77de0923-29b1-4d3e-931d-60c191a38438"
+          }
+        ]
+      }
+    }
+  }
+}

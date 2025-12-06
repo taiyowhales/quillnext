@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.2.3",
+    "name": "Generative AI (diffusion, GANs)",
+    "topic_id": "CPT.7.2",
+    "topic_name": "Artificial Intelligence & Machine Learning",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Generative AI (diffusion, GANs) in Artificial Intelligence & Machine Learning (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.1",
+            "objective_text": "Identify a picture made by a computer.",
+            "objective_uuid": "a1f30f37-066d-433d-87e6-b6fca292a44c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.2",
+            "objective_text": "Recall that computers can draw.",
+            "objective_uuid": "62e10352-60f8-4ab2-bb2e-7cf246336671"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.3",
+            "objective_text": "Name 'Make-believe' pictures.",
+            "objective_uuid": "ececb2b5-a8a2-4572-a05d-dd756436e650"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.4",
+            "objective_text": "Observe style transfer.",
+            "objective_uuid": "b40c5680-9296-4634-85f4-af5a67e55cb5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.8",
+            "objective_text": "Identify artifacts (weird hands/text).",
+            "objective_uuid": "5cfb0b38-c7d0-4201-92a0-d04ea1bbd274"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.5",
+            "objective_text": "Summarize 'Text-to-Image'.",
+            "objective_uuid": "119dd13e-fc11-402d-8e77-90aeffd461c1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.6",
+            "objective_text": "Explain that the AI mixes up millions of pictures.",
+            "objective_uuid": "a53cc0e6-068c-43d3-b991-9615dde39da9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.12",
+            "objective_text": "Explain style mimicry.",
+            "objective_uuid": "c656c98f-8134-4e93-b71a-e959b865732e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.15",
+            "objective_text": "Defend the concept of human authorship.",
+            "objective_uuid": "6cba401a-cbea-47ae-b13c-1fe4b5666dac"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.9",
+            "objective_text": "Analyze Diffusion Models (removing noise).",
+            "objective_uuid": "39a9b527-3c92-4e2f-8e1c-9ebee21a12ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.10",
+            "objective_text": "Interpret GANs (Generator vs. Discriminator).",
+            "objective_uuid": "7c195b64-28f4-4f6f-a54c-b8c5bb64df3d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.11",
+            "objective_text": "Connect copyright issues to training data.",
+            "objective_uuid": "3357de44-0f69-4fa3-81b6-d57f3f4ba70a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.14",
+            "objective_text": "Evaluate the impact on creative industries.",
+            "objective_uuid": "212568a7-8ac7-4370-8788-4cd613ab34d4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.7",
+            "objective_text": "Create an image using a prompt.",
+            "objective_uuid": "d555b8f1-34ee-4a79-ad54-46fc28db9232"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.13",
+            "objective_text": "Construct a critique of AI-generated art.",
+            "objective_uuid": "67ba3f9f-002b-47b4-897e-663fbe543819"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.3",
+            "sub_topic_name": "Generative AI (diffusion, GANs)",
+            "objective_id": "CPT.7.2.3.16",
+            "objective_text": "Synthesize latent space exploration.",
+            "objective_uuid": "1ee63155-8ff8-47f5-bbe3-02b05f2815fe"
+          }
+        ]
+      }
+    }
+  }
+}

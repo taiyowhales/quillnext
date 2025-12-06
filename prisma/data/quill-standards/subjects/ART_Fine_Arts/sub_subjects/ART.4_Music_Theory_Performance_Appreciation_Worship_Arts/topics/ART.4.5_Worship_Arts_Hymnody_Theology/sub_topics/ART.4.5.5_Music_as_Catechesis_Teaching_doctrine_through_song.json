@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ART.4.5.5",
+    "name": "Music as Catechesis (Teaching doctrine through song)",
+    "topic_id": "ART.4.5",
+    "topic_name": "Worship Arts, Hymnody & Theology",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Music as Catechesis (Teaching doctrine through song) in Worship Arts, Hymnody & Theology (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.2",
+            "objective_text": "Identify that songs help us remember.",
+            "objective_uuid": "1d13ba87-4f0c-49ef-868e-7d13fd460f27"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.8",
+            "objective_text": "Identify doctrine in a Christmas carol.",
+            "objective_uuid": "012151fa-b5cb-431b-8386-3afcf01cb838"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.3",
+            "objective_text": "Recall the 'Jesus Loves Me' truth.",
+            "objective_uuid": "02bf41be-8eb0-4580-8282-b35cf7905e53"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.4",
+            "objective_text": "Observe that we carry songs in our hearts.",
+            "objective_uuid": "bcb90d1f-985e-42d2-8033-331297aef0e4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.1",
+            "objective_text": "Sing a song to learn a Bible verse.",
+            "objective_uuid": "f8cdfc62-17b3-492f-8a84-f57e0bdf4849"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.5",
+            "objective_text": "Summarize how hymns teach us what we believe.",
+            "objective_uuid": "f14f5632-6c31-4a20-8457-97641e76e29a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.6",
+            "objective_text": "Explain the Apostles' Creed in song.",
+            "objective_uuid": "779c1113-8650-43ad-a785-1f5b1caa7e92"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.12",
+            "objective_text": "Explain the role of music in fighting temptation.",
+            "objective_uuid": "d0ae6a7a-8ef5-4d57-8cf0-9fbedb1bdb8b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.15",
+            "objective_text": "Defend the role of the arts in discipleship.",
+            "objective_uuid": "a425ef93-d05f-4f6f-ad05-23519b693823"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.7",
+            "objective_text": "Compare memorizing text vs. memorizing song.",
+            "objective_uuid": "760d0dbe-ba01-43be-a91f-74d91c45d83c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.9",
+            "objective_text": "Analyze Colossians 3:16 (teaching one another in psalms).",
+            "objective_uuid": "8b32491c-2a91-4065-ae69-c748fe14ff59"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.10",
+            "objective_text": "Interpret the pedagogical function of hymnody.",
+            "objective_uuid": "f670bde5-83e9-4f0e-b91e-9d41e5f62006"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.11",
+            "objective_text": "Connect music to the retention of truth.",
+            "objective_uuid": "40a77519-e1a9-45a5-ae00-738606e8482a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.14",
+            "objective_text": "Evaluate the effectiveness of music in catechesis history.",
+            "objective_uuid": "698202b1-3ac0-47db-8f2e-d9cabe00d480"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.13",
+            "objective_text": "Construct a playlist for specific pastoral needs (grief, doubt).",
+            "objective_uuid": "9f38fddf-30ff-4de3-b6bc-8981393c49ba"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 28,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.5",
+            "topic_name": "Worship Arts, Hymnody & Theology",
+            "sub_topic_id": "ART.4.5.5",
+            "sub_topic_name": "Music as Catechesis (Teaching doctrine through song)",
+            "objective_id": "ART.4.5.5.16",
+            "objective_text": "Synthesize the study of systematic theology with hymnology.",
+            "objective_uuid": "bfe1e3c5-564e-4550-9bff-95ed11741086"
+          }
+        ]
+      }
+    }
+  }
+}

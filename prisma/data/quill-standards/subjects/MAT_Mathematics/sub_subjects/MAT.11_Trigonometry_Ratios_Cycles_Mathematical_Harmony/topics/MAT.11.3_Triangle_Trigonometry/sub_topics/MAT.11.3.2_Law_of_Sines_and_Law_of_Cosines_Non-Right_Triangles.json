@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.3.2",
+    "name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+    "topic_id": "MAT.11.3",
+    "topic_name": "Triangle Trigonometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Law of Sines and Law of Cosines (Non-Right Triangles) in Triangle Trigonometry (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 14.85,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.1",
+            "objective_text": "Identify triangles that are not 'perfect' corners.",
+            "objective_uuid": "68756bb1-abd0-4ead-aee5-62564f69b160"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.2",
+            "objective_text": "Name a wide triangle (Obtuse).",
+            "objective_uuid": "4f646463-4dfe-46c8-bc0c-18612d1144d7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.8",
+            "objective_text": "Identify SAS vs. SSS cases.",
+            "objective_uuid": "4239c194-6f29-4bf3-bf7a-858dd2a8014d"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.3",
+            "objective_text": "Recall that we can measure any shape.",
+            "objective_uuid": "8bae61e5-a79c-4e77-82ec-27a1d9eaa4bd"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.4",
+            "objective_text": "Observe different triangles.",
+            "objective_uuid": "ebdaafb7-9089-4646-9724-ae2fa31be800"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.5",
+            "objective_text": "Summarize that SOH-CAH-TOA only works for Right Triangles.",
+            "objective_uuid": "a35eb2f9-ea0c-48b1-bfe8-1af52019c1e0"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.6",
+            "objective_text": "Explain that we need new rules for other triangles.",
+            "objective_uuid": "a1f9054c-0c37-4bdc-9c36-839e9be9dfdc"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.7",
+            "objective_text": "Draw the height (altitude) of a triangle.",
+            "objective_uuid": "bd2f2752-56e4-41b6-8167-d90b77dd6049"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.12",
+            "objective_text": "Explain solving for a missing side in an oblique triangle.",
+            "objective_uuid": "681ac58c-847d-4e70-b00c-e6b8d22b9387"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.15",
+            "objective_text": "Defend the Law of Cosines as a generalization of Pythagoras.",
+            "objective_uuid": "9869b648-c9bb-442a-a03d-7841b399a708"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.9",
+            "objective_text": "Analyze the area formula $Area = 1/2 ab sin(C)$.",
+            "objective_uuid": "250a8aa8-9a88-48dc-bb4a-d5a266ea910a"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.10",
+            "objective_text": "Interpret when to use Law of Sines (pairs).",
+            "objective_uuid": "e5eb7eb4-6f79-43eb-89d0-b0c1beaf034a"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.11",
+            "objective_text": "Connect the Law of Cosines to the Pythagorean Theorem.",
+            "objective_uuid": "7aa89b72-ae4c-431d-a687-10d2d34cc166"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.14",
+            "objective_text": "Evaluate the derivation of the Law of Sines.",
+            "objective_uuid": "76e10dcd-f776-4d05-88b7-758e99eaba32"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.13",
+            "objective_text": "Construct solutions for the Ambiguous Case (SSA).",
+            "objective_uuid": "f19da4c2-2704-4c44-9b7f-70a62c10f1b5"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.2",
+            "sub_topic_name": "Law of Sines and Law of Cosines (Non-Right Triangles)",
+            "objective_id": "MAT.11.3.2.16",
+            "objective_text": "Synthesize navigation vectors with oblique triangle trigonometry.",
+            "objective_uuid": "109d0231-86e8-430a-8f0e-7f64da092e81"
+          }
+        ]
+      }
+    }
+  }
+}

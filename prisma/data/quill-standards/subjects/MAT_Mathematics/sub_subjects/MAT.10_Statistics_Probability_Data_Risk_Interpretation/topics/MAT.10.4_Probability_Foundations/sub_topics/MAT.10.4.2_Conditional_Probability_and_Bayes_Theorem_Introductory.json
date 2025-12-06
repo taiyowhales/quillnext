@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.4.2",
+    "name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+    "topic_id": "MAT.10.4",
+    "topic_name": "Probability Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Conditional Probability and Bayes’ Theorem (Introductory) in Probability Foundations (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.1",
+            "objective_text": "Identify 'If... then...'.",
+            "objective_uuid": "9746ca8a-7aea-4408-b335-cc015f678919"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.3",
+            "objective_text": "Name a clue.",
+            "objective_uuid": "dc736290-51fa-43e7-85a6-464dc1c42f2b"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.8",
+            "objective_text": "Identify 'Given that...'.",
+            "objective_uuid": "acb89d40-a6e3-4aad-8cf6-9b454ea81f65"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.2",
+            "objective_text": "Recall that knowing one thing helps us guess another.",
+            "objective_uuid": "c0b5f9ba-418e-4688-a2f7-8a78a761bfa2"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.4",
+            "objective_text": "Observe dependencies.",
+            "objective_uuid": "a0ebf4f5-8234-4723-a60b-08ce42a4eb28"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.5",
+            "objective_text": "Summarize drawing from a bag without looking.",
+            "objective_uuid": "40882702-e2dc-4fa3-bfab-90de498ab330"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.6",
+            "objective_text": "Explain how taking a marble out changes the total.",
+            "objective_uuid": "1d4c9ca7-6ade-4eef-8842-4c88577ce484"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.7",
+            "objective_text": "Predict what is left in the bag.",
+            "objective_uuid": "0c34d47d-2669-42a4-9ddb-7513ec39bd11"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.12",
+            "objective_text": "Explain independence ($P(A|B) = P(A)$).",
+            "objective_uuid": "c13f56a2-5238-4d81-8def-0d3ce8ea0a25"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.15",
+            "objective_text": "Defend the counter-intuitive nature of conditional probability (Monty Hall).",
+            "objective_uuid": "ed5e6bf3-688f-46cc-9abd-8423328ea7c8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.9",
+            "objective_text": "Analyze Two-Way Tables to find conditional probabilities.",
+            "objective_uuid": "917420c5-dbc0-4fb9-b8d8-24cba6695d2c"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.10",
+            "objective_text": "Interpret 'Probability of A given B'.",
+            "objective_uuid": "6aadf199-959c-4da1-87f5-c9100e884c43"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.11",
+            "objective_text": "Connect context (medical tests) to false positives.",
+            "objective_uuid": "0113bbd8-59d8-4f75-98bc-97ebce5bf41e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.14",
+            "objective_text": "Evaluate posterior probabilities.",
+            "objective_uuid": "15d0281b-b8b3-4d16-8a09-5023a8d45f06"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.13",
+            "objective_text": "Construct calculations using Bayes' Theorem.",
+            "objective_uuid": "7ff51f3d-ca71-459b-8f28-57db34bc33ab"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.2",
+            "sub_topic_name": "Conditional Probability and Bayes’ Theorem (Introductory)",
+            "objective_id": "MAT.10.4.2.16",
+            "objective_text": "Synthesize logical inference with statistical data.",
+            "objective_uuid": "0c3586ab-fcb0-42f0-b89d-0bf56e939ca0"
+          }
+        ]
+      }
+    }
+  }
+}

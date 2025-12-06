@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.3.4.1",
+    "name": "Backstage Roles (stage management, crew organization)",
+    "topic_id": "ART.3.4",
+    "topic_name": "Theater Production & Technical Arts",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.3",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Backstage Roles (stage management, crew organization) in Theater Production & Technical Arts (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.1",
+            "objective_text": "Identify the people who move the set.",
+            "objective_uuid": "97aec820-249a-4abb-830e-7a7c3aa96205"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.2",
+            "objective_text": "Name the 'Boss' backstage.",
+            "objective_uuid": "6d0bb985-b442-4106-986c-d6cdfd8cff69"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.8",
+            "objective_text": "Identify the 'Call' (5 minutes to places).",
+            "objective_uuid": "4afe0992-b176-4a7f-8dbc-c98107b21b21"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.3",
+            "objective_text": "Recall that we must be quiet backstage.",
+            "objective_uuid": "4064fe31-5324-4e21-bd72-1740474e5c32"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.4",
+            "objective_text": "Observe the curtain opening and closing.",
+            "objective_uuid": "52245352-69eb-4d76-9621-1729c82934f0"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.5",
+            "objective_text": "Summarize the job of the Stage Crew.",
+            "objective_uuid": "63a3b101-0bb0-4dea-a8fe-d0b4aac2cddd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.6",
+            "objective_text": "Explain why safety is important in the dark.",
+            "objective_uuid": "8d018551-478c-4474-9937-6be1f0e02bc7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.12",
+            "objective_text": "Explain the hierarchy of the production team.",
+            "objective_uuid": "ea719b71-00ff-4e55-b2a2-48dbeccbb0bc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.15",
+            "objective_text": "Defend the authority of the Stage Manager during the run.",
+            "objective_uuid": "332dc55d-c06f-4da7-8f2b-0a57b7937016"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.7",
+            "objective_text": "Compare the actor's job with the crew's job.",
+            "objective_uuid": "6298e0e0-bf47-454f-b556-07c6aa2fcaee"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.9",
+            "objective_text": "Analyze the role of the Assistant Stage Manager (ASM).",
+            "objective_uuid": "f9b3c1d8-6cff-4a3b-8ac9-a6a9be61c8a6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.10",
+            "objective_text": "Interpret a scene shift diagram.",
+            "objective_uuid": "106d3408-5a5a-4599-aa7d-4d06a2c11310"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.11",
+            "objective_text": "Connect headset communication to smooth transitions.",
+            "objective_uuid": "847e33e1-4d61-49ba-bfe0-41cdf53fc847"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.14",
+            "objective_text": "Evaluate the efficiency of a scene change.",
+            "objective_uuid": "673425c4-e0c6-4e08-b8ba-0a4249b55737"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.13",
+            "objective_text": "Construct a Stage Manager's prompt book.",
+            "objective_uuid": "2305bd16-1d31-4dd1-b0bf-c99621350897"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.1",
+            "sub_topic_name": "Backstage Roles (stage management, crew organization)",
+            "objective_id": "ART.3.4.1.16",
+            "objective_text": "Synthesize leadership skills with technical knowledge.",
+            "objective_uuid": "325b0618-bd47-4049-b82e-7fcf5b4ea18e"
+          }
+        ]
+      }
+    }
+  }
+}

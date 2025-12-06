@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CFL.5.2.4",
+    "name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+    "topic_id": "CFL.5.2",
+    "topic_name": "Grammar and Structure (Applied)",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.5",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sentence Construction (Common word order patterns: SVO, SOV, VSO) in Grammar and Structure (Applied) (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.3",
+            "objective_text": "Name the period at the end.",
+            "objective_uuid": "3d029d7c-3f5a-492a-9998-f5406acd827f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.8",
+            "objective_text": "Identify the main verb.",
+            "objective_uuid": "37d45c86-74aa-41cd-8e7b-5d191d474155"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.2",
+            "objective_text": "Recall that order changes meaning.",
+            "objective_uuid": "58809283-ad42-4e29-ab0f-16b8a5115b07"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.1",
+            "objective_text": "Put words in order to make a sentence.",
+            "objective_uuid": "6cff5292-997d-4d18-8864-5cb546edc47d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.4",
+            "objective_text": "Say a complete thought.",
+            "objective_uuid": "bb68f719-ed82-43ed-866c-884c85086cab"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.5",
+            "objective_text": "Summarize the standard order (e.g., Subject-Verb-Object).",
+            "objective_uuid": "cc5b8053-2316-4748-af87-fbd7d84567a8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.6",
+            "objective_text": "Explain how to ask a question (inversion or question word).",
+            "objective_uuid": "eaf31a6e-36d3-473d-9717-457ad37c33b7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.12",
+            "objective_text": "Explain verb placement rules (e.g., German V2 rule).",
+            "objective_uuid": "42973d8d-76c6-44e8-baee-e17863b4a243"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.15",
+            "objective_text": "Defend the natural flow of the target language.",
+            "objective_uuid": "9e1a2e15-77ec-4bf4-ad1c-3ccc96aa03b9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.9",
+            "objective_text": "Analyze subordinate clauses ('because...', 'when...').",
+            "objective_uuid": "6c7828f2-141d-4804-af1e-fbeeea777393"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.10",
+            "objective_text": "Interpret word order emphasis.",
+            "objective_uuid": "b40d1b29-49b8-4e64-8ed0-3e1511264081"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.11",
+            "objective_text": "Connect conjunctions to sentence length.",
+            "objective_uuid": "26b38755-781f-4252-8f96-de55e64af199"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.14",
+            "objective_text": "Evaluate stylistic variations.",
+            "objective_uuid": "9b7c7f01-d9c2-46fb-b0f9-bed7e31a794d"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.16",
+            "objective_text": "Synthesize syntax rules with vocabulary.",
+            "objective_uuid": "c7c189f9-d8c9-4127-8a38-9a6c011b5564"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.7",
+            "objective_text": "Create a negative sentence ('I do not...').",
+            "objective_uuid": "69501409-55f9-41c7-a107-0fb3f7d927fd"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.5",
+            "sub_subject_name": "Modern Foreign Languages (Global Literacy & Missions Focus)",
+            "topic_id": "CFL.5.2",
+            "topic_name": "Grammar and Structure (Applied)",
+            "sub_topic_id": "CFL.5.2.4",
+            "sub_topic_name": "Sentence Construction (Common word order patterns: SVO, SOV, VSO)",
+            "objective_id": "CFL.5.2.4.13",
+            "objective_text": "Construct complex compound sentences.",
+            "objective_uuid": "5ed89529-1881-402d-891a-388483167971"
+          }
+        ]
+      }
+    }
+  }
+}

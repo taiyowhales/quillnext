@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.5.4",
+    "name": "Systems of Linear Inequalities",
+    "topic_id": "MAT.1.5",
+    "topic_name": "Linear Relationships and Systems",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Systems of Linear Inequalities in Linear Relationships and Systems (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.1",
+            "objective_text": "Identify the overlapping shaded part.",
+            "objective_uuid": "6006cf79-7b8d-46d0-bc24-c7ee8f7cf533"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.3",
+            "objective_text": "Name the safe zone.",
+            "objective_uuid": "d9641b8a-fe0c-47fc-9b1b-14fa9205df67"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.8",
+            "objective_text": "Identify the solution area.",
+            "objective_uuid": "a737e1e8-5cc4-4ef7-b594-85518254e04e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.2",
+            "objective_text": "Recall that we need both things to be true.",
+            "objective_uuid": "bb652d29-a156-40eb-87f9-74407f2a4968"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.4",
+            "objective_text": "Observe boundaries.",
+            "objective_uuid": "67031ac1-9491-4371-bd51-432e888c1157"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.5",
+            "objective_text": "Summarize graphing two inequalities.",
+            "objective_uuid": "c152823d-57f5-49a4-a2d9-d6d4b5de65d2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.6",
+            "objective_text": "Explain the double-shaded region.",
+            "objective_uuid": "e256adcb-9baf-49b9-b868-5a55ea0b6d05"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.7",
+            "objective_text": "Check a point to see if it works.",
+            "objective_uuid": "7718b1ed-445f-4594-8c74-fa36221b9016"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.12",
+            "objective_text": "Explain feasible regions.",
+            "objective_uuid": "88019612-b3b7-4320-9912-ea1ff8d254ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.15",
+            "objective_text": "Defend the solution optimization.",
+            "objective_uuid": "72e1e7b5-fb26-43b8-b02d-4b728418bf5d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.9",
+            "objective_text": "Analyze systems to define a polygon on the plane.",
+            "objective_uuid": "94a9e7b9-b2e5-412e-81b0-fa3e78df666a"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.10",
+            "objective_text": "Interpret constraints in word problems.",
+            "objective_uuid": "4b7b1115-1dd1-43b7-8803-37769475fcf4"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.11",
+            "objective_text": "Connect vertices to critical points.",
+            "objective_uuid": "702f3147-a9ab-48e5-9ac3-4fad2a20f61a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.14",
+            "objective_text": "Evaluate vertices of the feasible region.",
+            "objective_uuid": "61300fc5-d352-498d-8735-40710acc571a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.13",
+            "objective_text": "Construct Linear Programming models to maximize profit.",
+            "objective_uuid": "86115e6f-e1a5-405d-8a40-ca2e9f2043be"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.4",
+            "sub_topic_name": "Systems of Linear Inequalities",
+            "objective_id": "MAT.1.5.4.16",
+            "objective_text": "Synthesize economics with algebraic modeling.",
+            "objective_uuid": "acf02a44-ebe4-4766-bccc-d4a699e267ce"
+          }
+        ]
+      }
+    }
+  }
+}

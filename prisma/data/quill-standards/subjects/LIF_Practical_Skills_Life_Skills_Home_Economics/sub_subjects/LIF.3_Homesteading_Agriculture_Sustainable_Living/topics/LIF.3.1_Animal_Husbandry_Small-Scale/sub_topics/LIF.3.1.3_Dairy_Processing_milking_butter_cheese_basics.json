@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.1.3",
+    "name": "Dairy Processing (milking, butter, cheese basics)",
+    "topic_id": "LIF.3.1",
+    "topic_name": "Animal Husbandry (Small-Scale)",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Dairy Processing (milking, butter, cheese basics) in Animal Husbandry (Small-Scale) (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.1",
+            "objective_text": "Identify milk coming from a cow or goat.",
+            "objective_uuid": "72ab9c1a-7f4c-4fa6-8a92-ec2f67298143"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.8",
+            "objective_text": "Identify whey and curds.",
+            "objective_uuid": "3b98141d-3494-48ec-903f-6634b6de903c"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.3",
+            "objective_text": "Recall that cheese is made from milk.",
+            "objective_uuid": "30b3aaf1-ca88-4b63-af75-00c95b2b029c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 7,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.2",
+            "objective_text": "Shake cream to make butter.",
+            "objective_uuid": "37330d80-a06c-480f-862a-ae4bce4e97dc"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.4",
+            "objective_text": "Taste different cheeses.",
+            "objective_uuid": "33ac0da3-3aa6-4a31-8844-694bdaf6a63c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.5",
+            "objective_text": "Summarize how butter is made (fat clumping).",
+            "objective_uuid": "d73717f8-647f-4fb2-baf0-238b20fb33ed"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.6",
+            "objective_text": "Explain pasteurization (heating to kill germs).",
+            "objective_uuid": "eadb20d3-7c7b-4672-9128-75e7faafaee2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.7",
+            "objective_text": "Make soft cheese (ricotta/paneer).",
+            "objective_uuid": "4716140d-839e-49fb-81ec-fe3c3cff6b4c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.12",
+            "objective_text": "Explain the difference between raw and pasteurized.",
+            "objective_uuid": "5148416f-2889-4fb0-a3e9-ec26aa6f6a21"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.15",
+            "objective_text": "Defend the nutritional value of dairy traditions.",
+            "objective_uuid": "f0370341-7bd0-4354-ac1a-e714c7f99d6e"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.10",
+            "objective_text": "Interpret the fermentation process in yogurt.",
+            "objective_uuid": "a4b5bd14-3ccd-47b6-a491-8cf7099647dc"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.11",
+            "objective_text": "Connect hygiene to milk quality.",
+            "objective_uuid": "1646cc8a-54cb-4749-acc4-ff9916ce595e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.14",
+            "objective_text": "Evaluate the safety protocols for raw milk.",
+            "objective_uuid": "bbe56c15-2609-41e7-bbde-a1a600942d5a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.9",
+            "objective_text": "Analyze the chemistry of coagulation (rennet/acid).",
+            "objective_uuid": "13582ee7-1750-4365-bd70-8ad2e27d2710"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.13",
+            "objective_text": "Construct a plan for home dairy production.",
+            "objective_uuid": "e49a9e5d-f958-4ece-8955-bed2f69d9b7f"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.3",
+            "sub_topic_name": "Dairy Processing (milking, butter, cheese basics)",
+            "objective_id": "LIF.3.1.3.16",
+            "objective_text": "Synthesize microbiology with culinary skill.",
+            "objective_uuid": "14de6c3b-7f90-41c2-a6ed-f9342cd5a753"
+          }
+        ]
+      }
+    }
+  }
+}

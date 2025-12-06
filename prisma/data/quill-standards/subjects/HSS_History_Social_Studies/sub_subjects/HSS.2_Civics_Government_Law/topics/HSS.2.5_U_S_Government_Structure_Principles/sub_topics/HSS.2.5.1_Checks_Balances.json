@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.5.1",
+    "name": "Checks & Balances",
+    "topic_id": "HSS.2.5",
+    "topic_name": "U.S. Government Structure & Principles",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Checks & Balances in U.S. Government Structure & Principles (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.1",
+            "objective_text": "Identify that the President can say 'No' (Veto).",
+            "objective_uuid": "1c42b179-0401-4111-a3a1-2fcc565dd449"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.2",
+            "objective_text": "Name the Supreme Court as the referee.",
+            "objective_uuid": "27d1d2b9-babd-4c0a-8a91-377dd9452a6a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.8",
+            "objective_text": "Identify Impeachment (firing a leader).",
+            "objective_uuid": "af337529-b589-460e-bd9b-ba4952038193"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.3",
+            "objective_text": "Recall that they watch each other.",
+            "objective_uuid": "8b5a8c5d-c02d-4440-9b72-8ce42f99f8b7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.4",
+            "objective_text": "Observe that it is hard to change the rules.",
+            "objective_uuid": "1aa1a471-2b40-48fc-bb40-f34debe0d5c2"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.5",
+            "objective_text": "Summarize how a Bill becomes a Law.",
+            "objective_uuid": "db031b59-2830-41be-9528-b504de5be69b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.6",
+            "objective_text": "Explain what a Veto is.",
+            "objective_uuid": "89db4eb9-0aab-4214-944b-91694b14e133"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.12",
+            "objective_text": "Explain how gridlock protects liberty.",
+            "objective_uuid": "5bf93d93-e53b-485f-bd19-fc06bcd89abf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.15",
+            "objective_text": "Defend the Senate filibuster (protection of minority).",
+            "objective_uuid": "8e099bfd-136a-4de9-8cfb-3b9bd8536ce1"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.7",
+            "objective_text": "Compare the power of the President with the power of Congress.",
+            "objective_uuid": "62144323-b1ee-494e-a845-3a4f2b348ff2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.9",
+            "objective_text": "Analyze the Veto Override process.",
+            "objective_uuid": "80da0979-3c29-47e8-9967-d0bf1f7ba58b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.10",
+            "objective_text": "Interpret Judicial Review (declaring laws unconstitutional).",
+            "objective_uuid": "8969457e-f898-4691-8664-da2b7d51a479"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.11",
+            "objective_text": "Connect Senate confirmation to Presidential appointments.",
+            "objective_uuid": "6fe7e47a-debb-4d4f-9c3c-c2c9f1bd6da3"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.13",
+            "objective_text": "Construct a case study of a Constitutional crisis.",
+            "objective_uuid": "9b8fc9e6-fc4c-414f-bdbd-5189286c6812"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.16",
+            "objective_text": "Synthesize the dynamic tension between the branches.",
+            "objective_uuid": "8b3cef4d-28dc-480a-961d-cd5d51d9d923"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.1",
+            "sub_topic_name": "Checks & Balances",
+            "objective_id": "HSS.2.5.1.14",
+            "objective_text": "Evaluate the effectiveness of checks in the modern era.",
+            "objective_uuid": "d4eaa3a0-d114-4910-8a15-ce017b91bee9"
+          }
+        ]
+      }
+    }
+  }
+}

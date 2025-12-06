@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.4.2",
+    "name": "Patterns and Relationships (Input/Output)",
+    "topic_id": "MAT.1.4",
+    "topic_name": "Foundations of Algebraic Thinking",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Patterns and Relationships (Input/Output) in Foundations of Algebraic Thinking (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.1",
+            "objective_text": "Identify a pattern rule (add 1 each time).",
+            "objective_uuid": "9d3ae68f-dd14-41f2-b87c-4392a16a61c0"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.8",
+            "objective_text": "Identify the relationship between two columns.",
+            "objective_uuid": "915f83ab-4133-4893-b0e7-26fa83da3112"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.3",
+            "objective_text": "Recall that machines change things (Input -> Output).",
+            "objective_uuid": "6a4d12a6-077a-401e-91cd-7f3d6fe9de1f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.4",
+            "objective_text": "Observe a number growing.",
+            "objective_uuid": "684bb74f-11a0-4b02-bee0-a2d4d6ff7cc3"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.2",
+            "objective_text": "Predict the next number.",
+            "objective_uuid": "e83ccd4e-03e9-441f-b154-066dd30d42f4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.5",
+            "objective_text": "Summarize a function table (Input/Output).",
+            "objective_uuid": "94e2bb4b-cd98-4808-a67e-9f56c631aa7d"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.6",
+            "objective_text": "Explain the rule in words (multiply by 2, then add 1).",
+            "objective_uuid": "81af0275-70f5-45f1-a242-5e05c48fa229"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.7",
+            "objective_text": "Find the missing output.",
+            "objective_uuid": "665132e3-f2d4-4468-a6be-df91af3c356e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.12",
+            "objective_text": "Explain the vertical line test (conceptually).",
+            "objective_uuid": "0e2e80ee-7ee9-491e-a3ab-47ee22a23029"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.15",
+            "objective_text": "Defend the definition of a function.",
+            "objective_uuid": "f1378921-2643-4c1a-b516-42e3f0d79190"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.9",
+            "objective_text": "Analyze the difference between linear and non-linear patterns.",
+            "objective_uuid": "b77de0cf-4c5b-4415-9a60-416c061408ef"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.10",
+            "objective_text": "Interpret a graph from a table.",
+            "objective_uuid": "17188f2f-b6ad-451c-8615-7027f6bd9a2b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.11",
+            "objective_text": "Connect independent ($x$) and dependent ($y$) variables.",
+            "objective_uuid": "f814d329-f54a-45bf-be57-2abf170c7cdb"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.14",
+            "objective_text": "Evaluate the domain and range of a relation.",
+            "objective_uuid": "95cffc8d-33a3-4468-93b9-d8ae2c7141a0"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.13",
+            "objective_text": "Construct recursive and explicit formulas for patterns.",
+            "objective_uuid": "b31d74d8-74fa-424d-8a7b-7de644f0c658"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.2",
+            "sub_topic_name": "Patterns and Relationships (Input/Output)",
+            "objective_id": "MAT.1.4.2.16",
+            "objective_text": "Synthesize sequences as functions.",
+            "objective_uuid": "592b2b22-1842-45d5-8c36-0c4fa95f66d9"
+          }
+        ]
+      }
+    }
+  }
+}

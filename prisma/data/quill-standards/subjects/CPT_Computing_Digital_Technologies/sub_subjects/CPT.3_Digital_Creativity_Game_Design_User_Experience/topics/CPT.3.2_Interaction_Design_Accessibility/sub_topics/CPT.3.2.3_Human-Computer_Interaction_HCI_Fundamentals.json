@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.2.3",
+    "name": "Human-Computer Interaction (HCI Fundamentals)",
+    "topic_id": "CPT.3.2",
+    "topic_name": "Interaction Design & Accessibility",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Human-Computer Interaction (HCI Fundamentals) in Interaction Design & Accessibility (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.1",
+            "objective_text": "Identify pushing a button.",
+            "objective_uuid": "277182c1-5478-4d40-9e7d-0a5261b4df4d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.3",
+            "objective_text": "Recall that computers help us do things.",
+            "objective_uuid": "4495fbd6-bf75-4be3-aa0e-3f60da53f4bc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.4",
+            "objective_text": "Observe that buttons change when clicked.",
+            "objective_uuid": "ef0ff400-3e07-47cd-88f0-e2be23ef6f7f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.7",
+            "objective_text": "Identify clear vs. confusing icons.",
+            "objective_uuid": "42f82d38-921d-4687-b464-50045fe76c6c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.2",
+            "objective_text": "Use a touch screen vs. a mouse.",
+            "objective_uuid": "e1468f5e-30a8-443e-ab04-5c94b52e07a0"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.5",
+            "objective_text": "Summarize 'Feedback' (knowing you clicked).",
+            "objective_uuid": "c0f1b0b7-59d4-47f8-bccd-2a1af9bf355e"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.6",
+            "objective_text": "Explain why buttons need labels.",
+            "objective_uuid": "6e50f000-af00-4ad2-8add-d1ea149f0c2a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.12",
+            "objective_text": "Explain the User Interface (UI).",
+            "objective_uuid": "680799bf-f9c7-409c-9ffb-4449ef857c36"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.15",
+            "objective_text": "Defend the user's mental model.",
+            "objective_uuid": "e417194d-ac6b-4731-9af7-b2c59585a35c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.8",
+            "objective_text": "Compare using a controller vs. a keyboard.",
+            "objective_uuid": "3ee37ee4-9492-4a83-af08-9bc3a8ad1668"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.9",
+            "objective_text": "Analyze Fitts' Law (size and distance of targets).",
+            "objective_uuid": "ab06121a-e663-47be-923f-0eb5f82b9408"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.10",
+            "objective_text": "Interpret affordances (does it look clickable?).",
+            "objective_uuid": "2fb8ed43-1df3-4be1-a79c-766c913e2e66"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.11",
+            "objective_text": "Connect consistency to ease of use.",
+            "objective_uuid": "fa6d3ee4-73b2-4560-b93d-95d24da0c95d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.14",
+            "objective_text": "Evaluate error prevention mechanisms.",
+            "objective_uuid": "9159b0cf-d4b5-415b-973b-f0c710f92c89"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.13",
+            "objective_text": "Construct a heuristic evaluation of an interface.",
+            "objective_uuid": "37aa6a3a-7edf-4484-b37c-594601f65f87"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.3",
+            "sub_topic_name": "Human-Computer Interaction (HCI Fundamentals)",
+            "objective_id": "CPT.3.2.3.16",
+            "objective_text": "Synthesize psychology with interface design.",
+            "objective_uuid": "0ebd1677-0c8e-4cd2-b15f-5de4c603a28e"
+          }
+        ]
+      }
+    }
+  }
+}

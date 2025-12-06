@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.10.3.2",
+    "name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+    "topic_id": "BIB.10.3",
+    "topic_name": "Worship and Liturgy",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.10",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Elements of Corporate Worship (Word, Sacrament, Prayer) in Worship and Liturgy (Bible & Theology)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.1",
+            "objective_text": "Identify singing, praying, and listening.",
+            "objective_uuid": "eea315c6-b68d-4018-aa6d-be51859e2139"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.2",
+            "objective_text": "Name the sermon.",
+            "objective_uuid": "5ec1f6cc-7347-4b40-b88b-94a401461df7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.8",
+            "objective_text": "Identify the Benediction (Blessing).",
+            "objective_uuid": "b11d14b3-7a67-4af8-b66f-a4317aeaed27"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.3",
+            "objective_text": "Recall that we do this together.",
+            "objective_uuid": "f37ac7b3-88d7-47ef-a013-73debf32206c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.4",
+            "objective_text": "Observe the reading of the Bible.",
+            "objective_uuid": "b44e4788-086b-4692-ae23-2047576f2a90"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.5",
+            "objective_text": "Summarize the dialogical nature of worship (God speaks, we respond).",
+            "objective_uuid": "5b64cbb7-cf60-44e2-814c-e561ab62a941"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.6",
+            "objective_text": "Explain the Call to Worship.",
+            "objective_uuid": "c61051db-3c8e-4e94-8b47-a34dc617d9db"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.12",
+            "objective_text": "Explain the 'Ordinary Means of Grace'.",
+            "objective_uuid": "b42128e8-7429-473d-9a5c-fafd7c10c205"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.15",
+            "objective_text": "Defend the necessity of preaching.",
+            "objective_uuid": "7008eeab-dc43-4d9f-934d-15de1a03b293"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.7",
+            "objective_text": "Compare private prayer with corporate prayer.",
+            "objective_uuid": "a262a5ff-060d-40f4-830c-359dcd7d4b0d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.9",
+            "objective_text": "Analyze the centrality of the Word.",
+            "objective_uuid": "9d913458-6821-4962-8bf4-3aaf54150ed5"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.10",
+            "objective_text": "Interpret the function of Confession and Assurance.",
+            "objective_uuid": "9e52000e-0180-4072-8698-e455ca479f7e"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.11",
+            "objective_text": "Connect the Offering to worship.",
+            "objective_uuid": "e0c1313b-d22c-4722-b4d7-e68d806673e5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.14",
+            "objective_text": "Evaluate the role of music (teaching vs. feeling).",
+            "objective_uuid": "b47d1fba-5ab1-4eda-a153-caa357df8fcd"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.13",
+            "objective_text": "Construct a theology of the gathered assembly.",
+            "objective_uuid": "f1a6e8ea-d1a0-4e87-9c2f-ac0c19fce230"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.10",
+            "sub_subject_name": "Practical Theology & Christian Living",
+            "topic_id": "BIB.10.3",
+            "topic_name": "Worship and Liturgy",
+            "sub_topic_id": "BIB.10.3.2",
+            "sub_topic_name": "Elements of Corporate Worship (Word, Sacrament, Prayer)",
+            "objective_id": "BIB.10.3.2.16",
+            "objective_text": "Synthesize the structure of covenant renewal.",
+            "objective_uuid": "675f8a86-e243-4bad-96d8-30fa50f77e5b"
+          }
+        ]
+      }
+    }
+  }
+}

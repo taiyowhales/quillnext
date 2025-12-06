@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.2.2",
+    "name": "Data Collection Methods",
+    "topic_id": "GEO.1.2",
+    "topic_name": "Fieldwork Enquiry",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Collection Methods in Fieldwork Enquiry (Geography)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 7.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.5",
+            "objective_text": "Conduct a simple survey (asking people questions).",
+            "objective_uuid": "4b10ad9b-5710-4f0a-84bf-9cb397b3028c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.12",
+            "objective_text": "Collect both quantitative (numbers) and qualitative (words/feelings) data.",
+            "objective_uuid": "4765212f-a783-47e3-af4d-611fa768374a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 9,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.1",
+            "objective_text": "Count things and use tally marks.",
+            "objective_uuid": "19ac883a-ed60-42ef-befd-a5cedd6ab593"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.2",
+            "objective_text": "Take pictures of what we see.",
+            "objective_uuid": "4f132b49-f522-4a60-923b-5e845e8af836"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.3",
+            "objective_text": "Draw a picture of the place.",
+            "objective_uuid": "3ccc88e5-09df-4c15-a900-f7e35e898b7f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.4",
+            "objective_text": "Collect leaves or rocks (if allowed).",
+            "objective_uuid": "99214670-aca3-48ba-a053-859e40437a8b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.6",
+            "objective_text": "Use a thermometer or rain gauge.",
+            "objective_uuid": "83d63947-eb9d-4ea5-8612-b0a67a689ec3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.7",
+            "objective_text": "Record data in a pre-made table.",
+            "objective_uuid": "7762059b-5be0-4f6e-a996-56cba17327c9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.8",
+            "objective_text": "Use 'Random Sampling' (picking spots by chance).",
+            "objective_uuid": "3e98591c-2e6e-41f4-ae81-8511da1ed20b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.10",
+            "objective_text": "Use technical equipment (clinometer, flow meter) correctly.",
+            "objective_uuid": "5fe7dc9a-63aa-49b3-9bd4-a3e460432255"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.15",
+            "objective_text": "Perform complex measurements (infiltration rates, sediment analysis).",
+            "objective_uuid": "6616a95a-a49f-4b11-af22-4f88cc88813a"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.9",
+            "objective_text": "Analyze the difference between Random, Systematic, and Stratified sampling.",
+            "objective_uuid": "980bceee-d3f7-4324-8a7a-bf68e6d7701a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.14",
+            "objective_text": "Evaluate the sample size needed for statistical validity.",
+            "objective_uuid": "472e636b-9dd1-45a0-8f2f-7928d602144a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 17.33,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.16",
+            "objective_text": "Synthesize primary data collection with secondary data sources.",
+            "objective_uuid": "8ccc596c-3f11-4d1c-91dc-8fecf6ea5a0b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.11",
+            "objective_text": "Design a questionnaire to avoid bias.",
+            "objective_uuid": "b048b96d-af75-4aec-ba8e-40611cf34d6a"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.2",
+            "sub_topic_name": "Data Collection Methods",
+            "objective_id": "GEO.1.2.2.13",
+            "objective_text": "Construct a rigorous sampling strategy to minimize bias.",
+            "objective_uuid": "83e406ac-b041-43e6-bad8-c6f613f87493"
+          }
+        ]
+      }
+    }
+  }
+}

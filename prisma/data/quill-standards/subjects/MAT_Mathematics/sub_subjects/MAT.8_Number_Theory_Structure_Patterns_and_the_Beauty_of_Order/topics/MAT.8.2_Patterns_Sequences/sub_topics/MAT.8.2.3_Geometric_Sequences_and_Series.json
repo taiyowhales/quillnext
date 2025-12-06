@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.2.3",
+    "name": "Geometric Sequences and Series",
+    "topic_id": "MAT.8.2",
+    "topic_name": "Patterns & Sequences",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Geometric Sequences and Series in Patterns & Sequences (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.1",
+            "objective_text": "Identify a pattern that doubles.",
+            "objective_uuid": "129ca227-229e-4f2f-b47a-1c8af6a87727"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.2",
+            "objective_text": "Name 2, 4, 8, 16.",
+            "objective_uuid": "ec5c24d9-25d2-40f7-ad72-3db7d88f83d6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.8",
+            "objective_text": "Identify powers of 2.",
+            "objective_uuid": "1dae880e-30a0-4ed2-8cf5-37e0dc5cfe62"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.3",
+            "objective_text": "Recall that it gets big very fast.",
+            "objective_uuid": "d0e4daea-7a9d-4558-b006-418e2437e560"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.4",
+            "objective_text": "Observe rapid growth.",
+            "objective_uuid": "a241805b-a50f-4e98-9007-cb3fdf2f71be"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.5",
+            "objective_text": "Summarize multiplying patterns.",
+            "objective_uuid": "c6893cc9-15c6-4a83-b147-d9da09fa99a8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.6",
+            "objective_text": "Explain the rule (e.g., Multiply by 3).",
+            "objective_uuid": "e16c4599-ee6a-4314-90cd-5ad8186b0f54"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.7",
+            "objective_text": "Find the next term in 3, 9, 27...",
+            "objective_uuid": "ef7ac151-de20-49ef-84b4-1590ccc7a894"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.12",
+            "objective_text": "Explain compound interest as a geometric sequence.",
+            "objective_uuid": "769b52b0-f9c5-4948-b2fb-798a4e6ef007"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.15",
+            "objective_text": "Defend Zeno's Paradox using series limits.",
+            "objective_uuid": "05e82697-0cea-495b-908d-d868486b219d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.9",
+            "objective_text": "Analyze the common ratio ($r$).",
+            "objective_uuid": "81ce355f-2546-4ad3-b3ae-3b466bce097e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.10",
+            "objective_text": "Interpret the formula $a_n = a_1 \\times r^{(n-1)}$.",
+            "objective_uuid": "da41ae61-722d-4fb9-be0e-df7c6392cbea"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.11",
+            "objective_text": "Connect geometric sequences to exponential growth.",
+            "objective_uuid": "ace58b46-8f36-4158-842f-4c5c6de94737"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.14",
+            "objective_text": "Evaluate infinite geometric series (convergence/divergence).",
+            "objective_uuid": "c87b7f07-f3cb-4116-b966-72d457283326"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.13",
+            "objective_text": "Construct the formula for the sum of a finite geometric series.",
+            "objective_uuid": "fec2e184-5bd8-43a0-986d-02d9a3724522"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.3",
+            "sub_topic_name": "Geometric Sequences and Series",
+            "objective_id": "MAT.8.2.3.16",
+            "objective_text": "Synthesize fractals with geometric series.",
+            "objective_uuid": "6f46872e-d8ee-4740-93d8-4e876235421f"
+          }
+        ]
+      }
+    }
+  }
+}

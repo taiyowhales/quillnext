@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.2.5",
+    "name": "Stocks, Bonds, Mutual Funds, and ETFs",
+    "topic_id": "MAT.3.2",
+    "topic_name": "Investing (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Stocks, Bonds, Mutual Funds, and ETFs in Investing (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.1",
+            "objective_text": "Identify owning a piece of a company.",
+            "objective_uuid": "16e58912-3580-49a2-af58-ad7d8cf9193f"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.2",
+            "objective_text": "Name a store I like.",
+            "objective_uuid": "e03fd427-d3fa-4042-a899-ffaa71574004"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.7",
+            "objective_text": "Identify a Mutual Fund (basket of stocks).",
+            "objective_uuid": "ea09d91f-727c-45f9-b4d4-c893e8efb00f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.3",
+            "objective_text": "Recall that businesses make money.",
+            "objective_uuid": "6af6354f-a5ff-4372-a216-cef75881fc1a"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.4",
+            "objective_text": "Observe a stock ticker.",
+            "objective_uuid": "626d0966-5a1b-4e0f-8776-c52c170b31d5"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.5",
+            "objective_text": "Summarize a Stock (share) vs. Bond (loan).",
+            "objective_uuid": "bb8bd3bd-9f60-4ee4-93ea-35e814f121c8"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.6",
+            "objective_text": "Explain profit and loss.",
+            "objective_uuid": "c964e258-e955-438e-8624-fcaf44abde83"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.12",
+            "objective_text": "Explain the difference between active and passive investing.",
+            "objective_uuid": "8f9c4fe7-2aa3-43c2-b262-cfb07d3a7483"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.15",
+            "objective_text": "Defend index fund investing.",
+            "objective_uuid": "8df434f5-5e63-40a4-880e-1dc306ca532c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.8",
+            "objective_text": "Compare risky vs. safe investments.",
+            "objective_uuid": "26f0089c-1cf7-48a3-b860-2bee671aec81"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.9",
+            "objective_text": "Analyze the S&P 500.",
+            "objective_uuid": "4b50ce08-e9cf-43f6-8ed9-3a51080d1851"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.10",
+            "objective_text": "Interpret dividends.",
+            "objective_uuid": "2d9aacbe-61c4-4197-83a7-dcde8a358d01"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.11",
+            "objective_text": "Connect company performance to stock price.",
+            "objective_uuid": "67dc2cf2-8eff-4f3a-9525-2ab6c0352283"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.14",
+            "objective_text": "Evaluate the fee structures of funds (expense ratios).",
+            "objective_uuid": "bd0fd898-f95a-44f5-ab10-208e1dbfeda7"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.13",
+            "objective_text": "Construct a hypothetical portfolio allocation.",
+            "objective_uuid": "26b003d7-1316-4202-9a7b-ef40631fd6a3"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.2",
+            "topic_name": "Investing (Introductory)",
+            "sub_topic_id": "MAT.3.2.5",
+            "sub_topic_name": "Stocks, Bonds, Mutual Funds, and ETFs",
+            "objective_id": "MAT.3.2.5.16",
+            "objective_text": "Synthesize statistical variance with risk.",
+            "objective_uuid": "d2460894-3681-4c25-9d25-c17438fdc17d"
+          }
+        ]
+      }
+    }
+  }
+}

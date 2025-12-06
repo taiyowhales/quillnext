@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.1.3",
+    "name": "High-Frequency/Sight Words",
+    "topic_id": "ELA.8.1",
+    "topic_name": "Early Reading Foundations",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for High-Frequency/Sight Words in Early Reading Foundations (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.7",
+            "objective_text": "Identify homophones (there/their/they're) correctly.",
+            "objective_uuid": "9bc90df5-de9c-4806-a5b7-6f3beaf5b87e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.1",
+            "objective_text": "Recognize the 100 most common words instantly.",
+            "objective_uuid": "23f0bf87-507f-4891-84fc-1a290ccee123"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.5",
+            "objective_text": "Recognize the 1,000 most common words instantly.",
+            "objective_uuid": "efce502b-2c17-4ba6-af78-26ba4cc8b6cb"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 4.5,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.4",
+            "objective_text": "Read simple sentences fluently without stopping for every word.",
+            "objective_uuid": "a2ed42c1-7bc3-4fc0-ac47-0f39f63d005b"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.15",
+            "objective_text": "Defend the need for precise vocabulary over common words in academic writing.",
+            "objective_uuid": "6bf3699a-0b1c-4d1c-b078-dd082a45fe3f"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.2",
+            "objective_text": "Read 'rule-breaker' words that can't be sounded out (said, was).",
+            "objective_uuid": "fc75ea2b-947a-4e84-9ca8-a59e5f01c885"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.3",
+            "objective_text": "Spell common sight words correctly in writing.",
+            "objective_uuid": "9d06e908-f050-4f62-a354-cdb8a5fad902"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.6",
+            "objective_text": "Spell high-frequency words correctly in all written work.",
+            "objective_uuid": "fe3816d8-8145-47e4-8d94-000a68743a77"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.8",
+            "objective_text": "Read fluent prose without hesitation on common words.",
+            "objective_uuid": "7a87efe2-a991-4e1e-91c9-4602fff14f19"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.12",
+            "objective_text": "Explain the difference between sight recognition and phonetic decoding.",
+            "objective_uuid": "f25c9296-022d-45ca-b6b4-087c389dc6ed"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.9",
+            "objective_text": "Analyze why certain words became high-frequency in English.",
+            "objective_uuid": "09706697-a52b-430e-a0ec-cc5cb70f7c17"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.10",
+            "objective_text": "Interpret the usage of common academic transition words (however, therefore).",
+            "objective_uuid": "e7779e20-1d50-4b78-9e73-b452cccf4566"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.11",
+            "objective_text": "Connect sight word fluency to reading stamina.",
+            "objective_uuid": "8a8f6f66-f94d-4f9b-a3f9-8b72a918a780"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.14",
+            "objective_text": "Evaluate the impact of repetitive language in a text.",
+            "objective_uuid": "b72b2ae3-f8f4-4db0-96d4-6edc1b514beb"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.13",
+            "objective_text": "Construct a sophisticated vocabulary beyond high-frequency words.",
+            "objective_uuid": "8fdc6c01-8968-4a7d-9f60-a4d003590a89"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.3",
+            "sub_topic_name": "High-Frequency/Sight Words",
+            "objective_id": "ELA.8.1.3.16",
+            "objective_text": "Synthesize a broad sight vocabulary to read at a collegiate speed.",
+            "objective_uuid": "80481b2f-5e95-49aa-8f36-dc16ef5dc4c5"
+          }
+        ]
+      }
+    }
+  }
+}

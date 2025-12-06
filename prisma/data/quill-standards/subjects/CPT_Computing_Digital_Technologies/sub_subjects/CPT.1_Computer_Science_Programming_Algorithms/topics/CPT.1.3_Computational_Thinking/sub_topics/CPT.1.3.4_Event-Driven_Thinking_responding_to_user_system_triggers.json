@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.3.4",
+    "name": "Event-Driven Thinking (responding to user/system triggers)",
+    "topic_id": "CPT.1.3",
+    "topic_name": "Computational Thinking",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Event-Driven Thinking (responding to user/system triggers) in Computational Thinking (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.1",
+            "objective_text": "Identify pushing a button makes a sound.",
+            "objective_uuid": "176c7135-306f-44f0-b0d8-e61f033417e2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.3",
+            "objective_text": "Name 'Clicking'.",
+            "objective_uuid": "5fad51ef-a398-492f-9454-242e7a199503"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.8",
+            "objective_text": "Identify a trigger.",
+            "objective_uuid": "876f0667-42fc-43a9-bff0-bd62330fe2b2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.2",
+            "objective_text": "Recall that the game waits for me.",
+            "objective_uuid": "1d87ef48-7e35-4c0e-9aa0-6d46b733a7d8"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.4",
+            "objective_text": "Observe cause and effect.",
+            "objective_uuid": "5ab1fbab-82fd-4f40-b402-8f488901d114"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.5",
+            "objective_text": "Summarize 'When [event] happens, do [action]'.",
+            "objective_uuid": "2f1f2e85-88b0-4ba4-b4c8-7b9958a38d97"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.6",
+            "objective_text": "Explain that the computer listens for clicks.",
+            "objective_uuid": "55674d26-9eb8-49fe-a45e-4f76b2ab1fda"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.12",
+            "objective_text": "Explain asynchronous events (intro).",
+            "objective_uuid": "75c0ce16-fe25-468b-87e4-b5775056be20"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.15",
+            "objective_text": "Defend the paradigm shift from procedural to event-driven.",
+            "objective_uuid": "a40a411f-0936-4cd2-a134-55efaab9656b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.9",
+            "objective_text": "Analyze the event loop concept.",
+            "objective_uuid": "c4e47a2d-743f-44e6-b19e-6c64e2db7789"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.10",
+            "objective_text": "Interpret event handlers.",
+            "objective_uuid": "428834d1-d4cb-4242-b0d9-47668d3597c2"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.11",
+            "objective_text": "Connect user interaction to code execution.",
+            "objective_uuid": "f6ec063c-50f0-4fac-b04d-63054eb6334c"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.14",
+            "objective_text": "Evaluate the responsiveness of event handling.",
+            "objective_uuid": "35debf63-1a7b-491d-841a-06fbe5775e0d"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.7",
+            "objective_text": "Create a script that starts when a key is pressed.",
+            "objective_uuid": "f30a23b2-9f4b-4b47-9fc4-5e8b3064609f"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.13",
+            "objective_text": "Construct an event-driven application (GUI).",
+            "objective_uuid": "6963fe62-54bc-497d-8ef3-07b2009bde30"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.4",
+            "sub_topic_name": "Event-Driven Thinking (responding to user/system triggers)",
+            "objective_id": "CPT.1.3.4.16",
+            "objective_text": "Synthesize listeners and callbacks.",
+            "objective_uuid": "97b7d911-96b0-49a8-acac-295ff34141a5"
+          }
+        ]
+      }
+    }
+  }
+}

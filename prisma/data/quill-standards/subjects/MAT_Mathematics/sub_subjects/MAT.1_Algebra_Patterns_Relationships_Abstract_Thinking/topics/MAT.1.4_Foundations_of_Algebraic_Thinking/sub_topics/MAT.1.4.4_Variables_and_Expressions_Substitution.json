@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.4.4",
+    "name": "Variables and Expressions (Substitution)",
+    "topic_id": "MAT.1.4",
+    "topic_name": "Foundations of Algebraic Thinking",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Variables and Expressions (Substitution) in Foundations of Algebraic Thinking (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.1",
+            "objective_text": "Identify a missing number in a sentence ($2 + \\_ = 5$).",
+            "objective_uuid": "19f1a5f5-1d66-4484-aaa6-ee244ed8790d"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.8",
+            "objective_text": "Identify the difference between an expression and an equation.",
+            "objective_uuid": "a1b83e7b-3e31-45dd-beea-52651f2bd3d9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.3",
+            "objective_text": "Recall that symbols can mean numbers.",
+            "objective_uuid": "59a324c9-2cb2-41f3-982a-14823a730531"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.2",
+            "objective_text": "Use a symbol (star/box) to hold a place.",
+            "objective_uuid": "19ad7234-1045-42e9-85a4-feeb905670d4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.5",
+            "objective_text": "Summarize that a letter ($x$) stands for a number.",
+            "objective_uuid": "0ea8cd6e-b576-4fcd-abb2-7c132c3c4804"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.6",
+            "objective_text": "Explain substitution (putting a number in for a letter).",
+            "objective_uuid": "b94e0c18-62fb-4250-8357-1da12d26b253"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.12",
+            "objective_text": "Explain terms, coefficients, and constants.",
+            "objective_uuid": "4d0b213e-859c-45f0-8ae0-2c0f8380d99b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.15",
+            "objective_text": "Defend the use of variables to generalize arithmetic.",
+            "objective_uuid": "2fb3b199-9753-4833-83b7-4ee31f79b2f0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 14.2,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.4",
+            "objective_text": "Solve for the mystery number.",
+            "objective_uuid": "507886c4-ffe4-4bfd-8173-4922f6343a10"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.9",
+            "objective_text": "Analyze the effect of changing the variable's value.",
+            "objective_uuid": "213df5f5-bad4-473e-9cf3-8aa8ceebeced"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.10",
+            "objective_text": "Interpret expressions with multiple variables.",
+            "objective_uuid": "959a088f-509f-4706-af5f-ecd6488573db"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.11",
+            "objective_text": "Connect formulas (Area = $lw$) to substitution.",
+            "objective_uuid": "541e2625-e3aa-4943-91bf-a038c5211b98"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.7",
+            "objective_text": "Evaluate simple expressions (If $x=3$, what is $x+2$?).",
+            "objective_uuid": "ae32113e-dc79-4a16-9f1b-05b6a47922ab"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.14",
+            "objective_text": "Evaluate expressions with rational exponents.",
+            "objective_uuid": "71e06fea-41fc-4a9c-b458-26672a9a268c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.13",
+            "objective_text": "Construct complex algebraic models for real-world scenarios.",
+            "objective_uuid": "b22f2e9a-da68-46ca-83da-afe6e044c671"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.4",
+            "sub_topic_name": "Variables and Expressions (Substitution)",
+            "objective_id": "MAT.1.4.4.16",
+            "objective_text": "Synthesize function notation $f(x)$ with substitution.",
+            "objective_uuid": "210640d7-e146-46d7-aad8-79821243ca22"
+          }
+        ]
+      }
+    }
+  }
+}

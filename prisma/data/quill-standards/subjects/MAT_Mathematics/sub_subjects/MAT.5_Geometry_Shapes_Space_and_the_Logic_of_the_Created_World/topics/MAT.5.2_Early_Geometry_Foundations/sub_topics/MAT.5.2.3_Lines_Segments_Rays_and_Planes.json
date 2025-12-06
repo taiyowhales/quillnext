@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.2.3",
+    "name": "Lines, Segments, Rays, and Planes",
+    "topic_id": "MAT.5.2",
+    "topic_name": "Early Geometry Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Lines, Segments, Rays, and Planes in Early Geometry Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 7.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.1",
+            "objective_text": "Identify a straight line vs. a curvy line.",
+            "objective_uuid": "4be52bf8-aac1-455a-b87c-3886c4e990e2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.8",
+            "objective_text": "Identify intersection points.",
+            "objective_uuid": "1e9ffd83-420a-43fe-a342-f7ac14879307"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.3",
+            "objective_text": "Recall that a line goes forever.",
+            "objective_uuid": "d5fa52a4-af2c-46e7-ba6a-a5d76210e00b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.4",
+            "objective_text": "Observe the edge of a table.",
+            "objective_uuid": "aaaea988-410d-455a-bcfd-b7f3823f5cd8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.2",
+            "objective_text": "Draw a line with a ruler.",
+            "objective_uuid": "9dfcbfdf-8fb5-4ba9-be18-bed6e43c5052"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.5",
+            "objective_text": "Summarize the difference between a Line (no end), Segment (two ends), and Ray (one end).",
+            "objective_uuid": "ac497343-4eba-4930-bc07-93342ed3247f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.6",
+            "objective_text": "Explain what a Plane is (flat surface).",
+            "objective_uuid": "155aaeb1-68d7-4fcc-bf69-9f61ae2a1898"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.7",
+            "objective_text": "Label points with capital letters.",
+            "objective_uuid": "f68e8da7-7147-4b5b-a49e-64626ffe64ea"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.12",
+            "objective_text": "Explain dimensions (0D, 1D, 2D).",
+            "objective_uuid": "e2cc03aa-db0c-4e2a-891c-f6b3fb14d523"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.15",
+            "objective_text": "Defend the undefined terms of geometry (Point, Line, Plane).",
+            "objective_uuid": "c8504b6a-79de-4116-abbd-2b416a3fee2b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.9",
+            "objective_text": "Analyze collinear and coplanar points.",
+            "objective_uuid": "f461843b-96c2-489b-9307-2922491296c6"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.10",
+            "objective_text": "Interpret geometric notation ($\\leftrightarrow$, $\\rightarrow$, $-$).",
+            "objective_uuid": "6e4d30ec-e6d1-44c1-9598-d5c8244f2795"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.11",
+            "objective_text": "Connect the definition of 'betweenness' to segments.",
+            "objective_uuid": "fe7ad9a8-85bc-4e86-96e7-a87f658a13cb"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.14",
+            "objective_text": "Evaluate the intersection of planes in 3D space.",
+            "objective_uuid": "d6a4756f-520d-4dec-890d-f34d7b6e069f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.5,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.13",
+            "objective_text": "Construct proofs using segment addition postulates.",
+            "objective_uuid": "6c5d637e-d5bf-49f3-9bfd-6f98604e04c8"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.3",
+            "sub_topic_name": "Lines, Segments, Rays, and Planes",
+            "objective_id": "MAT.5.2.3.16",
+            "objective_text": "Synthesize vector equations of lines.",
+            "objective_uuid": "6161cbdd-8c73-424b-9f79-6de45b720401"
+          }
+        ]
+      }
+    }
+  }
+}

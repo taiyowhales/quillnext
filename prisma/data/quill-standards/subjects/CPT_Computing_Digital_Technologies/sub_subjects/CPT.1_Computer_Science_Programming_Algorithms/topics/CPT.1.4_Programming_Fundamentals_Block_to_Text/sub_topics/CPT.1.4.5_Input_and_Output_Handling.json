@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.5",
+    "name": "Input and Output Handling",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Input and Output Handling in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.4",
+            "objective_text": "Name 'Input'.",
+            "objective_uuid": "707531f2-11f4-4fb8-87e0-41a179070448"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.8",
+            "objective_text": "Identify user interaction.",
+            "objective_uuid": "72074572-da02-4590-bf48-1933d9326fef"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.3",
+            "objective_text": "Recall asking the computer.",
+            "objective_uuid": "bc1ced8a-797c-449f-b580-c438e9044d51"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 7,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.1",
+            "objective_text": "Type a name.",
+            "objective_uuid": "d290381b-4add-4068-9dc2-3304642dfbc9"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.2",
+            "objective_text": "See the name appear on screen.",
+            "objective_uuid": "673c0fcf-57f2-4303-8812-9079cab09ca1"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.5",
+            "objective_text": "Summarize the 'input()' command.",
+            "objective_uuid": "cc821584-3f68-4b09-9d0e-2766cbbe1976"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.6",
+            "objective_text": "Explain how to store an answer.",
+            "objective_uuid": "5f11ee8a-3ac9-41a6-a298-6391acbb012a"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.7",
+            "objective_text": "Print a greeting with a name.",
+            "objective_uuid": "3160a9fb-44f3-4bc6-b99f-0aba135584af"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.12",
+            "objective_text": "Explain Standard Input/Output (stdin/stdout).",
+            "objective_uuid": "3cbdf8de-d104-4f9f-ada8-7637ca45d1a6"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.15",
+            "objective_text": "Defend the handling of unexpected inputs.",
+            "objective_uuid": "e4e78f52-1400-4e1b-848f-f618ffbb189b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.9",
+            "objective_text": "Analyze data type conversion from input (always string).",
+            "objective_uuid": "3273cce8-ce53-4e9f-ad32-65fe8453842d"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.10",
+            "objective_text": "Interpret formatted strings (f-strings).",
+            "objective_uuid": "adbb1c24-2352-4dfb-9d26-c5d4eadf4c8d"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.11",
+            "objective_text": "Connect validation to input.",
+            "objective_uuid": "c6068b55-d782-404e-a10d-b0c7b8445877"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.14",
+            "objective_text": "Evaluate user experience in console apps.",
+            "objective_uuid": "00706cf7-ac11-4ec5-9c26-f5d0779170fc"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.13",
+            "objective_text": "Construct a robust CLI (Command Line Interface).",
+            "objective_uuid": "65661f29-91d6-4bdf-8f6c-9efea70d14f1"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.5",
+            "sub_topic_name": "Input and Output Handling",
+            "objective_id": "CPT.1.4.5.16",
+            "objective_text": "Synthesize parsing complex input data.",
+            "objective_uuid": "9aa9354b-8948-4912-9574-2a84382c35fc"
+          }
+        ]
+      }
+    }
+  }
+}

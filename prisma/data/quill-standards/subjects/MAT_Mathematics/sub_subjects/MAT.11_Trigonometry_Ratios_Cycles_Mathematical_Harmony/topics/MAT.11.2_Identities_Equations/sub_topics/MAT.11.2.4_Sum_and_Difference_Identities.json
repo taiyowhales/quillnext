@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.2.4",
+    "name": "Sum and Difference Identities",
+    "topic_id": "MAT.11.2",
+    "topic_name": "Identities & Equations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sum and Difference Identities in Identities & Equations (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 14.77,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.1",
+            "objective_text": "Identify adding two numbers.",
+            "objective_uuid": "bc2c258d-c014-4796-87ad-46f22a0061a7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.2",
+            "objective_text": "Name the difference.",
+            "objective_uuid": "c0d1ba36-863b-47c8-8df1-8733696f0c4d"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.8",
+            "objective_text": "Identify formulas.",
+            "objective_uuid": "2291620b-ad05-436f-a505-566d0c42814d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.3",
+            "objective_text": "Recall that we can break numbers apart.",
+            "objective_uuid": "81b2c26e-d687-413b-82e7-de72fc319b1b"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "96e3e712-33a5-4e2c-a4a6-bfddc8881560"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.5",
+            "objective_text": "Summarize finding the sine of $(A+B)$.",
+            "objective_uuid": "e5be0bc6-6c2c-4f40-8805-4b899507393e"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.6",
+            "objective_text": "Explain that $sin(A+B)$ is NOT $sinA + sinB$.",
+            "objective_uuid": "50940909-b2e0-45f2-a39c-f65eddf0e4f9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.7",
+            "objective_text": "Break $75$ into $30 + 45$.",
+            "objective_uuid": "c05b9a08-01d0-4892-acaa-491ce13d1db1"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.12",
+            "objective_text": "Explain how to use the formulas.",
+            "objective_uuid": "29d46db8-6022-40b8-8c45-f519807f2c5a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.15",
+            "objective_text": "Defend the logic of the expansion.",
+            "objective_uuid": "0fa33f35-5d8a-4dce-aeb3-12df26734bb8"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.9",
+            "objective_text": "Analyze the expansion formulas.",
+            "objective_uuid": "ca2f5696-503b-4862-a2a4-260289f10b0c"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.10",
+            "objective_text": "Interpret the geometric proof (intro).",
+            "objective_uuid": "503fc5db-2a2f-4249-9150-641b8e42f004"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.11",
+            "objective_text": "Connect exact values to sum/difference formulas.",
+            "objective_uuid": "32da0e44-6820-4de5-a29a-541d799df8f0"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.14",
+            "objective_text": "Evaluate the proof of the sum formulas.",
+            "objective_uuid": "a03edd11-eea6-4caa-9885-adb221c15cf4"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.13",
+            "objective_text": "Construct exact values for non-standard angles (e.g., 15 degrees).",
+            "objective_uuid": "978a4d44-9fd8-4b67-8cb9-d0feef0ad8ae"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.4",
+            "sub_topic_name": "Sum and Difference Identities",
+            "objective_id": "MAT.11.2.4.16",
+            "objective_text": "Synthesize matrix rotation derivation.",
+            "objective_uuid": "1f757ea1-0dd2-4a37-99b9-62ec20937af8"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.2.1",
+    "name": "Geometric and Algebraic Proofs (Formal Structure)",
+    "topic_id": "MAT.7.2",
+    "topic_name": "Proof & Justification",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Geometric and Algebraic Proofs (Formal Structure) in Proof & Justification (Mathematics)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.8",
+            "objective_text": "Identify 'Given' information.",
+            "objective_uuid": "5da4a6eb-02b0-41e1-a474-a4b22d321435"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.3",
+            "objective_text": "Recall reasons.",
+            "objective_uuid": "230ca80f-c878-4bda-8eee-1abcf8cca469"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 8,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.1",
+            "objective_text": "Show that a shape fits.",
+            "objective_uuid": "f1a0d8ab-98f5-4f46-9534-b59fd73dca9b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.2",
+            "objective_text": "Explain steps.",
+            "objective_uuid": "acc533be-d2ca-4f88-bc75-d068d059ed85"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.4",
+            "objective_text": "Draw a picture to prove.",
+            "objective_uuid": "91faf405-65ab-4b00-b1a2-ee640cec5460"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.5",
+            "objective_text": "Summarize step-by-step solving.",
+            "objective_uuid": "8139fa4e-7f22-439a-b9d7-57fee67aa140"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.6",
+            "objective_text": "Explain why $2(x+3) = 2x+6$ (Distributive).",
+            "objective_uuid": "ec91446c-ac30-4363-8273-d6fc64dc57f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.7",
+            "objective_text": "Justify a geometric fact (angles sum to 180).",
+            "objective_uuid": "429b0229-5c0e-4ee9-9298-f3f978e3d492"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.12",
+            "objective_text": "Explain the flow of logic.",
+            "objective_uuid": "9557b47b-2735-41aa-a99e-89e219d991a5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.15",
+            "objective_text": "Defend the Q.E.D. conclusion.",
+            "objective_uuid": "d5a209db-8320-4412-990a-4e57b46d99d3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.9",
+            "objective_text": "Analyze Two-Column Proofs.",
+            "objective_uuid": "44e12df1-7194-4e66-b701-6b55ba36f71c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.10",
+            "objective_text": "Interpret algebraic properties (Equality, Identity).",
+            "objective_uuid": "7a7550b9-1b4d-41bd-abf4-4a3228837af0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.5,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.14",
+            "objective_text": "Evaluate the sufficiency of a proof.",
+            "objective_uuid": "be51c4ed-013a-43b0-b11b-70a82babd876"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.11",
+            "objective_text": "Connect geometry theorems to algebraic steps.",
+            "objective_uuid": "78012a33-f7e0-4b57-b2e8-5c628f5a37bd"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.13",
+            "objective_text": "Construct paragraph proofs.",
+            "objective_uuid": "9b82a8d6-9fc8-4499-a48c-e827d5fc7da7"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.1",
+            "sub_topic_name": "Geometric and Algebraic Proofs (Formal Structure)",
+            "objective_id": "MAT.7.2.1.16",
+            "objective_text": "Synthesize logic with axiomatic systems.",
+            "objective_uuid": "13144dc3-f5e5-400b-9a73-7c7954163706"
+          }
+        ]
+      }
+    }
+  }
+}

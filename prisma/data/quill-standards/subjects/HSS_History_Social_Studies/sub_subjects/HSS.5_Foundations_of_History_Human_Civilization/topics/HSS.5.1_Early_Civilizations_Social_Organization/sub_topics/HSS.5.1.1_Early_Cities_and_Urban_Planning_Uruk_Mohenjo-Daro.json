@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.5.1.1",
+    "name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+    "topic_id": "HSS.5.1",
+    "topic_name": "Early Civilizations & Social Organization",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.5",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Early Cities and Urban Planning (Uruk, Mohenjo-Daro) in Early Civilizations & Social Organization (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.1",
+            "objective_text": "Identify a city with walls.",
+            "objective_uuid": "7c92bf08-25e1-474c-b4b1-86973e856f9c"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.2",
+            "objective_text": "Name many houses close together.",
+            "objective_uuid": "9ba77ed7-bf8e-4dc2-880c-459b3e3764f5"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.7",
+            "objective_text": "Identify Ur or Uruk.",
+            "objective_uuid": "61bc4870-386a-4de6-b19e-eb1ce4516186"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.3",
+            "objective_text": "Recall that cities need rules.",
+            "objective_uuid": "82cbcad0-5b36-42a4-895e-400607eaf446"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.4",
+            "objective_text": "Observe streets.",
+            "objective_uuid": "fe36a496-4681-442f-996d-b5b7de1a956a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.5",
+            "objective_text": "Summarize what a City-State is.",
+            "objective_uuid": "87d63ac7-b896-40d9-9d55-3f07de167e54"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.6",
+            "objective_text": "Explain why cities have walls (protection).",
+            "objective_uuid": "310b6b5a-187f-4277-84ca-fb53f302b402"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.12",
+            "objective_text": "Explain urbanization.",
+            "objective_uuid": "0bcda4a7-4859-468e-a864-bb1db959109f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.15",
+            "objective_text": "Defend the role of cities in cultural development.",
+            "objective_uuid": "8ab60796-3a50-47d3-9145-1739ef01bbe2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.8",
+            "objective_text": "Compare a village with a city.",
+            "objective_uuid": "5ff98c3f-f89e-4270-b5f6-8fb6d9ff89ce"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.9",
+            "objective_text": "Analyze the grid system of Mohenjo-Daro.",
+            "objective_uuid": "7ca57f09-05e7-44fe-ad38-5b10219ce978"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.10",
+            "objective_text": "Interpret the need for sanitation and water supply.",
+            "objective_uuid": "3b292034-cab7-4d22-bbb3-10fcb37d7fa9"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.11",
+            "objective_text": "Connect ziggurats/temples to the city center.",
+            "objective_uuid": "07fc4752-9ce0-44e0-97bc-d4037ae308bb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.14",
+            "objective_text": "Evaluate the social stratification in cities.",
+            "objective_uuid": "43d6aae0-2fa3-4c33-a939-ef670b317c3c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.5,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.16",
+            "objective_text": "Synthesize urban planning with social order.",
+            "objective_uuid": "19b2453f-2176-4e62-960c-23d2f025e564"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.5",
+            "sub_subject_name": "Foundations of History & Human Civilization",
+            "topic_id": "HSS.5.1",
+            "topic_name": "Early Civilizations & Social Organization",
+            "sub_topic_id": "HSS.5.1.1",
+            "sub_topic_name": "Early Cities and Urban Planning (Uruk, Mohenjo-Daro)",
+            "objective_id": "HSS.5.1.1.13",
+            "objective_text": "Construct a model of an ancient city.",
+            "objective_uuid": "506c3df2-52ea-44f5-acc2-ac4959c81907"
+          }
+        ]
+      }
+    }
+  }
+}

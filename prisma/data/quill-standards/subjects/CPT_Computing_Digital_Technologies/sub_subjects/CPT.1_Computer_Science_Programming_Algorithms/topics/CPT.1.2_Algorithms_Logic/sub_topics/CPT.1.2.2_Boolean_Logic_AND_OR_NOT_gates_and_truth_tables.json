@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.2",
+    "name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Boolean Logic (AND, OR, NOT gates and truth tables) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.1",
+            "objective_text": "Identify 'Both' (AND) and 'Either' (OR).",
+            "objective_uuid": "769b411d-f279-4af1-9f54-c37daf2eb94d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.2",
+            "objective_text": "Name 'Not'.",
+            "objective_uuid": "42ac4a99-cd85-4164-82b4-93dbf182ca31"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.8",
+            "objective_text": "Identify a condition that is met.",
+            "objective_uuid": "5c748916-a4a2-45e0-8e8e-e907479895bc"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.3",
+            "objective_text": "Recall True and False.",
+            "objective_uuid": "043e3de3-cabe-4cee-a49f-baf97ac60a36"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.4",
+            "objective_text": "Observe logic blocks.",
+            "objective_uuid": "74d3c148-177d-478a-b606-352a4b352263"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 22.33,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.5",
+            "objective_text": "Summarize True/False questions.",
+            "objective_uuid": "92e442db-c413-45d8-a628-dfbe166f8bc4"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.6",
+            "objective_text": "Explain that computers think in 1s and 0s.",
+            "objective_uuid": "dac8a4a3-53b9-4899-b932-8e3545f75b7f"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.7",
+            "objective_text": "Use logical operators in a search.",
+            "objective_uuid": "a06270d6-1968-4ece-8aeb-6e3086535b3a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.12",
+            "objective_text": "Explain XOR (Exclusive OR).",
+            "objective_uuid": "f6600a88-654e-4dd9-b107-07bb7750e28d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.15",
+            "objective_text": "Defend De Morgan's Laws.",
+            "objective_uuid": "5c123fe7-f47b-4bcd-ad00-e4c58fee6f77"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.11",
+            "objective_text": "Connect logic circuits to binary addition.",
+            "objective_uuid": "59359526-2aa3-44ef-91c4-86a1756d31b9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.9",
+            "objective_text": "Analyze logic gate symbols .",
+            "objective_uuid": "80198362-2811-4073-8f1d-1eab10e69c5d"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.10",
+            "objective_text": "Interpret Truth Tables.",
+            "objective_uuid": "72d0f525-fb5d-4b64-a2d6-d1fe35e946e9"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.14",
+            "objective_text": "Evaluate logic circuit diagrams.",
+            "objective_uuid": "88df1fb4-4a5d-4662-968f-152d45a1c99b"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.13",
+            "objective_text": "Construct boolean expressions.",
+            "objective_uuid": "823eb315-34b7-471f-862d-2552dfb43c33"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.2",
+            "sub_topic_name": "Boolean Logic (AND, OR, NOT gates and truth tables)",
+            "objective_id": "CPT.1.2.2.16",
+            "objective_text": "Synthesize digital logic design.",
+            "objective_uuid": "1a454e66-255b-4dad-b49e-dbdcbdadec88"
+          }
+        ]
+      }
+    }
+  }
+}

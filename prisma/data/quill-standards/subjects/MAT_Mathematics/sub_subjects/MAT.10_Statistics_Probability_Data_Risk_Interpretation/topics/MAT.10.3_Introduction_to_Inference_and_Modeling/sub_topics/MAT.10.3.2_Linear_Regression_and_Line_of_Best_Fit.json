@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.3.2",
+    "name": "Linear Regression and Line of Best Fit",
+    "topic_id": "MAT.10.3",
+    "topic_name": "Introduction to Inference and Modeling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Linear Regression and Line of Best Fit in Introduction to Inference and Modeling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.2",
+            "objective_text": "Identify the middle of the path.",
+            "objective_uuid": "cd1a2630-6667-496c-8621-47f37f016835"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.8",
+            "objective_text": "Identify the general rule.",
+            "objective_uuid": "a2a9e483-2c79-4904-bffb-508bbef7463d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.3",
+            "objective_text": "Recall general direction (up or down).",
+            "objective_uuid": "46a9d119-7939-47d7-b0df-d61ee79bee4a"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.4",
+            "objective_text": "Observe a trend.",
+            "objective_uuid": "3847d72d-0f9d-47dd-a022-2d5c2d04987b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.1",
+            "objective_text": "Draw a line through dots.",
+            "objective_uuid": "c27186f2-52bc-4236-ac40-02efdcefdc52"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.5",
+            "objective_text": "Summarize a Trend Line.",
+            "objective_uuid": "84c1549d-24b4-46c1-87ca-77b0e0ea9fdd"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.6",
+            "objective_text": "Explain outliers (dots far away).",
+            "objective_uuid": "0267bed2-e21d-4b4d-8a29-2cc453bc7636"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.7",
+            "objective_text": "Draw a line of best fit by eye.",
+            "objective_uuid": "8f210ae8-0059-4731-9fa7-71a0d825cf8d"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.12",
+            "objective_text": "Explain using the line to predict.",
+            "objective_uuid": "c110ca31-febb-4aa7-9450-067b6db8b120"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.15",
+            "objective_text": "Defend the linearity assumption.",
+            "objective_uuid": "49a90445-3913-4d51-a9ff-3bb8e1df0749"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.9",
+            "objective_text": "Analyze the equation of the trend line ($y = mx + b$).",
+            "objective_uuid": "f0ac34a5-4a4b-4fac-8edb-49d35a48c6fe"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.10",
+            "objective_text": "Interpret the slope in context.",
+            "objective_uuid": "e4d30d8b-bd51-49e2-baa7-1069e3ecc538"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.11",
+            "objective_text": "Connect residuals (distance from line) to accuracy.",
+            "objective_uuid": "3a096cd9-7936-4b3a-aef9-45896da68269"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.14",
+            "objective_text": "Evaluate the Coefficient of Determination ($R^2$).",
+            "objective_uuid": "a3aeb70a-770a-484e-91f2-a90ab02fc56b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.13",
+            "objective_text": "Construct the Least Squares Regression Line.",
+            "objective_uuid": "8b854346-7dd3-43f1-aac7-0119139b258b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.2",
+            "sub_topic_name": "Linear Regression and Line of Best Fit",
+            "objective_id": "MAT.10.3.2.16",
+            "objective_text": "Synthesize algebraic modeling with real data.",
+            "objective_uuid": "384af0b0-262f-44d8-9fd8-608846054642"
+          }
+        ]
+      }
+    }
+  }
+}

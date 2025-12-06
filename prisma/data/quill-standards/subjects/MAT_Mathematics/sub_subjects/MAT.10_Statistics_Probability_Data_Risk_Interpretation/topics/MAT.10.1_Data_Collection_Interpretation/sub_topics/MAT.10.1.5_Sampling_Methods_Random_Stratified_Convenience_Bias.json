@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.1.5",
+    "name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+    "topic_id": "MAT.10.1",
+    "topic_name": "Data Collection & Interpretation",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sampling Methods (Random, Stratified, Convenience, Bias) in Data Collection & Interpretation (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.8",
+            "objective_text": "Identify a 'Sample'.",
+            "objective_uuid": "36ed329d-05d8-4118-876e-da55d05b5fe2"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.3",
+            "objective_text": "Recall that asking everyone is best.",
+            "objective_uuid": "13894517-2c08-49f1-866c-00686af558de"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.4",
+            "objective_text": "Observe collecting answers.",
+            "objective_uuid": "e8aa235c-a784-4113-af2d-ecc8e748ba05"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.1",
+            "objective_text": "Ask the whole class a question.",
+            "objective_uuid": "4aee7483-6171-4c00-87b9-22e6f8d54b89"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.2",
+            "objective_text": "Ask just my friends.",
+            "objective_uuid": "bd3d5b52-283d-427c-a1d9-fe4d3839e6f5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.5",
+            "objective_text": "Summarize a 'Survey'.",
+            "objective_uuid": "43912215-dd7e-42f0-9659-d82baae497fc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.6",
+            "objective_text": "Explain why we can't ask everyone in the world (Census).",
+            "objective_uuid": "bdd4d635-c9f7-4e98-8bc5-71dc5e70dda4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.7",
+            "objective_text": "Pick names from a hat (Random).",
+            "objective_uuid": "61dabdd3-a570-4f47-b555-ff1f448d7527"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.12",
+            "objective_text": "Explain Systematic sampling (every 10th person).",
+            "objective_uuid": "fb12af3a-4c0f-49cb-bd90-bc80ddd1f412"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.15",
+            "objective_text": "Defend the necessity of randomness.",
+            "objective_uuid": "8485d348-2f31-428c-9525-67ce3ca156ab"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.9",
+            "objective_text": "Analyze Bias (Convenience sampling, Voluntary response).",
+            "objective_uuid": "46c2b5b6-8cd6-456a-9871-def6f7c3a332"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.10",
+            "objective_text": "Interpret Stratified Sampling (groups).",
+            "objective_uuid": "6dcddbd8-dbd0-4944-997f-1246655f3a04"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.11",
+            "objective_text": "Connect sample size to accuracy.",
+            "objective_uuid": "09c57dd9-278e-4851-8d07-54d97a67259f"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.14",
+            "objective_text": "Evaluate the validity of a study based on its sampling method.",
+            "objective_uuid": "d104158d-9af7-43cf-9729-c8ee7bc6696f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.13",
+            "objective_text": "Construct a sampling design for a study.",
+            "objective_uuid": "e9e44ad4-29f0-4461-8dbc-59664fbed7fb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.5",
+            "sub_topic_name": "Sampling Methods (Random, Stratified, Convenience, Bias)",
+            "objective_id": "MAT.10.1.5.16",
+            "objective_text": "Synthesize ethics of data collection.",
+            "objective_uuid": "58842a8b-1654-4091-8599-280f10b43504"
+          }
+        ]
+      }
+    }
+  }
+}

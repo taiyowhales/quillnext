@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CFL.4.3.1",
+    "name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+    "topic_id": "CFL.4.3",
+    "topic_name": "Latin Grammar & Structure (Morphology)",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.4",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison) in Latin Grammar & Structure (Morphology) (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.3",
+            "objective_text": "Name big and small.",
+            "objective_uuid": "e44a7600-4a56-4947-9edb-f2cc92e178eb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.7",
+            "objective_text": "Identify a mismatched adjective.",
+            "objective_uuid": "5520fe4a-58b3-4c17-97b9-5d2a3b456c9d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.2",
+            "objective_text": "Recall that they must rhyme (often).",
+            "objective_uuid": "1069ebbd-91a6-4518-89e5-45f4d7a2c856"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.4",
+            "objective_text": "Observe matching endings.",
+            "objective_uuid": "309159b7-fd50-46ec-8e35-e35ce4b0311c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.1",
+            "objective_text": "Match a describing word to a noun.",
+            "objective_uuid": "aaa75e25-b6ce-44a7-b756-069f6b2ca5f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.5",
+            "objective_text": "Summarize that adjectives must match in Case, Number, and Gender.",
+            "objective_uuid": "ed5fc81f-05da-479f-a3c7-e580bd117339"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.6",
+            "objective_text": "Explain 1st/2nd declension adjectives (-us, -a, -um).",
+            "objective_uuid": "92e20ab8-b438-4895-b6f5-cf35f4e35bfa"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.8",
+            "objective_text": "Translate 'The good boy' vs. 'The good girl'.",
+            "objective_uuid": "12adbd7a-403d-402a-9ec5-15b8da942561"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.12",
+            "objective_text": "Explain substantive adjectives (The good = boni).",
+            "objective_uuid": "8a6b7679-ded7-419c-be0f-44ee4edd3b57"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.15",
+            "objective_text": "Defend the placement of adjectives for emphasis.",
+            "objective_uuid": "9d928814-d07c-4da7-b7ae-490b0ca08cc9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.9",
+            "objective_text": "Analyze 3rd declension adjectives (one, two, three terminations).",
+            "objective_uuid": "962695e7-404e-473e-b2a7-d6d2ce16a383"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.10",
+            "objective_text": "Interpret comparative (-ior) and superlative (-issimus).",
+            "objective_uuid": "c01f3d92-12be-415d-85d2-6306e94fd946"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.11",
+            "objective_text": "Connect agreement across different declensions (e.g., nauta bonus).",
+            "objective_uuid": "a005abe6-cb2b-479f-8e20-653e7f820247"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.14",
+            "objective_text": "Evaluate irregular comparisons (bonus, melior, optimus).",
+            "objective_uuid": "6dc5be33-2279-42a0-9ae5-1a91fffbe961"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.13",
+            "objective_text": "Construct complex noun-adjective phrases.",
+            "objective_uuid": "04122ae4-8edb-4647-be58-b69fdb69aa6f"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.3",
+            "topic_name": "Latin Grammar & Structure (Morphology)",
+            "sub_topic_id": "CFL.4.3.1",
+            "sub_topic_name": "Adjectives & Agreement (1st/2nd declension, 3rd declension adjectives, comparison)",
+            "objective_id": "CFL.4.3.1.16",
+            "objective_text": "Synthesize agreement in predicate constructions.",
+            "objective_uuid": "30de1f94-5e2d-4072-9d66-ec31e82eceaa"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.2.6",
+    "name": "Risk Assessment",
+    "topic_id": "GEO.1.2",
+    "topic_name": "Fieldwork Enquiry",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Risk Assessment in Fieldwork Enquiry (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.1",
+            "objective_text": "Identify dangers like cars or deep water.",
+            "objective_uuid": "256b242e-8ddf-4d48-bc09-f26d4b7a258d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.4",
+            "objective_text": "Listen to safety rules.",
+            "objective_uuid": "481af1b1-a191-4b2d-8202-49c8b005eebd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.5",
+            "objective_text": "List potential hazards before going outside.",
+            "objective_uuid": "be7e9ed5-baf6-4e72-b2b7-7f161d2cec12"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.2",
+            "objective_text": "Stay with the group/partner.",
+            "objective_uuid": "14d2cb8f-47e6-4c9c-849c-5b3b44580742"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.3",
+            "objective_text": "Wear the right clothes for the weather.",
+            "objective_uuid": "535b3070-83c3-4a39-bae5-1ca80f9dd7b5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.6",
+            "objective_text": "Suggest ways to stay safe (mitigation).",
+            "objective_uuid": "e0898050-f073-4889-bd72-cece302c38be"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.7",
+            "objective_text": "Check the weather forecast.",
+            "objective_uuid": "9dd5c8c1-260c-4a32-b5cb-0ce21f4c2a0e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.8",
+            "objective_text": "Understand the 'Buddy System'.",
+            "objective_uuid": "6461c171-290f-4dca-812d-f17cb6a39251"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.11",
+            "objective_text": "Plan emergency procedures.",
+            "objective_uuid": "6f105b22-2e9f-4a40-83e5-2e642d161365"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.15",
+            "objective_text": "Defend the decision to proceed or cancel based on safety.",
+            "objective_uuid": "d3542650-bb6e-4cf5-bb03-e0f5566aafab"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.9",
+            "objective_text": "Analyze the likelihood and severity of risks.",
+            "objective_uuid": "c6b4539c-512a-4848-8fbd-00460546e574"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.12",
+            "objective_text": "Evaluate the ethics of working in a specific environment.",
+            "objective_uuid": "d615856c-b46e-478f-b782-4f72d948c2d2"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.14",
+            "objective_text": "Evaluate dynamic risks while in the field.",
+            "objective_uuid": "27900788-5713-4b6a-a09f-0bb506bef3bd"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.10",
+            "objective_text": "Create a formal Risk Assessment table.",
+            "objective_uuid": "191db6f9-124b-4efb-9d8a-41e86e13e621"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.13",
+            "objective_text": "Construct a professional Risk Assessment and Management plan.",
+            "objective_uuid": "7d759424-4ed8-4a51-90ba-85016e79cd0c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.2",
+            "topic_name": "Fieldwork Enquiry",
+            "sub_topic_id": "GEO.1.2.6",
+            "sub_topic_name": "Risk Assessment",
+            "objective_id": "GEO.1.2.6.16",
+            "objective_text": "Synthesize legal and ethical responsibilities in fieldwork.",
+            "objective_uuid": "bb525286-42bb-48e9-ad6d-005bf31c9dfa"
+          }
+        ]
+      }
+    }
+  }
+}

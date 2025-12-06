@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.3.3",
+    "name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+    "topic_id": "LIF.2.3",
+    "topic_name": "Nutrition, Cooking & Food Preparation",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Food Safety (cross-contamination, proper storage, cooking temperatures) in Nutrition, Cooking & Food Preparation (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.1",
+            "objective_text": "Identify that we wash hands before eating.",
+            "objective_uuid": "939f0556-60fa-49a2-97ca-d9eaf0601bc0"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.2",
+            "objective_text": "Name raw meat as 'yucky' until cooked.",
+            "objective_uuid": "c02cf1f7-7c21-40e6-bb50-c6cf6e32345f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.8",
+            "objective_text": "Identify signs of spoiled food.",
+            "objective_uuid": "f27e5111-d2e1-4668-aae5-f253abd6d32f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.3",
+            "objective_text": "Recall that milk goes in the fridge.",
+            "objective_uuid": "7bb406c2-37c9-4bee-88b2-2afc23287dff"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.4",
+            "objective_text": "Observe cleaning the table.",
+            "objective_uuid": "b1242936-a7de-4474-ad00-9fde657659b8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 5,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.5",
+            "objective_text": "Summarize the 'Danger Zone' for temperature.",
+            "objective_uuid": "02f5163f-04af-40a7-af0c-92cc89998ede"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.6",
+            "objective_text": "Explain Cross-Contamination (raw meat touching salad).",
+            "objective_uuid": "a828135f-aae6-47a9-855b-7b8589142ba5"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.7",
+            "objective_text": "Use a meat thermometer.",
+            "objective_uuid": "37791e74-2472-4116-a45f-42ce28a90db3"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.12",
+            "objective_text": "Explain the 'First In, First Out' storage rule.",
+            "objective_uuid": "214f8b31-34ab-4741-89be-f7cafcd43da7"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.15",
+            "objective_text": "Defend strict hygiene standards in the kitchen.",
+            "objective_uuid": "c1184e38-3054-47dd-ba01-2823ba1d22a1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.9",
+            "objective_text": "Analyze bacteria growth conditions.",
+            "objective_uuid": "42867b22-e546-437f-9929-9f0001d1f087"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.10",
+            "objective_text": "Interpret safe internal temperatures for poultry/beef.",
+            "objective_uuid": "2a468965-5cd3-4904-bd60-a83966b615a3"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.11",
+            "objective_text": "Connect proper thawing methods to safety.",
+            "objective_uuid": "2358786d-1d23-44c1-b3ee-2243d5f85b8e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.14",
+            "objective_text": "Evaluate the risks of foodborne illness.",
+            "objective_uuid": "f6ea9620-9b09-49db-9521-48454696f896"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.13",
+            "objective_text": "Construct a food safety protocol for a large event.",
+            "objective_uuid": "ec438c39-49e7-4a32-859e-819243f7adfa"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.3",
+            "topic_name": "Nutrition, Cooking & Food Preparation",
+            "sub_topic_id": "LIF.2.3.3",
+            "sub_topic_name": "Food Safety (cross-contamination, proper storage, cooking temperatures)",
+            "objective_id": "LIF.2.3.3.16",
+            "objective_text": "Synthesize HACCP principles (Hazard Analysis) for home use.",
+            "objective_uuid": "7954601c-8bc3-4da7-ba3b-6b438661124f"
+          }
+        ]
+      }
+    }
+  }
+}

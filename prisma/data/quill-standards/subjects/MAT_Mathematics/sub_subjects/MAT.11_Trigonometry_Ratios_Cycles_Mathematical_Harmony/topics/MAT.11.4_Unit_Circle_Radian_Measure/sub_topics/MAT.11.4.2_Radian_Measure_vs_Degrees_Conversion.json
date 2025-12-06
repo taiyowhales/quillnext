@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.4.2",
+    "name": "Radian Measure vs Degrees (Conversion)",
+    "topic_id": "MAT.11.4",
+    "topic_name": "Unit Circle & Radian Measure",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Radian Measure vs Degrees (Conversion) in Unit Circle & Radian Measure (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 9,
+        "average_complexity": 13.22,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.1",
+            "objective_text": "Identify a circle.",
+            "objective_uuid": "a7d7ed89-6723-4f25-b923-b74c8d82b373"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.2",
+            "objective_text": "Name degrees (like temperature, but for turning).",
+            "objective_uuid": "f39c1393-b69f-49b7-a238-b58baa4a7ce8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.7",
+            "objective_text": "Identify $\\pi$ (Pi) as related to circles.",
+            "objective_uuid": "490e0794-df9e-49bb-80e1-fa732a75dcb8"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.3",
+            "objective_text": "Recall a full spin is 360.",
+            "objective_uuid": "40e10aa2-7720-42e1-9ca6-4cc9767aa3d4"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.4",
+            "objective_text": "Observe a slice of pie.",
+            "objective_uuid": "ca074bb0-5527-4c35-9a38-911bc6fdeb6c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.12",
+            "objective_text": "Explain why radians are 'pure' numbers.",
+            "objective_uuid": "fcf16b52-37b6-4817-a0a0-01e1dbecd72e"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.5",
+            "objective_text": "Summarize that circles have 360 degrees.",
+            "objective_uuid": "f2ac51fb-ed4f-4bee-b16a-dfd28a61255c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.6",
+            "objective_text": "Explain that we can measure turns with a string (radius).",
+            "objective_uuid": "67ec18a6-a0a6-4437-b30c-ebf024bf2b25"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.15",
+            "objective_text": "Defend the naturalness of radian measure.",
+            "objective_uuid": "f42dcd15-3cee-42b7-9cae-ff50d8a0f85f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.8",
+            "objective_text": "Compare a degree with a radian (conceptually).",
+            "objective_uuid": "77e77b2b-824e-4647-9d81-98e3b4bb7d41"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.9",
+            "objective_text": "Analyze the definition of a radian (arc length = radius).",
+            "objective_uuid": "72ad32a9-d4cf-4d58-ab37-ff718f5324ba"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.10",
+            "objective_text": "Interpret conversion factors ($\\pi/180$).",
+            "objective_uuid": "6e7e8001-5e83-4a06-abfc-305c833fd3ca"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.11",
+            "objective_text": "Connect $2\\pi$ to the circumference.",
+            "objective_uuid": "a37533d5-d9f2-4704-9978-0c7acd6ad0ab"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.13",
+            "objective_text": "Construct angle measures in radians without conversion.",
+            "objective_uuid": "9e867c69-f83f-443c-be6d-22e2f34c7286"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.16",
+            "objective_text": "Synthesize arc length formula $s = r\\theta$.",
+            "objective_uuid": "1da4b01a-942a-44f8-a28b-46284ce02581"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 37.0,
+        "objectives": [
+          {
+            "complexity": 37,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.2",
+            "sub_topic_name": "Radian Measure vs Degrees (Conversion)",
+            "objective_id": "MAT.11.4.2.14",
+            "objective_text": "Evaluate the advantages of radians in calculus.",
+            "objective_uuid": "044bea04-32fa-4025-bfc7-6b845cf26530"
+          }
+        ]
+      }
+    }
+  }
+}

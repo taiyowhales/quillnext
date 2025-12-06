@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.2",
+    "name": "Block-based Coding (Scratch/MakeCode)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Block-based Coding (Scratch/MakeCode) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.2",
+            "objective_text": "Identify 'Start' and 'Stop'.",
+            "objective_uuid": "d5efd718-75fd-4c37-b81d-9e9f99b5c7ce"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.8",
+            "objective_text": "Identify variables (Score).",
+            "objective_uuid": "ab5149f3-6a16-48bc-bbd0-56d2513eeab1"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 7,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.1",
+            "objective_text": "Drag blocks to move a character.",
+            "objective_uuid": "574cbaa0-405b-4b68-84fa-e9fc80da856e"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.3",
+            "objective_text": "Make a sound play.",
+            "objective_uuid": "7a300ddf-61ee-45a9-89aa-7b38724ace57"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.4",
+            "objective_text": "Snap blocks together.",
+            "objective_uuid": "8712dea2-5ea1-4275-af69-2aa922865c39"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.5",
+            "objective_text": "Summarize using loops in Scratch.",
+            "objective_uuid": "aab100f2-a051-4afb-bd89-bc001270fe64"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.6",
+            "objective_text": "Explain broadcasting messages between sprites.",
+            "objective_uuid": "b93f22e1-2594-4d78-a8b7-951a80da646f"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.12",
+            "objective_text": "Explain cloning sprites.",
+            "objective_uuid": "79f79e92-9de9-48f8-8cb5-368c952af6f5"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.15",
+            "objective_text": "Defend block coding as a valid logic tool.",
+            "objective_uuid": "1ae6a626-06b4-482a-b913-e063990d35c8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.9",
+            "objective_text": "Analyze custom blocks (my blocks).",
+            "objective_uuid": "bff29b51-ff47-4efe-9756-39ca333b8426"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.10",
+            "objective_text": "Interpret scripts for multiple sprites.",
+            "objective_uuid": "62883e27-3d86-41fb-8dd2-062fa5d35702"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.11",
+            "objective_text": "Connect block logic to text logic.",
+            "objective_uuid": "7e5c9eab-be11-4c2f-a32e-15cf0417ad19"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 28.75,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.14",
+            "objective_text": "Evaluate the limitations of visual programming.",
+            "objective_uuid": "41066d9a-d9dd-463e-98b8-a55ee7906fcc"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.7",
+            "objective_text": "Create a simple game.",
+            "objective_uuid": "d5ce5e30-d5f2-41c1-ad01-540cbfc6b59e"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.13",
+            "objective_text": "Construct complex simulations in block code.",
+            "objective_uuid": "87c7dfe6-27eb-4683-8186-9462323beaa8"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.2",
+            "sub_topic_name": "Block-based Coding (Scratch/MakeCode)",
+            "objective_id": "CPT.1.4.2.16",
+            "objective_text": "Synthesize transition to syntax-based languages.",
+            "objective_uuid": "568a1207-e9f0-4559-aa65-9c4eaa12a468"
+          }
+        ]
+      }
+    }
+  }
+}

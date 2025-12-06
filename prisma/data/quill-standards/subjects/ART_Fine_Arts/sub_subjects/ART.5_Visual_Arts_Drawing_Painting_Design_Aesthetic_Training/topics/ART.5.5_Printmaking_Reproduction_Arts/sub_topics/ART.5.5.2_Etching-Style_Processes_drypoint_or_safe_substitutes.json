@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.5.2",
+    "name": "Etching-Style Processes (drypoint or safe substitutes)",
+    "topic_id": "ART.5.5",
+    "topic_name": "Printmaking & Reproduction Arts",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Etching-Style Processes (drypoint or safe substitutes) in Printmaking & Reproduction Arts (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.3",
+            "objective_text": "Identify the lines as what prints.",
+            "objective_uuid": "dd73b6c7-75fa-4dac-9190-2b704222b4fe"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.4",
+            "objective_text": "Observe the texture of the lines.",
+            "objective_uuid": "34618b3c-4d19-4bba-8642-39553bbdc935"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.1",
+            "objective_text": "Scratch a drawing into a foam plate.",
+            "objective_uuid": "4c8419a2-9eea-4e69-9760-616df30e0245"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.2",
+            "objective_text": "Rub ink into the lines.",
+            "objective_uuid": "18eb9c53-d600-4b2f-82e5-c3aa5fd86999"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.5",
+            "objective_text": "Summarize the difference between relief (raised) and intaglio (incised).",
+            "objective_uuid": "60ad5154-eeae-48f6-bd4c-83969f339ec5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.6",
+            "objective_text": "Use a stylus on scratchboard or plastic.",
+            "objective_uuid": "4e9cbbc8-7dbf-48e4-9d5e-f44e63c6f102"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.7",
+            "objective_text": "Wipe a plate to leave ink in the grooves.",
+            "objective_uuid": "24202506-36ce-4c80-a03b-fe12739b7614"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.8",
+            "objective_text": "Print using a press (or rolling pin).",
+            "objective_uuid": "8ce0a0e6-fbed-47eb-be6a-b5a10fda022f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.12",
+            "objective_text": "Explain how to bevel plate edges.",
+            "objective_uuid": "0403d6dd-36c6-45c6-a0be-96e4493ff690"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.15",
+            "objective_text": "Defend the tactile quality of an embossed print.",
+            "objective_uuid": "fcbba18e-3935-4a2f-a5e4-4feaecf62a50"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.9",
+            "objective_text": "Analyze the quality of a drypoint line (burr).",
+            "objective_uuid": "77a02624-cf89-44d2-8941-0ae1ec3b3f39"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.10",
+            "objective_text": "Interpret the velvety look of drypoint.",
+            "objective_uuid": "5c036952-3f3f-4776-9d2d-690c4bce5cfb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.11",
+            "objective_text": "Connect pressure to line darkness.",
+            "objective_uuid": "e7a4bb25-f4dc-45db-81dd-0d05375ae2a6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.14",
+            "objective_text": "Evaluate the tone created by cross-hatching in intaglio.",
+            "objective_uuid": "8db807df-1f5a-4e94-b1c3-2fe2ca5243fc"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.13",
+            "objective_text": "Construct a detailed drypoint on Plexiglas.",
+            "objective_uuid": "9f77ae00-7ae0-4e9e-91d8-50d69536a305"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.5",
+            "topic_name": "Printmaking & Reproduction Arts",
+            "sub_topic_id": "ART.5.5.2",
+            "sub_topic_name": "Etching-Style Processes (drypoint or safe substitutes)",
+            "objective_id": "ART.5.5.2.16",
+            "objective_text": "Synthesize drawing skills with intaglio mechanics.",
+            "objective_uuid": "436b5e92-19c0-4d97-9aec-3f546e3f241c"
+          }
+        ]
+      }
+    }
+  }
+}

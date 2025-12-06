@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.3.7",
+    "name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+    "topic_id": "MAT.5.3",
+    "topic_name": "Euclidean Geometry (Form and Measurement)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Volume and Surface Area of Prisms, Pyramids, and Spheres in Euclidean Geometry (Form and Measurement) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 7.75,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.1",
+            "objective_text": "Identify how much water fits in a cup.",
+            "objective_uuid": "e9d3181b-3348-4dca-acf4-0488d60916e9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.4",
+            "objective_text": "Name big and small containers.",
+            "objective_uuid": "415b9cc4-c40e-4e0a-b32a-b704c4f064d5"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.8",
+            "objective_text": "Identify cubic units.",
+            "objective_uuid": "753442f5-8267-4d3a-83ba-2acfb182e2fa"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.3",
+            "objective_text": "Recall that volume is the inside space.",
+            "objective_uuid": "647aafd2-359d-4f26-9ba6-d60af1c3e71a"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.2",
+            "objective_text": "Fill a box with blocks.",
+            "objective_uuid": "c69a4cc3-56a7-49c8-b725-1ed64b5525cb"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.5",
+            "objective_text": "Summarize Volume ($L \\times W \\times H$).",
+            "objective_uuid": "5e7e617c-1902-451a-b33e-a9e02b5d2f06"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.6",
+            "objective_text": "Explain Surface Area (wrapping paper).",
+            "objective_uuid": "3df1c928-9590-481c-a116-cbf3222abe0c"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.12",
+            "objective_text": "Explain capacity (liters) vs. volume (cm3).",
+            "objective_uuid": "43b22ca0-c120-4d06-9ced-344e3d06f84a"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.15",
+            "objective_text": "Defend Cavalieri's Principle.",
+            "objective_uuid": "dc42a160-4067-4a5c-9e67-174004cbe19e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.7",
+            "objective_text": "Calculate volume of a rectangular prism.",
+            "objective_uuid": "daa88037-4699-4a83-af7e-0c7ded94808c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.9",
+            "objective_text": "Analyze the volume of cylinders ($\\pi r^2 h$).",
+            "objective_uuid": "20478218-1743-44c4-9e15-d12f7836f7a1"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.10",
+            "objective_text": "Interpret the relationship between a cone and cylinder (1/3).",
+            "objective_uuid": "ca63eb7b-1e64-4add-8209-2ec06eef5d2c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.11",
+            "objective_text": "Connect nets to surface area calculations.",
+            "objective_uuid": "cad1f5ee-a97f-4930-beea-cf9600a58a3a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.14",
+            "objective_text": "Evaluate the surface area of complex solids.",
+            "objective_uuid": "b5be432a-4c82-4096-aa98-89cb958bc3b7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.13",
+            "objective_text": "Construct formulas for spheres ($4/3 \\pi r^3$).",
+            "objective_uuid": "b29cc5f1-0581-4c36-a8bc-8dce5966a62e"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.7",
+            "sub_topic_name": "Volume and Surface Area of Prisms, Pyramids, and Spheres",
+            "objective_id": "MAT.5.3.7.16",
+            "objective_text": "Synthesize optimization problems (minimizing surface area for fixed volume).",
+            "objective_uuid": "7c714fb4-fd5f-4add-92b6-61f05742f29e"
+          }
+        ]
+      }
+    }
+  }
+}

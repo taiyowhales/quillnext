@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.11.7.1",
+    "name": "Citation and Attribution (MLA/APA)",
+    "topic_id": "ELA.11.7",
+    "topic_name": "Research Writing",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.11",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Citation and Attribution (MLA/APA) in Research Writing (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.2",
+            "objective_text": "Name the author.",
+            "objective_uuid": "20733146-6a39-42a8-a1c1-a7f8ae819a5b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.8",
+            "objective_text": "Identify a Work Cited page.",
+            "objective_uuid": "544ae7c3-db00-461b-be71-456bb06d9823"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.3",
+            "objective_text": "Recall that we don't steal words (Plagiarism).",
+            "objective_uuid": "354084ef-c17f-4b77-ab58-780e14bd1f1b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.4",
+            "objective_text": "Observe a list of books at the end.",
+            "objective_uuid": "6dc29484-0b94-4808-a35d-722c5895dd52"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.1",
+            "objective_text": "Say \"My book says...\".",
+            "objective_uuid": "f4d159e1-099f-4b9e-8483-5ded296439e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.5",
+            "objective_text": "Summarize citing a source.",
+            "objective_uuid": "83058f7e-3847-45f7-876e-cd38c13ce6d3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.6",
+            "objective_text": "Explain Quotation Marks.",
+            "objective_uuid": "b3867868-5850-4fc0-bf3d-34a31ffcb6dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.12",
+            "objective_text": "Explain how to cite a website.",
+            "objective_uuid": "d9f043b3-f81c-4c36-b3d8-328dc685b9e5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.15",
+            "objective_text": "Defend the 8th Commandment (Stealing) applied to ideas.",
+            "objective_uuid": "9fdd050d-e60c-4409-8b34-674ec9d380a2"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.9",
+            "objective_text": "Analyze in-text citations (Smith 45).",
+            "objective_uuid": "86847849-18fd-4616-80de-879b06ce3c88"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.10",
+            "objective_text": "Interpret the difference between MLA and APA style.",
+            "objective_uuid": "7860db1e-4613-4f92-b6b6-154564b91d93"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.11",
+            "objective_text": "Connect attribution to intellectual honesty.",
+            "objective_uuid": "53a6e29c-bfd9-4637-9b1c-216951bac8d7"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.14",
+            "objective_text": "Evaluate the credibility of sources.",
+            "objective_uuid": "3f501d32-c93a-4da8-af29-2469bb25fd48"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.7",
+            "objective_text": "Create a simple bibliography (Author, Title).",
+            "objective_uuid": "fdd72f63-4cbd-4914-a57b-e72860fdcc09"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.13",
+            "objective_text": "Construct a properly formatted research paper.",
+            "objective_uuid": "70dedae9-351a-4a3c-8ea9-678fa5e74f9b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.11",
+            "sub_subject_name": "Writing & Composition",
+            "topic_id": "ELA.11.7",
+            "topic_name": "Research Writing",
+            "sub_topic_id": "ELA.11.7.1",
+            "sub_topic_name": "Citation and Attribution (MLA/APA)",
+            "objective_id": "ELA.11.7.1.16",
+            "objective_text": "Synthesize research notes into a cited argument.",
+            "objective_uuid": "202f1fc4-ea7b-4077-86de-c342b38dbc57"
+          }
+        ]
+      }
+    }
+  }
+}

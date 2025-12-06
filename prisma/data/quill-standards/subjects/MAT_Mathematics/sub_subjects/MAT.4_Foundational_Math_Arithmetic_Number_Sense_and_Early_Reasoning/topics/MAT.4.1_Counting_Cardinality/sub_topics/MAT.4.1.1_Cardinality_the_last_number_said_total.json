@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.1",
+    "name": "Cardinality (the last number said = total)",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Cardinality (the last number said = total) in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.33,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.2",
+            "objective_text": "Identify that the quantity stays the same regardless of arrangement.",
+            "objective_uuid": "97b8d412-b94c-45c0-8562-78de7d60d0c7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.3",
+            "objective_text": "Recall that the last number counted names the quantity.",
+            "objective_uuid": "0e672e47-8b16-498b-b73b-97a4d1711f35"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.4",
+            "objective_text": "Observe that adding one more changes the total by one.",
+            "objective_uuid": "0928c2f4-cc6c-4ccd-933a-40b9117f2c77"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.1",
+            "objective_text": "Count a set of objects and state the total.",
+            "objective_uuid": "6767d91c-daac-47af-8544-f08e0d44e08c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.5",
+            "objective_text": "Summarize the concept of cardinality for larger sets.",
+            "objective_uuid": "a490bc77-76bd-4d2b-9386-4a9a9ebf36d2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.6",
+            "objective_text": "Estimate quantities without counting every item.",
+            "objective_uuid": "0766f480-b6b9-4f55-819b-8fa0e3985611"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.12",
+            "objective_text": "Explain the union and intersection of sets.",
+            "objective_uuid": "dde2f782-0c9d-48a6-86aa-dfed280259dd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.15",
+            "objective_text": "Defend the concept of different sizes of infinity.",
+            "objective_uuid": "c1563f49-1a3e-4f7d-a674-f802862f56e2"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.8",
+            "objective_text": "Apply counting principles to solve simple word problems.",
+            "objective_uuid": "14805b4c-8a4f-416e-adae-5b263cae8ca1"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.7",
+            "objective_text": "Compare the cardinality of two different sets.",
+            "objective_uuid": "f66652b2-dc5c-4cea-b84f-9a025e77e65e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.9",
+            "objective_text": "Analyze the cardinality of finite sets.",
+            "objective_uuid": "d8963462-3d72-427d-b1ed-47445c8a664b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.10",
+            "objective_text": "Interpret Venn diagrams to determine set totals.",
+            "objective_uuid": "1936e437-6b36-4bbd-8190-0371cb2f8bd4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.11",
+            "objective_text": "Connect counting techniques to probability.",
+            "objective_uuid": "58b4c3c6-2e80-481a-bb1e-4b85a604b570"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.14",
+            "objective_text": "Evaluate Cantor's diagonal argument.",
+            "objective_uuid": "bf49de2a-46d9-48b8-be6c-7477f09bbb5b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.13",
+            "objective_text": "Construct a proof involving set cardinality.",
+            "objective_uuid": "6b3adc5c-8781-4b75-ac8a-8f5b65169c36"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.1",
+            "sub_topic_name": "Cardinality (the last number said = total)",
+            "objective_id": "MAT.4.1.1.16",
+            "objective_text": "Synthesize combinatorial logic with cardinality.",
+            "objective_uuid": "b0966f79-ca58-443c-aac6-c4a56aa8d5f6"
+          }
+        ]
+      }
+    }
+  }
+}

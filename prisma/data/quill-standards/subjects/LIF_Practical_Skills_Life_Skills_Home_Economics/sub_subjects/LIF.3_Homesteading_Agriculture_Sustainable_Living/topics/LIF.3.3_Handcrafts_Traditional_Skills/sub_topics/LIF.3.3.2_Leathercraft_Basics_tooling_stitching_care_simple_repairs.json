@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.3.2",
+    "name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+    "topic_id": "LIF.3.3",
+    "topic_name": "Handcrafts & Traditional Skills",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Leathercraft Basics (tooling, stitching, care, simple repairs) in Handcrafts & Traditional Skills (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 1.5,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.1",
+            "objective_text": "Identify leather (belt, shoe).",
+            "objective_uuid": "b0539493-4e39-4318-b894-b66d96fe3799"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.8",
+            "objective_text": "Identify leather care (conditioning).",
+            "objective_uuid": "fe4f8bff-2f78-4b44-ba6a-3049e31a1c63"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.3",
+            "objective_text": "Recall that leather comes from animals.",
+            "objective_uuid": "c96e0157-e6e2-431d-816f-59f5736ee6a3"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.4",
+            "objective_text": "Observe stitching.",
+            "objective_uuid": "e9b69444-dcb3-4d6c-b041-29883f1c9e3e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 6,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.2",
+            "objective_text": "Feel the texture.",
+            "objective_uuid": "756dff13-89ba-47e0-986b-a23244573c56"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.5",
+            "objective_text": "Summarize how leather is tanned (preserved).",
+            "objective_uuid": "eeaedb02-0d83-4506-946a-af593d83b062"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.6",
+            "objective_text": "Explain stamping a design.",
+            "objective_uuid": "e35b961e-4f14-4cd4-b3e4-5692bfa91897"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.7",
+            "objective_text": "Lace a simple leather pouch.",
+            "objective_uuid": "9df60cb1-fbde-418f-8318-938c68490366"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.12",
+            "objective_text": "Explain setting a rivet or snap.",
+            "objective_uuid": "1b88eb14-7b5b-4421-9570-8ec11e3fe577"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.15",
+            "objective_text": "Defend the quality of hand-stitched items.",
+            "objective_uuid": "02dad7f6-7d08-4af5-a0ed-65b1bd204b5b"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.9",
+            "objective_text": "Analyze the saddle stitch (two needles).",
+            "objective_uuid": "813dcffa-85c5-4d84-9b69-48a65c477175"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.10",
+            "objective_text": "Interpret different weights of leather (oz).",
+            "objective_uuid": "391a6bc6-82ee-45db-a1b5-100f26271d92"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.11",
+            "objective_text": "Connect tooling to wet molding.",
+            "objective_uuid": "77e6762b-473c-45db-b22f-25c067604543"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.14",
+            "objective_text": "Evaluate the durability of leather goods.",
+            "objective_uuid": "8d1940a7-02cc-4b02-8e9b-3b44173dbb79"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.13",
+            "objective_text": "Construct a functional leather item (wallet/belt).",
+            "objective_uuid": "17343dd7-4db5-4717-86f7-7fda36c56bd2"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.3",
+            "topic_name": "Handcrafts & Traditional Skills",
+            "sub_topic_id": "LIF.3.3.2",
+            "sub_topic_name": "Leathercraft Basics (tooling, stitching, care, simple repairs)",
+            "objective_id": "LIF.3.3.2.16",
+            "objective_text": "Synthesize precision cutting with finishing skills.",
+            "objective_uuid": "07778ed8-97c1-4dc7-bbb4-9848affdd7cc"
+          }
+        ]
+      }
+    }
+  }
+}

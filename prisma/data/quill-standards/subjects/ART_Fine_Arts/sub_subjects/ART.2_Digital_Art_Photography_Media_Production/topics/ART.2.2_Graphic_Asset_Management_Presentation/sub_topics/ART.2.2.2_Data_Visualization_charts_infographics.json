@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ART.2.2.2",
+    "name": "Data Visualization (charts, infographics)",
+    "topic_id": "ART.2.2",
+    "topic_name": "Graphic Asset Management & Presentation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Visualization (charts, infographics) in Graphic Asset Management & Presentation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.1",
+            "objective_text": "Identify a bar chart.",
+            "objective_uuid": "8a425ee1-80e5-4535-b842-60236f03a3df"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.3",
+            "objective_text": "Recall that taller bars mean 'more'.",
+            "objective_uuid": "d6900b47-eb57-49f7-9b48-e632d10d5337"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.4",
+            "objective_text": "Observe a weather chart.",
+            "objective_uuid": "0f1b5fed-77b7-4212-8331-757c9997167c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.2",
+            "objective_text": "Use pictures to show numbers (Pictogram).",
+            "objective_uuid": "56879fa3-8e5c-42dd-b5e3-3271b88fcfd7"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.5",
+            "objective_text": "Summarize a Pie Chart (parts of a whole).",
+            "objective_uuid": "e262eacb-a3a6-42d5-8c71-9e0636f19d85"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.6",
+            "objective_text": "Explain the X and Y axis labels.",
+            "objective_uuid": "1eeed6a7-7857-4453-afc4-c34e62041bbb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.12",
+            "objective_text": "Explain misleading statistics in graphs.",
+            "objective_uuid": "31421ddd-fc3e-488d-9819-c22b0748ae73"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.15",
+            "objective_text": "Defend the truthfulness of the visualization.",
+            "objective_uuid": "530dc91c-09ca-434b-be40-98a365d69166"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.8",
+            "objective_text": "Compare a table with a graph.",
+            "objective_uuid": "da671fce-e9dd-40e2-8301-10b01f150fe9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.9",
+            "objective_text": "Analyze which chart fits the data (Line for time, Bar for comparison).",
+            "objective_uuid": "0896e420-1c22-4b43-a78a-6b722e2576ac"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.10",
+            "objective_text": "Interpret an Infographic.",
+            "objective_uuid": "422bc5af-b5bf-4f60-b72e-bab6ad183212"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.11",
+            "objective_text": "Connect color coding to data clarity.",
+            "objective_uuid": "d1846686-d2ce-4dfe-8055-40db736a5012"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.14",
+            "objective_text": "Evaluate the aesthetic presentation of data.",
+            "objective_uuid": "674ba278-e4cf-43eb-846a-ae6ed6c4e2f1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.7",
+            "objective_text": "Create a chart from class data.",
+            "objective_uuid": "aff7cc33-e831-441a-837a-794e8631bfb1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.13",
+            "objective_text": "Construct a complex data synthesis.",
+            "objective_uuid": "9385e935-bf5d-4452-8cfd-22869eb59bbf"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.2",
+            "topic_name": "Graphic Asset Management & Presentation",
+            "sub_topic_id": "ART.2.2.2",
+            "sub_topic_name": "Data Visualization (charts, infographics)",
+            "objective_id": "ART.2.2.2.16",
+            "objective_text": "Synthesize design principles with statistical accuracy.",
+            "objective_uuid": "aa4624fd-7638-4321-8367-8c2be1ae4fce"
+          }
+        ]
+      }
+    }
+  }
+}

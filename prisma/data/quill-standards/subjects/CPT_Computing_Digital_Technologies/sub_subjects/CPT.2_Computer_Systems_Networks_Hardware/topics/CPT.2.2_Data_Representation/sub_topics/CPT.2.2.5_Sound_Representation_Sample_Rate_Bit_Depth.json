@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.2.5",
+    "name": "Sound Representation (Sample Rate, Bit Depth)",
+    "topic_id": "CPT.2.2",
+    "topic_name": "Data Representation",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sound Representation (Sample Rate, Bit Depth) in Data Representation (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.1",
+            "objective_text": "Identify recording a voice.",
+            "objective_uuid": "02f2a5cd-d403-44e3-a222-f67847060b85"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.2",
+            "objective_text": "Recall that sound is a wave.",
+            "objective_uuid": "7e26b9c8-f4f1-4f48-8cc4-0416f0aa9b76"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.3",
+            "objective_text": "Name digital music.",
+            "objective_uuid": "5faeb603-b3c5-4dab-bda4-31239e5a9685"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.4",
+            "objective_text": "Observe volume levels.",
+            "objective_uuid": "29b9245f-bebf-408b-bf39-6f50cadbd667"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.7",
+            "objective_text": "Identify a waveform display.",
+            "objective_uuid": "00bc77b2-544b-4acd-9259-b3548353e0c0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.5",
+            "objective_text": "Summarize Sampling (taking measurements of the sound).",
+            "objective_uuid": "cfe8ee19-d6d0-41f9-b388-f2fa1935de5f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.6",
+            "objective_text": "Explain that more samples = better sound.",
+            "objective_uuid": "7f903fef-3e14-4342-a083-c0038727b84f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.12",
+            "objective_text": "Explain ADC (Analog to Digital Converter).",
+            "objective_uuid": "991fe6a9-3430-42a1-b838-13bd96ce1a7d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.15",
+            "objective_text": "Defend high-resolution audio standards.",
+            "objective_uuid": "ee5a0f63-d656-4700-814a-17fdbf8c1ad8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.8",
+            "objective_text": "Compare vinyl (analog) vs. MP3 (digital).",
+            "objective_uuid": "36a2aaf0-0bf4-486a-ac49-8e2e0724ec09"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.9",
+            "objective_text": "Analyze Sample Rate (Hz) vs. Bit Depth.",
+            "objective_uuid": "7f0eb66c-c969-4665-b601-2bb39f1720fa"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.10",
+            "objective_text": "Interpret the Nyquist Theorem concept (briefly).",
+            "objective_uuid": "a2f4511a-0249-4888-8a29-b23ef1d16a4b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.11",
+            "objective_text": "Connect file size to audio quality.",
+            "objective_uuid": "e7f5f4e3-27bd-4810-ba32-f2f4bd0c88a3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.14",
+            "objective_text": "Evaluate the fidelity loss in digitization.",
+            "objective_uuid": "975462fa-8236-44d0-8f24-9d9b094b37a3"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.13",
+            "objective_text": "Construct a calculation for uncompressed audio size.",
+            "objective_uuid": "a0c0aac3-acd3-4151-9a1b-786a3c6925c5"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.5",
+            "sub_topic_name": "Sound Representation (Sample Rate, Bit Depth)",
+            "objective_id": "CPT.2.2.5.16",
+            "objective_text": "Synthesize signal processing concepts.",
+            "objective_uuid": "1903fd5b-571f-4072-9572-5fb4d57cda6e"
+          }
+        ]
+      }
+    }
+  }
+}

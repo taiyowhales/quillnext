@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.1.3",
+    "name": "Identifying Key Graph Features",
+    "topic_id": "MAT.11.1",
+    "topic_name": "Graphing Trigonometric Functions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Identifying Key Graph Features in Graphing Trigonometric Functions (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 15.08,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.1",
+            "objective_text": "Identify the highest point.",
+            "objective_uuid": "67c56453-9ac8-4d21-964b-41239ab8a7e8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.2",
+            "objective_text": "Identify the lowest point.",
+            "objective_uuid": "7bf83a59-3eb3-4f01-b744-c54b14dcbc7a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.7",
+            "objective_text": "Identify where the graph goes up (increasing).",
+            "objective_uuid": "65555388-f69e-435b-8a35-56133cb9d9b8"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.3",
+            "objective_text": "Recall where it crosses the line.",
+            "objective_uuid": "44ad362f-ad49-406c-bd4d-b831d3383c0f"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.4",
+            "objective_text": "Observe the pattern starting over.",
+            "objective_uuid": "db6c1d28-177d-4f3e-acff-a04356f91893"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.5",
+            "objective_text": "Summarize Maximum and Minimum.",
+            "objective_uuid": "0073afd1-139d-487a-b71c-86a723c88f2a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.6",
+            "objective_text": "Explain Intercepts.",
+            "objective_uuid": "15acd6aa-e6d6-4d4d-bb33-ca684bb8d3e8"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.12",
+            "objective_text": "Explain critical points.",
+            "objective_uuid": "cb31f0db-fba6-48e3-8b48-aeba9a82429f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.15",
+            "objective_text": "Defend the relationship between the equation parameters and graph features.",
+            "objective_uuid": "3a6387b7-ffd9-4700-8a4a-da7d9e4cdd36"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.8",
+            "objective_text": "Compare the steepness.",
+            "objective_uuid": "9c05fd25-0e84-4205-a9a7-8a7e10acf655"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.9",
+            "objective_text": "Analyze the zeros of the function.",
+            "objective_uuid": "15dd87ea-f658-4186-9a3b-25ac96ff4ed4"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.10",
+            "objective_text": "Interpret intervals of increase and decrease.",
+            "objective_uuid": "439c27d0-b092-4b8b-a4a0-0b85a86a25c6"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.11",
+            "objective_text": "Connect symmetry to even/odd functions.",
+            "objective_uuid": "31ca8475-7dfd-4dc8-8cc2-e55b44baa0f4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.14",
+            "objective_text": "Evaluate the inflection points.",
+            "objective_uuid": "28259e2c-3da6-4dca-90c1-3b0a36fa7918"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.16",
+            "objective_text": "Synthesize graphical analysis.",
+            "objective_uuid": "be2c2f78-9c51-4950-8e63-35917f228695"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 37.0,
+        "objectives": [
+          {
+            "complexity": 37,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.3",
+            "sub_topic_name": "Identifying Key Graph Features",
+            "objective_id": "MAT.11.1.3.13",
+            "objective_text": "Construct a sign chart for the derivative (conceptually).",
+            "objective_uuid": "8aaa78af-3613-4379-91ed-3944f80c551c"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.7.2",
+    "name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+    "topic_id": "MAT.1.7",
+    "topic_name": "Quadratic Functions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving by Factoring, Completing the Square, and the Quadratic Formula in Quadratic Functions (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.1",
+            "objective_text": "Identify a missing number.",
+            "objective_uuid": "c24dada3-e0a4-46b5-836b-b775f170f8a0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.8",
+            "objective_text": "Identify square roots.",
+            "objective_uuid": "0c2417b4-d3e1-4bc6-80f0-580ba0277ffa"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.3",
+            "objective_text": "Recall solving puzzles.",
+            "objective_uuid": "76ecd5aa-e983-40af-a994-41fa95646a6f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "ae69bba1-36b8-4135-94d4-6cff7f5e40a2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.2",
+            "objective_text": "Find two answers.",
+            "objective_uuid": "395edfeb-a0d3-4e6e-82d8-c549e6804639"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.5",
+            "objective_text": "Summarize finding roots.",
+            "objective_uuid": "79b49499-580a-4e98-93fa-1d7e3184d5cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.6",
+            "objective_text": "Explain that a U-shape hits the line twice.",
+            "objective_uuid": "c26d5846-700a-421f-b649-14f2f4cc7c8f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.12",
+            "objective_text": "Explain why some have no real solution.",
+            "objective_uuid": "ae584a99-d47f-46bb-9a5c-2ae1e00e1bbd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.15",
+            "objective_text": "Defend the efficiency of choosing the right method.",
+            "objective_uuid": "7f0cb102-1d37-419f-b356-8b96f9eafd40"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.7",
+            "objective_text": "Solve simple squares ($x^2 = 9$).",
+            "objective_uuid": "3dbddac5-27b0-49f1-9121-e2bfd42e6e89"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.9",
+            "objective_text": "Analyze the Zero Product Property.",
+            "objective_uuid": "6013d7d8-4cf2-4aaa-973a-c6e278e855b0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.10",
+            "objective_text": "Interpret completing the square geometrically.",
+            "objective_uuid": "2fcca798-5134-4ed1-a675-c4e5f37f2815"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.11",
+            "objective_text": "Connect the Quadratic Formula to the standard form.",
+            "objective_uuid": "0a4d4cfe-3a97-4c86-a1c8-dc38e8bff338"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.14",
+            "objective_text": "Evaluate the Discriminant to determine root types.",
+            "objective_uuid": "ffeacf93-1388-4069-978a-9309f88821ed"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.13",
+            "objective_text": "Construct the derivation of the Quadratic Formula.",
+            "objective_uuid": "46b867eb-619d-47b3-b056-f2000da06aae"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.7",
+            "topic_name": "Quadratic Functions",
+            "sub_topic_id": "MAT.1.7.2",
+            "sub_topic_name": "Solving by Factoring, Completing the Square, and the Quadratic Formula",
+            "objective_id": "MAT.1.7.2.16",
+            "objective_text": "Synthesize complex roots.",
+            "objective_uuid": "d3684521-3732-4092-ad9f-870801522c33"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.1.4",
+    "name": "Remote Sensing and Satellite Imagery",
+    "topic_id": "GEO.1.1",
+    "topic_name": "Advanced Cartography & GIS",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Remote Sensing and Satellite Imagery in Advanced Cartography & GIS (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.1",
+            "objective_text": "Identify a picture taken from space.",
+            "objective_uuid": "93aed83b-d845-48f4-9beb-1314dc3dd2e4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.2",
+            "objective_text": "Name a satellite.",
+            "objective_uuid": "48d03db6-f554-48f7-afca-1feffbef965d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.8",
+            "objective_text": "Identify infrared images (heat).",
+            "objective_uuid": "ea83999e-e84e-4568-ae94-9b90ef687602"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.3",
+            "objective_text": "Recall that satellites watch the weather.",
+            "objective_uuid": "2269c9e3-9207-4cb3-8cde-0f239b87d4f0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.4",
+            "objective_text": "Observe a hurricane from above.",
+            "objective_uuid": "f9b606c9-515e-4c5d-ad56-4466e7f69086"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.5",
+            "objective_text": "Summarize how cameras in the sky help us.",
+            "objective_uuid": "769a9523-1f78-4c7c-9de5-219a7dd15929"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.6",
+            "objective_text": "Explain GPS (Global Positioning System).",
+            "objective_uuid": "e0a880d2-d8f0-45f2-a4fc-9824a8b95338"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.12",
+            "objective_text": "Explain active vs. passive remote sensing.",
+            "objective_uuid": "c79a790f-9a0d-426c-b892-5921f939f48b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.15",
+            "objective_text": "Defend the use of technology to steward the earth (monitoring).",
+            "objective_uuid": "cf5e8d48-0237-4857-a968-45b3c2d5b47e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.7",
+            "objective_text": "Compare an aerial photo with a drawn map.",
+            "objective_uuid": "462cadf3-fd5b-4225-a1b4-442e03e0d346"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.9",
+            "objective_text": "Analyze changes in land use over time (deforestation).",
+            "objective_uuid": "6fb0d637-5eca-42cb-88b4-30f9141eeb83"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.10",
+            "objective_text": "Interpret False Color imagery (vegetation health).",
+            "objective_uuid": "376a8dd9-67e9-4eb1-b347-e039b17644f1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.11",
+            "objective_text": "Connect LIDAR technology to finding lost cities.",
+            "objective_uuid": "957ef910-dc75-4223-bac6-6dd2a27982b4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.14",
+            "objective_text": "Evaluate the resolution limitations of imagery.",
+            "objective_uuid": "d79216f9-3f16-44c7-88e0-7eda3b3ee1d8"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.13",
+            "objective_text": "Construct a report on environmental change using satellite data.",
+            "objective_uuid": "4c7e3e9b-6d3d-4bc0-8e9c-4422f0899aeb"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.4",
+            "sub_topic_name": "Remote Sensing and Satellite Imagery",
+            "objective_id": "GEO.1.1.4.16",
+            "objective_text": "Synthesize physics (light spectrum) with geography.",
+            "objective_uuid": "96f65eff-f69f-4822-942a-192b7df1dda1"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.5.3",
+    "name": "Human-Robot Interaction (Cobots)",
+    "topic_id": "CPT.7.5",
+    "topic_name": "Modern Robotics & Autonomous Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Human-Robot Interaction (Cobots) in Modern Robotics & Autonomous Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.1",
+            "objective_text": "Identify a friendly robot.",
+            "objective_uuid": "2bda1bad-0fdd-483a-a72b-79b160f49623"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.3",
+            "objective_text": "Recall that robots help us.",
+            "objective_uuid": "b42f0c78-c950-42f6-9021-ef3ce1e0b3fe"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.4",
+            "objective_text": "Name a Cobot (Co-worker Robot).",
+            "objective_uuid": "db978a54-c331-4ecb-9411-2d896d5f5f45"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.7",
+            "objective_text": "Identify safety sensors that stop the robot.",
+            "objective_uuid": "d0bded08-f9ce-427b-8b19-1bfbde930f6a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.2",
+            "objective_text": "Talk to a robot.",
+            "objective_uuid": "96aee7b4-d0af-4f29-95b8-f06bf73b0ce4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.5",
+            "objective_text": "Summarize robots working alongside people.",
+            "objective_uuid": "9f62588f-fdb6-4f72-844a-6b52d358b44f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.6",
+            "objective_text": "Explain why industrial robots are in cages.",
+            "objective_uuid": "3be5e6a2-c085-400e-b61d-b5d83d55a89b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.12",
+            "objective_text": "Explain collaborative robotics.",
+            "objective_uuid": "15cadbd7-17e1-4733-bdf6-a2a1d1bfb90a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.15",
+            "objective_text": "Defend the role of robots in elderly care or education.",
+            "objective_uuid": "95487813-6fa9-4e71-b7eb-201dc1aa7e23"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.8",
+            "objective_text": "Compare a tool robot with a social robot.",
+            "objective_uuid": "83fccbe7-a39e-4d9a-8942-f14ab1e8c0a2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.9",
+            "objective_text": "Analyze the Uncanny Valley effect.",
+            "objective_uuid": "bb6b32c7-9c7c-4545-9d4c-52f21aa50a6d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.10",
+            "objective_text": "Interpret interface design for robots.",
+            "objective_uuid": "18fcfe09-91c5-4b6a-8c84-1c14d1e0f350"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.11",
+            "objective_text": "Connect trust to robot behavior.",
+            "objective_uuid": "f77e3a26-de90-4561-90ae-72695a1c968d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.14",
+            "objective_text": "Evaluate the psychology of human-robot teams.",
+            "objective_uuid": "3ed79396-6a91-42a2-b0f9-ca9c0f2125e8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.13",
+            "objective_text": "Construct a safety analysis for a HRI scenario.",
+            "objective_uuid": "c641d1e3-cb14-484a-9a4d-a176ea405a7e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.3",
+            "sub_topic_name": "Human-Robot Interaction (Cobots)",
+            "objective_id": "CPT.7.5.3.16",
+            "objective_text": "Synthesize ethics with engineering design.",
+            "objective_uuid": "ff7e69ff-5f7b-4b48-ad78-dd81b9a602ec"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.4",
+    "name": "Functions, Parameters & Return Values (early introduction)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Functions, Parameters & Return Values (early introduction) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.1",
+            "objective_text": "Identify a special command.",
+            "objective_uuid": "b4b645fe-8f6e-4907-b72c-e08c6f971be5"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.4",
+            "objective_text": "Name a recipe.",
+            "objective_uuid": "dedf6acb-c0f6-4630-89f0-08253b195803"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.8",
+            "objective_text": "Identify reusable code.",
+            "objective_uuid": "738fa90f-e9b5-4684-ac82-5dd921dec7af"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.3",
+            "objective_text": "Recall getting an answer back.",
+            "objective_uuid": "1870a743-d58a-4cd8-9258-433a826c29c6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.2",
+            "objective_text": "Give information to a robot.",
+            "objective_uuid": "93773610-362f-4007-a133-01047710696a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.5",
+            "objective_text": "Summarize a Function (mini-program).",
+            "objective_uuid": "3a5a5be5-e140-48af-9e72-f77ffd8d88bf"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.6",
+            "objective_text": "Explain passing a number in.",
+            "objective_uuid": "eb0a451b-5f3b-4110-95ab-32fd2bd88274"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.7",
+            "objective_text": "Call a function.",
+            "objective_uuid": "cb9e75bb-5e86-4222-85d3-e0d58ce710e0"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.12",
+            "objective_text": "Explain scope (local variables).",
+            "objective_uuid": "0a3fa8db-8ae8-46c6-bbf7-592f8a45c4d3"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.15",
+            "objective_text": "Defend the Single Responsibility Principle.",
+            "objective_uuid": "040c0d35-c1be-49f7-84f1-622a6577dc2d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.9",
+            "objective_text": "Analyze Arguments vs. Parameters.",
+            "objective_uuid": "3f47dfa0-830e-43d5-97c4-df1a3ffa36fb"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.10",
+            "objective_text": "Interpret the 'return' statement.",
+            "objective_uuid": "569f37f0-1886-412b-8be3-436015cea3a9"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.11",
+            "objective_text": "Connect functions to abstraction.",
+            "objective_uuid": "69fafd89-7171-439c-9c4e-fb8bac7d1e9b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.14",
+            "objective_text": "Evaluate side effects.",
+            "objective_uuid": "78dc3f3a-707d-4e42-84aa-59932c72c969"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.13",
+            "objective_text": "Construct modular code with pure functions.",
+            "objective_uuid": "e5e27cad-16d2-4be1-99db-471ee27cbd67"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.4",
+            "sub_topic_name": "Functions, Parameters & Return Values (early introduction)",
+            "objective_id": "CPT.1.4.4.16",
+            "objective_text": "Synthesize functional programming concepts.",
+            "objective_uuid": "4414638b-3876-4fa4-b8b8-5f6adcfcc6e8"
+          }
+        ]
+      }
+    }
+  }
+}

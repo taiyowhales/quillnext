@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.1.1.1",
+    "name": "Map Projections and Distortions",
+    "topic_id": "GEO.1.1",
+    "topic_name": "Advanced Cartography & GIS",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.1",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Map Projections and Distortions in Advanced Cartography & GIS (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.1",
+            "objective_text": "Identify a globe as the only true map.",
+            "objective_uuid": "d3a8ce97-bce2-49dd-bcde-cb4daa7460c6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.2",
+            "objective_text": "Name the Mercator projection (common but distorted).",
+            "objective_uuid": "e887f228-c69e-4fda-94fd-bd8fb1cf1943"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.8",
+            "objective_text": "Identify the Prime Meridian and Equator on different projections.",
+            "objective_uuid": "cc2f8f32-c2c1-4810-9a34-d6fefcf09899"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.3",
+            "objective_text": "Recall that peeling an orange flat tears the skin.",
+            "objective_uuid": "70eb7190-36e5-44b8-962d-89e7aa3a649d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.4",
+            "objective_text": "Observe how Greenland looks huge on some maps.",
+            "objective_uuid": "0f6f1405-2d33-4702-add4-bd6d2d238b44"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.5",
+            "objective_text": "Summarize why all flat maps are wrong (distortion).",
+            "objective_uuid": "77cdc91d-2e64-4576-af26-9587fbc386dc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.6",
+            "objective_text": "Explain the trade-off between size and shape accuracy.",
+            "objective_uuid": "efc3c67c-81d0-4065-bf05-301578a91d0d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.12",
+            "objective_text": "Explain Conic, Cylindrical, and Azimuthal projections.",
+            "objective_uuid": "bb7c3932-9323-4cf4-8a40-cc55984ccdcc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.15",
+            "objective_text": "Defend the mathematical necessity of distortion when flattening a sphere.",
+            "objective_uuid": "59fda400-6f36-428d-b069-b2fd089857bb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.7",
+            "objective_text": "Compare the Robinson projection with the Gall-Peters.",
+            "objective_uuid": "f7981af5-0c81-4a75-aead-e3e663edb1e5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.9",
+            "objective_text": "Analyze the political implications of map distortion (Eurocentrism).",
+            "objective_uuid": "74a82f4d-b96b-40c3-ad89-30f7fe1c3b2f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.10",
+            "objective_text": "Interpret the Tissot's Indicatrix (circles showing distortion).",
+            "objective_uuid": "8e9c50a2-d1da-48e9-a54e-c449fe969dea"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.11",
+            "objective_text": "Connect the purpose of the map to the choice of projection (navigation vs. area).",
+            "objective_uuid": "c9eb910a-1bb2-4835-acba-cce8d3451021"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.14",
+            "objective_text": "Evaluate the use of the Polar projection for air travel.",
+            "objective_uuid": "4673a474-55d3-48bd-b2cc-2e1c0645200f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.13",
+            "objective_text": "Construct a comparison of the Winkel Tripel and Mercator.",
+            "objective_uuid": "98d59476-5446-49ab-b3cc-8e4d0e4e48b5"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.1",
+            "sub_subject_name": "Geographical Skills, Fieldwork & Geospatial Technology",
+            "topic_id": "GEO.1.1",
+            "topic_name": "Advanced Cartography & GIS",
+            "sub_topic_id": "GEO.1.1.1",
+            "sub_topic_name": "Map Projections and Distortions",
+            "objective_id": "GEO.1.1.1.16",
+            "objective_text": "Synthesize geometry with cartographic history.",
+            "objective_uuid": "624fc43f-2717-4336-9726-818f2f1221f1"
+          }
+        ]
+      }
+    }
+  }
+}

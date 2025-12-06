@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.3.3",
+    "name": "Margin of Error and Confidence Intervals (Intuitive)",
+    "topic_id": "MAT.10.3",
+    "topic_name": "Introduction to Inference and Modeling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Margin of Error and Confidence Intervals (Intuitive) in Introduction to Inference and Modeling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.4",
+            "objective_text": "Name 'Close enough'.",
+            "objective_uuid": "6d7b7110-d109-46bb-bc72-3d30ddffada3"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.7",
+            "objective_text": "Identify a range of likely answers.",
+            "objective_uuid": "71d58835-1d6e-4d0b-a11b-02a803386d27"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.3",
+            "objective_text": "Recall that we might be a little off.",
+            "objective_uuid": "2d71952f-36c8-47c5-8371-cd80ea86ef93"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.1",
+            "objective_text": "Guess how many jellybeans.",
+            "objective_uuid": "95014a83-97c3-4868-ab7e-7109b57b941c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.2",
+            "objective_text": "Say 'Around 10'.",
+            "objective_uuid": "c3b838c2-246d-4f02-8b5f-57a86ff353d7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.5",
+            "objective_text": "Summarize 'Give or take'.",
+            "objective_uuid": "6255e71f-4410-49a2-99b1-89377cf0d24d"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.6",
+            "objective_text": "Explain that estimating isn't exact.",
+            "objective_uuid": "fa0ced65-fc7e-4105-a49d-ecb729e009ac"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.12",
+            "objective_text": "Explain confidence (how sure we are).",
+            "objective_uuid": "a08d2a2b-8a8d-4ab4-aff8-2b15916f331e"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.15",
+            "objective_text": "Defend the statistical definition of 'Confidence'.",
+            "objective_uuid": "527d4235-3d3b-4c21-862a-6bd42ddd8c0f"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.8",
+            "objective_text": "Compare a wild guess with an educated guess.",
+            "objective_uuid": "0cca92d7-7443-4147-b38f-ed90ad29c1e9"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.9",
+            "objective_text": "Analyze why larger samples are better.",
+            "objective_uuid": "3ac8a9ee-d0c7-475d-81a2-2567959b7c6d"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.10",
+            "objective_text": "Interpret polling data ('+/- 3 points').",
+            "objective_uuid": "56791096-1b8e-44b0-a73e-7dd68e786e2f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.11",
+            "objective_text": "Connect variation to uncertainty.",
+            "objective_uuid": "43f2ac41-ed9d-419f-8712-5ec00eeae0f3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.14",
+            "objective_text": "Evaluate the trade-off between confidence level and interval width.",
+            "objective_uuid": "ba3d2fd2-7948-4fd8-91e5-934a04682846"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.13",
+            "objective_text": "Construct a confidence interval for a mean.",
+            "objective_uuid": "2f519905-ad27-4f56-86d0-2f7e0c148a0c"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.3",
+            "sub_topic_name": "Margin of Error and Confidence Intervals (Intuitive)",
+            "objective_id": "MAT.10.3.3.16",
+            "objective_text": "Synthesize inferential logic.",
+            "objective_uuid": "c8697307-2f81-4253-b372-5ef8eb9e9984"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.4.4",
+    "name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+    "topic_id": "MAT.10.4",
+    "topic_name": "Probability Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams) in Probability Foundations (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.8",
+            "objective_text": "Identify organized counting.",
+            "objective_uuid": "a99c46a4-86e1-4b1f-92cb-fe41dd8d0385"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.1",
+            "objective_text": "List all the colors in a box.",
+            "objective_uuid": "db606764-e59e-4ce2-b8c3-143a245aedde"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.3",
+            "objective_text": "Recall that making a list helps us count.",
+            "objective_uuid": "381cb906-70ee-4b8f-a8ac-fe27c80907fd"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.4",
+            "objective_text": "Observe choices.",
+            "objective_uuid": "43be86da-47e5-484b-b681-ec827edb9afc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.7",
+            "objective_text": "Fill in a simple table.",
+            "objective_uuid": "c495ea79-3299-4093-858d-b151df8ec796"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.12",
+            "objective_text": "Explain how diagrams prevent double counting.",
+            "objective_uuid": "c5650435-0929-4c8a-9229-ba7ffa0db080"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.2",
+            "objective_text": "Draw combinations (Red shirt/Blue pants).",
+            "objective_uuid": "95dc95c1-41d0-4b0e-a952-4950a5649f0a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.5",
+            "objective_text": "Summarize a Tree Diagram (branching choices).",
+            "objective_uuid": "3cfdebf1-6b0f-42fb-8746-e84d0422ee2d"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.6",
+            "objective_text": "Explain a Systematic List.",
+            "objective_uuid": "05530d63-2380-4e40-b1f5-d32e2ab21ab7"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.15",
+            "objective_text": "Defend the solution using the diagram as proof.",
+            "objective_uuid": "f96c4057-dac1-40d5-a3ab-18b4e3802aad"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.9",
+            "objective_text": "Analyze Venn Diagrams with 2 or 3 circles.",
+            "objective_uuid": "b6de8add-4a00-4822-a6e0-680cbeac06e1"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.10",
+            "objective_text": "Interpret regions (A only, A and B, etc.).",
+            "objective_uuid": "61309a41-a90d-4fd9-89bb-3d3f795e013b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.11",
+            "objective_text": "Connect tables to probability calculations.",
+            "objective_uuid": "7bd37341-dd31-47db-9451-dca4f581852c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.14",
+            "objective_text": "Evaluate the efficiency of different listing methods.",
+            "objective_uuid": "a78f62e2-2fde-4209-9f1c-867576845a4f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.13",
+            "objective_text": "Construct diagrams for complex sample spaces.",
+            "objective_uuid": "57523dd8-4d6b-49f6-9be7-437ee7f78c45"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.4",
+            "topic_name": "Probability Foundations",
+            "sub_topic_id": "MAT.10.4.4",
+            "sub_topic_name": "Listing Outcomes (Sample Space Diagrams, Tree Diagrams, Two-Way Tables, Venn Diagrams)",
+            "objective_id": "MAT.10.4.4.16",
+            "objective_text": "Synthesize set theory notation with visual models.",
+            "objective_uuid": "b7af2b41-77a7-4427-9f8f-2cb7e4c4cbfc"
+          }
+        ]
+      }
+    }
+  }
+}

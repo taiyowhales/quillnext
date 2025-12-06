@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.2.3",
+    "name": "Mobile & Cloud Era",
+    "topic_id": "CPT.5.2",
+    "topic_name": "History of Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Mobile & Cloud Era in History of Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.1",
+            "objective_text": "Identify a smartphone.",
+            "objective_uuid": "f26a3782-6da6-44e7-bc80-1751a59558c3"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.2",
+            "objective_text": "Name an App Store.",
+            "objective_uuid": "5c67c74b-13e0-4dbc-b15b-528b3d5bf1fe"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.7",
+            "objective_text": "Identify streaming (Netflix/Spotify).",
+            "objective_uuid": "63fd23d0-e858-46bd-86d0-70a3fda6456f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.3",
+            "objective_text": "Recall that we carry computers in pockets.",
+            "objective_uuid": "4ab9fb21-5f87-48a9-97d1-48d4f8fa829c"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.4",
+            "objective_text": "Observe touch screens.",
+            "objective_uuid": "861924ca-6f59-4256-b451-029e0c142eaa"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.5",
+            "objective_text": "Summarize the iPhone launch (2007).",
+            "objective_uuid": "427fec7d-c730-4c29-91d5-dae914e1c35c"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.6",
+            "objective_text": "Explain 'The Cloud' (other people's computers).",
+            "objective_uuid": "b1c04d89-ab1f-4365-8ff1-f41e6cfd4869"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.12",
+            "objective_text": "Explain virtualization (AWS/Azure).",
+            "objective_uuid": "02d18532-80eb-4221-aa5f-54332ba51c91"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.15",
+            "objective_text": "Defend the utility of centralized cloud services.",
+            "objective_uuid": "b0ab1465-8d55-49da-a206-dc0c98fb75f4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.8",
+            "objective_text": "Compare a flip phone with a smart phone.",
+            "objective_uuid": "cce69dd9-a538-4b7f-aeed-beb450722b58"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.9",
+            "objective_text": "Analyze the App Economy.",
+            "objective_uuid": "6ec29854-b16a-4f69-b703-f6c043f32a58"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.10",
+            "objective_text": "Interpret ubiquitous computing (always on).",
+            "objective_uuid": "f30edeaf-c252-43ec-97db-2560ee262281"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.11",
+            "objective_text": "Connect GPS to location services.",
+            "objective_uuid": "72cff402-6686-49e3-957c-649e03762e85"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.14",
+            "objective_text": "Evaluate the privacy implications of always-on devices.",
+            "objective_uuid": "b89f65cc-4557-40c3-8341-4d5614bbcd63"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.13",
+            "objective_text": "Construct an analysis of the shift to mobile-first design.",
+            "objective_uuid": "0d15717c-8aa7-4dcf-a764-09777f97b6de"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.3",
+            "sub_topic_name": "Mobile & Cloud Era",
+            "objective_id": "CPT.5.2.3.16",
+            "objective_text": "Synthesize infrastructure as a service (IaaS).",
+            "objective_uuid": "d3f3220a-5006-449b-959c-c81cbc409dd9"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.2.3",
+    "name": "Converting between Binary, Denary, and Hexadecimal",
+    "topic_id": "CPT.2.2",
+    "topic_name": "Data Representation",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Converting between Binary, Denary, and Hexadecimal in Data Representation (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.1",
+            "objective_text": "Identify counting patterns.",
+            "objective_uuid": "c0d31231-8d45-4085-85f8-74773978699c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.3",
+            "objective_text": "Recall grouping.",
+            "objective_uuid": "8d2cd458-45ba-46f1-8408-0e3c1c72d0ab"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.8",
+            "objective_text": "Identify Hex codes in colors.",
+            "objective_uuid": "6ece72dd-7f23-4363-b478-6d72a770a6af"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 7,
+        "average_complexity": 8.86,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.5",
+            "objective_text": "Summarize converting small numbers (0-15) to binary.",
+            "objective_uuid": "7d8a8633-1182-4223-ad38-b507f20e3028"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.2",
+            "objective_text": "Translate a code (A=1, B=2).",
+            "objective_uuid": "27e9b225-66e5-482a-b879-c9bcb8ccd25e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.4",
+            "objective_text": "Play a decoding game.",
+            "objective_uuid": "f05ed82c-3c2d-4ab7-8dc0-386c37bb52dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.6",
+            "objective_text": "Explain Hexadecimal (using letters A-F).",
+            "objective_uuid": "42a8ffd9-0273-4c8b-a2a0-02b1cea02e93"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.7",
+            "objective_text": "Convert binary '101' to '5'.",
+            "objective_uuid": "13c34921-b725-4d80-bca4-202f15a12aaf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.12",
+            "objective_text": "Explain why we use Hex (easier for humans to read).",
+            "objective_uuid": "b7f42b84-942e-4e5b-8ff4-962b1157e159"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.15",
+            "objective_text": "Defend the efficiency of Hex representation.",
+            "objective_uuid": "761788ea-8507-43b3-bbf2-777b310f039c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.10",
+            "objective_text": "Interpret Hex as a shorthand for Binary.",
+            "objective_uuid": "635b39a4-3726-4fc3-9f43-c939e68df9ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.11",
+            "objective_text": "Connect 4 bits to 1 hex digit.",
+            "objective_uuid": "5c44ee64-2407-4117-8568-ae7628fd8acf"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.14",
+            "objective_text": "Evaluate two's complement for negative numbers.",
+            "objective_uuid": "8656c363-0280-405e-b027-848e0769ff30"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.13",
+            "objective_text": "Construct conversions for large values.",
+            "objective_uuid": "63cd0c7f-4a08-4744-b67c-4e8991eeb906"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.16",
+            "objective_text": "Synthesize bitwise operations.",
+            "objective_uuid": "bcea1cdd-8349-45bd-baf6-8368619d2fec"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.3",
+            "sub_topic_name": "Converting between Binary, Denary, and Hexadecimal",
+            "objective_id": "CPT.2.2.3.9",
+            "objective_text": "Analyze the algorithm for conversion (division by 2).",
+            "objective_uuid": "5563118b-b474-4a44-b2bc-383e3d6e073e"
+          }
+        ]
+      }
+    }
+  }
+}

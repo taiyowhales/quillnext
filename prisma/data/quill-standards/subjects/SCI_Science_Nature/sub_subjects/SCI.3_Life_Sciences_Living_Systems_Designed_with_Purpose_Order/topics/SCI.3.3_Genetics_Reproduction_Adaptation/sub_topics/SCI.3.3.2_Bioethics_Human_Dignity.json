@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.3.3.2",
+    "name": "Bioethics & Human Dignity",
+    "topic_id": "SCI.3.3",
+    "topic_name": "Genetics, Reproduction & Adaptation",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.3",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Bioethics & Human Dignity in Genetics, Reproduction & Adaptation (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.1",
+            "objective_text": "Identify that life is special.",
+            "objective_uuid": "e3dad22a-f0ab-4c76-929b-a5e865961f47"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.2",
+            "objective_text": "Name a baby as a person.",
+            "objective_uuid": "4358523b-ff76-4ca1-9c65-d05bec669277"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.7",
+            "objective_text": "Identify the sanctity of life.",
+            "objective_uuid": "425986bf-cd8b-4104-8de3-9b7482ab01c9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.3",
+            "objective_text": "Recall that we protect the weak.",
+            "objective_uuid": "4c52c58d-7bf8-4793-9836-bfd11c210589"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.4",
+            "objective_text": "Observe helping others.",
+            "objective_uuid": "3e621f3f-6aff-4db0-bd6b-17d7d6ab95f0"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.5",
+            "objective_text": "Summarize that science should follow rules.",
+            "objective_uuid": "26ad0c1f-2d4e-4965-9671-938b8d76d058"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.6",
+            "objective_text": "Explain why we don't clone people.",
+            "objective_uuid": "7fd69f01-5748-4d75-9af4-89291627d0dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.12",
+            "objective_text": "Explain stem cell research (adult vs. embryonic).",
+            "objective_uuid": "a9a62cbc-d16f-4b0d-9fe7-9a8c4c02e34e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.15",
+            "objective_text": "Defend the limitation of scientific power by moral law.",
+            "objective_uuid": "01137ebc-b9fd-46e0-8e90-cc5e849e9a6c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.8",
+            "objective_text": "Compare healing (good) with enhancing (questionable).",
+            "objective_uuid": "487ab2a9-5729-4167-9bb3-ddb98a0743ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.10",
+            "objective_text": "Interpret the moral status of the embryo.",
+            "objective_uuid": "d995f767-8547-4c86-a05c-bcb467b786f9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.11",
+            "objective_text": "Connect the Imago Dei to bioethics.",
+            "objective_uuid": "93fe1a5e-838a-446e-9dfe-050fbe136c3d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.14",
+            "objective_text": "Evaluate Transhumanism.",
+            "objective_uuid": "3516b3cd-59ba-457a-9293-07b816032fda"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.9",
+            "objective_text": "Analyze the ethics of genetic engineering (CRISPR).",
+            "objective_uuid": "61dae34a-1a83-48d6-bef5-4dbc0492c408"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.13",
+            "objective_text": "Construct a Christian response to euthanasia.",
+            "objective_uuid": "e940f83a-265d-4fbc-89ad-71f3d54bc739"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.2",
+            "sub_topic_name": "Bioethics & Human Dignity",
+            "objective_id": "SCI.3.3.2.16",
+            "objective_text": "Synthesize medical advancement with ethical boundaries.",
+            "objective_uuid": "198e2136-13e9-498f-80e7-eee0c1ef4bee"
+          }
+        ]
+      }
+    }
+  }
+}

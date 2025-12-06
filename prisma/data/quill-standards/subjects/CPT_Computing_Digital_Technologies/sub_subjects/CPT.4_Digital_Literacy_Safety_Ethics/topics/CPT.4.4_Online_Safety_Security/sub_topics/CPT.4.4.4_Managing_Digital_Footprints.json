@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.4.4",
+    "name": "Managing Digital Footprints",
+    "topic_id": "CPT.4.4",
+    "topic_name": "Online Safety & Security",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Managing Digital Footprints in Online Safety & Security (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.1",
+            "objective_text": "Identify that the internet remembers things.",
+            "objective_uuid": "0e11c3e7-4103-42b6-9512-0d235dd46908"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.2",
+            "objective_text": "Recall that pictures stay online.",
+            "objective_uuid": "b8490aad-e6c5-44a9-8b95-b3d9813bef21"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.3",
+            "objective_text": "Name 'Footprint' as a trail we leave.",
+            "objective_uuid": "ee4db5c3-224f-4055-bb71-d43be17f2430"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.4",
+            "objective_text": "Observe a search history.",
+            "objective_uuid": "3400d130-01c0-45e5-a87d-0104fe7af6b9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.7",
+            "objective_text": "Identify positive vs. negative footprints.",
+            "objective_uuid": "04c338c0-a9ef-4690-a6c3-3f620ac2cede"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.5",
+            "objective_text": "Summarize the 'Grandma Rule' (don't post what Grandma shouldn't see).",
+            "objective_uuid": "e3423377-f681-4719-837d-87e98115e4c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.6",
+            "objective_text": "Explain that deleting doesn't always mean gone.",
+            "objective_uuid": "b30b8675-4a4e-4322-8bf1-0cda9c78a7ee"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.8",
+            "objective_text": "Check privacy settings on a game.",
+            "objective_uuid": "714317b6-b290-45c7-a72a-88e4eaa9aac8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.12",
+            "objective_text": "Explain data mining.",
+            "objective_uuid": "3403b135-761e-42c2-b1cb-fdbff9980c2f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.15",
+            "objective_text": "Defend the value of privacy in a surveillance economy.",
+            "objective_uuid": "8041d278-455c-4067-a948-6fd26c4ea7f8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.9",
+            "objective_text": "Analyze the permanence of digital data.",
+            "objective_uuid": "40f7dc2e-6ef3-4a25-bdc7-1ab70d8db8ca"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.10",
+            "objective_text": "Interpret how data is collected by cookies.",
+            "objective_uuid": "397518b7-1040-4dba-9ea2-316d8f22124e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.11",
+            "objective_text": "Connect social media posts to future job prospects.",
+            "objective_uuid": "83ca35a7-cf78-49aa-ab8f-215560185450"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.14",
+            "objective_text": "Evaluate the right to be forgotten.",
+            "objective_uuid": "c243a340-5351-4bf6-b1bc-2591b986606f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.13",
+            "objective_text": "Construct a strategy for digital reputation management.",
+            "objective_uuid": "6f55ac0c-954b-40c3-b9e3-2dba838da078"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.4",
+            "topic_name": "Online Safety & Security",
+            "sub_topic_id": "CPT.4.4.4",
+            "sub_topic_name": "Managing Digital Footprints",
+            "objective_id": "CPT.4.4.4.16",
+            "objective_text": "Synthesize personal branding with authenticity.",
+            "objective_uuid": "daef9a4c-fb52-4ca2-b400-9801382f1550"
+          }
+        ]
+      }
+    }
+  }
+}

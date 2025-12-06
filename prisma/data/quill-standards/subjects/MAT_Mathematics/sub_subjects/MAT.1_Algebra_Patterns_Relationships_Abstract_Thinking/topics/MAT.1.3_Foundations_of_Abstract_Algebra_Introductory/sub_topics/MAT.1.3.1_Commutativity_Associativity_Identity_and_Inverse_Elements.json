@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.3.1",
+    "name": "Commutativity, Associativity, Identity, and Inverse Elements",
+    "topic_id": "MAT.1.3",
+    "topic_name": "Foundations of Abstract Algebra (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Commutativity, Associativity, Identity, and Inverse Elements in Foundations of Abstract Algebra (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.1",
+            "objective_text": "Identify that $2+3$ is the same as $3+2$.",
+            "objective_uuid": "c316e414-94dc-4bd4-be80-f6d11cb55f94"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.3",
+            "objective_text": "Name opposites.",
+            "objective_uuid": "d193a158-5590-4c5e-a9fa-78f1f832c566"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.7",
+            "objective_text": "Identify the Inverse operation.",
+            "objective_uuid": "91a81cac-9dd8-4929-a08b-d60feef67d95"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 7.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.4",
+            "objective_text": "Observe order in addition.",
+            "objective_uuid": "34f9363d-ae1b-4eaf-b103-5c3cf9348a44"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.2",
+            "objective_text": "Recall that adding 0 changes nothing.",
+            "objective_uuid": "616a28ef-292d-46de-9d39-3fa256a871cf"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.6",
+            "objective_text": "Explain the Identity for addition (0) and multiplication (1).",
+            "objective_uuid": "9dff5d51-196c-40d1-a619-d0e777184b0b"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.5",
+            "objective_text": "Summarize the Commutative and Associative properties.",
+            "objective_uuid": "37b16b47-21f0-41ad-b520-7e848ac55370"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.12",
+            "objective_text": "Explain closure.",
+            "objective_uuid": "51eb6da3-5140-4c94-8e67-c2ebd4345b18"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.15",
+            "objective_text": "Defend the importance of definitions in abstract algebra.",
+            "objective_uuid": "d3db43e0-22e1-46cc-ba66-8a6dd507f768"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.9",
+            "objective_text": "Analyze properties for subtraction and division (they fail).",
+            "objective_uuid": "ae704d9c-224d-4bfa-8ed7-5681e75657fb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.8",
+            "objective_text": "Apply properties to mental math.",
+            "objective_uuid": "2026a9b9-1b4b-4f52-92bd-9143c87e39ca"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.10",
+            "objective_text": "Interpret algebraic proofs of properties.",
+            "objective_uuid": "1301f79c-33bd-4eca-9ddf-0b36e3977aa4"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.11",
+            "objective_text": "Connect Identity/Inverse to solving equations.",
+            "objective_uuid": "cd5ff184-cd39-40eb-aed3-8376c9f5b728"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.14",
+            "objective_text": "Evaluate operations in other structures (matrices).",
+            "objective_uuid": "8f6590ef-d060-4ac3-83c9-b193943ad6e6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.13",
+            "objective_text": "Construct proofs using field axioms.",
+            "objective_uuid": "79c472a7-e979-40f9-b820-9f14dbf70696"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.3",
+            "topic_name": "Foundations of Abstract Algebra (Introductory)",
+            "sub_topic_id": "MAT.1.3.1",
+            "sub_topic_name": "Commutativity, Associativity, Identity, and Inverse Elements",
+            "objective_id": "MAT.1.3.1.16",
+            "objective_text": "Synthesize Group, Ring, and Field definitions (intro).",
+            "objective_uuid": "a02db0f0-4daf-4d88-8d83-ed10a016a846"
+          }
+        ]
+      }
+    }
+  }
+}

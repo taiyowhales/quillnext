@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.3.3",
+    "name": "Patterns, Conjectures, and Generalizations",
+    "topic_id": "MAT.7.3",
+    "topic_name": "Reasoning Skills",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Patterns, Conjectures, and Generalizations in Reasoning Skills (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.8",
+            "objective_text": "Identify a generalization ('All even numbers...').",
+            "objective_uuid": "2d91192e-eccb-417f-9869-f2565e46dc86"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.1",
+            "objective_text": "Identify a pattern rule.",
+            "objective_uuid": "cfd9a3c6-d05f-417f-9fcf-e37134b9373c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.4",
+            "objective_text": "Name the missing piece.",
+            "objective_uuid": "96f397aa-a571-4805-b99c-2dda2ef5dc7c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.3",
+            "objective_text": "Recall that patterns repeat.",
+            "objective_uuid": "e4e8eae1-b90d-443f-8867-da670573ec18"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.7",
+            "objective_text": "Test a rule with three different numbers.",
+            "objective_uuid": "26ebbe1e-b202-469f-bee3-4134408404fd"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.2",
+            "objective_text": "Predict the next shape.",
+            "objective_uuid": "6f33fa8c-2f82-4ac6-a6eb-7ea91cb7b3b7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.5",
+            "objective_text": "Summarize a conjecture (a math guess).",
+            "objective_uuid": "f7198533-adb4-4e5f-a5d9-69a6eb608cde"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.6",
+            "objective_text": "Explain why checking one example isn't enough.",
+            "objective_uuid": "7fdb9ac4-429f-4ce6-acb4-34d91a65601e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.12",
+            "objective_text": "Explain Goldbach's Conjecture (intro).",
+            "objective_uuid": "ca84fb4b-a90b-4ca1-b93c-c76db1cd3526"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.15",
+            "objective_text": "Defend the need for rigorous proof over empirical evidence.",
+            "objective_uuid": "ba45ec05-a78c-4f3f-ae1b-ed252a37d032"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.10",
+            "objective_text": "Interpret the process of disproving a conjecture.",
+            "objective_uuid": "0b532fb7-33cc-404d-9073-815148054620"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.11",
+            "objective_text": "Connect patterns to formulas.",
+            "objective_uuid": "521e7133-5033-428f-81ac-b69c1b67053e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.9",
+            "objective_text": "Analyze a sequence to write an algebraic rule.",
+            "objective_uuid": "d705c209-0bfe-4b81-b1e7-3734b7a4554b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.14",
+            "objective_text": "Evaluate the leap from pattern to proof.",
+            "objective_uuid": "ea8b686e-419c-4ff8-ab6d-8fa09894f6a3"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.13",
+            "objective_text": "Construct a counterexample to refute a generalization.",
+            "objective_uuid": "f33b9f96-cccf-4bd1-b1b1-a8b06f251c18"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.3",
+            "sub_topic_name": "Patterns, Conjectures, and Generalizations",
+            "objective_id": "MAT.7.3.3.16",
+            "objective_text": "Synthesize inductive reasoning to form hypotheses.",
+            "objective_uuid": "06addacc-300b-443a-bf27-677eb8a138b3"
+          }
+        ]
+      }
+    }
+  }
+}

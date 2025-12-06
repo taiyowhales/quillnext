@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "BIB.11.10.3",
+    "name": "The Trinity",
+    "topic_id": "BIB.11.10",
+    "topic_name": "Theology Proper: The Doctrine of God",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.11",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Trinity in Theology Proper: The Doctrine of God (Bible & Theology)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.1",
+            "objective_text": "Identify God as Father, Son, and Holy Spirit.",
+            "objective_uuid": "329f71fb-38b2-4ffb-9f61-3fa043759132"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.2",
+            "objective_text": "Name the Trinity as Three Persons but One God.",
+            "objective_uuid": "6832ed7f-c16a-4d03-86f5-d64ef0dc2886"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.3",
+            "objective_text": "Recall the baptism of Jesus where we see all three.",
+            "objective_uuid": "2ad20aed-2d7a-4079-8c61-16d6c12ffbaa"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.4",
+            "objective_text": "Observe that we pray to the Father, in Jesus' name, by the Spirit.",
+            "objective_uuid": "18b01b7b-7bce-4955-a71f-4708a23b763e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 10,
+        "average_complexity": 24.5,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.5",
+            "objective_text": "Summarize the shield of the Trinity (Father is God, Son is God, Spirit is God).",
+            "objective_uuid": "7fec5473-135e-443b-9ad2-2a188c56f1e7"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.6",
+            "objective_text": "Explain that there are not three gods (Tritheism).",
+            "objective_uuid": "d4393724-25e2-4fd0-a90a-2277e4903461"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.12",
+            "objective_text": "Explain the heresy of Modalism (God wearing 'masks').",
+            "objective_uuid": "c9da2f40-9912-4c00-be9d-d8179f97d396"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.15",
+            "objective_text": "Defend the doctrine against Unitarianism and Mormonism.",
+            "objective_uuid": "ddf5279f-b6d2-416a-9ce2-ea45c3085a10"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.16",
+            "objective_text": "Produce a reflection on the social Trinity as the model for human relationships.",
+            "objective_uuid": "db2fc70d-73ca-48fc-95c6-2cba6f525086"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.7",
+            "objective_text": "Compare the Trinity to nothing else (analogies usually fail).",
+            "objective_uuid": "bb42586f-2d3a-4b90-8596-9fac56bb270c"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.8",
+            "objective_text": "Apply the beauty of the Trinity to God's love (He was never lonely).",
+            "objective_uuid": "606144d3-aad5-4893-b27e-21400df2d060"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.9",
+            "objective_text": "Analyze the ontological equality and economic subordination (roles).",
+            "objective_uuid": "ed7f9068-bec1-42b0-a03d-b4052b1bfacb"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.10",
+            "objective_text": "Interpret the Athanasian Creed's definitions.",
+            "objective_uuid": "7de56486-a352-4efc-b8d8-d99b1247aee6"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.11",
+            "objective_text": "Connect the Trinity to the plan of redemption.",
+            "objective_uuid": "f1d1791b-46f8-4e39-948e-bc6606b91db2"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 30.5,
+        "objectives": [
+          {
+            "complexity": 29,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.14",
+            "objective_text": "Evaluate the filioque clause controversy (procession of the Spirit).",
+            "objective_uuid": "a7255684-0711-4fd4-9029-4f7b66188323"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.11",
+            "sub_subject_name": "Systematic Theology (The Loci of Doctrine)",
+            "topic_id": "BIB.11.10",
+            "topic_name": "Theology Proper: The Doctrine of God",
+            "sub_topic_id": "BIB.11.10.3",
+            "sub_topic_name": "The Trinity",
+            "objective_id": "BIB.11.10.3.13",
+            "objective_text": "Construct a defense of the Trinity from the Old Testament.",
+            "objective_uuid": "1aea1f50-c203-429b-9f53-6a575c2e5482"
+          }
+        ]
+      }
+    }
+  }
+}

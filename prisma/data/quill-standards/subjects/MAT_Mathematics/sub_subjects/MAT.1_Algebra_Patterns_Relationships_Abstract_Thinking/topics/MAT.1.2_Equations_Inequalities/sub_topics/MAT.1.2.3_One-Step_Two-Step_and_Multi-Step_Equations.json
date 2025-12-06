@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.2.3",
+    "name": "One-Step, Two-Step, and Multi-Step Equations",
+    "topic_id": "MAT.1.2",
+    "topic_name": "Equations & Inequalities",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for One-Step, Two-Step, and Multi-Step Equations in Equations & Inequalities (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.1",
+            "objective_text": "Identify a balance scale.",
+            "objective_uuid": "eb40b90c-7009-465a-9b7d-cb92ba7f564b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.3",
+            "objective_text": "Recall that both sides must match.",
+            "objective_uuid": "02251299-3e87-4fc9-b8bd-7918f30dee6a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.2",
+            "objective_text": "Find the number that makes it equal.",
+            "objective_uuid": "3b8a1a92-c926-4d64-bf4f-ebbed962694b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.5",
+            "objective_text": "Summarize the goal: Get the variable alone.",
+            "objective_uuid": "90beef55-4875-47a9-b72f-1a9707ae3549"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.6",
+            "objective_text": "Explain inverse operations (undoing).",
+            "objective_uuid": "ebf1d5c9-b857-4583-8c44-d8cf7bdba956"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.8",
+            "objective_text": "Check the answer by substitution.",
+            "objective_uuid": "584c27dc-1bbf-453e-a706-1323ca1b2af3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.12",
+            "objective_text": "Explain distributing before solving.",
+            "objective_uuid": "ea96a7b5-5231-45c7-b9b5-bbc57a129a29"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.15",
+            "objective_text": "Defend each step with a property of equality.",
+            "objective_uuid": "862a7100-3c1a-40da-9c48-a54f89b01408"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.4",
+            "objective_text": "Solve $x + 2 = 5$ using fingers.",
+            "objective_uuid": "165c86a0-3810-4220-a48d-4e9a802ef6f1"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.7",
+            "objective_text": "Solve one-step equations ($3x = 12$).",
+            "objective_uuid": "7b63c0ee-c4d6-485c-90c1-da76b89221cc"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.9",
+            "objective_text": "Analyze the order of undoing (reverse PEMDAS).",
+            "objective_uuid": "01be77e1-4ea2-40f6-861e-a1dc28e2490f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.10",
+            "objective_text": "Interpret equations with variables on both sides.",
+            "objective_uuid": "ff462749-6d85-4f46-aaea-0e05506bf821"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.11",
+            "objective_text": "Connect the balance method to algebraic properties.",
+            "objective_uuid": "84c92df2-3485-48b5-984b-be06d120bc9a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.14",
+            "objective_text": "Evaluate equations with no solution or infinite solutions.",
+            "objective_uuid": "e79925e1-ea16-4c56-8db6-722d35eb210f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.13",
+            "objective_text": "Construct solutions for complex linear equations.",
+            "objective_uuid": "f9dd11be-32fb-4259-ac40-08111c30684f"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.3",
+            "sub_topic_name": "One-Step, Two-Step, and Multi-Step Equations",
+            "objective_id": "MAT.1.2.3.16",
+            "objective_text": "Synthesize equation solving with logic proofs.",
+            "objective_uuid": "df3ddee6-65ed-40b8-ad1b-6447cbee1855"
+          }
+        ]
+      }
+    }
+  }
+}

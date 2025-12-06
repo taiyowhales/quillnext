@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.1.4",
+    "name": "The Addition and Multiplication Principles",
+    "topic_id": "MAT.2.1",
+    "topic_name": "Combinatorics (Advanced Counting)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Addition and Multiplication Principles in Combinatorics (Advanced Counting) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.1",
+            "objective_text": "Identify choices (red shirt or blue shirt).",
+            "objective_uuid": "abe70d81-aa73-4274-a077-5c216680a291"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.8",
+            "objective_text": "Identify independent choices.",
+            "objective_uuid": "6e9a6438-6f52-4f3b-a389-2966a523e9bd"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.3",
+            "objective_text": "Recall that we can mix and match.",
+            "objective_uuid": "6c91cfcd-fa37-4c7c-bb06-a1bd2f480115"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.4",
+            "objective_text": "Observe pairs.",
+            "objective_uuid": "1f03825b-807f-487f-9ae5-d3a04bf61cde"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 6,
+        "average_complexity": 5.83,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.15",
+            "objective_text": "Defend the logic of the fundamental counting principle.",
+            "objective_uuid": "ab852f71-0414-4c10-ac03-2ecd66c5b62f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.2",
+            "objective_text": "Count total options.",
+            "objective_uuid": "910a6477-b4d0-4d7e-9ff9-5a205bdf43c3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.5",
+            "objective_text": "Summarize the Multiplication Rule (3 shirts $\\times$ 2 pants = 6 outfits).",
+            "objective_uuid": "ba9e0d8d-e3cd-42e8-aee0-29004371b86b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.6",
+            "objective_text": "Explain the Addition Rule (soup OR salad).",
+            "objective_uuid": "1c6ac7da-b405-4b78-9f00-11227cfb4e68"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.7",
+            "objective_text": "Draw a tree diagram to show choices.",
+            "objective_uuid": "3ee0fabf-aa9a-4fab-a303-48eac4800882"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.12",
+            "objective_text": "Explain factorials ($5! = 5 \\times 4 \\times 3 \\times 2 \\times 1$).",
+            "objective_uuid": "27ebac14-8d56-4229-9540-171f8c142fa9"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.9",
+            "objective_text": "Analyze complex counting problems.",
+            "objective_uuid": "b3d4f036-c3ca-4d43-8ca8-84b6230a6c80"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.10",
+            "objective_text": "Interpret 'AND' implies multiply, 'OR' implies add.",
+            "objective_uuid": "c58af3c0-68da-4ae8-8263-819ed3ea7fba"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.11",
+            "objective_text": "Connect counting to probability denominators.",
+            "objective_uuid": "df25997a-a930-4650-9c22-9d82378862c2"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.14",
+            "objective_text": "Evaluate problems with restrictions (e.g., 'must sit together').",
+            "objective_uuid": "27b3c80c-c4ec-496a-a6c8-f6db90bdd473"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.13",
+            "objective_text": "Construct solutions for multi-stage events.",
+            "objective_uuid": "1b98f83c-e46a-4231-9e03-f4edbaaf8ea7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.4",
+            "sub_topic_name": "The Addition and Multiplication Principles",
+            "objective_id": "MAT.2.1.4.16",
+            "objective_text": "Synthesize counting rules with algebraic formulas.",
+            "objective_uuid": "7ab06ef5-900a-471b-99b9-4e3ce4b86916"
+          }
+        ]
+      }
+    }
+  }
+}

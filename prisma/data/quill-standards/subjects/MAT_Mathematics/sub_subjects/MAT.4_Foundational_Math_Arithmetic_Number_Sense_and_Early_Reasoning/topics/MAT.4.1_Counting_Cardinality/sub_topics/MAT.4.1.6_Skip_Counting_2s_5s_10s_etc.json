@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.6",
+    "name": "Skip Counting (2s, 5s, 10s, etc.)",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Skip Counting (2s, 5s, 10s, etc.) in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 1.75,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.2",
+            "objective_text": "Identify patterns on a hundred chart.",
+            "objective_uuid": "07e96212-67e3-4634-a229-6fe2aee37c66"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.7",
+            "objective_text": "Identify multiples of a number.",
+            "objective_uuid": "2557b661-2edd-40d4-99ee-74e58569990b"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.4",
+            "objective_text": "Observe even and odd numbers.",
+            "objective_uuid": "a49b2947-2185-45c1-9d64-b8edec3a927c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.3",
+            "objective_text": "Recall that skip counting is faster than counting by ones.",
+            "objective_uuid": "e7b95a93-fe02-4b0b-ab9b-25f4cf7fc115"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.1",
+            "objective_text": "Count by 2s, 5s, and 10s up to 100.",
+            "objective_uuid": "dd556256-b11f-42fe-b5de-67f0af270bd5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.5",
+            "objective_text": "Summarize skip counting as the foundation for multiplication.",
+            "objective_uuid": "ceb369c6-414d-48e8-9be6-2d4dd9e0413f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.6",
+            "objective_text": "Count by 3s, 4s, 6s, 7s, 8s, and 9s.",
+            "objective_uuid": "d0f3795d-30c3-4d53-a709-609960f740ea"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.12",
+            "objective_text": "Explain the $n$-th term of a sequence.",
+            "objective_uuid": "58cbd857-e3ad-4502-ac94-6aea53578370"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.15",
+            "objective_text": "Defend the relationship between discrete sequences and continuous lines.",
+            "objective_uuid": "0cf4f5af-f186-4386-a7f5-1e3c6112f4a4"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.8",
+            "objective_text": "Apply skip counting to read a clock (5s).",
+            "objective_uuid": "a6a9d792-c6b4-4d62-ae76-76406139b0c3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.9",
+            "objective_text": "Analyze arithmetic sequences.",
+            "objective_uuid": "3015cefa-1e55-4e0a-a74e-102630f3866d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.10",
+            "objective_text": "Interpret the common difference in a sequence.",
+            "objective_uuid": "7b628975-b400-40ca-9f29-15e00116054f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.11",
+            "objective_text": "Connect skip counting to linear functions ($y = mx$).",
+            "objective_uuid": "e1d2f932-8b45-4452-b2f3-ebe89a228850"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.14",
+            "objective_text": "Evaluate the sum of an arithmetic progression.",
+            "objective_uuid": "1d8724b7-3103-45a9-ba02-215af1e60822"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.13",
+            "objective_text": "Construct formulas for arithmetic series.",
+            "objective_uuid": "b955bba1-e6d0-481d-9802-cc59e897bdeb"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.6",
+            "sub_topic_name": "Skip Counting (2s, 5s, 10s, etc.)",
+            "objective_id": "MAT.4.1.6.16",
+            "objective_text": "Synthesize modular arithmetic with cyclic counting.",
+            "objective_uuid": "bb9e0ec6-df94-4c11-970a-2967b2bbf294"
+          }
+        ]
+      }
+    }
+  }
+}

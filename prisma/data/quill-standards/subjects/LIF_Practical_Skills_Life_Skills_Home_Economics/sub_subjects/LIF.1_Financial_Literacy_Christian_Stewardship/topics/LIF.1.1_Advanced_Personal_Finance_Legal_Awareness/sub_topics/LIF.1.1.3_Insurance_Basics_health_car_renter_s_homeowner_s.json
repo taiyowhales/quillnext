@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.1.1.3",
+    "name": "Insurance Basics (health, car, renter's/homeowner's)",
+    "topic_id": "LIF.1.1",
+    "topic_name": "Advanced Personal Finance & Legal Awareness",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.1",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Insurance Basics (health, car, renter's/homeowner's) in Advanced Personal Finance & Legal Awareness (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.1",
+            "objective_text": "Identify a seatbelt (safety).",
+            "objective_uuid": "e10e2567-0d9a-46cc-af4d-5b277e643edc"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.2",
+            "objective_text": "Name a doctor.",
+            "objective_uuid": "42b8a413-38dd-41a3-9ff5-11f1c43fd9cf"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.7",
+            "objective_text": "Identify Car, Health, and Home insurance.",
+            "objective_uuid": "0db1448e-489d-4a07-b3f2-bbbf463dda58"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.3",
+            "objective_text": "Recall that we pay to be safe.",
+            "objective_uuid": "c5a83be7-d574-4bfb-982f-3ef6e91e9370"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.4",
+            "objective_text": "Observe an insurance card.",
+            "objective_uuid": "bb323677-90e9-41d7-8ca4-154e7824f434"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.5",
+            "objective_text": "Summarize what Insurance is (protection against big loss).",
+            "objective_uuid": "6c7f9684-bec0-456f-8790-1b3f497c769f"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.6",
+            "objective_text": "Explain 'Premium' (monthly cost).",
+            "objective_uuid": "a6dc9e5d-3339-40f2-895f-a26bf5fe911b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.12",
+            "objective_text": "Explain why young drivers pay more.",
+            "objective_uuid": "ab57300a-7a78-41b2-a728-396b236b27a5"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.15",
+            "objective_text": "Defend the necessity of health insurance.",
+            "objective_uuid": "8a87d844-9548-4293-851f-70e13ff5338e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.8",
+            "objective_text": "Compare being insured vs. taking a risk.",
+            "objective_uuid": "396f9cde-19bf-417e-afdf-e89452e768a0"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.9",
+            "objective_text": "Analyze the concept of 'Deductible'.",
+            "objective_uuid": "adeb30bd-af66-43cc-a701-c034da187766"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.10",
+            "objective_text": "Interpret the transfer of risk.",
+            "objective_uuid": "aaadf2eb-d561-4cf9-acd9-5d9d659d9b05"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.11",
+            "objective_text": "Connect liability coverage to protecting assets.",
+            "objective_uuid": "2d210255-6348-4abd-b58c-2a909b57d13d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.14",
+            "objective_text": "Evaluate the trade-off between premium and deductible.",
+            "objective_uuid": "d1a0289d-c1ba-4491-99ec-13f3a3021c81"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.13",
+            "objective_text": "Construct an insurance needs assessment.",
+            "objective_uuid": "e7012fa1-927e-44bf-98ec-c2ee06eac92e"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.1",
+            "topic_name": "Advanced Personal Finance & Legal Awareness",
+            "sub_topic_id": "LIF.1.1.3",
+            "sub_topic_name": "Insurance Basics (health, car, renter's/homeowner's)",
+            "objective_id": "LIF.1.1.3.16",
+            "objective_text": "Synthesize risk management with financial stability.",
+            "objective_uuid": "37d89fc1-6a2c-4a58-bab4-4cf6ada592d5"
+          }
+        ]
+      }
+    }
+  }
+}

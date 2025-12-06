@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.8",
+    "name": "Unit Testing (assertions, test cases, refactoring)",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Unit Testing (assertions, test cases, refactoring) in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.4",
+            "objective_text": "Name 'Test'.",
+            "objective_uuid": "9fc56764-19ee-4935-9211-973285ead104"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.8",
+            "objective_text": "Identify passing vs. failing.",
+            "objective_uuid": "58f650e4-54d3-4a70-9eee-0c434ce90b68"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 20.33,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.3",
+            "objective_text": "Recall checking answers.",
+            "objective_uuid": "47caba29-e352-46c2-8f48-6908cd7c7f5a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.12",
+            "objective_text": "Explain Test Driven Development (TDD) basics.",
+            "objective_uuid": "b5a90b0b-4a68-48e3-9c3d-709595f47528"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.1",
+            "objective_text": "Test if the game works.",
+            "objective_uuid": "1d01eef1-0f2f-4819-bfe4-c94e1d53923a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.2",
+            "objective_text": "Try to break the game.",
+            "objective_uuid": "3d58cf9b-f3ce-4f93-9002-577caaa2d021"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.5",
+            "objective_text": "Summarize checking if a function gives the right answer.",
+            "objective_uuid": "8175f6c8-721e-4de8-be62-8929d3ec5cc7"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.6",
+            "objective_text": "Explain a 'Test Case'.",
+            "objective_uuid": "69a3e445-f8eb-4160-b9f9-c28296c02eed"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.7",
+            "objective_text": "Write a check for a math function.",
+            "objective_uuid": "f129d02f-49f4-442d-be6d-370bf8898527"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.15",
+            "objective_text": "Defend the time investment in testing.",
+            "objective_uuid": "8eec9d34-9896-4d0e-9d68-00de8fd8a91a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.9",
+            "objective_text": "Analyze automated testing.",
+            "objective_uuid": "2c97f5b2-c592-4585-947a-0a42dabbb548"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.10",
+            "objective_text": "Interpret assertions ('assert x == 5').",
+            "objective_uuid": "0200d837-60d4-4a0a-8bb6-8fab02d6231e"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.11",
+            "objective_text": "Connect refactoring to maintaining behavior.",
+            "objective_uuid": "f2f97f04-3610-4191-b27e-b374f47cde45"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.14",
+            "objective_text": "Evaluate code coverage.",
+            "objective_uuid": "3b742d57-17b3-4980-87c5-0e20c54d9cdf"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.13",
+            "objective_text": "Construct a test suite.",
+            "objective_uuid": "4a488629-a269-4c52-a0b7-963008c53a04"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.8",
+            "sub_topic_name": "Unit Testing (assertions, test cases, refactoring)",
+            "objective_id": "CPT.1.1.8.16",
+            "objective_text": "Synthesize continuous integration concepts.",
+            "objective_uuid": "4baf81cd-4de0-4470-a2e9-1612eea4fa9c"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.5.1",
+    "name": "Advanced Structures (Verbals and Clauses)",
+    "topic_id": "ELA.1.5",
+    "topic_name": "Syntax and Sentence Diagramming",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Advanced Structures (Verbals and Clauses) in Syntax and Sentence Diagramming (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.1",
+            "objective_text": "Identify action words ending in -ing.",
+            "objective_uuid": "a8118eb8-6b95-461e-a417-cc32279b8342"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.2",
+            "objective_text": "Name \"To run\" as a verb form.",
+            "objective_uuid": "806d3b5a-8a13-43f9-b5cb-501e46c15254"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.8",
+            "objective_text": "Identify a predicate nominative vs. predicate adjective.",
+            "objective_uuid": "4a87b34f-e01a-45f3-bc81-700e2931c7fc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.3",
+            "objective_text": "Recall that some verb-looking words act like nouns.",
+            "objective_uuid": "577c3bc5-3510-4451-9076-05eee2bd8e49"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.4",
+            "objective_text": "Observe complex sentences.",
+            "objective_uuid": "8b5c6b55-cc01-45da-bb06-232ee96d082c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.5",
+            "objective_text": "Summarize Gerunds (nouns), Participles (adjectives), Infinitives (nouns/adj/adv).",
+            "objective_uuid": "ee0469c0-839b-478b-813e-b2144b158c6e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.6",
+            "objective_text": "Explain how to diagram a prepositional phrase on a slant line.",
+            "objective_uuid": "da256dc6-916c-4cff-b8a4-afe736897b08"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.7",
+            "objective_text": "Diagram a direct and indirect object.",
+            "objective_uuid": "2fdeb419-85f0-4372-a4cd-66a9364020ad"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.12",
+            "objective_text": "Explain the objective complement.",
+            "objective_uuid": "0472697f-b9a5-4226-9358-00ba33bed856"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.15",
+            "objective_text": "Defend the structure of language as a reflection of logical order.",
+            "objective_uuid": "53867adc-2f4d-452e-bd3e-71b0f816536f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.9",
+            "objective_text": "Analyze the diagramming of noun clauses on stilts.",
+            "objective_uuid": "405a4d48-7c60-443c-a6a7-2a7caf2d633d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.10",
+            "objective_text": "Interpret the diagramming of compound sentences (dotted line connection).",
+            "objective_uuid": "9c722aeb-a4ec-4910-934a-284f225d3303"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.11",
+            "objective_text": "Connect syntax to logical analysis of thought.",
+            "objective_uuid": "2de34315-5595-47f3-b8cc-0523df2f8e31"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.14",
+            "objective_text": "Evaluate the utility of diagramming for understanding difficult texts.",
+            "objective_uuid": "9129f9bf-9bc1-4d9d-90f6-5d5a167309a9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.13",
+            "objective_text": "Construct a diagram for a complex-compound sentence.",
+            "objective_uuid": "f940a88e-f345-41f0-8387-80d5ac4fb348"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.5",
+            "topic_name": "Syntax and Sentence Diagramming",
+            "sub_topic_id": "ELA.1.5.1",
+            "sub_topic_name": "Advanced Structures (Verbals and Clauses)",
+            "objective_id": "ELA.1.5.1.16",
+            "objective_text": "Synthesize grammar mastery with sentence analysis.",
+            "objective_uuid": "eb2316de-e088-4bb7-9b17-8a0d8693bc80"
+          }
+        ]
+      }
+    }
+  }
+}

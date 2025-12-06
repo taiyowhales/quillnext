@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.1.5",
+    "name": "How Engines Work (basic components, combustion cycle overview)",
+    "topic_id": "LIF.5.1",
+    "topic_name": "Automotive Basics",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for How Engines Work (basic components, combustion cycle overview) in Automotive Basics (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.1",
+            "objective_text": "Identify the car engine makes it go.",
+            "objective_uuid": "20b49171-1a59-45bf-bfd5-64b9ec83e952"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.2",
+            "objective_text": "Name gas or electricity as food for the car.",
+            "objective_uuid": "87eb8632-01da-4053-96dc-8291ed8fdc5d"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.7",
+            "objective_text": "Identify the battery.",
+            "objective_uuid": "eb08d6e1-a81f-4927-a007-48c3e4caf30c"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.3",
+            "objective_text": "Recall that cars get hot.",
+            "objective_uuid": "194eea47-952f-4028-9a1d-b9ad81fd2d26"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.4",
+            "objective_text": "Observe the tailpipe smoke.",
+            "objective_uuid": "e2d150f1-ec69-4351-ba6b-ec4d64938d51"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.5",
+            "objective_text": "Summarize the idea of 'Explosions' pushing pistons.",
+            "objective_uuid": "ea837468-20c7-4345-a69c-fe0f086b9704"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.6",
+            "objective_text": "Explain fuel, air, and spark.",
+            "objective_uuid": "bb1a42f6-c8f6-4e64-9fb5-f9294a825f58"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.12",
+            "objective_text": "Explain the cooling system.",
+            "objective_uuid": "78b7b8cf-112f-496d-89d4-882203950948"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.15",
+            "objective_text": "Defend the complexity of modern engine management.",
+            "objective_uuid": "41704981-4fa0-4a16-add3-b0d3155962b8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.8",
+            "objective_text": "Compare an electric car with a gas car.",
+            "objective_uuid": "66a13a19-a6b8-41de-abb0-0c63af1656a8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.9",
+            "objective_text": "Analyze the 4-Stroke Cycle (Suck, Squeeze, Bang, Blow).",
+            "objective_uuid": "afcea50a-95b3-4d23-9d94-32071308448c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.10",
+            "objective_text": "Interpret the function of the alternator.",
+            "objective_uuid": "b101ea45-af98-4b06-b4eb-451a71f6036d"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.11",
+            "objective_text": "Connect the transmission to the wheels.",
+            "objective_uuid": "669a86a2-572f-4b19-8ed6-c4dd73dd951f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.14",
+            "objective_text": "Evaluate the efficiency of different engine types.",
+            "objective_uuid": "173133c8-0a81-40ef-bad6-bff2400aef97"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.13",
+            "objective_text": "Construct a diagram of the internal combustion engine.",
+            "objective_uuid": "b2aea6c9-6ad0-4051-bcea-975ae0d98cee"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 32.0,
+        "objectives": [
+          {
+            "complexity": 32,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.1",
+            "topic_name": "Automotive Basics",
+            "sub_topic_id": "LIF.5.1.5",
+            "sub_topic_name": "How Engines Work (basic components, combustion cycle overview)",
+            "objective_id": "LIF.5.1.5.16",
+            "objective_text": "Synthesize physics (thermodynamics) with mechanics.",
+            "objective_uuid": "d0b03a1f-9fc5-40e7-8ecc-f2a4601463bc"
+          }
+        ]
+      }
+    }
+  }
+}

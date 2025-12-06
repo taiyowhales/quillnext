@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.2.4",
+    "name": "Phrasing and Punctuation cues",
+    "topic_id": "ELA.8.2",
+    "topic_name": "Fluency and Oral Reading",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Phrasing and Punctuation cues in Fluency and Oral Reading (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.4",
+            "objective_text": "Name the marks that tell us to stop.",
+            "objective_uuid": "e1a13fa7-5a5a-4b0d-aeb2-4a84741248a2"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.7",
+            "objective_text": "Identify the end of a thought.",
+            "objective_uuid": "29adc3c7-9fb9-4b38-8e1a-82b4320e1d1f"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.3",
+            "objective_text": "Recall that words group together.",
+            "objective_uuid": "1b999716-340c-4a85-9b50-8a8a3f831662"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.1",
+            "objective_text": "Stop at a period.",
+            "objective_uuid": "b0f2dffa-5544-43eb-8a8a-55f93b8bd06f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.2",
+            "objective_text": "Take a breath at a comma.",
+            "objective_uuid": "5366ef59-2c89-4bba-96c9-8c437d465890"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.5",
+            "objective_text": "Summarize \"Scooping\" words into phrases.",
+            "objective_uuid": "20407339-99da-4c82-9542-84eb64131e85"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.6",
+            "objective_text": "Explain why we don't read word-by-word (choppy).",
+            "objective_uuid": "0357c2a1-7f35-435a-b407-c167c84ecf8b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.8",
+            "objective_text": "Read a long sentence without running out of breath.",
+            "objective_uuid": "4f163aa0-eb24-4232-92dc-1c6ba78e1947"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.12",
+            "objective_text": "Explain parenthetical remarks with voice modulation.",
+            "objective_uuid": "7217329d-adc5-479d-99d1-78eeaf3edbd7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.15",
+            "objective_text": "Defend the author's intent through proper pacing.",
+            "objective_uuid": "2307bbdf-56d0-455f-9304-8ff68346acc0"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.9",
+            "objective_text": "Analyze the syntax to determine natural pauses.",
+            "objective_uuid": "96cf1b4f-8fb5-4e4a-8a14-0117fcb98847"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.10",
+            "objective_text": "Interpret the dash and semicolon in oral reading.",
+            "objective_uuid": "7018542e-3a29-4e99-83e0-cbbf7c993f22"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.11",
+            "objective_text": "Connect phrasing to the logic of the sentence.",
+            "objective_uuid": "f8d84f79-4832-45af-a664-1a8779cdbe3a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.14",
+            "objective_text": "Evaluate the impact of poor phrasing on listener understanding.",
+            "objective_uuid": "ce7bc34b-1755-4cc8-beca-af8a5a00f40f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.13",
+            "objective_text": "Construct a marked-up text for performance reading.",
+            "objective_uuid": "9f7c286d-c12b-4cc6-8824-c59fc14c531f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.2",
+            "topic_name": "Fluency and Oral Reading",
+            "sub_topic_id": "ELA.8.2.4",
+            "sub_topic_name": "Phrasing and Punctuation cues",
+            "objective_id": "ELA.8.2.4.16",
+            "objective_text": "Synthesize grammatical structure with oral delivery.",
+            "objective_uuid": "2b836d4d-c318-48c9-aa1c-70b7502a9abe"
+          }
+        ]
+      }
+    }
+  }
+}

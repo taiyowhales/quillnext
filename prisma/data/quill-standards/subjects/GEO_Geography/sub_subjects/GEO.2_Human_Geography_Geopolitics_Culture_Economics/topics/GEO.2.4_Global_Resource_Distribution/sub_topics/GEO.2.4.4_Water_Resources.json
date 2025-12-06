@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "GEO.2.4.4",
+    "name": "Water Resources",
+    "topic_id": "GEO.2.4",
+    "topic_name": "Global Resource Distribution",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.2",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Water Resources in Global Resource Distribution (Geography)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.1",
+            "objective_text": "Identify fresh water vs. salt water.",
+            "objective_uuid": "196f811f-b17e-4b83-a7d5-19ffb32c0e25"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.2",
+            "objective_text": "Name a well or a dam.",
+            "objective_uuid": "0058d938-dec1-4c2c-a253-ed2496c6bd3c"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.8",
+            "objective_text": "Identify the Nile River as life for Egypt.",
+            "objective_uuid": "a79feab6-c179-491b-89f8-ac333a305186"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.3",
+            "objective_text": "Recall that we need water to live.",
+            "objective_uuid": "1024b11d-774d-4463-9958-ea454cb97668"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.4",
+            "objective_text": "Observe that some places are very dry.",
+            "objective_uuid": "f8593b04-b8d4-42a7-9487-f9ded2ccf3e2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.5",
+            "objective_text": "Summarize why rivers are important for cities.",
+            "objective_uuid": "c38bd1fc-e61c-495b-8f46-bde8eecb15fc"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.6",
+            "objective_text": "Explain what a drought is.",
+            "objective_uuid": "79e92a65-25a1-455e-a9ce-fa506cf9b30d"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.12",
+            "objective_text": "Explain the process of Desalination.",
+            "objective_uuid": "f4abedf1-f206-411f-adce-a7cc76e3fdc9"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.15",
+            "objective_text": "Defend access to clean water as a human right.",
+            "objective_uuid": "50523ac6-35a9-4fba-8c86-b211f843f24e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.7",
+            "objective_text": "Compare a place with plenty of water vs. a place with little.",
+            "objective_uuid": "1ab9a4a6-cbe7-4dbf-8b9c-0a0e8ce40f87"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.10",
+            "objective_text": "Interpret the depletion of aquifers (underground water).",
+            "objective_uuid": "6c9f0968-f33b-47d1-b1a0-6741c1b64b68"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.11",
+            "objective_text": "Connect water scarcity to potential conflict.",
+            "objective_uuid": "c2dda0b0-af43-4b9e-8577-ddefe9ed78c2"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 21.75,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.14",
+            "objective_text": "Evaluate the concept of 'Virtual Water' in trade.",
+            "objective_uuid": "42f09b1b-4753-40f3-8a9c-aa4bdf156301"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.9",
+            "objective_text": "Analyze the conflict over the Grand Ethiopian Renaissance Dam.",
+            "objective_uuid": "f0070d5a-9dc8-41a6-bac2-394c456879d3"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.13",
+            "objective_text": "Construct a case study on the politics of the Mekong or Jordan River.",
+            "objective_uuid": "d5d7f0de-7ec1-4e9f-b09d-96ca395f886d"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.4",
+            "sub_topic_name": "Water Resources",
+            "objective_id": "GEO.2.4.4.16",
+            "objective_text": "Synthesize the future of 'Water Wars'.",
+            "objective_uuid": "06b99103-7948-47b2-8443-731cfc4316d6"
+          }
+        ]
+      }
+    }
+  }
+}

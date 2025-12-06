@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.2.4",
+    "name": "Image Representation (Pixels, Color Depth, Resolution)",
+    "topic_id": "CPT.2.2",
+    "topic_name": "Data Representation",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Image Representation (Pixels, Color Depth, Resolution) in Data Representation (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.1",
+            "objective_text": "Identify a pixel (little square).",
+            "objective_uuid": "f3dbd27b-f10e-4d57-8056-fb458fd49358"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.3",
+            "objective_text": "Recall that many dots make a picture.",
+            "objective_uuid": "c264fda6-0b93-4543-bf5e-d45397bba7e0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.4",
+            "objective_text": "Name color.",
+            "objective_uuid": "67c7acee-a57c-4b9a-9c2b-b8d05fc24b33"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.7",
+            "objective_text": "Identify high quality vs. blurry.",
+            "objective_uuid": "a785ff72-6927-41d0-9287-9b5e1d988091"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.2",
+            "objective_text": "Zoom in on a picture.",
+            "objective_uuid": "096b7d05-3d18-4ff8-bd3b-0cd5be809bde"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.5",
+            "objective_text": "Summarize Resolution (how many dots).",
+            "objective_uuid": "0e997dbc-d86d-4386-9259-44618313f3cd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.6",
+            "objective_text": "Explain that each pixel has a color code.",
+            "objective_uuid": "9a60ffef-fc02-4adc-887a-b1a030deb6f8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.12",
+            "objective_text": "Explain metadata (data about data).",
+            "objective_uuid": "04fe044e-e94c-40cc-8c2e-c4bbf039d2fe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.15",
+            "objective_text": "Defend the use of vector graphics where appropriate.",
+            "objective_uuid": "1eb6f529-178e-4bf5-b8c5-47072da4f76a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.8",
+            "objective_text": "Compare black and white (1 bit) vs. color.",
+            "objective_uuid": "4542b2fc-56b2-469f-a150-233150b13314"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.9",
+            "objective_text": "Analyze Color Depth (bits per pixel).",
+            "objective_uuid": "99ca67c3-a038-43d3-9a10-824888cb9d6b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.10",
+            "objective_text": "Interpret RGB values (0-255).",
+            "objective_uuid": "b0a54a37-a4bf-42bd-92ea-13313803d96f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.11",
+            "objective_text": "Connect file size to resolution and depth.",
+            "objective_uuid": "d0e00a56-d994-4f20-a0a2-ef44bb64c002"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.14",
+            "objective_text": "Evaluate the trade-off between quality and size.",
+            "objective_uuid": "4d2392a1-a1b7-45aa-a243-bd6a4294202d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.13",
+            "objective_text": "Construct a calculation for raw image file size.",
+            "objective_uuid": "292a3fd7-323e-4fbc-a952-834c26601618"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.2",
+            "topic_name": "Data Representation",
+            "sub_topic_id": "CPT.2.2.4",
+            "sub_topic_name": "Image Representation (Pixels, Color Depth, Resolution)",
+            "objective_id": "CPT.2.2.4.16",
+            "objective_text": "Synthesize bitmap data structures.",
+            "objective_uuid": "be3b8331-f613-41cd-8a15-3964dba7e244"
+          }
+        ]
+      }
+    }
+  }
+}

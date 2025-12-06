@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.4.4",
+    "name": "Usage and Common Errors",
+    "topic_id": "ELA.1.4",
+    "topic_name": "Punctuation, Mechanics & Usage",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Usage and Common Errors in Punctuation, Mechanics & Usage (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.1",
+            "objective_text": "Identify \"a\" vs \"an\".",
+            "objective_uuid": "44a33f2c-a756-41d3-822e-84e16b0c3fe5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.8",
+            "objective_text": "Identify misplaced modifiers.",
+            "objective_uuid": "a6e40e70-70b3-4e61-8b3e-21a50246150c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.3",
+            "objective_text": "Recall double negatives are a no-no.",
+            "objective_uuid": "648821e7-f86e-4fc1-94cc-26f65ed792eb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.4",
+            "objective_text": "Observe \"good\" vs \"well\".",
+            "objective_uuid": "a35cec96-a4ff-48fe-b51f-e45007c434ab"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.2",
+            "objective_text": "Use \"I\" instead of \"Me\" in the subject.",
+            "objective_uuid": "d6b4588b-7e5a-4d56-9412-27c3dd44613e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.5",
+            "objective_text": "Summarize homophone errors (to/two/too).",
+            "objective_uuid": "67d3afb5-a763-45a8-a9d7-da2c3befa956"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.6",
+            "objective_text": "Explain \"lie\" vs \"lay\".",
+            "objective_uuid": "1557591a-45d8-42a8-8855-2a675848b4df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.7",
+            "objective_text": "Distinguish \"fewer\" (countable) vs \"less\" (uncountable).",
+            "objective_uuid": "b1c21076-cd02-4eee-8e5b-b70099412633"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.12",
+            "objective_text": "Explain \"who\" vs \"whom\".",
+            "objective_uuid": "b7595475-8665-4e6a-9886-1f4c8665caf4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.15",
+            "objective_text": "Defend the standard of excellence in communication.",
+            "objective_uuid": "75c551f3-8148-4612-b70d-72116c0a187f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.9",
+            "objective_text": "Analyze parallel structure in lists.",
+            "objective_uuid": "81494a39-b1c6-46d8-9606-a493fe1dd0c7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.10",
+            "objective_text": "Interpret passive voice vs. active voice.",
+            "objective_uuid": "1dfa23a7-08aa-4f2e-9f88-ca6b5453624b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.11",
+            "objective_text": "Connect clarity to proper usage.",
+            "objective_uuid": "83a8a4e2-a016-4d67-9434-1ea2b7db8258"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.14",
+            "objective_text": "Evaluate prescriptive vs. descriptive grammar.",
+            "objective_uuid": "7a78e802-8e9e-4fb2-9d6c-3aea853f962a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.13",
+            "objective_text": "Construct sentences avoiding split infinitives (if adhering to strict style).",
+            "objective_uuid": "5f0d9e80-e602-478e-aae1-cb4d2bb83dca"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.4",
+            "topic_name": "Punctuation, Mechanics & Usage",
+            "sub_topic_id": "ELA.1.4.4",
+            "sub_topic_name": "Usage and Common Errors",
+            "objective_id": "ELA.1.4.4.16",
+            "objective_text": "Synthesize editing skills to polish drafts.",
+            "objective_uuid": "05733f33-8e8a-4bdc-aabf-90379bb16c1e"
+          }
+        ]
+      }
+    }
+  }
+}

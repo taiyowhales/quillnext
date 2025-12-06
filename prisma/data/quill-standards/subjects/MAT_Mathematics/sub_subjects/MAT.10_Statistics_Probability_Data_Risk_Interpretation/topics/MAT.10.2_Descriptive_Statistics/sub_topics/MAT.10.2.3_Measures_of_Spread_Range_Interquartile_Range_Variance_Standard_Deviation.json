@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.2.3",
+    "name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+    "topic_id": "MAT.10.2",
+    "topic_name": "Descriptive Statistics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation) in Descriptive Statistics (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.1",
+            "objective_text": "Identify the biggest and smallest number.",
+            "objective_uuid": "8f8555d3-5669-4c28-bd34-adc549206520"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.2",
+            "objective_text": "Name the difference between the highest and lowest.",
+            "objective_uuid": "14248838-4b6d-4378-93a8-981167d7382f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.8",
+            "objective_text": "Identify clusters and gaps.",
+            "objective_uuid": "3830834e-5481-432b-83e1-825af51fd3f8"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.3",
+            "objective_text": "Recall that some groups are spread out.",
+            "objective_uuid": "0fbefb51-cb8e-4413-8567-6f00b77178aa"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.4",
+            "objective_text": "Observe a clump of data.",
+            "objective_uuid": "38e1e63b-36de-46f6-95e9-d721e804c624"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.5",
+            "objective_text": "Summarize Range (Max - Min).",
+            "objective_uuid": "65738117-7764-4ddc-9ddf-0ac15c1d92a3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.6",
+            "objective_text": "Explain that a big range means data is spread out.",
+            "objective_uuid": "706d0bea-24b1-493f-8ca9-54d34d880ae6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.7",
+            "objective_text": "Find the minimum and maximum values.",
+            "objective_uuid": "c85b8512-9e96-4daf-9160-e656455fcfd4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.12",
+            "objective_text": "Explain Mean Absolute Deviation (MAD).",
+            "objective_uuid": "5a90dc31-63ad-4ca8-8aed-3e89b27145fb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.15",
+            "objective_text": "Defend the use of standard deviation over range.",
+            "objective_uuid": "6c3236ca-fd42-4580-9889-53ea167aace0"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.9",
+            "objective_text": "Analyze Quartiles (Q1, Q2, Q3).",
+            "objective_uuid": "dc9e1fb2-fc03-4934-8b3e-8f1adeb4e9ef"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.10",
+            "objective_text": "Interpret the Interquartile Range (IQR) as the middle 50%.",
+            "objective_uuid": "a4ed0e33-83ad-4e7f-aac2-f260836e1a30"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.11",
+            "objective_text": "Connect spread to consistency.",
+            "objective_uuid": "5bd9d455-a153-46b7-a186-df715c707390"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.14",
+            "objective_text": "Evaluate the spread of data sets using standard deviation.",
+            "objective_uuid": "fd8ccbd4-76d4-429f-a8d7-fd17c8a32f7c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.13",
+            "objective_text": "Construct calculations for Variance and Standard Deviation ($\\sigma$).",
+            "objective_uuid": "ad3a3887-a2db-4b74-8f76-38bc512a1dd3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.3",
+            "sub_topic_name": "Measures of Spread (Range, Interquartile Range, Variance, Standard Deviation)",
+            "objective_id": "MAT.10.2.3.16",
+            "objective_text": "Synthesize the concept of variance in risk assessment.",
+            "objective_uuid": "0e7bef52-43ab-42cd-9b1a-70ab154ec355"
+          }
+        ]
+      }
+    }
+  }
+}

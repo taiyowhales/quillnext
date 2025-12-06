@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.2.4",
+    "name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+    "topic_id": "DST.4.2",
+    "topic_name": "Evaluation & Quality Assurance",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy) in Evaluation & Quality Assurance (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.2",
+            "objective_text": "Identify if a part is too big or too small.",
+            "objective_uuid": "67cc8da4-f4b9-4d71-918e-1d86ef751c69"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.8",
+            "objective_text": "Identify a 'wobbly' joint.",
+            "objective_uuid": "677618c3-daab-4ed9-aa90-d8d2a087f7fa"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.3",
+            "objective_text": "Recall that we need to measure carefully.",
+            "objective_uuid": "e35f1dd9-d018-41f1-bcce-b91d76226895"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.4",
+            "objective_text": "Observe that all Lego bricks fit together.",
+            "objective_uuid": "fc09f3b0-b2c8-46bb-baff-2965081b6431"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.1",
+            "objective_text": "Check if parts fit together.",
+            "objective_uuid": "819947d3-2d08-4bb1-8f87-356395c0b3bf"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.5",
+            "objective_text": "Summarize why accuracy matters.",
+            "objective_uuid": "21e1e319-4be3-4f30-82f8-6d4a60346deb"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.6",
+            "objective_text": "Explain that pieces need to be the right size to work.",
+            "objective_uuid": "5022b2a7-b0cd-4411-af46-057ea2dd8d5a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.7",
+            "objective_text": "Use a template to check a shape.",
+            "objective_uuid": "a300cad6-7599-491e-8af6-9450e392cf16"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.12",
+            "objective_text": "Explain 'Quality Assurance' vs. 'Quality Control'.",
+            "objective_uuid": "d13b664e-d7fc-4331-ac9d-8d4d2950d33a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.15",
+            "objective_text": "Defend the cost of quality control measures.",
+            "objective_uuid": "f8fc63b3-7494-4be0-ae69-75c863e59ecc"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.9",
+            "objective_text": "Analyze the concept of Tolerance (+/- mm).",
+            "objective_uuid": "0b4884fc-5f39-46c8-ac98-4ceef8925c06"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.10",
+            "objective_text": "Interpret the function of a Go/No-Go gauge.",
+            "objective_uuid": "342c2f76-5be4-488e-8bdb-2cbda1e4f341"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.11",
+            "objective_text": "Connect quality control to customer satisfaction.",
+            "objective_uuid": "c9501c93-4023-4e56-bc79-fd8f9a599fe9"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.14",
+            "objective_text": "Evaluate the capability of a manufacturing process.",
+            "objective_uuid": "30a6155b-5afe-4579-896c-68617ef52539"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.13",
+            "objective_text": "Construct a quality control plan for batch production.",
+            "objective_uuid": "45bbc0fd-4762-4c57-a967-e45334ab7df4"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.4",
+            "sub_topic_name": "Tolerances & Quality Control (go/no-go gauges, manufacturing accuracy)",
+            "objective_id": "DST.4.2.4.16",
+            "objective_text": "Synthesize statistical process control concepts (intro).",
+            "objective_uuid": "d1a25d4d-24d9-4966-9102-70ed1520dccf"
+          }
+        ]
+      }
+    }
+  }
+}

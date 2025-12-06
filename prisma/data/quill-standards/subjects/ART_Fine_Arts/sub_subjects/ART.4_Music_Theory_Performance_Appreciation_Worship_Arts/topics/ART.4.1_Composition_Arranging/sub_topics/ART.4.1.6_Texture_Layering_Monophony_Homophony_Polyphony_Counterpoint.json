@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.1.6",
+    "name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+    "topic_id": "ART.4.1",
+    "topic_name": "Composition & Arranging",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint) in Composition & Arranging (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.1",
+            "objective_text": "Identify one voice singing alone.",
+            "objective_uuid": "ef77a873-3564-4c6e-854a-76d077b58d98"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.2",
+            "objective_text": "Name when everyone sings the same thing (Unison).",
+            "objective_uuid": "18d5e060-f871-4a20-adb3-312d31d12d42"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.3",
+            "objective_text": "Recall when instruments play different parts.",
+            "objective_uuid": "c9de8551-4969-4cb4-b4eb-931abf93fb93"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.4",
+            "objective_text": "Observe thick vs. thin sounds.",
+            "objective_uuid": "7861c67a-8cb7-45e9-b9d8-8d86ee39f894"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.5",
+            "objective_text": "Summarize Monophony (one line) vs. Polyphony (many lines).",
+            "objective_uuid": "3ad2e9f4-0a48-4867-b58c-c535912acfd3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.6",
+            "objective_text": "Explain Homophony (melody with chords).",
+            "objective_uuid": "0a5881f4-4893-418a-94ef-a4d6a7f18588"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.7",
+            "objective_text": "Sing a round (canon) like 'Row, Row, Row Your Boat'.",
+            "objective_uuid": "1ba0e036-d336-403d-9e07-6e42c6084cdf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.12",
+            "objective_text": "Explain heterophony (variations of same melody).",
+            "objective_uuid": "e41bcafc-f12c-460f-9cbc-bad34f946f0e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.15",
+            "objective_text": "Defend the clarity of individual lines.",
+            "objective_uuid": "728806c5-7cc7-481d-b2cf-bb7d737d4003"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.8",
+            "objective_text": "Compare a solo with a choir.",
+            "objective_uuid": "1ab69d2c-142a-4899-8a7b-8939d7333317"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.9",
+            "objective_text": "Analyze the texture of a fugue.",
+            "objective_uuid": "2e01149e-784f-4c07-aada-9ea1e8a35811"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.10",
+            "objective_text": "Interpret the independence of voices in counterpoint.",
+            "objective_uuid": "70603cf4-1349-482a-8750-a12487e720c6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.11",
+            "objective_text": "Connect texture to clarity in composition.",
+            "objective_uuid": "dbe9c47b-fee4-4cb6-ad21-6c6565b9325e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.14",
+            "objective_text": "Evaluate the density of texture in an orchestration.",
+            "objective_uuid": "e1e2c775-0275-4b1f-b187-aa2fe8aa059c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.13",
+            "objective_text": "Construct a contrapuntal passage (e.g., 2-part invention).",
+            "objective_uuid": "cd3642fe-a5da-41f1-b8a5-987f4bd44688"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.1",
+            "topic_name": "Composition & Arranging",
+            "sub_topic_id": "ART.4.1.6",
+            "sub_topic_name": "Texture & Layering (Monophony, Homophony, Polyphony, Counterpoint)",
+            "objective_id": "ART.4.1.6.16",
+            "objective_text": "Synthesize textural changes for dramatic effect.",
+            "objective_uuid": "63bfa6a7-e5ce-4364-ac80-778ecfb0bc06"
+          }
+        ]
+      }
+    }
+  }
+}

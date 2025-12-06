@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.5",
+    "name": "Recursion (conceptual introduction and examples)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Recursion (conceptual introduction and examples) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.1",
+            "objective_text": "Identify a picture inside a picture.",
+            "objective_uuid": "4d8895ee-f33e-491a-8772-6611a944cf9a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.2",
+            "objective_text": "Name 'Again and again'.",
+            "objective_uuid": "bf717b29-6858-4ce2-a417-9a7365a838a4"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.8",
+            "objective_text": "Identify a recursive loop.",
+            "objective_uuid": "48518b81-bfdf-4f67-b27e-6a7dfd41b96b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 7,
+        "average_complexity": 27.14,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.3",
+            "objective_text": "Recall looking in two mirrors.",
+            "objective_uuid": "58cc5e57-14dc-4d13-be15-7280393f2d90"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.4",
+            "objective_text": "Observe patterns within patterns.",
+            "objective_uuid": "0623a843-fdff-4c58-bd9e-870f0a16ea81"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.5",
+            "objective_text": "Summarize a function calling itself.",
+            "objective_uuid": "973db1a5-f143-4867-b4c3-73f6ddfd672b"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.6",
+            "objective_text": "Explain the 'Base Case' (when to stop).",
+            "objective_uuid": "70553fd6-fd48-407d-990b-e188afc675b6"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.7",
+            "objective_text": "Draw a fractal tree.",
+            "objective_uuid": "994b4854-cbfa-4778-9a98-0380c11a1acc"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.12",
+            "objective_text": "Explain the danger of infinite recursion (stack overflow).",
+            "objective_uuid": "ed21d566-a768-4385-9c11-eaeaeeee3265"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.15",
+            "objective_text": "Defend the elegance of recursive code.",
+            "objective_uuid": "7a2a7c27-24e5-4146-9bfc-10c5b48f204a"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 6,
+        "average_complexity": 33.5,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.9",
+            "objective_text": "Analyze the factorial function ($5! = 5 \\times 4!$).",
+            "objective_uuid": "ce55c56c-4a8e-46fe-9736-d1a3bd9f35e1"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.10",
+            "objective_text": "Interpret the Fibonacci sequence recursively.",
+            "objective_uuid": "3747d7a3-7969-496a-bd06-0c6c6ff33ec7"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.11",
+            "objective_text": "Connect recursion to stack memory.",
+            "objective_uuid": "5feff9b0-95c9-48d5-ac88-c2da09d4c1db"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.14",
+            "objective_text": "Evaluate recursion vs. iteration.",
+            "objective_uuid": "3e1a74c1-96b5-43ef-8444-d78759c9643b"
+          },
+          {
+            "complexity": 37,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.13",
+            "objective_text": "Construct a recursive solution (e.g., Tower of Hanoi).",
+            "objective_uuid": "f8c28d93-528d-4f71-9608-5d81ea9f08a1"
+          },
+          {
+            "complexity": 37,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.5",
+            "sub_topic_name": "Recursion (conceptual introduction and examples)",
+            "objective_id": "CPT.1.2.5.16",
+            "objective_text": "Synthesize mathematical induction with recursion.",
+            "objective_uuid": "293053b0-7b6d-47be-ab7e-cf31bac2616b"
+          }
+        ]
+      }
+    }
+  }
+}

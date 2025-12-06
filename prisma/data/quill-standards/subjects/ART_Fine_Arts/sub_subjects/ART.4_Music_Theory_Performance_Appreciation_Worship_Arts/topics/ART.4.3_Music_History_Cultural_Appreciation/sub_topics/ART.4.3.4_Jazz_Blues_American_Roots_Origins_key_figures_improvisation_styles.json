@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.3.4",
+    "name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+    "topic_id": "ART.4.3",
+    "topic_name": "Music History & Cultural Appreciation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Jazz, Blues & American Roots (Origins, key figures, improvisation styles) in Music History & Cultural Appreciation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.1",
+            "objective_text": "Identify the sound of a saxophone and trumpet.",
+            "objective_uuid": "180474e3-4690-429f-a4bd-5ad931c20f5a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.2",
+            "objective_text": "Name Louis Armstrong.",
+            "objective_uuid": "65773f30-c081-4ad4-b9c2-705817a36cfe"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.8",
+            "objective_text": "Identify the 12-bar blues form.",
+            "objective_uuid": "1460ab66-b4d3-4975-be20-59c4f968be94"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.3",
+            "objective_text": "Recall that Jazz has a swing beat.",
+            "objective_uuid": "378353ec-0f96-4f27-b305-d39265ad9590"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.4",
+            "objective_text": "Observe musicians making it up as they go.",
+            "objective_uuid": "a28caea8-9601-428d-a1c6-8f89fe14271c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.5",
+            "objective_text": "Summarize the roots of Jazz (Spirituals, Blues, Ragtime).",
+            "objective_uuid": "16597515-214d-474c-849d-7da4edc86a71"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.6",
+            "objective_text": "Explain 'Swing' rhythm.",
+            "objective_uuid": "d7847d5d-2706-4718-80bb-1fe48599089f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.12",
+            "objective_text": "Explain Scat singing.",
+            "objective_uuid": "fcd2b9a1-0fc7-41eb-9ccd-d19feddb8238"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.15",
+            "objective_text": "Defend Jazz as America's classical music.",
+            "objective_uuid": "ccb32034-2c97-48c1-9c60-d8fe70b47077"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.7",
+            "objective_text": "Compare Dixieland with Big Band.",
+            "objective_uuid": "b8b35722-8f18-432b-a7b4-56a17ca28c00"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.9",
+            "objective_text": "Analyze the role of improvisation in Jazz.",
+            "objective_uuid": "d79796e9-dfbd-456e-8d89-19ca6b725170"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.11",
+            "objective_text": "Connect Blues to the development of Rock and Roll.",
+            "objective_uuid": "4f158ccb-8352-4e1d-9669-9ec83a48991e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.14",
+            "objective_text": "Evaluate the complexity of jazz harmony.",
+            "objective_uuid": "8d8f8fdd-53dd-4dcc-aaa1-9091b2ab159f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.10",
+            "objective_text": "Interpret the cultural context of the Harlem Renaissance.",
+            "objective_uuid": "189875bb-bdcc-4f05-bcd4-1e0f2c4de595"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.13",
+            "objective_text": "Construct a profile of a jazz era (Bebop, Cool, Fusion).",
+            "objective_uuid": "1657bd77-ab76-4c7c-a39e-346314c1c4e3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.3",
+            "topic_name": "Music History & Cultural Appreciation",
+            "sub_topic_id": "ART.4.3.4",
+            "sub_topic_name": "Jazz, Blues & American Roots (Origins, key figures, improvisation styles)",
+            "objective_id": "ART.4.3.4.16",
+            "objective_text": "Synthesize African and European influences in American music.",
+            "objective_uuid": "62e9eaf8-be19-4ded-89df-e93b93a4f1da"
+          }
+        ]
+      }
+    }
+  }
+}

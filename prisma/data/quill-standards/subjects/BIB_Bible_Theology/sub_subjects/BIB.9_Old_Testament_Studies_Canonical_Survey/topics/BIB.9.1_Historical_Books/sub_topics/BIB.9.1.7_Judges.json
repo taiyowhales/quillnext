@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.9.1.7",
+    "name": "Judges",
+    "topic_id": "BIB.9.1",
+    "topic_name": "Historical Books",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.9",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Judges in Historical Books (Bible & Theology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.1",
+            "objective_text": "Identify Samson and Gideon.",
+            "objective_uuid": "fcc659f0-2a17-4136-9de8-8c64b8033426"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.2",
+            "objective_text": "Name the Judges as leaders before there were kings.",
+            "objective_uuid": "0837390c-d375-47f5-9433-422363d867a9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.3",
+            "objective_text": "Recall that the people forgot God many times.",
+            "objective_uuid": "56545005-522d-4552-9621-296055446cff"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.4",
+            "objective_text": "Observe that God saved them when they prayed.",
+            "objective_uuid": "c8492ea7-0a45-4c82-92b7-d2b2d34132d5"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.5",
+            "objective_text": "Summarize the cycle of Judges: Sin, Oppression, Repentance, Deliverance.",
+            "objective_uuid": "db8f8abf-284d-4dba-80fb-4f1681c695c9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.6",
+            "objective_text": "Explain how Gideon defeated the Midianites.",
+            "objective_uuid": "8d96c584-fe89-4ee3-b672-e4f8e9b4d1a4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.8",
+            "objective_text": "Categorize the enemies (Philistines, Moabites, etc.).",
+            "objective_uuid": "1518d982-250c-479a-972b-9374ef64ed60"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.12",
+            "objective_text": "Explain the role of the Holy Spirit coming upon the Judges.",
+            "objective_uuid": "3e5ae2c3-3f04-41e2-8caa-97288aa2df14"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.15",
+            "objective_text": "Defend the sovereignty of God in using flawed human instruments.",
+            "objective_uuid": "faac9b26-5b1e-4dff-8673-9b0b721ff833"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.16",
+            "objective_text": "Produce an essay on the spiral of apostasy.",
+            "objective_uuid": "37faaf56-90cb-483c-af0d-68b0530e1888"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.7",
+            "objective_text": "Compare the strength of Samson with his weakness for sin.",
+            "objective_uuid": "4194ef13-9eb4-49e9-b8f5-09e2145b1d2e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.9",
+            "objective_text": "Analyze the refrain 'In those days there was no king in Israel'.",
+            "objective_uuid": "8528ce21-8132-43e3-b0d4-eeec9eaf21d2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.10",
+            "objective_text": "Interpret the tragic vow of Jephthah.",
+            "objective_uuid": "48b9ce01-ea15-4e35-9ccb-677788c25137"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.11",
+            "objective_text": "Connect the moral decline to the religious compromise.",
+            "objective_uuid": "27596ead-8f37-44fe-bc3c-fe4cbe4ec80f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.14",
+            "objective_text": "Evaluate the disturbing ending of the book (civil war).",
+            "objective_uuid": "51e28019-5267-402e-8581-2c439add996a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.7",
+            "sub_topic_name": "Judges",
+            "objective_id": "BIB.9.1.7.13",
+            "objective_text": "Construct a chart of the Judges and their geographical areas.",
+            "objective_uuid": "aa3193b4-6b2b-42e2-aace-c47ebc465320"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "GEO.2.4.2",
+    "name": "Energy Map",
+    "topic_id": "GEO.2.4",
+    "topic_name": "Global Resource Distribution",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.2",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Energy Map in Global Resource Distribution (Geography)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.1",
+            "objective_text": "Identify gas stations for cars.",
+            "objective_uuid": "2c2ce3e5-8263-405c-b5b7-1fcfbb342249"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.2",
+            "objective_text": "Name the sun and wind as power.",
+            "objective_uuid": "f7e3a1d5-0b94-4910-8135-f5bcfbd9d8ac"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.8",
+            "objective_text": "Identify solar panels and wind turbines.",
+            "objective_uuid": "cf57baf5-859a-4503-85f8-eb1009d5be10"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.3",
+            "objective_text": "Recall that we need electricity for lights.",
+            "objective_uuid": "cb62e796-fb0a-4913-b2fd-00427973ef92"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.4",
+            "objective_text": "Observe coal or oil in pictures.",
+            "objective_uuid": "d2af82cd-9db6-4efc-ae8c-86501e2cbd5a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.5",
+            "objective_text": "Summarize where oil comes from (Middle East, USA, Russia).",
+            "objective_uuid": "83267998-c3d4-40fa-ac9d-bcd789fdff2d"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.6",
+            "objective_text": "Explain the difference between renewable (sun) and non-renewable (oil).",
+            "objective_uuid": "c1c08854-e371-4ed3-9c3f-bbd504615327"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.12",
+            "objective_text": "Explain the 'Resource Curse' (Paradox of Plenty).",
+            "objective_uuid": "be622b60-2c09-4ec1-8e1e-c3f9ae37a754"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.7",
+            "objective_text": "Compare a country with lots of oil to one with none.",
+            "objective_uuid": "0c6e60ff-63d1-4e39-a0f4-3ccbed1ba51d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.9",
+            "objective_text": "Analyze the strategic importance of the Strait of Hormuz.",
+            "objective_uuid": "0ea4ba00-e83f-4a9c-9b64-d1a7ef5449a4"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.10",
+            "objective_text": "Interpret the Organization of Petroleum Exporting Countries (OPEC).",
+            "objective_uuid": "f5569836-95f9-4b68-bc15-72de927a8fd2"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.11",
+            "objective_text": "Connect energy wealth to economic development.",
+            "objective_uuid": "b05722c2-1565-4d7c-b557-33fdb993cd76"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.15",
+            "objective_text": "Defend the ethical stewardship of extraction.",
+            "objective_uuid": "654ce06a-a96d-433e-ab31-b5d52bf511f2"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.14",
+            "objective_text": "Evaluate the geopolitical shift toward green energy metals.",
+            "objective_uuid": "3ecb62d4-f3a1-4271-8c14-1222fc4c8070"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.13",
+            "objective_text": "Construct a map of global energy transit chokepoints.",
+            "objective_uuid": "6dd76727-50f7-43e8-8e04-86a42caa4ea5"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.2",
+            "sub_subject_name": "Human Geography (Geopolitics, Culture & Economics)",
+            "topic_id": "GEO.2.4",
+            "topic_name": "Global Resource Distribution",
+            "sub_topic_id": "GEO.2.4.2",
+            "sub_topic_name": "Energy Map",
+            "objective_id": "GEO.2.4.2.16",
+            "objective_text": "Synthesize the relationship between energy security and foreign policy.",
+            "objective_uuid": "cf95cbd8-abd7-4150-bbc4-9e6cb9760294"
+          }
+        ]
+      }
+    }
+  }
+}

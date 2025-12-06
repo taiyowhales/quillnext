@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.4.5.1",
+    "name": "Global Atmospheric Circulation",
+    "topic_id": "GEO.4.5",
+    "topic_name": "Weather, Climate & Atmospheric Systems",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.4",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Global Atmospheric Circulation in Weather, Climate & Atmospheric Systems (Geography)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.1",
+            "objective_text": "Identify wind as moving air.",
+            "objective_uuid": "dc1c7b14-22c0-4739-b47e-3d0eb5df3a60"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.2",
+            "objective_text": "Name the sun as the heat source for the earth.",
+            "objective_uuid": "54108b84-2707-45b8-94a4-c190b161777d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.8",
+            "objective_text": "Identify the trade winds.",
+            "objective_uuid": "2aec3ca1-7b50-45a9-9a98-80e227ad7cea"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.3",
+            "objective_text": "Recall that hot air goes up.",
+            "objective_uuid": "f1528414-8874-4592-9583-3cf97c563d46"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.4",
+            "objective_text": "Observe clouds moving across the sky.",
+            "objective_uuid": "efd7e69c-3f66-45a8-8d6f-b2f61245ba4d"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.5",
+            "objective_text": "Summarize why the equator is hot and poles are cold.",
+            "objective_uuid": "7bee6261-f2f5-4f21-bbb1-0ec4f90b0733"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.6",
+            "objective_text": "Explain that wind moves heat around the world.",
+            "objective_uuid": "b8356f83-2eb3-4000-abe5-8740aade2b75"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.12",
+            "objective_text": "Explain the Jet Stream.",
+            "objective_uuid": "fbcabdb1-04a1-4fdf-aa88-025531b595b7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.15",
+            "objective_text": "Defend the impact of atmospheric circulation on human history (sailing routes).",
+            "objective_uuid": "bb0d0c6e-257c-45dd-bd5f-707c8a2b6e20"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.7",
+            "objective_text": "Compare high pressure (sunny) with low pressure (rainy).",
+            "objective_uuid": "416b1384-5335-4b2f-8ff5-64b489c0907c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.9",
+            "objective_text": "Analyze the tri-cellular model (Hadley, Ferrel, Polar cells).",
+            "objective_uuid": "09cd49b9-1631-4f6c-8c50-e88dae510fec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.10",
+            "objective_text": "Interpret the Coriolis Effect (spinning earth turning winds).",
+            "objective_uuid": "813ef4fa-8903-4180-be55-40696d3b5cc5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.11",
+            "objective_text": "Connect global circulation to the location of deserts.",
+            "objective_uuid": "a16cca79-260c-4cc1-9c5f-bd9bbf5327fe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.14",
+            "objective_text": "Evaluate the transfer of energy from equator to poles.",
+            "objective_uuid": "54815cb5-ed26-42eb-8f6e-eda4c75a4984"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.13",
+            "objective_text": "Construct a diagram of global wind belts.",
+            "objective_uuid": "499dfc37-0f57-4d72-bfd4-1a02f81b02e3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.1",
+            "sub_topic_name": "Global Atmospheric Circulation",
+            "objective_id": "GEO.4.5.1.16",
+            "objective_text": "Synthesize the interaction between oceanic and atmospheric circulation.",
+            "objective_uuid": "0f878981-fb58-4762-9fbc-3c37a7f9f5ce"
+          }
+        ]
+      }
+    }
+  }
+}

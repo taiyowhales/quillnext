@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.3.3",
+    "name": "Notifications & Background Tasks (high-level)",
+    "topic_id": "CPT.3.3",
+    "topic_name": "Mobile App Development (Introductory)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Notifications & Background Tasks (high-level) in Mobile App Development (Introductory) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.1",
+            "objective_text": "Identify a ding or buzz.",
+            "objective_uuid": "2f9c61af-f6e7-4f25-ba4c-5c13ec79b828"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.2",
+            "objective_text": "Recall that the phone talks when asleep.",
+            "objective_uuid": "6d703225-e1be-4896-8816-6b81e3e0005f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.3",
+            "objective_text": "Name a message popping up.",
+            "objective_uuid": "efb3fc47-e5ce-4e3b-8785-70076b3d2899"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.4",
+            "objective_text": "Observe a red badge number.",
+            "objective_uuid": "0445e366-cff8-47c5-b072-1ee76519302d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.7",
+            "objective_text": "Identify annoying vs. helpful alerts.",
+            "objective_uuid": "4720dd40-106d-4b5b-a162-48e639a28aea"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.5",
+            "objective_text": "Summarize a Push Notification.",
+            "objective_uuid": "26c91430-e230-496d-9c1b-0f68f8a93f39"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.6",
+            "objective_text": "Explain why apps run in the background (music).",
+            "objective_uuid": "02aad4a5-7f5b-412d-bb25-5023aae14c9a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.12",
+            "objective_text": "Explain scheduling local notifications.",
+            "objective_uuid": "e13ad7c6-e0b0-4816-9d4e-c6cf13079757"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.15",
+            "objective_text": "Defend user control over interruptions.",
+            "objective_uuid": "255692a0-795e-4102-a0dc-15d22e27fd08"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.8",
+            "objective_text": "Compare an alarm clock app to a game.",
+            "objective_uuid": "f44aaa12-a056-46b4-b43f-60bb5e4e075e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.9",
+            "objective_text": "Analyze the permission model for notifications.",
+            "objective_uuid": "e068e3a1-9003-4d5d-b902-1c55f8956098"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.10",
+            "objective_text": "Interpret background fetch.",
+            "objective_uuid": "f1486065-2e5e-4d4e-9e68-3f64eeea3f47"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.11",
+            "objective_text": "Connect battery life to background tasks.",
+            "objective_uuid": "9b1fdff6-0edd-485a-9497-94d46ee259fb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.14",
+            "objective_text": "Evaluate the ethics of attention economy.",
+            "objective_uuid": "5bf7f2e4-4806-4d2f-85e5-4ff574aba56d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.13",
+            "objective_text": "Construct a notification strategy.",
+            "objective_uuid": "0e3d5ddd-0631-4459-b5b9-3063a192d2ec"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.3",
+            "sub_topic_name": "Notifications & Background Tasks (high-level)",
+            "objective_id": "CPT.3.3.3.16",
+            "objective_text": "Synthesize OS lifecycle management.",
+            "objective_uuid": "2f51fcdb-ca4a-41cf-9d9e-d10d8cb7009a"
+          }
+        ]
+      }
+    }
+  }
+}

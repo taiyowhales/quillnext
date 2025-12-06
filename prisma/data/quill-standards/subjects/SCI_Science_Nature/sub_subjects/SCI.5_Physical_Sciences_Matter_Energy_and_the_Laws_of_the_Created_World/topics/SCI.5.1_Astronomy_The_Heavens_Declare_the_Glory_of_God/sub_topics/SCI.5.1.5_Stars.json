@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.5",
+    "name": "Stars",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Stars in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.1",
+            "objective_text": "Identify that stars are far-away suns.",
+            "objective_uuid": "675b5a13-aff4-4206-b82d-db728ea7f4a0"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.2",
+            "objective_text": "Name twinkling lights.",
+            "objective_uuid": "6c553b14-7f13-48af-99ac-cc41ad13db93"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.8",
+            "objective_text": "Identify a Supernova (explosion).",
+            "objective_uuid": "e44f685f-1db6-485b-997a-e077ccc8864e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.3",
+            "objective_text": "Recall that there are more stars than sand grains.",
+            "objective_uuid": "12273b37-980c-4936-9e2d-ee370615f07b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.4",
+            "objective_text": "Observe different colors of stars.",
+            "objective_uuid": "51fce1b6-e50e-4e2c-b20e-416161ed57cb"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.5",
+            "objective_text": "Summarize the life of a star (Nebula to Star).",
+            "objective_uuid": "d4c09893-656a-419f-8b00-0ee02592b4c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.6",
+            "objective_text": "Explain that color tells temperature (Blue is hottest).",
+            "objective_uuid": "dc17fcbc-9387-41e0-9a64-16b42e6e822a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.12",
+            "objective_text": "Explain Neutron Stars and Black Holes.",
+            "objective_uuid": "2ef13531-5ce6-4fa2-8f58-2aeabd150d55"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.15",
+            "objective_text": "Defend the awe-inspiring scale of the cosmos.",
+            "objective_uuid": "2f459e55-b5df-4975-9ee2-239056ce9b03"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.7",
+            "objective_text": "Compare a Red Giant with a White Dwarf.",
+            "objective_uuid": "d5306837-485f-44b9-b983-ccff402f6f89"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.9",
+            "objective_text": "Analyze the Hertzsprung-Russell (H-R) Diagram.",
+            "objective_uuid": "dcd6fbc8-d9a2-4d9f-acf7-1b0fc8afe2e6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.10",
+            "objective_text": "Interpret stellar classification (O, B, A, F, G, K, M).",
+            "objective_uuid": "e81ce638-9a46-4ff7-9c1d-8197239f0cc9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.11",
+            "objective_text": "Connect mass to the lifespan of a star.",
+            "objective_uuid": "72924935-85fa-4666-a525-b54da6b38209"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.14",
+            "objective_text": "Evaluate the distances to stars using parallax.",
+            "objective_uuid": "81f04af7-01a2-4c4f-8f3a-b131419b8adc"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.13",
+            "objective_text": "Construct a narrative of stellar nucleosynthesis (making elements).",
+            "objective_uuid": "eaa5afd0-0900-44a5-8a6b-61113b464a28"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.5",
+            "sub_topic_name": "Stars",
+            "objective_id": "SCI.5.1.5.16",
+            "objective_text": "Synthesize the physics of black holes.",
+            "objective_uuid": "a6e381da-98f8-4105-b041-ca9593273758"
+          }
+        ]
+      }
+    }
+  }
+}

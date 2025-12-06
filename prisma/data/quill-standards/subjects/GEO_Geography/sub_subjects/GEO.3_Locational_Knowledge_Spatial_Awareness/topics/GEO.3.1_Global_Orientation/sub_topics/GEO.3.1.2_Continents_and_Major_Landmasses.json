@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.1.2",
+    "name": "Continents and Major Landmasses",
+    "topic_id": "GEO.3.1",
+    "topic_name": "Global Orientation",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Continents and Major Landmasses in Global Orientation (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.1",
+            "objective_text": "Identify the 7 continents.",
+            "objective_uuid": "a3a54d56-ca7e-473c-a5f5-98aa74b548bb"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.2",
+            "objective_text": "Name the continent I live on.",
+            "objective_uuid": "155b855e-e45e-46af-be37-c6caa2c71679"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.8",
+            "objective_text": "Identify the Middle East as a bridge between continents.",
+            "objective_uuid": "d45533a8-1d6d-472e-af18-f5337ea2a5e8"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.3",
+            "objective_text": "Recall that Asia is the biggest.",
+            "objective_uuid": "7fb4778f-8156-4e12-9804-df568c3f7927"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.4",
+            "objective_text": "Observe the shape of Africa.",
+            "objective_uuid": "16b4f38c-d126-4ea6-be24-85598a3fdcbd"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.5",
+            "objective_text": "Summarize the difference between a continent and a country.",
+            "objective_uuid": "a2c6c73e-adbe-473c-8da9-703b63d51560"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.6",
+            "objective_text": "Explain that Europe and Asia are connected (Eurasia).",
+            "objective_uuid": "a8c1ad5b-a0f9-4c09-9c2d-04b46ce752bc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.7",
+            "objective_text": "Locate Antarctica.",
+            "objective_uuid": "d6d36f50-1c99-40ef-b14a-f0715b08b86c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.12",
+            "objective_text": "Explain the 'Old World' vs. 'New World'.",
+            "objective_uuid": "a4b3d174-75b4-4710-a442-9704100ca293"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.15",
+            "objective_text": "Defend the providential placement of landmasses for habitation.",
+            "objective_uuid": "89d61912-6c20-40ed-8d03-ff9329772ee9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.9",
+            "objective_text": "Analyze the theory of Continental Drift (Pangea).",
+            "objective_uuid": "5563f852-53e7-423a-ab15-9b677427876c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.10",
+            "objective_text": "Interpret the tectonic plates underlying the continents.",
+            "objective_uuid": "4e775e60-eff6-46d3-b7e5-0032de6c1f6e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.11",
+            "objective_text": "Connect Sub-continents (India) to collisions.",
+            "objective_uuid": "62c3043a-7615-470a-9121-020b6f61f28c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.14",
+            "objective_text": "Evaluate the arbitrary nature of the Europe/Asia boundary.",
+            "objective_uuid": "a74c3808-e32f-44d5-9db0-4590181d2951"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.13",
+            "objective_text": "Construct a mental map of the globe.",
+            "objective_uuid": "ddac9f40-58ea-4aa5-8b52-8e98a918f9a4"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.2",
+            "sub_topic_name": "Continents and Major Landmasses",
+            "objective_id": "GEO.3.1.2.16",
+            "objective_text": "Synthesize geology with political geography.",
+            "objective_uuid": "ebeca4dd-ef42-4c20-9f07-c0385e87d1db"
+          }
+        ]
+      }
+    }
+  }
+}

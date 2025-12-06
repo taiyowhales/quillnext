@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.2.6",
+    "name": "Neural Networks & Deep Learning (conceptual)",
+    "topic_id": "CPT.7.2",
+    "topic_name": "Artificial Intelligence & Machine Learning",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Neural Networks & Deep Learning (conceptual) in Artificial Intelligence & Machine Learning (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.1",
+            "objective_text": "Identify the brain has connections.",
+            "objective_uuid": "24246aa7-f2f5-421a-aa1a-b4f47f733577"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.2",
+            "objective_text": "Name a computer 'brain' that thinks like us.",
+            "objective_uuid": "60a97370-7a93-48c4-9cb0-77c95db97f39"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.3",
+            "objective_text": "Recall that layers help solve puzzles.",
+            "objective_uuid": "7a467cc2-e8d9-4f1e-8144-53f04420c303"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.4",
+            "objective_text": "Observe a web of lines.",
+            "objective_uuid": "7b08069f-3226-4871-8548-47bc5536c824"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.8",
+            "objective_text": "Identify 'Deep Learning' as many layers.",
+            "objective_uuid": "57f25c05-de67-46ce-93ae-963576badd23"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.5",
+            "objective_text": "Summarize a Neural Network (layers of math).",
+            "objective_uuid": "200a1c6f-6f86-4d98-83d7-9e45bfb34e61"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.6",
+            "objective_text": "Explain Input Layer and Output Layer.",
+            "objective_uuid": "b4d488bb-5878-4e24-8eb7-4dbf0081f693"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.12",
+            "objective_text": "Explain the 'Black Box' nature of deep learning.",
+            "objective_uuid": "c7335292-f632-42c4-a9a0-ca70accc409b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.15",
+            "objective_text": "Defend the biological inspiration vs. mathematical reality.",
+            "objective_uuid": "e7752592-87fe-489d-bc54-ae34b2711c74"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.7",
+            "objective_text": "Compare a biological neuron with a digital node.",
+            "objective_uuid": "82f42cba-a703-4046-92b7-5e319e5fd130"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.9",
+            "objective_text": "Analyze the concept of weights and biases.",
+            "objective_uuid": "5440e5fc-6911-4bb8-95c9-207afa28202b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.10",
+            "objective_text": "Interpret a diagram of a dense network.",
+            "objective_uuid": "2e38e89d-57d3-4ccd-aa68-8f4ce61485a6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.11",
+            "objective_text": "Connect activation functions to 'firing'.",
+            "objective_uuid": "45af9653-5092-4410-a4d2-a0246871eb14"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.14",
+            "objective_text": "Evaluate the role of backpropagation in learning.",
+            "objective_uuid": "6e2bda8b-adcb-43f1-afe2-d96f4a5192dc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.13",
+            "objective_text": "Construct a conceptual map of forward propagation.",
+            "objective_uuid": "aba451d8-a404-479f-a670-dde3196e786b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.6",
+            "sub_topic_name": "Neural Networks & Deep Learning (conceptual)",
+            "objective_id": "CPT.7.2.6.16",
+            "objective_text": "Synthesize matrix multiplication with network architecture.",
+            "objective_uuid": "7b54fabb-4166-4ed6-a2e7-9a9eb6d391f1"
+          }
+        ]
+      }
+    }
+  }
+}

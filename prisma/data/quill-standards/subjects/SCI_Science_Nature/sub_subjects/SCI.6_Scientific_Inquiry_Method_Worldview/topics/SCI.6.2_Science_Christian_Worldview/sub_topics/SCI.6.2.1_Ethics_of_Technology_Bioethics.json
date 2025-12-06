@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.2.1",
+    "name": "Ethics of Technology & Bioethics",
+    "topic_id": "SCI.6.2",
+    "topic_name": "Science & Christian Worldview",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ethics of Technology & Bioethics in Science & Christian Worldview (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.1",
+            "objective_text": "Identify that we should use tools for good.",
+            "objective_uuid": "99f3931a-4dfb-4f49-ad64-f0441e88213f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.2",
+            "objective_text": "Name helping people as a goal.",
+            "objective_uuid": "f9b669c9-9c0f-4fe1-a60a-292651b6cabe"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.7",
+            "objective_text": "Identify dangerous inventions (weapons).",
+            "objective_uuid": "be9bad4a-eaae-42f9-83c3-a2955bf427de"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.3",
+            "objective_text": "Recall that just because we can do something doesn't mean we should.",
+            "objective_uuid": "9b241993-3e38-4eec-869c-89991b941593"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.4",
+            "objective_text": "Observe doctors caring for life.",
+            "objective_uuid": "777d663d-c5ec-4460-b336-fdf28f401501"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.5",
+            "objective_text": "Summarize the Golden Rule in science.",
+            "objective_uuid": "a37be687-d458-4cd6-b480-2f9421b0deb9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.6",
+            "objective_text": "Explain the sanctity of life.",
+            "objective_uuid": "278b2903-b213-4adc-9b51-f034ef1ff4f6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.15",
+            "objective_text": "Defend the moral boundaries of experimentation.",
+            "objective_uuid": "3cf31a4a-5926-4128-a9d0-d5b86ca7ba2e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.8",
+            "objective_text": "Compare healing vs. enhancing humans.",
+            "objective_uuid": "f1170628-32e3-48e3-b822-428f803c3a02"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.9",
+            "objective_text": "Analyze CRISPR and genetic editing ethics.",
+            "objective_uuid": "1ef9dcf7-2d96-4b3e-9a97-5ae012ef9282"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.10",
+            "objective_text": "Interpret the role of AI (Artificial Intelligence).",
+            "objective_uuid": "b8c87287-f0f9-46b5-bfe7-2cc9caa3d485"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.11",
+            "objective_text": "Connect the Image of God to bioethics.",
+            "objective_uuid": "ef154601-8036-402c-a6e1-32c07d456137"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.12",
+            "objective_text": "Explain stewardship of the environment.",
+            "objective_uuid": "745e5ec0-391c-4ee3-92cd-9f339cb9606a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.14",
+            "objective_text": "Evaluate the \"Play God\" objection.",
+            "objective_uuid": "2a040c01-9d97-4ab4-90f7-2b4e35268f7a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.13",
+            "objective_text": "Construct a Christian response to transhumanism.",
+            "objective_uuid": "70c9da2f-2ae2-4917-b6cd-d2c4c8a0d284"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.2",
+            "topic_name": "Science & Christian Worldview",
+            "sub_topic_id": "SCI.6.2.1",
+            "sub_topic_name": "Ethics of Technology & Bioethics",
+            "objective_id": "SCI.6.2.1.16",
+            "objective_text": "Synthesize technological progress with moral regression.",
+            "objective_uuid": "2ab4d5bd-9b59-40f3-b678-6e4a8a1d9bc7"
+          }
+        ]
+      }
+    }
+  }
+}

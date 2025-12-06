@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.5.3",
+    "name": "Spherical Geometry (Curves and Lines on a Sphere)",
+    "topic_id": "MAT.5.5",
+    "topic_name": "Non-Euclidean Geometry (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Spherical Geometry (Curves and Lines on a Sphere) in Non-Euclidean Geometry (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 8.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.1",
+            "objective_text": "Identify a ball.",
+            "objective_uuid": "b51a9adf-fad9-499e-88db-2d159c6e58fa"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.8",
+            "objective_text": "Identify a 'Great Circle' (equator).",
+            "objective_uuid": "60e8d53b-5568-45f3-88b8-1773ee4b0765"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.3",
+            "objective_text": "Recall that the earth is round.",
+            "objective_uuid": "88811d76-9bad-4f5f-ad2d-ccc1d81e5fec"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.4",
+            "objective_text": "Observe airplane paths on a map.",
+            "objective_uuid": "22d6e203-2b44-4b72-bee8-bda90c34be29"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.2",
+            "objective_text": "Draw a line on a ball.",
+            "objective_uuid": "7b97847b-f47e-488e-a466-05353bc74e87"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.5",
+            "objective_text": "Summarize that a 'straight' line on a sphere curves.",
+            "objective_uuid": "a0d22240-3124-458b-a04c-c0eb0a26eedc"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.6",
+            "objective_text": "Explain that lines of longitude meet at the pole.",
+            "objective_uuid": "b803342c-3704-4f53-8c04-dc313fda8229"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.12",
+            "objective_text": "Explain why there are no parallel lines on a sphere.",
+            "objective_uuid": "1a4ec292-4eed-4b57-863b-e32d804362e4"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.15",
+            "objective_text": "Defend the practical application of non-Euclidean math.",
+            "objective_uuid": "04cbcbd1-85d1-434e-a151-1e85f7c3027a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.7",
+            "objective_text": "Compare a flat map with a globe.",
+            "objective_uuid": "ec994782-adc0-4c0f-9589-94f36f0b3deb"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.9",
+            "objective_text": "Analyze a triangle on a sphere (sum > 180).",
+            "objective_uuid": "d039e00b-2a66-41df-915f-06c1ec3a6286"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.10",
+            "objective_text": "Interpret flight paths as geodesics.",
+            "objective_uuid": "469dd95a-4dde-4da7-b529-677e63294d8d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.11",
+            "objective_text": "Connect curvature to angle sums.",
+            "objective_uuid": "08408d9b-69ab-492d-81b9-56f0b1ca7110"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.14",
+            "objective_text": "Evaluate navigation geometry.",
+            "objective_uuid": "a5e4517c-81d3-42ef-89bc-bb2318b56d66"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.13",
+            "objective_text": "Construct calculations for spherical excess.",
+            "objective_uuid": "a3a0eb43-4787-406a-9e1b-b00a5ee9b3c7"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.5",
+            "topic_name": "Non-Euclidean Geometry (Introductory)",
+            "sub_topic_id": "MAT.5.5.3",
+            "sub_topic_name": "Spherical Geometry (Curves and Lines on a Sphere)",
+            "objective_id": "MAT.5.5.3.16",
+            "objective_text": "Synthesize topology concepts.",
+            "objective_uuid": "60bea79f-9949-4e12-a9e1-558dfe9fdc8a"
+          }
+        ]
+      }
+    }
+  }
+}

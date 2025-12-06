@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.1.3",
+    "name": "Modular Patterns and Properties",
+    "topic_id": "MAT.8.1",
+    "topic_name": "Modular Arithmetic (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Modular Patterns and Properties in Modular Arithmetic (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.1",
+            "objective_text": "Identify patterns that repeat (AB, AB, AB).",
+            "objective_uuid": "ef33ae56-7703-4dae-9307-f5f27bbf33c5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.7",
+            "objective_text": "Identify patterns in remainders.",
+            "objective_uuid": "436afe93-f493-48cc-a8f4-48fd8d2fc243"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.3",
+            "objective_text": "Recall the days of the week cycle.",
+            "objective_uuid": "ecfff940-5a14-4803-a6ea-9c34e2e9a1d8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.4",
+            "objective_text": "Observe odd and even patterns.",
+            "objective_uuid": "b49130ff-6203-4106-8882-f8ea76bf7187"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.6",
+            "objective_text": "Explain why the last digit repeats in powers of numbers.",
+            "objective_uuid": "405b547e-d298-406c-a83f-5de60cfa9c60"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.2",
+            "objective_text": "Skip count on a number wheel.",
+            "objective_uuid": "1a42c1d6-888f-46a4-be6a-a3dbf8a0dd96"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.5",
+            "objective_text": "Summarize the pattern of last digits (Mod 10).",
+            "objective_uuid": "3846e264-564a-42a3-b80c-824579ca9f51"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.8",
+            "objective_text": "Use a cipher wheel.",
+            "objective_uuid": "a740452b-d4dc-456d-a05e-826a0e469f2e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.12",
+            "objective_text": "Explain why $(a+b) \\pmod{n} = ((a \\pmod{n}) + (b \\pmod{n})) \\pmod{n}$.",
+            "objective_uuid": "282cfd20-24ef-4666-9d10-b64eb929e172"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.15",
+            "objective_text": "Defend the structure of finite fields.",
+            "objective_uuid": "93fd5138-678e-4214-9091-468fc7af8668"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.9",
+            "objective_text": "Analyze addition and multiplication properties in Mod $n$.",
+            "objective_uuid": "67a1af45-ea7b-4e85-8aeb-d51a3a84b0ea"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.10",
+            "objective_text": "Interpret zero divisors in modular arithmetic.",
+            "objective_uuid": "802e4cd6-7d45-4ef0-b082-f501b6c4627b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.11",
+            "objective_text": "Connect modular math to verifying checksums.",
+            "objective_uuid": "53c5eef4-21f4-4a5e-8db4-de045f37516e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.14",
+            "objective_text": "Evaluate Fermat's Little Theorem.",
+            "objective_uuid": "653d9c94-2469-4f86-94b9-e4e0e49ad0fe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.13",
+            "objective_text": "Construct Chinese Remainder Theorem solutions.",
+            "objective_uuid": "01defc6a-b75e-4ade-ab63-abdad15d3452"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.3",
+            "sub_topic_name": "Modular Patterns and Properties",
+            "objective_id": "MAT.8.1.3.16",
+            "objective_text": "Synthesize number theory with pattern analysis.",
+            "objective_uuid": "22a4d06a-fa62-4d97-b3d4-606251ae4790"
+          }
+        ]
+      }
+    }
+  }
+}

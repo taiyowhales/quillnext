@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.4",
+    "name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Responsible Web Publishing (ethics, copyright, code of conduct) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.1",
+            "objective_text": "Identify 'My work' vs. 'Copied'.",
+            "objective_uuid": "6026530b-f595-4085-9fbd-b60448317695"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.3",
+            "objective_text": "Recall being kind online.",
+            "objective_uuid": "b7fa3e6c-a841-4494-b280-0d9ab58abbe1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.4",
+            "objective_text": "Name a creator.",
+            "objective_uuid": "20ba8c01-2d6a-499c-ad76-db34d6ef7cce"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.8",
+            "objective_text": "Identify Creative Commons symbols.",
+            "objective_uuid": "25559a06-f222-4ba3-af32-5545089e387c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.2",
+            "objective_text": "Ask before using a picture.",
+            "objective_uuid": "442ee9ef-2b71-447c-b71e-3ee6389d5427"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.5",
+            "objective_text": "Summarize citing sources.",
+            "objective_uuid": "f73271e5-53b3-4b7b-89e9-2aec49003012"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.6",
+            "objective_text": "Explain why we don't steal images.",
+            "objective_uuid": "e8808f73-b7d2-4a0f-9ab8-185fad835e04"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.7",
+            "objective_text": "Write a kind comment.",
+            "objective_uuid": "f83ab127-d3c3-4d4d-9d26-693b36dba9ed"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.12",
+            "objective_text": "Explain attribution.",
+            "objective_uuid": "4175ef62-3dc1-4493-9535-c0d7f8614f6e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.15",
+            "objective_text": "Defend intellectual property rights.",
+            "objective_uuid": "c7955288-0404-4b5e-9f03-c562464e2183"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.9",
+            "objective_text": "Analyze the permanency of publishing.",
+            "objective_uuid": "c6b43272-f37c-4c4c-a3ec-3549105899a6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.10",
+            "objective_text": "Interpret Fair Use.",
+            "objective_uuid": "7395a8ca-0f3b-4e65-a555-12fae38e985a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.11",
+            "objective_text": "Connect moderation to community health.",
+            "objective_uuid": "603ef6c8-f7d8-416b-9a7f-d8b241a5bf43"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.14",
+            "objective_text": "Evaluate the ethical implications of hosting content.",
+            "objective_uuid": "a8b78a80-481f-4104-800d-d44fe24b711b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.13",
+            "objective_text": "Construct a publishing policy.",
+            "objective_uuid": "b4b6d67f-4440-4c5c-88b9-aaa606607461"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.4",
+            "sub_topic_name": "Responsible Web Publishing (ethics, copyright, code of conduct)",
+            "objective_id": "CPT.6.4.4.16",
+            "objective_text": "Synthesize digital citizenship with technical skill.",
+            "objective_uuid": "95fd3c63-fcad-4505-8234-0774a944467d"
+          }
+        ]
+      }
+    }
+  }
+}

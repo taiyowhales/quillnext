@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "SCI.1.2.5",
+    "name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+    "topic_id": "SCI.1.2",
+    "topic_name": "Technology, Robotics & Coding",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.1",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Microcontrollers (intro-level: Arduino, Micro:bit programming) in Technology, Robotics & Coding (Science & Nature)",
+    "grade_levels": {
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 10,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.1",
+            "objective_text": "Press buttons on a Micro:bit to make lights blink.",
+            "objective_uuid": "12bf0f9e-ba4d-4535-ba29-ecf259f9095b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.2",
+            "objective_text": "See code make things happen.",
+            "objective_uuid": "2d5b3ab6-f235-4153-bdb2-d18107c8ac18"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.3",
+            "objective_text": "Praise God who spoke and it was.",
+            "objective_uuid": "3dba0eac-a85b-4aa2-b542-6e51b2a2886a"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.5",
+            "objective_text": "Program Micro:bit to respond to tilt or button press.",
+            "objective_uuid": "0bb50064-2412-4b23-a757-86e8b8c2d232"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.6",
+            "objective_text": "Use loops and variables simply.",
+            "objective_uuid": "7450ec56-a96b-4358-a14b-0a2e059967f9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.7",
+            "objective_text": "Explain that humans program because we are made in God's image.",
+            "objective_uuid": "ca08a8a4-726d-4a31-a452-2ef176543c39"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.8",
+            "objective_text": "Make a thermometer or step counter.",
+            "objective_uuid": "8c1d86d7-8ac4-4237-803b-1142118663fa"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.9",
+            "objective_text": "Program Arduino/Micro:bit with sensors and actuators.",
+            "objective_uuid": "d34d0986-fac7-4901-af1a-518269cfb371"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.10",
+            "objective_text": "Use if-else, functions, and serial communication.",
+            "objective_uuid": "07ebe7f7-7561-4c0e-b73b-b4a0568794b9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.12",
+            "objective_text": "Build projects such as automated plant waterer.",
+            "objective_uuid": "77a691cf-910b-4e11-bbe1-c773afc1c434"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.13",
+            "objective_text": "Develop embedded systems with interrupts and real-time response.",
+            "objective_uuid": "c5ebec30-10bf-4117-9baf-003f189c5003"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.15",
+            "objective_text": "Defend technology as tool for gospel advance and human flourishing.",
+            "objective_uuid": "5f965a2a-d51a-4e7c-b667-056fa86167eb"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.11",
+            "objective_text": "Connect programming to wise dominion.",
+            "objective_uuid": "8db77b29-ba8d-4b75-8a46-b83e8fea4ab7"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.14",
+            "objective_text": "Evaluate power consumption and optimization.",
+            "objective_uuid": "9f788748-8f03-4584-9d0a-0563a9512d1b"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.4",
+            "objective_text": "Create a smiling face pattern.",
+            "objective_uuid": "6c394928-b0fc-4a48-8f55-3a012f9aaf06"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.5",
+            "sub_topic_name": "Microcontrollers (intro-level: Arduino, Micro:bit programming)",
+            "objective_id": "SCI.1.2.5.16",
+            "objective_text": "Synthesize multiple sensors into a smart system.",
+            "objective_uuid": "f0140e2d-a07f-4b33-9f85-dad4950852eb"
+          }
+        ]
+      }
+    }
+  }
+}

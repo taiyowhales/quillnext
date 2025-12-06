@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.2.6",
+    "name": "Triangular, Square, and other Figurate Numbers",
+    "topic_id": "MAT.8.2",
+    "topic_name": "Patterns & Sequences",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Triangular, Square, and other Figurate Numbers in Patterns & Sequences (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 2.25,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.1",
+            "objective_text": "Identify a square shape made of dots.",
+            "objective_uuid": "d7cc63e1-a41c-40a9-9485-b9ac48cc8e75"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.2",
+            "objective_text": "Name a triangle shape made of dots.",
+            "objective_uuid": "e9cf4449-275f-4026-b213-1420fd4c8871"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.8",
+            "objective_text": "Identify the pattern of adding odd numbers to get squares.",
+            "objective_uuid": "8b2bf10f-1550-4820-a5ec-7311f696eba9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.3",
+            "objective_text": "Recall counting dots.",
+            "objective_uuid": "e320d7cd-aa5c-4046-bf32-eda9ea6ec8ef"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.4",
+            "objective_text": "Observe bowling pins (triangle).",
+            "objective_uuid": "afc4b1a3-fe61-4344-878d-357411540d8d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.5",
+            "objective_text": "Summarize Square Numbers ($1, 4, 9, 16$).",
+            "objective_uuid": "c1d029c1-6fc1-45ce-84c8-3241beb2bfd8"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.6",
+            "objective_text": "Explain Triangular Numbers ($1, 3, 6, 10$).",
+            "objective_uuid": "3716026f-584a-46f7-a400-b0731d3bfcf1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.7",
+            "objective_text": "Draw the next shape in the sequence.",
+            "objective_uuid": "1fc3c1dd-5cac-4b52-92b0-81c995011bcb"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.12",
+            "objective_text": "Explain Pascal's Triangle connections.",
+            "objective_uuid": "72666e5a-db6b-42c9-a917-1feaa712c0e2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.9",
+            "objective_text": "Analyze the formula for Triangular numbers ($n(n+1)/2$).",
+            "objective_uuid": "0314bda2-66d6-4990-b6f5-e7b3852530ee"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.10",
+            "objective_text": "Interpret the connection between triangular numbers and the 'Handshake Problem'.",
+            "objective_uuid": "572c30be-d9ed-4b57-9ce1-f05276f2f166"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.11",
+            "objective_text": "Connect square numbers to area.",
+            "objective_uuid": "2e411a2e-5876-4262-a233-9ab95aa9c0bd"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.15",
+            "objective_text": "Defend the geometric representation of algebra.",
+            "objective_uuid": "5c40c78d-96ce-41f8-a8a8-23ebee29a829"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.14",
+            "objective_text": "Evaluate cubic and tetrahedral numbers.",
+            "objective_uuid": "563252e0-86a7-46df-b7c0-4b822906184b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.13",
+            "objective_text": "Construct algebraic proofs for sum of integers.",
+            "objective_uuid": "2f2917eb-8e2b-40b9-be23-5bddcde8b97b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 32.0,
+        "objectives": [
+          {
+            "complexity": 32,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.6",
+            "sub_topic_name": "Triangular, Square, and other Figurate Numbers",
+            "objective_id": "MAT.8.2.6.16",
+            "objective_text": "Synthesize discrete calculus concepts.",
+            "objective_uuid": "f58da25c-461c-4b0d-a443-24a6f195cc84"
+          }
+        ]
+      }
+    }
+  }
+}

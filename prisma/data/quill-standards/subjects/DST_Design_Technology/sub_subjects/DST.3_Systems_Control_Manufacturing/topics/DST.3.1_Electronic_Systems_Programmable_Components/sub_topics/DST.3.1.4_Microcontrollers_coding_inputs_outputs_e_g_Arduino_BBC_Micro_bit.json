@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.3.1.4",
+    "name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+    "topic_id": "DST.3.1",
+    "topic_name": "Electronic Systems & Programmable Components",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit) in Electronic Systems & Programmable Components (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.1",
+            "objective_text": "Identify a robot toy.",
+            "objective_uuid": "4b364b67-bc0a-440b-a318-5200fa1707f7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.2",
+            "objective_text": "Name the buttons to make it go.",
+            "objective_uuid": "9b07dbf4-7253-4abf-88ce-b7d932de7c80"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.8",
+            "objective_text": "Identify a Loop (doing it over and over).",
+            "objective_uuid": "deab3bba-fb09-4c1f-b1e7-758d54f8c837"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.3",
+            "objective_text": "Recall that we tell the computer what to do.",
+            "objective_uuid": "5853d830-8280-4934-98b5-4632d1e19995"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.4",
+            "objective_text": "Observe a sequence of commands.",
+            "objective_uuid": "d08e00e3-a7ec-4124-bc1d-96631a7eb004"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.5",
+            "objective_text": "Summarize Block Coding (drag and drop).",
+            "objective_uuid": "a6647936-60e2-443c-910a-677d842c174d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.6",
+            "objective_text": "Explain 'If this, then that'.",
+            "objective_uuid": "cdb19f9e-c392-433f-bb1b-75ee607c3858"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.7",
+            "objective_text": "Program a Micro:bit to show a smiley face.",
+            "objective_uuid": "7f2833e2-1de3-45ec-9bd6-5a2a77dd97b7"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.67,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.12",
+            "objective_text": "Explain Digital vs. Analog inputs (On/Off vs. a range).",
+            "objective_uuid": "97f02cd6-0331-4a51-902d-7354027a6f7b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.15",
+            "objective_text": "Defend the choice of microcontroller for a project.",
+            "objective_uuid": "6d5440dc-664f-4477-a3e4-f07ddcb30876"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.11",
+            "objective_text": "Connect variables to storing numbers.",
+            "objective_uuid": "d02ba490-7691-43ab-9c46-70a0d4dd9da7"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.9",
+            "objective_text": "Analyze the difference between Hardware and Software.",
+            "objective_uuid": "cc331935-b08b-4137-87d1-1cb6249af059"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.10",
+            "objective_text": "Interpret a Flowchart for a program.",
+            "objective_uuid": "ac9e9927-ff03-436d-83e1-4fb4f3197a01"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.14",
+            "objective_text": "Evaluate the efficiency of code structure.",
+            "objective_uuid": "9de91183-c93a-4059-865c-e833548af3c6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.13",
+            "objective_text": "Construct a C++ or Python script for an embedded system.",
+            "objective_uuid": "1b275b66-56ae-42e0-b637-9aadb9cdd90b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.4",
+            "sub_topic_name": "Microcontrollers (coding inputs/outputs, e.g., Arduino, BBC Micro:bit)",
+            "objective_id": "DST.3.1.4.16",
+            "objective_text": "Synthesize hardware interfacing with software logic.",
+            "objective_uuid": "2bb29dd4-bb06-460a-bc83-a802ca45bd52"
+          }
+        ]
+      }
+    }
+  }
+}

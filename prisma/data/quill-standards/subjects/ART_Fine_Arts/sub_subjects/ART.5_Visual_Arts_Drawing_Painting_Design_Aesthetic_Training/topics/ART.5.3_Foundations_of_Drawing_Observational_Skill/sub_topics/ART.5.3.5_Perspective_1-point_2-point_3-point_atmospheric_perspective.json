@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.3.5",
+    "name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+    "topic_id": "ART.5.3",
+    "topic_name": "Foundations of Drawing & Observational Skill",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Perspective (1-point, 2-point, 3-point, atmospheric perspective) in Foundations of Drawing & Observational Skill (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.1",
+            "objective_text": "Identify that things look smaller when they are far away.",
+            "objective_uuid": "90ee7043-46ce-46e3-afbb-139a15727639"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.2",
+            "objective_text": "Name the line where the sky meets the ground (Horizon Line).",
+            "objective_uuid": "809bf995-fd59-4e8a-a4ad-657c8b3b8436"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.4",
+            "objective_text": "Observe that colors can look foggy far away.",
+            "objective_uuid": "990e3d98-5dc9-474b-9aea-b0ba6bf2880d"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.3",
+            "objective_text": "Draw a road getting narrow in the distance.",
+            "objective_uuid": "189d064c-4d32-4a5d-b0c8-4824dfc64452"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.5",
+            "objective_text": "Summarize how one-point perspective works.",
+            "objective_uuid": "a66af0bd-65ab-4a20-b54b-e9134f7e3b93"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.6",
+            "objective_text": "Explain the Vanishing Point concept.",
+            "objective_uuid": "cb8a11a4-c525-4a2c-9e3d-2ea8b2a8a458"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.7",
+            "objective_text": "Draw a room interior using a single vanishing point.",
+            "objective_uuid": "a7870913-60cd-4295-a5bb-5ca552e2e3d6"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.12",
+            "objective_text": "Explain foreshortening.",
+            "objective_uuid": "66fac808-0097-48f5-a839-500d49d7c6d9"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.15",
+            "objective_text": "Defend the mathematical logic of linear perspective.",
+            "objective_uuid": "44691f00-5b17-4371-878b-b8e83e8ab05f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.8",
+            "objective_text": "Compare objects close up vs. far away (size and detail).",
+            "objective_uuid": "4cf3c9d4-49e8-4ff3-8402-720e002e0ae4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.9",
+            "objective_text": "Analyze two-point perspective for drawing buildings on a corner.",
+            "objective_uuid": "dc7466a4-1fba-45e4-adea-8047c6808c44"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.10",
+            "objective_text": "Interpret the placement of the horizon line (eye level).",
+            "objective_uuid": "ca97a0ce-ccfc-4023-b0c4-e4328d315c53"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.11",
+            "objective_text": "Connect atmospheric perspective to color intensity.",
+            "objective_uuid": "60ab845d-b215-4f63-838c-7d14333926b4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.14",
+            "objective_text": "Evaluate distortions in wide-angle vs. telephoto perspectives.",
+            "objective_uuid": "398def68-1977-4fee-9f65-2ac407fa71f5"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.13",
+            "objective_text": "Construct a complex cityscape using three-point perspective.",
+            "objective_uuid": "78319c2a-20a4-4304-92b5-0c29d9f8e56f"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.5",
+            "sub_topic_name": "Perspective (1-point, 2-point, 3-point, atmospheric perspective)",
+            "objective_id": "ART.5.3.5.16",
+            "objective_text": "Synthesize atmospheric and linear perspective for realism.",
+            "objective_uuid": "9d105aba-1a96-4f92-b9fa-1349ac14ecf1"
+          }
+        ]
+      }
+    }
+  }
+}

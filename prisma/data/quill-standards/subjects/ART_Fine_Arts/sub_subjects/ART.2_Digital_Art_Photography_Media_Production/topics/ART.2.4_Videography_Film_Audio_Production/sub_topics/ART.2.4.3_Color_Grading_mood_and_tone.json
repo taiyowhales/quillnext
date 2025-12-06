@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.4.3",
+    "name": "Color Grading (mood and tone)",
+    "topic_id": "ART.2.4",
+    "topic_name": "Videography, Film & Audio Production",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Color Grading (mood and tone) in Videography, Film & Audio Production (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.3",
+            "objective_text": "Identify if a video is too dark.",
+            "objective_uuid": "097ecae6-bbe3-42a9-8f35-14bf7fe0fc60"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.8",
+            "objective_text": "Identify skin tones.",
+            "objective_uuid": "727f7ba2-fb74-42d5-a201-54abd02b9735"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.4",
+            "objective_text": "Observe colors on TV.",
+            "objective_uuid": "f85c9643-ca81-436a-80a5-36860813a81d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.1",
+            "objective_text": "Make a video look old (sepia).",
+            "objective_uuid": "539858f7-cdea-49cc-b5d3-f9118f580a5d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.2",
+            "objective_text": "Make a video look cold (blue).",
+            "objective_uuid": "1b35f6ae-6655-4630-91d0-7b470bd7c658"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.5",
+            "objective_text": "Summarize White Balance (orange vs. blue light).",
+            "objective_uuid": "fac317bd-16b1-4754-9153-fdd7e59b4089"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.6",
+            "objective_text": "Explain why we fix color.",
+            "objective_uuid": "ee91de95-7f99-4790-8be4-dd5d458aeca2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.12",
+            "objective_text": "Explain dynamic range.",
+            "objective_uuid": "3d0205d6-23e9-4da2-a865-fde58a33ff4f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.15",
+            "objective_text": "Defend the emotional weight of color palettes.",
+            "objective_uuid": "790da90b-c9be-4788-9bd5-3f08e3ea37d1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.7",
+            "objective_text": "Compare a raw video with a filtered one.",
+            "objective_uuid": "f7b85fbf-f583-4533-90fd-77ccd50b91b3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.9",
+            "objective_text": "Analyze Color Correction (fixing) vs. Grading (style).",
+            "objective_uuid": "c4d6a1b3-23ab-48ae-872b-4a880924ad7a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.10",
+            "objective_text": "Interpret the Teal and Orange look.",
+            "objective_uuid": "2d05e357-c4c6-4357-9d58-0b3556811054"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.11",
+            "objective_text": "Connect saturation to mood.",
+            "objective_uuid": "04faf00c-8951-4cee-a998-5608271c4844"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.14",
+            "objective_text": "Evaluate vectorscopes for skin tone accuracy.",
+            "objective_uuid": "3af6111c-7cef-481a-9a52-3eced1b39896"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.13",
+            "objective_text": "Construct a grade using LUTs and curves.",
+            "objective_uuid": "5c851e6f-7efb-4b7a-ab3d-8b001d830457"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.4",
+            "topic_name": "Videography, Film & Audio Production",
+            "sub_topic_id": "ART.2.4.3",
+            "sub_topic_name": "Color Grading (mood and tone)",
+            "objective_id": "ART.2.4.3.16",
+            "objective_text": "Synthesize visual consistency across shots.",
+            "objective_uuid": "300e36b1-ba6a-4558-81db-8240c5e02663"
+          }
+        ]
+      }
+    }
+  }
+}

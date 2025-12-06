@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.2.5",
+    "name": "Recognizing Recurrence Relationships",
+    "topic_id": "MAT.8.2",
+    "topic_name": "Patterns & Sequences",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Recognizing Recurrence Relationships in Patterns & Sequences (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.1",
+            "objective_text": "Identify doing the same thing over and over.",
+            "objective_uuid": "20f8e84c-121e-45dc-bb36-3d3badab8e32"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.3",
+            "objective_text": "Name the rule (add 2).",
+            "objective_uuid": "a1a81305-b40e-4db4-b1a2-48da9c044a68"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.8",
+            "objective_text": "Identify a recursive pattern.",
+            "objective_uuid": "cc7ddd01-ac25-40bd-b076-e26e340b32d8"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.2",
+            "objective_text": "Recall 'Before' and 'After'.",
+            "objective_uuid": "a01ea33a-33c4-4fc4-a6e7-415439d4b35a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.4",
+            "objective_text": "Observe steps on a ladder.",
+            "objective_uuid": "c703d138-ec13-4061-b3b2-ae362bd7209e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.5",
+            "objective_text": "Summarize 'Next = Now + Change'.",
+            "objective_uuid": "d2dec68a-f402-4b8c-88ee-26696847243c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.6",
+            "objective_text": "Explain how to find the next number if you know the current one.",
+            "objective_uuid": "d65abf8f-1052-4f94-b34e-1070f3d876dd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.7",
+            "objective_text": "Write a rule like 'Start at 5, add 3'.",
+            "objective_uuid": "e8d57f34-d5cb-450d-98f6-5eb0b3e7da38"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.12",
+            "objective_text": "Explain the Tower of Hanoi puzzle.",
+            "objective_uuid": "938530a3-a9e9-4de9-9eb2-60a8e961790b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.15",
+            "objective_text": "Defend the utility of recurrence relations in modeling populations.",
+            "objective_uuid": "3baced1d-73c2-4857-b598-4c0c67b5b68d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.9",
+            "objective_text": "Analyze recursive notation ($a_n = a_{n-1} + d$).",
+            "objective_uuid": "123efad9-fc4a-4147-b8a8-b68512ecd53d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.10",
+            "objective_text": "Interpret the difference between recursive and explicit formulas.",
+            "objective_uuid": "ff4f2fd9-d827-4231-9cdc-6b8775378030"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.11",
+            "objective_text": "Connect recurrence to computer loops.",
+            "objective_uuid": "45a32070-d92c-4293-9fae-6049091743d6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.13",
+            "objective_text": "Construct recursive formulas for complex sequences.",
+            "objective_uuid": "015271a4-56e2-46d8-af0d-07b783b906da"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.16",
+            "objective_text": "Synthesize difference equations.",
+            "objective_uuid": "16a6aaad-131b-4f35-a514-44938b2fd402"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.2",
+            "topic_name": "Patterns & Sequences",
+            "sub_topic_id": "MAT.8.2.5",
+            "sub_topic_name": "Recognizing Recurrence Relationships",
+            "objective_id": "MAT.8.2.5.14",
+            "objective_text": "Evaluate the efficiency of recursion vs. iteration.",
+            "objective_uuid": "5545a78c-a488-4f2a-a77d-7e432051ffb5"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.3.7",
+    "name": "State Machines and State Diagrams",
+    "topic_id": "CPT.1.3",
+    "topic_name": "Computational Thinking",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for State Machines and State Diagrams in Computational Thinking (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.1",
+            "objective_text": "Identify On and Off.",
+            "objective_uuid": "aa4a9929-fb17-485a-b161-dfe6c7ca1505"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.3",
+            "objective_text": "Name 'Asleep' and 'Awake'.",
+            "objective_uuid": "767c7150-612f-4090-adc3-993bfccd6a8a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.8",
+            "objective_text": "Identify the current state of a game.",
+            "objective_uuid": "c5355298-2566-427c-bde4-9e6628c7996c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.2",
+            "objective_text": "Recall that a traffic light changes colors.",
+            "objective_uuid": "1b62f7a3-43c8-4832-8565-95312297c78e"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.4",
+            "objective_text": "Observe a toy that changes modes.",
+            "objective_uuid": "452dcb74-a527-4e31-a1a1-b5e5db683960"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 5,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.5",
+            "objective_text": "Summarize different 'States' (Happy, Sad, Angry).",
+            "objective_uuid": "13ac34a1-4bcf-4d37-adc2-0a1902889d7a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.6",
+            "objective_text": "Explain what causes a change (Trigger).",
+            "objective_uuid": "1b16a23a-9aee-432b-aa87-5efa7063da06"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.7",
+            "objective_text": "Draw a diagram of a light switch.",
+            "objective_uuid": "205ac8ad-ac54-4eb3-92bc-5593f37c2fd0"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.12",
+            "objective_text": "Explain why a machine can't be in two states at once.",
+            "objective_uuid": "cba6f744-b61e-404c-8772-578cf91fb6e2"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.15",
+            "objective_text": "Defend the use of state machines for robust code.",
+            "objective_uuid": "e831ef3c-dcc6-44a3-a250-f0ec4be1a525"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.9",
+            "objective_text": "Analyze a Finite State Machine (FSM) diagram.",
+            "objective_uuid": "7a35c0a3-f464-4798-aaa8-4c0ec3c76430"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.10",
+            "objective_text": "Interpret transitions based on inputs.",
+            "objective_uuid": "dcb2ce2c-9939-4676-a8f4-6812dce62bb3"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.11",
+            "objective_text": "Connect state logic to vending machines.",
+            "objective_uuid": "8ef6a88c-cf6d-4004-a268-4d4e2dae1e42"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.14",
+            "objective_text": "Evaluate the completeness of transition conditions.",
+            "objective_uuid": "0c503641-6c4c-4b87-8ee8-4fbee3e63f4c"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.13",
+            "objective_text": "Construct a state diagram for a turnstile or character AI.",
+            "objective_uuid": "edbcd549-8574-4802-94d7-70ab0d9d768a"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.7",
+            "sub_topic_name": "State Machines and State Diagrams",
+            "objective_id": "CPT.1.3.7.16",
+            "objective_text": "Synthesize Moore and Mealy machines (introductory).",
+            "objective_uuid": "26c77e7b-2d78-4ec3-b255-6f5300580f98"
+          }
+        ]
+      }
+    }
+  }
+}

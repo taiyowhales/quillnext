@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.5",
+    "name": "Ordinal Numbers (1st, 2nd, 3rd)",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ordinal Numbers (1st, 2nd, 3rd) in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 1.4,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.1",
+            "objective_text": "Identify the first, second, and third items in a line.",
+            "objective_uuid": "436d117d-5327-4b88-9953-a8a7ef37b1a6"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.2",
+            "objective_text": "Name position words (first, next, last).",
+            "objective_uuid": "3cfdd573-b6e1-4784-9530-1b17b765dd24"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.8",
+            "objective_text": "Identify rank in data.",
+            "objective_uuid": "8ac75fe1-94bb-4abe-8355-b677cd63e3bf"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.3",
+            "objective_text": "Recall the order of daily events.",
+            "objective_uuid": "31143dd1-c7cf-4b2e-9cc4-33970836080c"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.4",
+            "objective_text": "Observe the calendar date.",
+            "objective_uuid": "11db9ca1-2eae-460d-982f-ff2cf2cbde0c"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.5",
+            "objective_text": "Summarize ordinal numbers up to 100th.",
+            "objective_uuid": "5e0233b5-1b5c-441b-9c39-6961b03e3819"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.6",
+            "objective_text": "Explain the difference between 'three' (quantity) and 'third' (position).",
+            "objective_uuid": "efc908a4-f14a-42df-a394-830497fd3016"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.7",
+            "objective_text": "Order fractions or decimals.",
+            "objective_uuid": "2d4b65a7-d1c7-4312-b873-484904f869b4"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.12",
+            "objective_text": "Explain ordered pairs in coordinates.",
+            "objective_uuid": "507afa0c-4c39-47f0-b784-019c27ee1079"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.15",
+            "objective_text": "Defend the distinction between cardinal and ordinal infinity.",
+            "objective_uuid": "6e4ab705-3486-4e83-9f88-604c0fef6c05"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.10",
+            "objective_text": "Interpret percentiles in data.",
+            "objective_uuid": "1c7cdd2a-d07d-4e8c-88b4-bc34c0eb203a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.11",
+            "objective_text": "Connect ordinality to the number line.",
+            "objective_uuid": "1bb1fd35-d522-4564-aa18-79921c7027f3"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.14",
+            "objective_text": "Evaluate the Well-Ordering Principle.",
+            "objective_uuid": "8d2efdcc-8e67-4b07-9db1-718152bd803c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.13",
+            "objective_text": "Construct a logical ordering of a complex set.",
+            "objective_uuid": "3daf0668-f539-4bf0-97ce-f82559002ae2"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.16",
+            "objective_text": "Synthesize transfinite numbers (introductory concepts).",
+            "objective_uuid": "a1a95554-4f97-4ad0-8eb7-62651ea59376"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.5",
+            "sub_topic_name": "Ordinal Numbers (1st, 2nd, 3rd)",
+            "objective_id": "MAT.4.1.5.9",
+            "objective_text": "Analyze sorting algorithms (conceptually).",
+            "objective_uuid": "ae01c2b8-ce4d-427b-8b24-607f4b61411a"
+          }
+        ]
+      }
+    }
+  }
+}

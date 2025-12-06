@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.3.3",
+    "name": "Right Triangle Ratios (SOH–CAH–TOA)",
+    "topic_id": "MAT.11.3",
+    "topic_name": "Triangle Trigonometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Right Triangle Ratios (SOH–CAH–TOA) in Triangle Trigonometry (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 14.85,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.1",
+            "objective_text": "Identify a triangle with a square corner.",
+            "objective_uuid": "db7a463b-3a28-4e71-b356-671a766079ad"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.2",
+            "objective_text": "Name the long side (hypotenuse).",
+            "objective_uuid": "a8b36b13-af2f-4747-b4d5-7645f320eb28"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.8",
+            "objective_text": "Identify the Opposite and Adjacent sides relative to an angle.",
+            "objective_uuid": "14c30fdd-e009-4688-aae2-eea5e1e70942"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.3",
+            "objective_text": "Recall that shapes have sides and corners.",
+            "objective_uuid": "2169f893-8bd1-4b58-8c55-7ed20b4f73d5"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.4",
+            "objective_text": "Observe a ramp (wedge).",
+            "objective_uuid": "bcd0dfe9-b8aa-4c16-9f3a-b2e9489b8d5a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.5",
+            "objective_text": "Summarize that the angle changes the side length.",
+            "objective_uuid": "cef634e6-221b-499b-961d-bfd14399c79d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.6",
+            "objective_text": "Explain that similar triangles have the same shape but different sizes.",
+            "objective_uuid": "1833ffd9-72d1-465b-941a-9087a50bae3e"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.7",
+            "objective_text": "Measure the sides of a right triangle.",
+            "objective_uuid": "28903afc-b201-460e-b71f-2e189b4c7574"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.12",
+            "objective_text": "Explain why $tan(45) = 1$.",
+            "objective_uuid": "52940895-85c8-4ef2-a45d-0a23f156e18d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.15",
+            "objective_text": "Defend the definition of trig functions as ratios.",
+            "objective_uuid": "5a0d525d-c5c8-4350-b9aa-542d812d101f"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.9",
+            "objective_text": "Analyze the ratio of sides (Opposite/Hypotenuse).",
+            "objective_uuid": "f5db6df6-d470-45e6-aec1-021b6a5a2edb"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.10",
+            "objective_text": "Interpret SOH-CAH-TOA as a memory aid.",
+            "objective_uuid": "e7eff23e-b96b-4a66-9d9b-b5682f5c4610"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.11",
+            "objective_text": "Connect ratio constancy to similar triangles.",
+            "objective_uuid": "a5b342bd-36c4-4f49-8552-212bfd020825"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.14",
+            "objective_text": "Evaluate exact values for special angles.",
+            "objective_uuid": "d6700fad-dbcc-4c8a-b787-6c27aeeb58c2"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.5,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.13",
+            "objective_text": "Construct all six trigonometric ratios (sec, csc, cot).",
+            "objective_uuid": "d7e8c3bf-59b5-44fe-a70a-944c8b4bbdf7"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.3",
+            "sub_topic_name": "Right Triangle Ratios (SOH–CAH–TOA)",
+            "objective_id": "MAT.11.3.3.16",
+            "objective_text": "Synthesize algebraic manipulation with trig expressions.",
+            "objective_uuid": "04ee56fc-6cd0-4db8-9b96-4efadb239098"
+          }
+        ]
+      }
+    }
+  }
+}

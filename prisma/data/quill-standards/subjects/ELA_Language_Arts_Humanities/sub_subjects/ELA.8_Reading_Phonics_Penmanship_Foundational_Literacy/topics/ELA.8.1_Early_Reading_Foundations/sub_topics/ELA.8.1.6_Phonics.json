@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.1.6",
+    "name": "Phonics",
+    "topic_id": "ELA.8.1",
+    "topic_name": "Early Reading Foundations",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Phonics in Early Reading Foundations (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.3",
+            "objective_text": "Identify common digraphs (th, ch, sh) in written words.",
+            "objective_uuid": "1a0ec15c-d0b5-4ea0-be26-a13fd1fcf15e"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.6",
+            "objective_text": "Identify complex vowel teams (oa, ie, ough).",
+            "objective_uuid": "7afdae2f-8138-46de-9446-f03945639a95"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 4.33,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.1",
+            "objective_text": "Match letters to their primary sounds (consonants and short vowels).",
+            "objective_uuid": "d25af321-291c-4387-906c-7b2fef34e722"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.2",
+            "objective_text": "Decode simple CVC words (Consonant-Vowel-Consonant).",
+            "objective_uuid": "c94db381-c9c6-48c6-9ad0-4bbf5aeeb6c6"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.12",
+            "objective_text": "Decode technical vocabulary in scientific or historical texts.",
+            "objective_uuid": "09fb0bd7-283f-43de-b59a-c7be5c89a16f"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.5",
+            "objective_text": "Decode multisyllabic words using prefixes and suffixes.",
+            "objective_uuid": "8421e0a8-0aac-418d-b2f2-c38c1fce23c6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.8",
+            "objective_text": "Explain why some words break standard phonics rules.",
+            "objective_uuid": "95836c66-de49-4de5-b90e-965ed38a4006"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.15",
+            "objective_text": "Defend the logic behind English orthography despite its complexity.",
+            "objective_uuid": "ead6c073-d6cc-4cc9-a7c0-bdf9f3675145"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.7",
+            "objective_text": "Apply decoding strategies to read unfamiliar academic vocabulary.",
+            "objective_uuid": "3c4ebbcf-9e9e-4bd7-b2ca-15c79d50483d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.4",
+            "objective_text": "Apply the 'silent e' rule to read long vowel words.",
+            "objective_uuid": "7c386d41-e953-40e6-9dc8-3a173171a721"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.9",
+            "objective_text": "Analyze the etymology of words to explain their spelling.",
+            "objective_uuid": "3bcb6bb2-76be-4d89-9b33-282186a8039f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.10",
+            "objective_text": "Interpret the pronunciation key in a dictionary.",
+            "objective_uuid": "82e02d00-ab2e-4669-b5b5-1d4c57fcfddc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.11",
+            "objective_text": "Connect phonics rules to the history of the English language.",
+            "objective_uuid": "4bf2cb45-3919-462e-96e4-407be178805a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.14",
+            "objective_text": "Evaluate the effectiveness of different phonics instruction methods.",
+            "objective_uuid": "728afe2e-e317-48e7-8e94-6eb7c8076fd4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.13",
+            "objective_text": "Construct a linguistic explanation for irregular spellings.",
+            "objective_uuid": "2a9c045f-27a1-4818-adab-b5777215c4dc"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.1",
+            "topic_name": "Early Reading Foundations",
+            "sub_topic_id": "ELA.8.1.6",
+            "sub_topic_name": "Phonics",
+            "objective_id": "ELA.8.1.6.16",
+            "objective_text": "Synthesize phonics knowledge to decode archaic or dialectal texts.",
+            "objective_uuid": "102be8cf-793e-411a-8c49-114dc3ec9741"
+          }
+        ]
+      }
+    }
+  }
+}

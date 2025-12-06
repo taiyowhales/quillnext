@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.3.3",
+    "name": "Types of Maps: Political, Physical, and Thematic",
+    "topic_id": "GEO.3.3",
+    "topic_name": "Map Skills & Cartography",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Types of Maps: Political, Physical, and Thematic in Map Skills & Cartography (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.1",
+            "objective_text": "Identify a map with colorful countries (Political).",
+            "objective_uuid": "69a6a453-bb99-4a1e-bfc4-f3f2df3e54f6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.2",
+            "objective_text": "Name a map with bumpy mountains (Physical).",
+            "objective_uuid": "df021bcf-9b8d-497c-a1c1-9e5c518fe2b6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.7",
+            "objective_text": "Identify a Road Map.",
+            "objective_uuid": "868c37c0-a49f-4421-9fa3-4c6c54a71342"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.3",
+            "objective_text": "Recall that different maps show different things.",
+            "objective_uuid": "5841e973-48e0-496e-bfe1-eb5c16298930"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.4",
+            "objective_text": "Observe a weather map.",
+            "objective_uuid": "29671bd3-88d3-4eeb-8656-9e073279ae8a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.5",
+            "objective_text": "Summarize the purpose of a Political Map (borders/cities).",
+            "objective_uuid": "92a60475-a966-4934-93a8-db9fe22f8105"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.6",
+            "objective_text": "Explain the purpose of a Physical Map (landforms).",
+            "objective_uuid": "c552ae09-db92-4769-b510-eca38b7060c8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.12",
+            "objective_text": "Explain Topographic maps.",
+            "objective_uuid": "085aaa28-eff3-4be1-b4d8-f8569be49969"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.15",
+            "objective_text": "Defend the use of multiple map types for a full picture.",
+            "objective_uuid": "04f55968-7d95-49cc-b31f-9fa000fed8a8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.8",
+            "objective_text": "Compare a historical map with a modern one.",
+            "objective_uuid": "9d7a7317-d6be-4e46-86ba-e7be179f9f5a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.9",
+            "objective_text": "Analyze a Thematic Map (e.g., Population, Climate, Religion).",
+            "objective_uuid": "cfcf6932-c790-401f-9d4f-88937cf313b8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.10",
+            "objective_text": "Interpret a Cartogram (size distorted by data).",
+            "objective_uuid": "01aa5687-fef6-491f-91e4-7f74bc267ec8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.11",
+            "objective_text": "Connect map type to the user's need.",
+            "objective_uuid": "28dbaa51-e574-45f6-a8d4-276bcbd5867b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.14",
+            "objective_text": "Evaluate bias in map presentation.",
+            "objective_uuid": "d5924421-bc60-4847-8b4d-40b6e5bb26cf"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.13",
+            "objective_text": "Construct a thematic map using data.",
+            "objective_uuid": "fca651fe-1ce2-4b54-a6ff-fef4de1c8f7b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.3",
+            "topic_name": "Map Skills & Cartography",
+            "sub_topic_id": "GEO.3.3.3",
+            "sub_topic_name": "Types of Maps: Political, Physical, and Thematic",
+            "objective_id": "GEO.3.3.3.16",
+            "objective_text": "Synthesize data visualization with cartography.",
+            "objective_uuid": "a229d8ca-6370-42bc-8ad9-373197cbb815"
+          }
+        ]
+      }
+    }
+  }
+}

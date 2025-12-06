@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.2.2",
+    "name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+    "topic_id": "LIF.5.2",
+    "topic_name": "Basic Home Maintenance & Repair",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors) in Basic Home Maintenance & Repair (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.1",
+            "objective_text": "Identify a dripping faucet.",
+            "objective_uuid": "159bc3d5-2c12-4f1d-8d14-ad1b0bc8943a"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.8",
+            "objective_text": "Identify the water shut-off valve.",
+            "objective_uuid": "904be717-2053-44fd-bf5e-b32fdb8a5823"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.3",
+            "objective_text": "Recall that we fix things instead of throwing them away.",
+            "objective_uuid": "51d2829a-7af8-4454-80d1-261ab6c42c1a"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.4",
+            "objective_text": "Observe oiling a squeaky hinge.",
+            "objective_uuid": "91d5cfac-87db-4258-9227-45be7264f6d6"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.2",
+            "objective_text": "Tell an adult if something is broken.",
+            "objective_uuid": "5aaaf706-0f3b-4768-bc44-1f04e3c90125"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.5",
+            "objective_text": "Summarize how to use a plunger.",
+            "objective_uuid": "4efd21a6-e59b-425c-b64c-140ebf656958"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.6",
+            "objective_text": "Explain why a door might squeak (friction).",
+            "objective_uuid": "14bbba3f-93b7-4870-a4c9-238cffef639d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.7",
+            "objective_text": "Tighten a loose screw on a cabinet.",
+            "objective_uuid": "429fd84b-025a-4bb7-a140-986beef84f74"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.12",
+            "objective_text": "Explain how to patch a small nail hole.",
+            "objective_uuid": "583e84f5-98ed-488b-b3ba-7611bd85bc45"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.9",
+            "objective_text": "Analyze the mechanics of a P-trap.",
+            "objective_uuid": "6aa70a35-57a2-4165-8f5a-2d499d6ffae7"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.10",
+            "objective_text": "Interpret the cause of a running toilet.",
+            "objective_uuid": "eae99f2c-f673-4e1e-8e75-69d77b5905d4"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.11",
+            "objective_text": "Connect maintenance to preventing water damage.",
+            "objective_uuid": "ad854b05-c7cb-4339-b982-70bbd93c8557"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.15",
+            "objective_text": "Defend the stewardship of home maintenance.",
+            "objective_uuid": "3f09e3bd-92f9-4c8b-9406-6570c27f790e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.14",
+            "objective_text": "Evaluate when to DIY vs. call a professional.",
+            "objective_uuid": "c8e22270-f256-4343-972f-161d535e2fc3"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.13",
+            "objective_text": "Construct a repair plan for a household failure.",
+            "objective_uuid": "20a9bb9a-26b3-425c-ac8e-6c9a5f6ff915"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.2",
+            "sub_topic_name": "Fixing Common Problems (leaks, clogged drains, loose fixtures, squeaky doors)",
+            "objective_id": "LIF.5.2.2.16",
+            "objective_text": "Synthesize troubleshooting logic to solve a problem.",
+            "objective_uuid": "74a3461b-d494-4730-9baa-d56c685a8fcd"
+          }
+        ]
+      }
+    }
+  }
+}

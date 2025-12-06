@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.2.2",
+    "name": "Audio Production (Recording, trimming, multi-track mixing)",
+    "topic_id": "CPT.6.2",
+    "topic_name": "Multimedia Production",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Audio Production (Recording, trimming, multi-track mixing) in Multimedia Production (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.3",
+            "objective_text": "Recall being quiet while recording.",
+            "objective_uuid": "046b49d2-c85e-438f-adf3-1ef7b0d8aef6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.4",
+            "objective_text": "Identify loud and soft.",
+            "objective_uuid": "ec8924d6-68c0-41ff-8f46-769d6f05346f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.8",
+            "objective_text": "Identify the mute button.",
+            "objective_uuid": "34aa71dc-69d3-485f-bcc4-5b89076370f6"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.1",
+            "objective_text": "Record a voice message.",
+            "objective_uuid": "d835809f-8998-46b5-b346-b54955c9870a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.2",
+            "objective_text": "Play it back.",
+            "objective_uuid": "b7e80a41-47d3-4a93-b460-1901fa0e0275"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.5",
+            "objective_text": "Summarize a waveform (picture of sound).",
+            "objective_uuid": "8d66d4bd-03df-4be6-bfcf-0b09e01b98df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.6",
+            "objective_text": "Explain trimming the start and end.",
+            "objective_uuid": "112a45e4-f894-47de-9b5b-00dbd0615f53"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.7",
+            "objective_text": "Add a sound effect.",
+            "objective_uuid": "a8916ed4-832f-4057-8f8c-8220e5ba556e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.12",
+            "objective_text": "Explain panning (left/right).",
+            "objective_uuid": "87304c63-4701-40de-87ed-64df82f19a25"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.15",
+            "objective_text": "Defend the importance of high-quality audio capture.",
+            "objective_uuid": "106a8433-9998-41c5-a2d0-bd986d67d0a5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.9",
+            "objective_text": "Analyze multi-track layering (voice over music).",
+            "objective_uuid": "b8847d7b-8f93-43dc-a0a6-8d3f44e365a5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.10",
+            "objective_text": "Interpret fading in and out.",
+            "objective_uuid": "8057c1bd-f329-4278-b26a-59b6d7e5e202"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.11",
+            "objective_text": "Connect volume levels to avoiding clipping (red zone).",
+            "objective_uuid": "2afd4e85-7ca6-4dc0-b556-dfcfc1c1a066"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.14",
+            "objective_text": "Evaluate EQ and compression settings.",
+            "objective_uuid": "8e410e4c-e2bf-45e7-aaa8-303935ea5952"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.13",
+            "objective_text": "Construct a podcast episode or song mix.",
+            "objective_uuid": "77b8d555-06d6-433c-b55d-536f202f57e6"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.2",
+            "sub_topic_name": "Audio Production (Recording, trimming, multi-track mixing)",
+            "objective_id": "CPT.6.2.2.16",
+            "objective_text": "Synthesize noise reduction techniques.",
+            "objective_uuid": "40b7207f-75e6-41fc-b18b-9755f6750f0b"
+          }
+        ]
+      }
+    }
+  }
+}

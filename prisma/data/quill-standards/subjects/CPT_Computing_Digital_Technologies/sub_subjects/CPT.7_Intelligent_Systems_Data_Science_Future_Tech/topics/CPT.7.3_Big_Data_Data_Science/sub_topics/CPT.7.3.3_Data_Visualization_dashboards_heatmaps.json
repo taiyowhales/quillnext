@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.3.3",
+    "name": "Data Visualization (dashboards, heatmaps)",
+    "topic_id": "CPT.7.3",
+    "topic_name": "Big Data & Data Science",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Visualization (dashboards, heatmaps) in Big Data & Data Science (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.1",
+            "objective_text": "Identify a weather map with colors.",
+            "objective_uuid": "a995aa5c-e63e-434f-a180-07a72a2ec6b3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.2",
+            "objective_text": "Name red as hot and blue as cold.",
+            "objective_uuid": "1118bb05-5751-43ae-a168-a58463bc08c7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.3",
+            "objective_text": "Recall that pictures help us understand numbers.",
+            "objective_uuid": "ecf37c6d-8077-435f-b0d3-0658918e7584"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.4",
+            "objective_text": "Observe a chart.",
+            "objective_uuid": "168355f2-807d-4c5e-8b1f-6bfc6d80f70f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.8",
+            "objective_text": "Identify key performance indicators (KPIs).",
+            "objective_uuid": "be351bcb-7937-4bd5-b037-21728b387a13"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.5",
+            "objective_text": "Summarize a Dashboard (car or computer).",
+            "objective_uuid": "b3acb904-a8ee-46a1-8cfd-25c38e84d097"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.6",
+            "objective_text": "Explain a Heatmap (intensity).",
+            "objective_uuid": "ff346d63-cf0e-42a1-8143-5fc1f371a6ed"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.12",
+            "objective_text": "Explain real-time data feeds.",
+            "objective_uuid": "27d9c1da-cfd7-4e44-a76d-2efec57f5569"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.15",
+            "objective_text": "Defend the prevention of misleading charts.",
+            "objective_uuid": "72fb51a0-a0ca-4579-a9ad-fe4204c888e5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.9",
+            "objective_text": "Analyze interactive visualizations.",
+            "objective_uuid": "a16a64b2-5a95-4063-82c3-d9226d4f6a37"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.10",
+            "objective_text": "Interpret geospatial data maps.",
+            "objective_uuid": "02fd24ed-37a3-4bde-9025-23ba20355dd6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.11",
+            "objective_text": "Connect visual hierarchy to data storytelling.",
+            "objective_uuid": "91e1ee0d-abb7-4a5f-a54f-21c9d284b033"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.14",
+            "objective_text": "Evaluate the clarity of complex visualizations.",
+            "objective_uuid": "d1882df1-9d59-47a8-82d5-38588b5703ca"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.7",
+            "objective_text": "Create a visual report.",
+            "objective_uuid": "06838b49-52e9-4e89-b131-cd62141022fd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.13",
+            "objective_text": "Construct a dynamic dashboard using BI tools.",
+            "objective_uuid": "7af35e43-41bc-4c26-a549-edf0b9fa9e3a"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.3",
+            "sub_topic_name": "Data Visualization (dashboards, heatmaps)",
+            "objective_id": "CPT.7.3.3.16",
+            "objective_text": "Synthesize design principles with data density.",
+            "objective_uuid": "456bcaf7-a97b-4bad-bf21-05604ddfb4a8"
+          }
+        ]
+      }
+    }
+  }
+}

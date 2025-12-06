@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.4.3",
+    "name": "Reading Aloud",
+    "topic_id": "ELA.8.4",
+    "topic_name": "Literature-Rich Early Reading",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Reading Aloud in Literature-Rich Early Reading (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.8",
+            "objective_text": "Identify complex sentence structures by ear.",
+            "objective_uuid": "ef19cf37-8ef1-4372-a593-c0bc48e1cfb5"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.1",
+            "objective_text": "Listen to a story.",
+            "objective_uuid": "eb6ba695-e202-4a46-8b5e-c3d26058fc80"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.3",
+            "objective_text": "Recall that we can read books that are too hard to read alone.",
+            "objective_uuid": "d9180033-0e36-45fc-8e6e-5197cba1799a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.4",
+            "objective_text": "Observe new words in context.",
+            "objective_uuid": "81b07d04-4ad8-4fea-97cf-f6fb1e6a8238"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.6",
+            "objective_text": "Explain how listening builds vocabulary.",
+            "objective_uuid": "84a64558-986b-4a22-bc2d-7dbe92025955"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.2",
+            "objective_text": "Sit quietly while mom or dad reads.",
+            "objective_uuid": "19fd96ee-2467-440a-a180-849f620f7dcb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.5",
+            "objective_text": "Summarize the benefits of hearing good language.",
+            "objective_uuid": "63f04c17-2da4-473e-aa06-0c5d5ac75407"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.7",
+            "objective_text": "Discuss the story together.",
+            "objective_uuid": "3480d441-a9f3-4875-9a93-07f8404a60bb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.12",
+            "objective_text": "Explain the concept of \"The Great Conversation\".",
+            "objective_uuid": "40a322b7-d621-456e-9380-a71e40513d6a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.15",
+            "objective_text": "Defend the practice of reading aloud to older children/teens.",
+            "objective_uuid": "e47706a9-75b9-4b52-a6d2-1608cc1112d4"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.9",
+            "objective_text": "Analyze the shared family culture built by reading.",
+            "objective_uuid": "d4de3030-8c97-492c-bf92-efad78fe50c2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.10",
+            "objective_text": "Interpret themes discussed during read-alouds.",
+            "objective_uuid": "2db46f38-cdc3-44b2-84c8-23c30c442350"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.11",
+            "objective_text": "Connect listening comprehension to reading comprehension.",
+            "objective_uuid": "f6d23cf7-1115-41eb-8716-835077b3bc82"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.14",
+            "objective_text": "Evaluate the moral impact of shared stories.",
+            "objective_uuid": "268ab201-7488-4bb5-813b-60cae9503925"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.13",
+            "objective_text": "Construct a family reading plan.",
+            "objective_uuid": "0b799613-24c0-4fb2-8c16-055d3dc95ab3"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.4",
+            "topic_name": "Literature-Rich Early Reading",
+            "sub_topic_id": "ELA.8.4.3",
+            "sub_topic_name": "Reading Aloud",
+            "objective_id": "ELA.8.4.3.16",
+            "objective_text": "Synthesize auditory learning with critical discussion.",
+            "objective_uuid": "456309e4-c39c-406f-8476-68b5fc263633"
+          }
+        ]
+      }
+    }
+  }
+}

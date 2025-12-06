@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.4.5.1",
+    "name": "Analysis of Form and Structure",
+    "topic_id": "ELA.4.5",
+    "topic_name": "Form, Structure & Contextual Analysis",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.4",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Analysis of Form and Structure in Form, Structure & Contextual Analysis (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.1",
+            "objective_text": "Identify the parts of a story (Beginning, Middle, End).",
+            "objective_uuid": "28a5d653-4542-4fed-a085-4dcb691b5154"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.2",
+            "objective_text": "Name chapters in a book.",
+            "objective_uuid": "1104c969-8a37-402f-ba09-873b931834cb"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.8",
+            "objective_text": "Identify the Climax as the turning point.",
+            "objective_uuid": "9aa101bf-1354-4896-8ebe-7be6b3d51ae0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.3",
+            "objective_text": "Recall that poems look different than stories.",
+            "objective_uuid": "0f104be0-54ea-4899-a039-0c4c3a154654"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.4",
+            "objective_text": "Observe that plays have speaking parts.",
+            "objective_uuid": "ffc91152-5a78-41db-ba8c-3b34a5ab0b33"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.5",
+            "objective_text": "Summarize the organization of a text (Chronological vs. Flashback).",
+            "objective_uuid": "dbaecef4-12c8-4ef2-9641-5675d3d180ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.6",
+            "objective_text": "Explain how chapters or stanzas divide the text.",
+            "objective_uuid": "3a3dfc40-af42-485f-b3da-576468fe2e3d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.12",
+            "objective_text": "Explain the 'Frame Narrative' (story within a story).",
+            "objective_uuid": "aba10cb0-683b-427b-adb7-19bc9af6a5ca"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.15",
+            "objective_text": "Defend the relationship between structure and meaning.",
+            "objective_uuid": "f9057425-9db6-438b-aa52-154aa8f179ca"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.7",
+            "objective_text": "Compare a letter structure with a narrative structure.",
+            "objective_uuid": "623ba6ee-7ca3-4947-b434-4dfe1893d669"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.9",
+            "objective_text": "Analyze the effect of a non-linear timeline (Flashbacks/Foreshadowing).",
+            "objective_uuid": "4f2814af-88dd-46ff-86f4-61547337ec99"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.10",
+            "objective_text": "Interpret the use of 'In Media Res' (starting in the middle).",
+            "objective_uuid": "cafa5e7c-81ab-48d6-86c2-f1d6cb578cbf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.11",
+            "objective_text": "Connect the form (e.g., Sonnet) to the function.",
+            "objective_uuid": "79099fa9-5a51-4b1b-9b1a-e359b583e7d7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.14",
+            "objective_text": "Evaluate the use of Epistolary form (letters/documents).",
+            "objective_uuid": "fe53519b-8d85-476a-a035-289ce3753ee6"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.13",
+            "objective_text": "Construct an analysis of the structural pacing of a novel.",
+            "objective_uuid": "ec477525-4bad-47c6-972d-2b60b24e53f5"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.5",
+            "topic_name": "Form, Structure & Contextual Analysis",
+            "sub_topic_id": "ELA.4.5.1",
+            "sub_topic_name": "Analysis of Form and Structure",
+            "objective_id": "ELA.4.5.1.16",
+            "objective_text": "Synthesize the breakdown of traditional forms in Modernist literature.",
+            "objective_uuid": "601ab001-22de-4e0d-af7c-b0c5f1fe7adb"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.4.3",
+    "name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+    "topic_id": "LIF.5.4",
+    "topic_name": "Woodworking & Carpentry Basics",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Building Simple Projects (birdhouses, shelves, tool boxes) in Woodworking & Carpentry Basics (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.3",
+            "objective_text": "Identify what the project is for.",
+            "objective_uuid": "f005e8e3-bd37-4307-89a7-548c934ead6a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 9,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.1",
+            "objective_text": "Paint a birdhouse.",
+            "objective_uuid": "54d064dc-2850-4b11-b3e2-02b07eaf86c0"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.2",
+            "objective_text": "Help hammer a nail.",
+            "objective_uuid": "0a84c10a-02a6-4d59-bfa7-b647137d3af3"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.4",
+            "objective_text": "Feel proud of making something.",
+            "objective_uuid": "57af5502-8bea-4f44-8fd2-52d0c02176f5"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.5",
+            "objective_text": "Summarize the plan for a tool box.",
+            "objective_uuid": "b2b6f4fb-68a3-4988-bfbb-1eab159ab292"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.6",
+            "objective_text": "Measure and mark the cuts.",
+            "objective_uuid": "5bbaaf38-9abd-4efd-bae3-d524b6a2d32e"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.7",
+            "objective_text": "Assemble the pieces.",
+            "objective_uuid": "28d943b3-3e4f-4817-ba19-ef09ccc2429d"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.8",
+            "objective_text": "Sand the edges.",
+            "objective_uuid": "3ccecc31-814c-4681-aa0d-7843c3798ddc"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.12",
+            "objective_text": "Explain the build process.",
+            "objective_uuid": "c05bb547-5ad2-4d2a-8df3-3abfb5b9488a"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.15",
+            "objective_text": "Defend design modifications.",
+            "objective_uuid": "51b8bb27-2647-47ab-b1a3-82d2b130408b"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.9",
+            "objective_text": "Analyze the dimensions needed for a shelf.",
+            "objective_uuid": "5025b8ff-dd86-4d30-b4e0-7b9e92e56fbf"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.10",
+            "objective_text": "Interpret a simple blueprint.",
+            "objective_uuid": "cfd8c897-e901-435d-a15a-f529456e0288"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.11",
+            "objective_text": "Connect design to function.",
+            "objective_uuid": "9f0b0f88-0392-4f27-9cf4-de0613358cf0"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.14",
+            "objective_text": "Evaluate the craftsmanship of the build.",
+            "objective_uuid": "82dc9c11-69d1-4080-bb7a-d907fbc0b473"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.13",
+            "objective_text": "Construct a custom piece of furniture.",
+            "objective_uuid": "fb9a2452-c5d4-4493-8125-bca96aa9622b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.4",
+            "topic_name": "Woodworking & Carpentry Basics",
+            "sub_topic_id": "LIF.5.4.3",
+            "sub_topic_name": "Building Simple Projects (birdhouses, shelves, tool boxes)",
+            "objective_id": "LIF.5.4.3.16",
+            "objective_text": "Synthesize all skills (measuring, cutting, joining, finishing).",
+            "objective_uuid": "a00c4e20-2c82-4df0-80bd-a18cb793a4e8"
+          }
+        ]
+      }
+    }
+  }
+}

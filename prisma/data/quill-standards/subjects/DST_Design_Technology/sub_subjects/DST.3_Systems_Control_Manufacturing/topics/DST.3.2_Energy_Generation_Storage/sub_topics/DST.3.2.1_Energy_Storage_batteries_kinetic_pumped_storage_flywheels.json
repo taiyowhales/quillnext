@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.3.2.1",
+    "name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+    "topic_id": "DST.3.2",
+    "topic_name": "Energy Generation & Storage",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Energy Storage (batteries, kinetic pumped storage, flywheels) in Energy Generation & Storage (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.1",
+            "objective_text": "Identify a battery.",
+            "objective_uuid": "55a258c9-5784-4e21-ab86-2dc96f1931f9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.2",
+            "objective_text": "Name charging a toy.",
+            "objective_uuid": "2c81a6f5-b7fe-469d-a13c-f4a486becec5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.7",
+            "objective_text": "Identify Kinetic energy (movement).",
+            "objective_uuid": "489de98f-3f4c-41e5-871d-1228ab9aaa20"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.3",
+            "objective_text": "Recall that batteries run out.",
+            "objective_uuid": "fdb59a3c-95b2-43ed-b03d-b2003655e553"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.4",
+            "objective_text": "Observe a wind-up toy.",
+            "objective_uuid": "1380c195-62d9-4a7c-a7d2-f9e57c8cf0d8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.5",
+            "objective_text": "Summarize why we need to store energy (for when the sun sets).",
+            "objective_uuid": "b9f36ca4-797e-4d4b-b079-b2e34c861abd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.6",
+            "objective_text": "Explain chemical batteries.",
+            "objective_uuid": "6062b9aa-6843-4e13-8cf3-c3a196263a31"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.12",
+            "objective_text": "Explain Capacitors vs. Batteries.",
+            "objective_uuid": "c580e3e3-ab57-4255-9061-3b27a59faa9b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.15",
+            "objective_text": "Defend the need for storage in a renewable grid.",
+            "objective_uuid": "8ac218a1-5cf5-49a1-af2b-91933992541e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.8",
+            "objective_text": "Compare a rechargeable battery with a disposable one.",
+            "objective_uuid": "e6f97be1-7eb5-41b0-b9cd-ca53c42cf7fe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.9",
+            "objective_text": "Analyze the problem of grid-scale storage.",
+            "objective_uuid": "a6ea8b04-4e40-421a-946d-ed8a3885e5c2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.10",
+            "objective_text": "Interpret Pumped Hydro storage (water uphill).",
+            "objective_uuid": "0d90faab-773b-453d-8e7b-72f2fa9ddf1a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.11",
+            "objective_text": "Connect Flywheels to short-term storage.",
+            "objective_uuid": "a702437e-d924-4b7e-9d92-f63a0e937de8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.14",
+            "objective_text": "Evaluate the environmental impact of Lithium mining.",
+            "objective_uuid": "6b7f5b33-3ef0-4fa2-8120-f21977e53694"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.13",
+            "objective_text": "Construct a comparison of energy density.",
+            "objective_uuid": "5317e91b-62c9-4479-8049-fef9c3504173"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.1",
+            "sub_topic_name": "Energy Storage (batteries, kinetic pumped storage, flywheels)",
+            "objective_id": "DST.3.2.1.16",
+            "objective_text": "Synthesize physics of potential energy with grid management.",
+            "objective_uuid": "1ce95b67-b1f5-4f9e-82d6-2cd61ea2e501"
+          }
+        ]
+      }
+    }
+  }
+}

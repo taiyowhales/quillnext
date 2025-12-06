@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.3.5",
+    "name": "The 3 Vs (Volume, Velocity, Variety)",
+    "topic_id": "CPT.7.3",
+    "topic_name": "Big Data & Data Science",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The 3 Vs (Volume, Velocity, Variety) in Big Data & Data Science (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.1",
+            "objective_text": "Identify a lot of information.",
+            "objective_uuid": "d4643c46-90da-45d4-a587-c3800c3db7e7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.2",
+            "objective_text": "Recall that computers work fast.",
+            "objective_uuid": "b8689c1c-561a-4d7a-88e3-b5631978d919"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.3",
+            "objective_text": "Name different kinds of files (pictures, words).",
+            "objective_uuid": "2eec3def-8ce9-47cc-8a4f-2b5633d17df9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.4",
+            "objective_text": "Observe a library full of books.",
+            "objective_uuid": "0312b8c9-dd58-4242-9817-070ce8c76daa"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.7",
+            "objective_text": "Identify streaming data.",
+            "objective_uuid": "0641e90b-38e3-4213-8a4b-934c30cb9972"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.5",
+            "objective_text": "Summarize Volume (amount), Velocity (speed), Variety (types).",
+            "objective_uuid": "ac6d2214-7150-4af2-ac46-9a055cc1cd55"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.6",
+            "objective_text": "Explain that 'Big Data' is too big for one computer.",
+            "objective_uuid": "be953af5-7ce8-434c-97bc-bfd165dfe984"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.12",
+            "objective_text": "Explain the need for cloud storage.",
+            "objective_uuid": "614597a6-b9bf-4772-95ff-7aa34e2de1a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.15",
+            "objective_text": "Defend the value of data as the 'new oil'.",
+            "objective_uuid": "6d8d58ee-787f-44c3-b79b-7d379f9ea742"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.8",
+            "objective_text": "Compare a spreadsheet with a data center.",
+            "objective_uuid": "3a0cb0a9-0e87-411d-bed3-4618f1d31664"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.9",
+            "objective_text": "Analyze the exponential growth of global data.",
+            "objective_uuid": "6f0fd79d-4bbc-4710-a46b-c2d6c899450f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.10",
+            "objective_text": "Interpret unstructured data (social media posts).",
+            "objective_uuid": "1913ce5b-fe94-484c-b64e-7f0b1b15c8ec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.11",
+            "objective_text": "Connect IoT sensors to data volume.",
+            "objective_uuid": "ebb89e49-5349-405d-a818-b7ca25240913"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.14",
+            "objective_text": "Evaluate the infrastructure costs.",
+            "objective_uuid": "43292bca-cf11-4e27-aa1d-24e11ace7643"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.13",
+            "objective_text": "Construct a proposal for managing a big data stream.",
+            "objective_uuid": "ef69323a-21a7-41fe-a168-9702f5285246"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.5",
+            "sub_topic_name": "The 3 Vs (Volume, Velocity, Variety)",
+            "objective_id": "CPT.7.3.5.16",
+            "objective_text": "Synthesize distributed computing concepts (Hadoop/Spark intro).",
+            "objective_uuid": "a777a8e9-86ed-4608-8894-b0cc2162ffa6"
+          }
+        ]
+      }
+    }
+  }
+}

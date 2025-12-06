@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "HSS.4.3.6",
+    "name": "Monetary Policy",
+    "topic_id": "HSS.4.3",
+    "topic_name": "Macroeconomics: National & Global Systems",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.4",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Monetary Policy in Macroeconomics: National & Global Systems (History & Social Studies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.1",
+            "objective_text": "Identify the bank where money is kept.",
+            "objective_uuid": "85dc7ade-1b0b-4629-ba5a-19313e973eaa"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.2",
+            "objective_text": "Name the 'Fed' as the bank for banks.",
+            "objective_uuid": "15e2e9b0-8547-47ad-96de-010a47750ec5"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.8",
+            "objective_text": "Identify the Central Bank.",
+            "objective_uuid": "e388b8fd-5c9c-4401-90ea-de6a79f73dbc"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.3",
+            "objective_text": "Recall that interest is money paid for borrowing.",
+            "objective_uuid": "df7875a6-1675-412c-9399-1c1262b2f5aa"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.4",
+            "objective_text": "Observe coins and bills.",
+            "objective_uuid": "68abc191-b00e-4b69-bd1e-d53cf938ec6a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.5",
+            "objective_text": "Summarize what the Federal Reserve does.",
+            "objective_uuid": "439eb27a-7982-4d24-99b0-1bf011b12e57"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.6",
+            "objective_text": "Explain Interest Rates (the price of money).",
+            "objective_uuid": "3af475ae-1b7e-4906-b245-bb5154322634"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.12",
+            "objective_text": "Explain Fractional Reserve Banking.",
+            "objective_uuid": "b57f933e-ca29-410c-8ac3-8d2fe4cb9354"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.15",
+            "objective_text": "Defend or critique the fiat money system.",
+            "objective_uuid": "28e423ba-5283-47fa-9251-c41a1bb76a9f"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.7",
+            "objective_text": "Compare easy money (low rates) with tight money (high rates).",
+            "objective_uuid": "305176f6-02d4-44e2-8072-f362aaab48ac"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.9",
+            "objective_text": "Analyze how the Fed controls the money supply.",
+            "objective_uuid": "e062d1d4-2202-4a29-ba04-c7badfa9b6e6"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.10",
+            "objective_text": "Interpret the effect of raising interest rates on inflation.",
+            "objective_uuid": "1481d52a-9628-4f98-bc53-5438ea77f919"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.11",
+            "objective_text": "Connect the banking system to the economy.",
+            "objective_uuid": "0e271bd5-92cc-488d-a067-91eaf9657e35"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 26.33,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.14",
+            "objective_text": "Evaluate the independence of the Federal Reserve.",
+            "objective_uuid": "627758fa-dbde-478f-b869-497cf3d30703"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.13",
+            "objective_text": "Construct a flowchart of how money is created.",
+            "objective_uuid": "3546550d-815a-4d89-9ab7-f8300603e79e"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.3",
+            "topic_name": "Macroeconomics: National & Global Systems",
+            "sub_topic_id": "HSS.4.3.6",
+            "sub_topic_name": "Monetary Policy",
+            "objective_id": "HSS.4.3.6.16",
+            "objective_text": "Synthesize the role of monetary policy in the 2008 financial crisis.",
+            "objective_uuid": "37e7760b-f503-4775-a507-4c61738b0e0d"
+          }
+        ]
+      }
+    }
+  }
+}

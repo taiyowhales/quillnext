@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.2.1",
+    "name": "Digital Divide (Access to technology)",
+    "topic_id": "CPT.4.2",
+    "topic_name": "Ethical, Legal & Environmental Impact",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Digital Divide (Access to technology) in Ethical, Legal & Environmental Impact (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.1",
+            "objective_text": "Identify that not everyone has a computer.",
+            "objective_uuid": "288c34d4-f9a2-4e71-a300-b1d8eae76461"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.2",
+            "objective_text": "Recall sharing screens.",
+            "objective_uuid": "694aad9c-abd8-449c-9426-a70bdaa78697"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.3",
+            "objective_text": "Name the library as a place to use computers.",
+            "objective_uuid": "9291c987-29d7-4b00-b760-d4d9542db749"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.4",
+            "objective_text": "Observe helping others.",
+            "objective_uuid": "4d79e12f-8e2a-4269-a70d-71c29be29c69"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.7",
+            "objective_text": "Identify how expensive computers are.",
+            "objective_uuid": "34abdc24-cef1-4ba5-a93e-e01b0fefc104"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.5",
+            "objective_text": "Summarize why internet access helps learning.",
+            "objective_uuid": "6b9a6a84-9c2d-41a0-ac82-c16e136b4712"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.6",
+            "objective_text": "Explain that some places have slow internet.",
+            "objective_uuid": "22916591-f864-4fbf-99df-013ebb130388"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.12",
+            "objective_text": "Explain initiatives to bridge the gap.",
+            "objective_uuid": "dda7ffd6-8a25-4891-9f2f-6a663b10302c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.15",
+            "objective_text": "Defend the responsibility of the privileged to help.",
+            "objective_uuid": "237bf13d-70ab-4327-8d3a-058498c96447"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.8",
+            "objective_text": "Compare school with tech vs. without.",
+            "objective_uuid": "61b16e01-eef4-4eeb-b3d3-f427fb50694f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.9",
+            "objective_text": "Analyze the impact of the digital divide on education and jobs.",
+            "objective_uuid": "3150fd69-6256-4bde-8f3a-c25e42662edd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.10",
+            "objective_text": "Interpret global internet penetration stats.",
+            "objective_uuid": "02efbb0d-7089-49dd-ad6f-74db756d8483"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.11",
+            "objective_text": "Connect infrastructure to opportunity.",
+            "objective_uuid": "ae152904-11b4-4a31-b305-9f230bc4fdab"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.14",
+            "objective_text": "Evaluate the economic consequences of digital exclusion.",
+            "objective_uuid": "e9916ad5-ff92-4337-bbc0-a5b5c6a111d8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.13",
+            "objective_text": "Construct an argument for internet access as a human right.",
+            "objective_uuid": "d1272e6a-f284-4890-a33b-59975ec7272e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.1",
+            "sub_topic_name": "Digital Divide (Access to technology)",
+            "objective_id": "CPT.4.2.1.16",
+            "objective_text": "Synthesize sociology with technology policy.",
+            "objective_uuid": "5a82e4f1-e536-4972-9351-eab4f1de3f66"
+          }
+        ]
+      }
+    }
+  }
+}

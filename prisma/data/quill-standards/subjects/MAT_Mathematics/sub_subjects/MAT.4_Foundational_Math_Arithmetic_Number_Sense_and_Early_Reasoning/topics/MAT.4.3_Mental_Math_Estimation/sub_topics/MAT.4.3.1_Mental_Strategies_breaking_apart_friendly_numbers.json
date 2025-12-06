@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.3.1",
+    "name": "Mental Strategies (breaking apart, friendly numbers)",
+    "topic_id": "MAT.4.3",
+    "topic_name": "Mental Math & Estimation",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Mental Strategies (breaking apart, friendly numbers) in Mental Math & Estimation (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.1",
+            "objective_text": "Identify ways to make 10.",
+            "objective_uuid": "fb618ee5-2d65-4bef-83d6-b7df9ca0b909"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.8",
+            "objective_text": "Identify easy mental paths.",
+            "objective_uuid": "2dd1a48a-00d7-4980-a8dd-c685f412a032"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.3",
+            "objective_text": "Recall doubles plus one.",
+            "objective_uuid": "d302c101-4bbc-4b18-8bb1-c71006b2471f"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "10194884-a2ff-4794-af83-af3e16eac43d"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.2",
+            "objective_text": "Add 1 or 2 in head.",
+            "objective_uuid": "0092bdb0-df1d-4f9a-ab9c-7eb306d65d0a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.5",
+            "objective_text": "Summarize compensation (add then subtract).",
+            "objective_uuid": "0dcf0174-c841-4f77-9462-09445654bd96"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.6",
+            "objective_text": "Explain breaking numbers by place value.",
+            "objective_uuid": "bc8cd128-bc11-4d88-8941-fccd290bcb8c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.7",
+            "objective_text": "Use the distributive property mentally ($12 \\times 4 = 10 \\times 4 + 2 \\times 4$).",
+            "objective_uuid": "e37df610-d135-48c1-b211-fe27315f8faa"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.12",
+            "objective_text": "Explain estimating square roots.",
+            "objective_uuid": "80b3040e-281b-40fe-b6d5-430aedb88c4e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.15",
+            "objective_text": "Defend the use of heuristics.",
+            "objective_uuid": "b98d9fce-33e4-4562-9ae7-e8b0adc5fe6a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.9",
+            "objective_text": "Analyze percent shortcuts (10%, 1%, 50%).",
+            "objective_uuid": "d17bc92a-3b9e-4e92-97bd-a246254e36c8"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.11",
+            "objective_text": "Connect factoring to mental division.",
+            "objective_uuid": "aa7cc66c-9147-4cc1-8001-72cff0aada76"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.10",
+            "objective_text": "Interpret algebraic expansion mentally.",
+            "objective_uuid": "aebf3b69-2582-42c6-a94b-857b40229b14"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.14",
+            "objective_text": "Evaluate the reasonableness of a calculator result.",
+            "objective_uuid": "467e1d4e-2827-48bc-9133-c8ed9f5bc5a1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.13",
+            "objective_text": "Construct rapid estimates for Fermi problems.",
+            "objective_uuid": "0c9865de-ee00-41af-94c8-ec05a80ce907"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.1",
+            "sub_topic_name": "Mental Strategies (breaking apart, friendly numbers)",
+            "objective_id": "MAT.4.3.1.16",
+            "objective_text": "Synthesize multiple mental models for verification.",
+            "objective_uuid": "4462a6d0-eef7-4c74-a294-9838656b5ce7"
+          }
+        ]
+      }
+    }
+  }
+}

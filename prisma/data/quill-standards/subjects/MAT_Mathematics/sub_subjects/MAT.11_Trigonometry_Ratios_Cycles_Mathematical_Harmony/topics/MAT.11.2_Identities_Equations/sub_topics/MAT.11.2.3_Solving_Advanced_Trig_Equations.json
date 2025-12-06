@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.2.3",
+    "name": "Solving Advanced Trig Equations",
+    "topic_id": "MAT.11.2",
+    "topic_name": "Identities & Equations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving Advanced Trig Equations in Identities & Equations (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 15.54,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.1",
+            "objective_text": "Identify a mystery number.",
+            "objective_uuid": "87d7cc2f-11b6-42ab-a0e6-2d570d027ee5"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.8",
+            "objective_text": "Identify the goal: isolate the trig function.",
+            "objective_uuid": "d47d6035-d9c4-44cc-a82d-b848bc5ea3b5"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.3",
+            "objective_text": "Recall that we want to know 'what fits'.",
+            "objective_uuid": "fa9893cf-d46a-47c1-a0e2-dd3430b720c2"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.4",
+            "objective_text": "Observe checking the answer.",
+            "objective_uuid": "abe8703c-7cd1-4b83-a0dd-1508cc6efc81"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.2",
+            "objective_text": "Find the answer.",
+            "objective_uuid": "c97fe5a4-3efd-4efd-8d1f-65a9dd43f9ac"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.5",
+            "objective_text": "Summarize solving for $\\theta$.",
+            "objective_uuid": "446b5186-2485-449f-9647-b2e7fd5100fe"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.6",
+            "objective_text": "Explain that there might be more than one answer.",
+            "objective_uuid": "a5f33c8f-a103-40fb-bbcc-ebd67a35718d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.7",
+            "objective_text": "Use inverse operations.",
+            "objective_uuid": "7f9f34e7-19cc-4936-b6fc-6ee3426d81b9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.12",
+            "objective_text": "Explain extraneous solutions.",
+            "objective_uuid": "996f958b-004c-42af-8699-244e8f7f4d3a"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.9",
+            "objective_text": "Analyze equations with multiple functions (use identities).",
+            "objective_uuid": "b43400ea-698a-4844-975e-0bf56327b8e5"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.10",
+            "objective_text": "Interpret the general solution ($+ 2\\pi n$).",
+            "objective_uuid": "154bc4af-8049-464f-a1d4-fb99b6d6a490"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.11",
+            "objective_text": "Connect factoring to solving quadratics in sine.",
+            "objective_uuid": "db1b1f9d-ba17-46cc-abd1-01b06a936b02"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.15",
+            "objective_text": "Defend the algebraic steps taken.",
+            "objective_uuid": "7f786638-4854-4842-ae74-cb67b2a446d6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.14",
+            "objective_text": "Evaluate solutions within a specific interval.",
+            "objective_uuid": "b2b6176b-3229-4fb1-9e00-6d238626eb51"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.13",
+            "objective_text": "Construct solutions for complex equations.",
+            "objective_uuid": "195df61a-6da8-472d-ac2c-b6a4d8b7d2ed"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.3",
+            "sub_topic_name": "Solving Advanced Trig Equations",
+            "objective_id": "MAT.11.2.3.16",
+            "objective_text": "Synthesize graphing to visualize solutions.",
+            "objective_uuid": "7b40b942-ec7f-48d9-b722-631a08516f6a"
+          }
+        ]
+      }
+    }
+  }
+}

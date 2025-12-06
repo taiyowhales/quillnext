@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.4.5",
+    "name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+    "topic_id": "LIF.2.4",
+    "topic_name": "Sewing, Textiles & Clothing Care",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Machine Sewing (safety, threading, simple patterns, straight seams) in Sewing, Textiles & Clothing Care (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.1",
+            "objective_text": "Identify a sewing machine.",
+            "objective_uuid": "3d3b09ed-b281-4d95-afa9-f14da03d2614"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.3",
+            "objective_text": "Name the foot pedal.",
+            "objective_uuid": "5265801f-b30c-41f5-97e3-d6bb71610e0a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.8",
+            "objective_text": "Identify the bobbin.",
+            "objective_uuid": "b90249d3-5d39-4152-b830-f5dc08c24cef"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.4",
+            "objective_text": "Observe the machine making stitches.",
+            "objective_uuid": "d4b16b48-c6d2-480d-b97a-c6b88f84c36a"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.2",
+            "objective_text": "Keep fingers away from the needle.",
+            "objective_uuid": "58481074-cd7c-415b-8904-d6a48c7d556f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.5",
+            "objective_text": "Summarize the parts of the machine.",
+            "objective_uuid": "11ca41e2-3cf3-424d-abde-4c2a2cafe134"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.6",
+            "objective_text": "Explain how to thread the machine.",
+            "objective_uuid": "48343716-aaf3-41f5-9ea8-050b3d296ac8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.7",
+            "objective_text": "Sew a straight line on paper then fabric.",
+            "objective_uuid": "99051a53-e2a6-4342-8267-127849044b84"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.12",
+            "objective_text": "Explain back-tacking to secure seams.",
+            "objective_uuid": "f06e78b5-91ef-4e2f-b400-76390b6f820b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.15",
+            "objective_text": "Defend the efficiency of machine sewing.",
+            "objective_uuid": "75699b90-bc7c-4ec2-87d6-ec76eb5f7e95"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.9",
+            "objective_text": "Analyze tension issues.",
+            "objective_uuid": "d7276f93-0f10-4fc2-9f97-05f99daf9a3f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.10",
+            "objective_text": "Interpret a simple commercial pattern.",
+            "objective_uuid": "65d48916-6cd3-4092-a211-45e243cc1726"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.11",
+            "objective_text": "Connect seam allowance to sizing.",
+            "objective_uuid": "b14a06c3-27aa-4394-84a7-4e2f00851b54"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.14",
+            "objective_text": "Evaluate the fit and finish of a project.",
+            "objective_uuid": "53c86e53-4618-4c39-9c30-66bf970f8617"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.13",
+            "objective_text": "Construct a garment from a pattern.",
+            "objective_uuid": "0b876175-0c7e-49cf-bba7-92c99d449aed"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.4",
+            "topic_name": "Sewing, Textiles & Clothing Care",
+            "sub_topic_id": "LIF.2.4.5",
+            "sub_topic_name": "Machine Sewing (safety, threading, simple patterns, straight seams)",
+            "objective_id": "LIF.2.4.5.16",
+            "objective_text": "Synthesize troubleshooting skills for machine maintenance.",
+            "objective_uuid": "4ff62fe0-ee9e-4b32-b38d-100f1de6c0a0"
+          }
+        ]
+      }
+    }
+  }
+}

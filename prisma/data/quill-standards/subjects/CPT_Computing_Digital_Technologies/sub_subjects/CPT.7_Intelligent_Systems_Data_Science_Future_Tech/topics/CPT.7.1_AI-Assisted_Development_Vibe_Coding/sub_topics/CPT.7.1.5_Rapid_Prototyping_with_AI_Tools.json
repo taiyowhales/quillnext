@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.1.5",
+    "name": "Rapid Prototyping with AI Tools",
+    "topic_id": "CPT.7.1",
+    "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Rapid Prototyping with AI Tools in AI-Assisted Development (“Vibe Coding”) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.2",
+            "objective_text": "Recall ideas coming to life quickly.",
+            "objective_uuid": "2f7224c8-ccc8-4f6b-a604-62651d14a33b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.3",
+            "objective_text": "Name a 'Prototype' (first try).",
+            "objective_uuid": "4341072e-3021-4554-9ddb-8b152ad12208"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.4",
+            "objective_text": "Observe building blocks.",
+            "objective_uuid": "263efd17-ea8b-43ed-bfec-403d559fc4ad"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.8",
+            "objective_text": "Identify the MVP (Minimum Viable Product).",
+            "objective_uuid": "78f01c35-496d-4c76-b884-23c6a67a2f1d"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.1",
+            "objective_text": "Make a game fast.",
+            "objective_uuid": "e34c1f7a-9999-4834-805e-296cb9670690"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.5",
+            "objective_text": "Summarize building a draft app.",
+            "objective_uuid": "0d308b8d-20de-44c3-8399-e0bc51616946"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.6",
+            "objective_text": "Explain iterating (making it better).",
+            "objective_uuid": "9bcfe445-e39b-47f7-b6cd-f4f69f4f56a0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.7",
+            "objective_text": "Use AI to generate placeholder data/images.",
+            "objective_uuid": "d19abe4c-3202-4120-81d5-380f423a4e1f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.12",
+            "objective_text": "Explain the 'fail fast' methodology.",
+            "objective_uuid": "362aa6af-04eb-44a0-a5bc-06b433e7c04f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.15",
+            "objective_text": "Defend the use of AI for scaffolding.",
+            "objective_uuid": "62b695de-1a0a-4b81-b019-84879a1f8ea3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.9",
+            "objective_text": "Analyze the speed of development cycles.",
+            "objective_uuid": "d1628b81-2157-4d2e-98c2-8c8ae3900e6a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.10",
+            "objective_text": "Interpret boilerplate code generation.",
+            "objective_uuid": "edae8d5c-b1ea-4d28-9ceb-20b216ba6b36"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.11",
+            "objective_text": "Connect ideation to implementation.",
+            "objective_uuid": "a8cc8406-41b8-4da7-b28c-b42470162547"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.14",
+            "objective_text": "Evaluate the trade-off between speed and code quality.",
+            "objective_uuid": "f886c609-9e00-4c53-805b-b43aa41dcf56"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.13",
+            "objective_text": "Construct a functional prototype in a single session.",
+            "objective_uuid": "4a915e2e-02f8-47ee-96b5-7b2fdcdffd00"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.5",
+            "sub_topic_name": "Rapid Prototyping with AI Tools",
+            "objective_id": "CPT.7.1.5.16",
+            "objective_text": "Synthesize product management with AI dev tools.",
+            "objective_uuid": "5b0b463f-c22a-4ad3-95b4-210b3715f0d4"
+          }
+        ]
+      }
+    }
+  }
+}

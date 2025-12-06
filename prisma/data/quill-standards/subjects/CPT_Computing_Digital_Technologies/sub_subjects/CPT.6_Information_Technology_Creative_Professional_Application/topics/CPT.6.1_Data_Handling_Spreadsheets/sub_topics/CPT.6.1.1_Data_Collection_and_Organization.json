@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.1.1",
+    "name": "Data Collection and Organization",
+    "topic_id": "CPT.6.1",
+    "topic_name": "Data Handling & Spreadsheets",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Collection and Organization in Data Handling & Spreadsheets (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.3",
+            "objective_text": "Recall that lists help us remember.",
+            "objective_uuid": "c5e91f68-25a8-4822-82c5-493b79940fdf"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.4",
+            "objective_text": "Identify a tally mark.",
+            "objective_uuid": "1cc57be1-26d4-4c83-b914-fc92147c6616"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.8",
+            "objective_text": "Identify valid data (numbers vs. words).",
+            "objective_uuid": "e714a874-b392-4194-a6d2-f19b0e32e52e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.1",
+            "objective_text": "Count toys and write the number.",
+            "objective_uuid": "06742387-ddde-4633-9f5f-15d0b959137d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.2",
+            "objective_text": "Sort blocks by color.",
+            "objective_uuid": "0678717c-43e0-415b-979c-799f8ddae87f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.5",
+            "objective_text": "Summarize a class survey (favorite ice cream).",
+            "objective_uuid": "fa9e0963-8579-4d2e-8ae4-1454ff825751"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.6",
+            "objective_text": "Explain why we put data in a table.",
+            "objective_uuid": "a300c4bb-bba5-4514-ad90-bb8518107942"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.7",
+            "objective_text": "Organize a list alphabetically.",
+            "objective_uuid": "9f8359ef-fb80-4e05-8c0c-8a9a237679b6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.12",
+            "objective_text": "Explain data validation (drop-down lists).",
+            "objective_uuid": "8b5d0d88-b58d-4cab-8e09-12b9a3bddcc7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.15",
+            "objective_text": "Defend the ethical collection of personal data.",
+            "objective_uuid": "0b6ce8ce-da6b-456e-bd26-4a59dfff2e0a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.9",
+            "objective_text": "Analyze data sources for reliability.",
+            "objective_uuid": "bea24acc-0443-4a02-afa9-50ac4d3f37b2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.10",
+            "objective_text": "Interpret the structure of a database (rows/records).",
+            "objective_uuid": "14a96b07-4248-4995-b4fe-e1fbe0099a36"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.11",
+            "objective_text": "Connect data cleaning to accuracy.",
+            "objective_uuid": "7777e370-3dda-42c1-a010-040e93b05de0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.14",
+            "objective_text": "Evaluate the integrity of large datasets.",
+            "objective_uuid": "49e9f3b7-23fa-46ec-900d-2a72c7fecd5f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.13",
+            "objective_text": "Construct a relational data model.",
+            "objective_uuid": "57a89bb9-c6a4-4828-91b1-92eeef8583a2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.1",
+            "sub_topic_name": "Data Collection and Organization",
+            "objective_id": "CPT.6.1.1.16",
+            "objective_text": "Synthesize normalization rules.",
+            "objective_uuid": "8bc01496-9b88-4b28-8020-bd8cee205b35"
+          }
+        ]
+      }
+    }
+  }
+}

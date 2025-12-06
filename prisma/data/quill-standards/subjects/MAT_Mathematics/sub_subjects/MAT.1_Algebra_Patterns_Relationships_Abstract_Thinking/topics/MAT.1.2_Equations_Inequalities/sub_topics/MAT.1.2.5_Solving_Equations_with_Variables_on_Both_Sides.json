@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.2.5",
+    "name": "Solving Equations with Variables on Both Sides",
+    "topic_id": "MAT.1.2",
+    "topic_name": "Equations & Inequalities",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Solving Equations with Variables on Both Sides in Equations & Inequalities (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.1",
+            "objective_text": "Identify balancing weights on two sides.",
+            "objective_uuid": "19106ab5-df44-4d5c-ab96-64da73410f7c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.8",
+            "objective_text": "Identify like terms.",
+            "objective_uuid": "4526c61d-dfad-4068-8960-be61a7a2e9e5"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.3",
+            "objective_text": "Recall fairness.",
+            "objective_uuid": "ebaccf53-daf8-4ee9-90d2-00c50119c365"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.4",
+            "objective_text": "Observe that equality holds.",
+            "objective_uuid": "2adc472d-8f50-4378-93f6-c5be942425cd"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.2",
+            "objective_text": "Take away the same thing from both sides.",
+            "objective_uuid": "f3c18d9c-4c2b-46f4-b504-b6201c725ff9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.5",
+            "objective_text": "Summarize moving terms to one side.",
+            "objective_uuid": "b8f4ebec-1e3f-41ee-a3f8-46ed8e4539ce"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.6",
+            "objective_text": "Explain that $x$ equals $x$.",
+            "objective_uuid": "1c6f71d5-c612-4c2b-a7a7-cf2ba7af1047"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.12",
+            "objective_text": "Explain isolating the variable.",
+            "objective_uuid": "e4dce630-eec2-4f85-a4c6-6fd81f16b2f5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.15",
+            "objective_text": "Defend the algebraic logic of collecting terms.",
+            "objective_uuid": "ce4f4b1b-ce74-4f17-9434-ee1af86638f3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.7",
+            "objective_text": "Solve simple cases ($2x = x + 5$).",
+            "objective_uuid": "62489fdc-8ada-4d8a-9e71-4b627c3d0b36"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.9",
+            "objective_text": "Analyze strategies to avoid negative coefficients.",
+            "objective_uuid": "0e084d73-6685-49ac-93d4-d42c0933f815"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.10",
+            "objective_text": "Interpret the meaning of $3=3$ (Identity) vs $3=5$ (Contradiction).",
+            "objective_uuid": "0c54d3da-98c4-4aaf-94da-b19fa55388f6"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.11",
+            "objective_text": "Connect graphing lines to finding the intersection.",
+            "objective_uuid": "ac437b22-39f3-47e4-84e4-b42c13aab44d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.14",
+            "objective_text": "Evaluate absolute value equations with multiple cases.",
+            "objective_uuid": "6261368f-f02d-4139-b0bd-72a78254c644"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.13",
+            "objective_text": "Construct general solutions for parametric equations.",
+            "objective_uuid": "205b043b-07d4-427a-9090-7d965c049310"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.2",
+            "topic_name": "Equations & Inequalities",
+            "sub_topic_id": "MAT.1.2.5",
+            "sub_topic_name": "Solving Equations with Variables on Both Sides",
+            "objective_id": "MAT.1.2.5.16",
+            "objective_text": "Synthesize matrix methods for systems.",
+            "objective_uuid": "d629bcbc-14ce-4263-b387-8355427babef"
+          }
+        ]
+      }
+    }
+  }
+}

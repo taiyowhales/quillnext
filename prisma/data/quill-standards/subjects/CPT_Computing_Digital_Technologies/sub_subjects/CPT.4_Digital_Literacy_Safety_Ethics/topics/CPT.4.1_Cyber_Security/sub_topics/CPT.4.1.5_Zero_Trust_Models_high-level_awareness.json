@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.1.5",
+    "name": "Zero Trust Models (high-level awareness)",
+    "topic_id": "CPT.4.1",
+    "topic_name": "Cyber Security",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Zero Trust Models (high-level awareness) in Cyber Security (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.1",
+            "objective_text": "Identify checking ID.",
+            "objective_uuid": "38b71f3d-cfb5-4617-aed6-6acd4e34007a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.2",
+            "objective_text": "Recall 'Stranger Danger'.",
+            "objective_uuid": "ef168e4f-9b7b-4536-b53e-a3496b2dcb6f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.3",
+            "objective_text": "Name 'Trust no one'.",
+            "objective_uuid": "0ca4e62d-f853-4154-901a-bb2a760a789e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.4",
+            "objective_text": "Observe a badge reader.",
+            "objective_uuid": "3aa3187b-22f0-4505-af58-7158ce34790d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.7",
+            "objective_text": "Identify verification steps.",
+            "objective_uuid": "a4bdacee-f40b-4350-87f3-de671db72a40"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.5",
+            "objective_text": "Summarize 'Never trust, always verify'.",
+            "objective_uuid": "28cfc9b3-851a-43eb-8b49-003badf150c6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.6",
+            "objective_text": "Explain why being inside the building doesn't mean you're safe.",
+            "objective_uuid": "00a632e2-83fa-452b-91e4-530bb0d828c5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.12",
+            "objective_text": "Explain least privilege access.",
+            "objective_uuid": "902ebcaf-ccb9-4a7b-b1ae-020d4079be80"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.15",
+            "objective_text": "Defend the shift to Zero Trust in cloud environments.",
+            "objective_uuid": "876a527d-312b-419e-8d7c-de0c3f100503"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.8",
+            "objective_text": "Compare a castle wall (old way) with a security guard at every door (Zero Trust).",
+            "objective_uuid": "dc045ff1-0e0d-408b-a239-4bee65962585"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.9",
+            "objective_text": "Analyze the failure of the perimeter defense model.",
+            "objective_uuid": "14816a58-9a99-4aa3-b920-e1c4fa70004f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.10",
+            "objective_text": "Interpret identity as the new perimeter.",
+            "objective_uuid": "14d5b719-4327-4254-86f3-cbfc4f7bf034"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.11",
+            "objective_text": "Connect micro-segmentation to limiting damage.",
+            "objective_uuid": "abff1e95-2103-44e2-9ca3-75a83246bf31"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.14",
+            "objective_text": "Evaluate the user experience impact of continuous authentication.",
+            "objective_uuid": "a487fa16-9cba-4fee-9922-20375a56dac2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.16",
+            "objective_text": "Synthesize identity and access management (IAM).",
+            "objective_uuid": "8f349128-8e35-4f53-9417-a6e646584686"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.5",
+            "sub_topic_name": "Zero Trust Models (high-level awareness)",
+            "objective_id": "CPT.4.1.5.13",
+            "objective_text": "Construct a Zero Trust architecture proposal.",
+            "objective_uuid": "ccdaf6f5-e0af-4dce-8dce-28d35a9edf90"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.3.5",
+    "name": "Simple vs Compound Interest (The Power of Compounding)",
+    "topic_id": "MAT.3.3",
+    "topic_name": "Money, Banking, and Debt",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Simple vs Compound Interest (The Power of Compounding) in Money, Banking, and Debt (Mathematics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.1",
+            "objective_text": "Identify money growing.",
+            "objective_uuid": "b6d31df3-254e-4dde-aabd-aee87a4dec80"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.3",
+            "objective_text": "Name 'Interest'.",
+            "objective_uuid": "9ed5b70e-6ff3-4f81-8be8-a80ba8e9bc8c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.2",
+            "objective_text": "Recall that banks pay us to keep money there.",
+            "objective_uuid": "0d3ff057-05be-47ae-b57b-40a7d8b778d2"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.4",
+            "objective_text": "Observe a plant growing bigger.",
+            "objective_uuid": "07f354c4-f34b-4ef2-9791-0290533ce094"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.5",
+            "objective_text": "Summarize Simple Interest ($I = Prt$).",
+            "objective_uuid": "6b8fbfe4-8fa3-4bc9-9306-8c65e105f803"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.6",
+            "objective_text": "Explain how money makes money.",
+            "objective_uuid": "e2400129-2798-4f6f-b7cf-3945e5b1e56b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.12",
+            "objective_text": "Explain interest working for you (savings) vs. against you (debt).",
+            "objective_uuid": "8bcb8921-8aa4-419b-810a-6bc137e74d38"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.15",
+            "objective_text": "Defend starting investment early.",
+            "objective_uuid": "5bba3b3b-33a0-49e6-a719-82cc7522d4e7"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 5,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.7",
+            "objective_text": "Calculate simple interest on $100.",
+            "objective_uuid": "f394be37-dacb-4bc9-b146-1086d26b9768"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.8",
+            "objective_text": "Compare saving under a mattress vs. in a bank.",
+            "objective_uuid": "f1ef0d16-b250-44b9-a7e5-601e1dd9972b"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.9",
+            "objective_text": "Analyze Compound Interest ($A = P(1 + r/n)^{nt}$).",
+            "objective_uuid": "af8a4f58-8e3f-4f2e-893f-cb736a58cd58"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.10",
+            "objective_text": "Interpret the Rule of 72 (doubling time).",
+            "objective_uuid": "d6d3e9a7-aa08-4e17-946f-9ee776670dc1"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.11",
+            "objective_text": "Connect time to the growth curve.",
+            "objective_uuid": "c7553db8-4ca6-497a-a9d6-8796570116ef"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.14",
+            "objective_text": "Evaluate the impact of frequency of compounding.",
+            "objective_uuid": "ddeb0024-a02a-4bde-8139-d6ef0575642c"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.13",
+            "objective_text": "Construct compound interest spreadsheets.",
+            "objective_uuid": "5cdd3a55-6e7e-4b00-9a79-b415e3037bfa"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.5",
+            "sub_topic_name": "Simple vs Compound Interest (The Power of Compounding)",
+            "objective_id": "MAT.3.3.5.16",
+            "objective_text": "Synthesize exponential functions with finance.",
+            "objective_uuid": "eaafba11-292d-4bc0-bac6-12bdf849bfac"
+          }
+        ]
+      }
+    }
+  }
+}

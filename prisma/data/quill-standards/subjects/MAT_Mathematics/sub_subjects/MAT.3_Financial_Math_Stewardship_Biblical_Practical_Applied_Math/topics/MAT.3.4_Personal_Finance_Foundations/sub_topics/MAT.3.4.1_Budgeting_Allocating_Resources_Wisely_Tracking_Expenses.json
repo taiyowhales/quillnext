@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.4.1",
+    "name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+    "topic_id": "MAT.3.4",
+    "topic_name": "Personal Finance Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Budgeting (Allocating Resources Wisely, Tracking Expenses) in Personal Finance Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.1",
+            "objective_text": "Identify money as a limited resource.",
+            "objective_uuid": "25239946-985f-4ec5-af1f-639894265262"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.8",
+            "objective_text": "Identify needs vs. wants.",
+            "objective_uuid": "121cca37-7ea3-4e4b-8197-5bc08717e47d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.3",
+            "objective_text": "Recall that when money is spent, it is gone.",
+            "objective_uuid": "34caa7d6-0551-4fe7-b96a-aed19ba9d4db"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 6,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.2",
+            "objective_text": "Sort coins into 'Spend', 'Save', and 'Give' jars.",
+            "objective_uuid": "5cb51099-496f-4023-8976-a39f9a5459d3"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.4",
+            "objective_text": "Track savings for a small toy.",
+            "objective_uuid": "8a22a7dc-afa3-4c4d-9040-e6a931ecefa1"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.5",
+            "objective_text": "Summarize the purpose of a budget (plan for money).",
+            "objective_uuid": "75441169-de78-4f36-99d3-eaa0225a504d"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.6",
+            "objective_text": "Explain income (money coming in) vs. expenses (money going out).",
+            "objective_uuid": "5418e2e7-f817-415c-aeec-4a30faf4e8ec"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.12",
+            "objective_text": "Explain the envelope system.",
+            "objective_uuid": "b71a7f2a-43ac-4c2d-8612-83700ed7606b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.15",
+            "objective_text": "Defend the discipline of budgeting as stewardship.",
+            "objective_uuid": "8c87b47c-ced4-472a-ac8e-fb64751d4510"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.9",
+            "objective_text": "Analyze a monthly household budget (mock scenario).",
+            "objective_uuid": "a6e0822d-8d16-40a9-ae05-062e2809ba82"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.10",
+            "objective_text": "Interpret a pie chart of spending categories.",
+            "objective_uuid": "a58ec158-4cd5-4be1-a35c-66f9005699c8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.11",
+            "objective_text": "Connect tracking expenses to reaching financial goals.",
+            "objective_uuid": "f0cb5df8-80bf-4ac1-a9ec-7870fe81115b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 22.75,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.14",
+            "objective_text": "Evaluate the impact of irregular income.",
+            "objective_uuid": "aa316dab-d066-45ae-93af-c1c0ddafb85c"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.7",
+            "objective_text": "Create a simple budget for a weekly allowance.",
+            "objective_uuid": "47233e8e-f48d-46ae-936f-bf836083537c"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.13",
+            "objective_text": "Construct a zero-based budget for independent living.",
+            "objective_uuid": "135abbd6-00eb-44d6-ba30-f1c99cbf4275"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.4",
+            "topic_name": "Personal Finance Foundations",
+            "sub_topic_id": "MAT.3.4.1",
+            "sub_topic_name": "Budgeting (Allocating Resources Wisely, Tracking Expenses)",
+            "objective_id": "MAT.3.4.1.16",
+            "objective_text": "Synthesize spreadsheet skills with financial planning.",
+            "objective_uuid": "3791ef03-cc2b-4822-a35a-6a12b6025a39"
+          }
+        ]
+      }
+    }
+  }
+}

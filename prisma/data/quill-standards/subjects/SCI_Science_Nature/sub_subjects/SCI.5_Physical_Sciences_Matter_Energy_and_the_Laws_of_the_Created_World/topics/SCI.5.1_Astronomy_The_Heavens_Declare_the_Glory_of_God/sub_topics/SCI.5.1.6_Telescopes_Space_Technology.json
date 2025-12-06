@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.6",
+    "name": "Telescopes & Space Technology",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Telescopes & Space Technology in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.1",
+            "objective_text": "Identify a telescope.",
+            "objective_uuid": "11668bed-82dd-48a8-9b04-d90481fa28b7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.2",
+            "objective_text": "Name a rocket ship.",
+            "objective_uuid": "86afbbad-9536-4b2f-8b62-c227fa398a86"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.8",
+            "objective_text": "Identify the International Space Station.",
+            "objective_uuid": "f6e6bcb9-4325-487f-977f-4b939d6fba25"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.3",
+            "objective_text": "Recall that people have walked on the moon.",
+            "objective_uuid": "e77b1ac0-117b-48cb-b370-91415e621d0d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.4",
+            "objective_text": "Observe pictures from the Hubble or Webb telescope.",
+            "objective_uuid": "077a4b83-9ab4-4315-9508-8a85021af8a9"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.5",
+            "objective_text": "Summarize how a telescope works (lenses/mirrors).",
+            "objective_uuid": "f704581a-0089-4259-8fc3-6be0b19bddbd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.6",
+            "objective_text": "Explain the difference between Optical and Radio telescopes.",
+            "objective_uuid": "ab209b61-b421-44bd-93dc-3e2954ad2d15"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.12",
+            "objective_text": "Explain the challenges of space travel.",
+            "objective_uuid": "d48e21f6-4e92-413e-95a6-09f1453d1044"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.15",
+            "objective_text": "Defend the drive to explore as part of the Dominion Mandate.",
+            "objective_uuid": "629c4478-5580-4807-b980-bfc4990e7571"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.7",
+            "objective_text": "Compare a telescope on earth with one in space.",
+            "objective_uuid": "a83eb448-df99-4bd5-a378-2b60cf5a122e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.10",
+            "objective_text": "Interpret spectroscopy (finding elements in stars).",
+            "objective_uuid": "51934002-0275-416e-a539-add7fdcec655"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.11",
+            "objective_text": "Connect satellites to daily life (GPS).",
+            "objective_uuid": "f1330ec6-0bc4-462a-82e7-f734eb0bfb12"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.14",
+            "objective_text": "Evaluate the benefits vs. costs of space programs.",
+            "objective_uuid": "b7391b57-a85d-435d-827b-7cdadc5a98de"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.13",
+            "objective_text": "Construct a history of space exploration.",
+            "objective_uuid": "21d6a53d-a749-4862-95cc-b13ce1404e2d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.16",
+            "objective_text": "Synthesize the future of Mars colonization.",
+            "objective_uuid": "e3060100-c855-478e-ac56-b2f8ec96fd3e"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.6",
+            "sub_topic_name": "Telescopes & Space Technology",
+            "objective_id": "SCI.5.1.6.9",
+            "objective_text": "Analyze the electromagnetic spectrum in astronomy.",
+            "objective_uuid": "5b6afa2f-d4f9-4347-876c-8be55da2546a"
+          }
+        ]
+      }
+    }
+  }
+}

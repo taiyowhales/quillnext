@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "SCI.1.2.3",
+    "name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+    "topic_id": "SCI.1.2",
+    "topic_name": "Technology, Robotics & Coding",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.1",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Coding Logic (algorithms, conditionals, loops, basic syntax) in Technology, Robotics & Coding (Science & Nature)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.3",
+            "objective_text": "Recognize that God's commands are perfect algorithms for life.",
+            "objective_uuid": "21c07f5c-b1ff-4826-84b0-de5371fb99d9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.1",
+            "objective_text": "Follow and create simple step-by-step instructions (algorithms) without a computer.",
+            "objective_uuid": "a5b06688-ecb0-4109-9a7b-08db8ac8910d"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.8",
+            "objective_text": "Debug simple errors with patience.",
+            "objective_uuid": "74a61d26-774b-4b18-913e-ad3c4cb0ec7d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 8,
+        "average_complexity": 21.75,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.2",
+            "objective_text": "Act out 'if-then' situations (conditionals).",
+            "objective_uuid": "04e695bf-aff2-4895-ac34-1bc21513f590"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.4",
+            "objective_text": "Draw a sequence to complete a task.",
+            "objective_uuid": "3f8e06a8-4c24-4e5d-90a0-4ecd289d3279"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.5",
+            "objective_text": "Write unplugged algorithms using arrows and symbols.",
+            "objective_uuid": "1eb55fc3-3340-47d7-aab6-c13832326dfc"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.6",
+            "objective_text": "Use block-based coding to control a character through a maze.",
+            "objective_uuid": "89a4e937-84a6-44fa-9adf-85a9af32dd43"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.7",
+            "objective_text": "Explain that orderliness in code reflects God's orderly creation.",
+            "objective_uuid": "62a05413-5b1e-45aa-a6b3-9ee1b3fa4382"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.15",
+            "objective_text": "Defend coding as sub-creation under Christ's lordship.",
+            "objective_uuid": "5542c42a-c080-42cc-86fb-fff0f0bd688f"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.10",
+            "objective_text": "Analyze efficiency of different solutions to the same problem.",
+            "objective_uuid": "3ad2df89-db98-4249-a612-e754bc570378"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.11",
+            "objective_text": "Connect sub-routines to dominion through wise rule.",
+            "objective_uuid": "6aef9895-b4f2-4f47-a782-7a7e50ad7ad1"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 5,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.14",
+            "objective_text": "Evaluate algorithmic complexity (Big-O basics).",
+            "objective_uuid": "40fd206e-1a28-4a78-a734-21c4b13fefa9"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.13",
+            "objective_text": "Write structured programs in Python or similar with functions and data structures.",
+            "objective_uuid": "df5448f1-89bd-4967-be62-21fb70b0c010"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.9",
+            "objective_text": "Construct algorithms with loops, variables, and conditionals in text or block code.",
+            "objective_uuid": "c03469a8-6114-426f-a4cd-d648f70218f2"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.12",
+            "objective_text": "Create a program that responds to user input.",
+            "objective_uuid": "2ded22eb-c6b5-4877-96d2-330fd62370b5"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.2",
+            "topic_name": "Technology, Robotics & Coding",
+            "sub_topic_id": "SCI.1.2.3",
+            "sub_topic_name": "Coding Logic (algorithms, conditionals, loops, basic syntax)",
+            "objective_id": "SCI.1.2.3.16",
+            "objective_text": "Synthesize logic with biblical wisdom and ethics (e.g., AI decision trees).",
+            "objective_uuid": "6b250882-449e-46f0-a108-db22c93b97c9"
+          }
+        ]
+      }
+    }
+  }
+}

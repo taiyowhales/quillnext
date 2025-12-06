@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.3.2",
+    "name": "Data Mining and Analytics",
+    "topic_id": "CPT.7.3",
+    "topic_name": "Big Data & Data Science",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Mining and Analytics in Big Data & Data Science (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.1",
+            "objective_text": "Identify finding a treasure in a pile.",
+            "objective_uuid": "41eb5882-745f-4963-af39-5b330116c91d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.3",
+            "objective_text": "Recall counting specific things.",
+            "objective_uuid": "1effbce1-f598-460f-bcf0-0c184f3d069b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.4",
+            "objective_text": "Name a clue.",
+            "objective_uuid": "00e4afd7-03a4-4f0d-95a9-ca66cf1810e3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.8",
+            "objective_text": "Identify a correlation (two things happening together).",
+            "objective_uuid": "503d9bd9-2d48-4fb9-be0b-c79c459b1ae1"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.2",
+            "objective_text": "Look for a hidden pattern.",
+            "objective_uuid": "98568afc-9995-4674-a491-e438d430133c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.5",
+            "objective_text": "Summarize searching for trends.",
+            "objective_uuid": "cc5055bc-20a0-4099-9792-1b95bc393996"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.6",
+            "objective_text": "Explain how stores know what you like (coupons).",
+            "objective_uuid": "e928d781-29e2-446c-80bd-d799db7a8f10"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.7",
+            "objective_text": "Mine a dataset for a specific answer.",
+            "objective_uuid": "dc2dd939-0c9b-452c-bfb2-7efb88952d8f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.12",
+            "objective_text": "Explain anomaly detection.",
+            "objective_uuid": "778d44e8-6823-4471-9418-82c1b6cce06f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.15",
+            "objective_text": "Defend the ethical use of consumer data.",
+            "objective_uuid": "e5dd00f7-aa5a-466e-a1f8-c1a170bf3e5b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.9",
+            "objective_text": "Analyze predictive analytics.",
+            "objective_uuid": "28fcf1ec-9d61-46cb-8e81-969f976f301a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.10",
+            "objective_text": "Interpret cluster analysis (grouping similar items).",
+            "objective_uuid": "fca494f7-9c42-4c02-8f38-d9dc359791b4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.11",
+            "objective_text": "Connect data mining to privacy concerns.",
+            "objective_uuid": "ce5d3477-72f7-4590-ab55-f812f19f6160"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.14",
+            "objective_text": "Evaluate the accuracy of predictive models.",
+            "objective_uuid": "d868882b-036e-44d7-914f-88b5d1a0c832"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.13",
+            "objective_text": "Construct a data mining query.",
+            "objective_uuid": "a4bbff82-2c0f-468a-bb5f-0d76aa94679e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.2",
+            "sub_topic_name": "Data Mining and Analytics",
+            "objective_id": "CPT.7.3.2.16",
+            "objective_text": "Synthesize statistical methods with computer science.",
+            "objective_uuid": "0f1ec15c-0ff3-49c4-95e5-fc0f02ea2740"
+          }
+        ]
+      }
+    }
+  }
+}

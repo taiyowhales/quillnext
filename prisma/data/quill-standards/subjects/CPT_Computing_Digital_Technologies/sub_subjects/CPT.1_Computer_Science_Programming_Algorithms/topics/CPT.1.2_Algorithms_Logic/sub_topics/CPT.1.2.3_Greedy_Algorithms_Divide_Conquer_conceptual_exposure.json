@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.3",
+    "name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Greedy Algorithms, Divide & Conquer (conceptual exposure) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.4",
+            "objective_text": "Name 'Greedy'.",
+            "objective_uuid": "855e0764-587d-48b3-a601-68396d994dd5"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.8",
+            "objective_text": "Identify solving small parts.",
+            "objective_uuid": "b677830f-a77b-4d65-bef1-4b866527180b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.3",
+            "objective_text": "Recall making the best choice now.",
+            "objective_uuid": "5ef4b675-031e-462f-8abc-4671d67ba821"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.1",
+            "objective_text": "Pick the biggest piece of candy first.",
+            "objective_uuid": "2c9c77a0-e1fd-4846-8277-d5850677ffaa"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.2",
+            "objective_text": "Break a cookie to share.",
+            "objective_uuid": "f097780d-c4e6-430c-8069-f021495b64a7"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.5",
+            "objective_text": "Summarize 'Divide and Conquer' (break it, solve it).",
+            "objective_uuid": "b4e77992-1f2e-487f-bc74-4d100d408393"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.6",
+            "objective_text": "Explain making the best choice at each step.",
+            "objective_uuid": "81a750e5-0d3c-4044-84f1-54b7c9451cff"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.12",
+            "objective_text": "Explain local vs. global optimum.",
+            "objective_uuid": "aac5bb7d-eba8-45e2-93ca-85b8a6f7a9a5"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.15",
+            "objective_text": "Defend the efficiency of Divide and Conquer.",
+            "objective_uuid": "1498abcb-aa06-4b0a-afb1-311065050cf0"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 5,
+        "average_complexity": 25.6,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.7",
+            "objective_text": "Solve a change-making problem (fewest coins).",
+            "objective_uuid": "b0fd24e3-aa30-4bce-a482-6695efdfe75b"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.9",
+            "objective_text": "Analyze why greedy choices don't always work best globally.",
+            "objective_uuid": "18fc8859-6512-4ec0-b838-83d633dcc385"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.10",
+            "objective_text": "Interpret Merge Sort as Divide and Conquer.",
+            "objective_uuid": "8fe8f5a7-6a63-480c-aa3a-bd23b2e5d4d0"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.11",
+            "objective_text": "Connect optimization to strategy.",
+            "objective_uuid": "36ded345-05d4-486e-80bd-0e83f37b179e"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.14",
+            "objective_text": "Evaluate dynamic programming (intro) vs. greedy.",
+            "objective_uuid": "de30ed4e-6c01-4160-8a25-d277551ccb6b"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.13",
+            "objective_text": "Construct a greedy solution for a scheduling problem.",
+            "objective_uuid": "7e5be95e-1e99-4b10-80ea-17ffb5e3fe28"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.3",
+            "sub_topic_name": "Greedy Algorithms, Divide & Conquer (conceptual exposure)",
+            "objective_id": "CPT.1.2.3.16",
+            "objective_text": "Synthesize algorithmic paradigms.",
+            "objective_uuid": "1cc36731-3b16-452f-b402-742513ec3772"
+          }
+        ]
+      }
+    }
+  }
+}

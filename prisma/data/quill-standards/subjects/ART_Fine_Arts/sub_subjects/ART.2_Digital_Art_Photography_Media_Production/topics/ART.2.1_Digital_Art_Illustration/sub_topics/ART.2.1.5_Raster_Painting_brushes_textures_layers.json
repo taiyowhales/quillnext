@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.1.5",
+    "name": "Raster Painting (brushes, textures, layers)",
+    "topic_id": "ART.2.1",
+    "topic_name": "Digital Art & Illustration",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Raster Painting (brushes, textures, layers) in Digital Art & Illustration (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.1",
+            "objective_text": "Identify the paint bucket tool.",
+            "objective_uuid": "b1aeafce-13c7-43cb-b2e0-7041753e4cca"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.4",
+            "objective_text": "Recall that pixels are little squares.",
+            "objective_uuid": "2e1bba7e-7a01-46dc-a316-14ad6ce6f133"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.2",
+            "objective_text": "Change the size of the brush.",
+            "objective_uuid": "4c22aeec-51f4-423d-96ce-5f0a8243818d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.3",
+            "objective_text": "Pick a color from the rainbow wheel.",
+            "objective_uuid": "35611e4f-1c5f-46d8-b161-c90a237ab132"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.5",
+            "objective_text": "Summarize Opacity (see-through) vs. Flow.",
+            "objective_uuid": "7947123e-a198-47b0-9a33-c755ce55b678"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.6",
+            "objective_text": "Explain 'Hardness' (fuzzy edge vs. sharp edge).",
+            "objective_uuid": "20dd3243-145d-44e4-8664-1439f51936b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.7",
+            "objective_text": "Use the Eyedropper to steal a color.",
+            "objective_uuid": "4326ea44-7365-429b-bf42-3be7cc489a77"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.8",
+            "objective_text": "Blend two colors using a smudge tool.",
+            "objective_uuid": "4c904041-b555-4178-a809-41521b8a3358"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.12",
+            "objective_text": "Explain the 'Alpha Lock' function.",
+            "objective_uuid": "2c98bc8c-eac1-4b01-b70d-a06ac3b0805c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.15",
+            "objective_text": "Defend the use of non-destructive editing layers.",
+            "objective_uuid": "b88dd645-e80f-473c-ac01-8481709be088"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.9",
+            "objective_text": "Analyze Blending Modes (Multiply, Screen, Overlay).",
+            "objective_uuid": "78421cfd-d328-4c90-af99-46efbc37828e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.10",
+            "objective_text": "Interpret the use of Clipping Masks.",
+            "objective_uuid": "d6f11593-4c4e-4d44-b390-697927702e5a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.11",
+            "objective_text": "Connect texture overlays to visual interest.",
+            "objective_uuid": "89760850-4157-4131-9985-7bed4ff88737"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.14",
+            "objective_text": "Evaluate lighting and material rendering (subsurface scattering).",
+            "objective_uuid": "ed7fee3b-ea7b-472e-816f-5e89febfbe02"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.13",
+            "objective_text": "Construct a digital painting using custom brushes.",
+            "objective_uuid": "4d44f4a2-5e3d-4f86-8adc-026a1df2ad27"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.5",
+            "sub_topic_name": "Raster Painting (brushes, textures, layers)",
+            "objective_id": "ART.2.1.5.16",
+            "objective_text": "Synthesize matte painting techniques for photorealism.",
+            "objective_uuid": "ef0dd19b-1e8d-4289-bcd9-f9b7d981693a"
+          }
+        ]
+      }
+    }
+  }
+}

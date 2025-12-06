@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.2.3.5",
+    "name": "Lighting (natural, studio, reflectors, flash)",
+    "topic_id": "ART.2.3",
+    "topic_name": "Photography (Artistic & Technical)",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Lighting (natural, studio, reflectors, flash) in Photography (Artistic & Technical) (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.1",
+            "objective_text": "Identify where the sun is.",
+            "objective_uuid": "1dcd558a-26a5-4466-b919-0b4df54ac750"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.8",
+            "objective_text": "Identify backlighting (silhouette).",
+            "objective_uuid": "90b59ecb-0184-490d-be7b-23fd115f6003"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.3",
+            "objective_text": "Recall that inside is darker than outside.",
+            "objective_uuid": "80dc01ee-1d73-472a-95a6-e65a0fa1fa2a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.4",
+            "objective_text": "Observe shadows.",
+            "objective_uuid": "01209a8c-8334-4e10-bc6d-3e9a85027808"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.2",
+            "objective_text": "Stand so the sun is behind the camera.",
+            "objective_uuid": "8af642f2-c573-43ab-af9a-e9c5666c4392"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.5",
+            "objective_text": "Summarize why noon sun makes 'raccoon eyes'.",
+            "objective_uuid": "83c461a2-e607-446b-bd09-f10e7c7783b1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.6",
+            "objective_text": "Explain how a white board (reflector) bounces light.",
+            "objective_uuid": "f8905d02-de13-4e76-a94e-b430e4992133"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.12",
+            "objective_text": "Explain the inverse square law (intro).",
+            "objective_uuid": "253353f5-4c0a-46ea-a083-4ebc4d566193"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.15",
+            "objective_text": "Defend the use of artificial light to shape reality.",
+            "objective_uuid": "61868a49-c95c-4185-a69f-60fd38bcecee"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.7",
+            "objective_text": "Compare soft light (cloudy) vs. hard light (sunny).",
+            "objective_uuid": "6720ee24-2e3b-49a9-83ad-014384706c52"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.9",
+            "objective_text": "Analyze Three-Point Lighting (Key, Fill, Back).",
+            "objective_uuid": "9d5914ae-0e2c-48df-b893-3d98c72abd21"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.10",
+            "objective_text": "Interpret the color temperature of light (Kelvin).",
+            "objective_uuid": "ccf2b2fd-920b-46d9-923d-d73559fbc65b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.11",
+            "objective_text": "Connect window light to Rembrandt lighting.",
+            "objective_uuid": "c99674da-9489-4761-99f3-4230115e0cc5"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.14",
+            "objective_text": "Evaluate the mood created by High Key vs. Low Key.",
+            "objective_uuid": "4fb5926c-e40a-44e9-be18-c69e2e4cf0bc"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.13",
+            "objective_text": "Construct a studio lighting setup.",
+            "objective_uuid": "b23660a2-aebe-4eca-b04d-c1d7a8e300fc"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.3",
+            "topic_name": "Photography (Artistic & Technical)",
+            "sub_topic_id": "ART.2.3.5",
+            "sub_topic_name": "Lighting (natural, studio, reflectors, flash)",
+            "objective_id": "ART.2.3.5.16",
+            "objective_text": "Synthesize flash photography with ambient light.",
+            "objective_uuid": "8e8d4d3a-b33f-478b-aed7-50dc7f152df5"
+          }
+        ]
+      }
+    }
+  }
+}

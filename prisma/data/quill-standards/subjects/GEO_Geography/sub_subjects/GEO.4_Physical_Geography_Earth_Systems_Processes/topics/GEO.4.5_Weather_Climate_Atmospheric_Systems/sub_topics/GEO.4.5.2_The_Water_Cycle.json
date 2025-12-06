@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.4.5.2",
+    "name": "The Water Cycle",
+    "topic_id": "GEO.4.5",
+    "topic_name": "Weather, Climate & Atmospheric Systems",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.4",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Water Cycle in Weather, Climate & Atmospheric Systems (Geography)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.1",
+            "objective_text": "Identify rain, snow, and clouds.",
+            "objective_uuid": "144031fb-1f45-4e7e-b715-88e168ccff4f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.2",
+            "objective_text": "Name the sun as what dries up puddles.",
+            "objective_uuid": "3232a7be-2316-4fa6-8810-d068ee96857b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.8",
+            "objective_text": "Identify Transpiration (plants releasing water).",
+            "objective_uuid": "7dfa11d6-b54e-4f18-8aa3-3ed201cee67e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.3",
+            "objective_text": "Recall that water goes up and comes down.",
+            "objective_uuid": "2a393645-5959-4e35-9135-c403d0be57dc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.4",
+            "objective_text": "Observe images of the water cycle.",
+            "objective_uuid": "c40a1ca8-e456-4d90-9abd-17b1f737f3be"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.5",
+            "objective_text": "Summarize Evaporation, Condensation, and Precipitation.",
+            "objective_uuid": "79015b95-c381-4fcb-8131-7cd3e2f1d644"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.6",
+            "objective_text": "Explain 'Runoff' (water flowing on the ground).",
+            "objective_uuid": "5f332630-d129-417e-b8fe-d4cf36c29d84"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.12",
+            "objective_text": "Explain the difference between infiltration and percolation.",
+            "objective_uuid": "e9840aba-b914-4318-8324-750af00a16b1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.15",
+            "objective_text": "Defend the importance of the cryosphere (ice) in the cycle.",
+            "objective_uuid": "8e1eea62-4108-43b2-9302-f1de7bc5c1ad"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.7",
+            "objective_text": "Compare salt water in oceans with fresh water in rain.",
+            "objective_uuid": "8a058a3a-fed3-4402-87bf-e048ae845728"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.9",
+            "objective_text": "Analyze the role of groundwater and aquifers.",
+            "objective_uuid": "240bf6b6-1eaf-4906-8198-37cafc527592"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.10",
+            "objective_text": "Interpret the water cycle as a closed system.",
+            "objective_uuid": "77ad9886-3880-4edc-8e39-6c4fa2996801"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.11",
+            "objective_text": "Connect humidity to evaporation rates.",
+            "objective_uuid": "1f52bf2c-43ac-4f70-b79c-13164534ec6c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.14",
+            "objective_text": "Evaluate the impact of urbanization on the water cycle (impermeable surfaces).",
+            "objective_uuid": "928b3478-392c-4131-9f4f-bcd2f2f72891"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.13",
+            "objective_text": "Construct a diagram of the global hydrological cycle including storage times.",
+            "objective_uuid": "a6af4d11-fdf4-4982-84b6-2c67ab1df12b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.2",
+            "sub_topic_name": "The Water Cycle",
+            "objective_id": "GEO.4.5.2.16",
+            "objective_text": "Synthesize the energy exchanges (latent heat) involved in phase changes.",
+            "objective_uuid": "2b9eade2-97be-49bd-a56f-f9d8b9bcb37c"
+          }
+        ]
+      }
+    }
+  }
+}

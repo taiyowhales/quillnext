@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.3.3.3",
+    "name": "Cell Reproduction (Mitosis/Meiosis)",
+    "topic_id": "SCI.3.3",
+    "topic_name": "Genetics, Reproduction & Adaptation",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.3",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Cell Reproduction (Mitosis/Meiosis) in Genetics, Reproduction & Adaptation (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.1",
+            "objective_text": "Identify growing bigger.",
+            "objective_uuid": "beaede11-f32d-47f7-a0f7-fba661e340c9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.2",
+            "objective_text": "Name a cut healing.",
+            "objective_uuid": "81f99e7c-64e4-49f8-a16a-9dfd2cee058f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.8",
+            "objective_text": "Identify the phases (PMAT - Prophase, Metaphase, etc.).",
+            "objective_uuid": "d940791f-8302-486a-9718-7fe821f40036"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.3",
+            "objective_text": "Recall that cells split to make more.",
+            "objective_uuid": "16e6064a-4511-4139-acb9-1c8bf325b848"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.4",
+            "objective_text": "Observe a diagram of division.",
+            "objective_uuid": "30f3be59-35ab-4203-9218-053dd3ef3498"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.5",
+            "objective_text": "Summarize Mitosis (copying cells).",
+            "objective_uuid": "82a599ec-7dfd-4de2-aa8f-51392c74fbfa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.6",
+            "objective_text": "Explain that baby cells need instructions (DNA).",
+            "objective_uuid": "5db9c6d0-5db5-48dd-a9d5-9c11d0c66c73"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.12",
+            "objective_text": "Explain Diploid vs. Haploid.",
+            "objective_uuid": "715683ab-0b55-4af6-979d-b6adc45d1c59"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.15",
+            "objective_text": "Defend the complexity of the cell cycle as design.",
+            "objective_uuid": "bb80e182-c531-427e-bd9f-0013350d032d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.7",
+            "objective_text": "Compare body cells with reproductive cells.",
+            "objective_uuid": "bacd9eba-60e1-494b-8efc-314984413096"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.9",
+            "objective_text": "Analyze Meiosis (making haploid cells).",
+            "objective_uuid": "681d142d-8a48-4c4a-9793-33d4e315ab77"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.10",
+            "objective_text": "Interpret crossing over (mixing traits).",
+            "objective_uuid": "76341df2-342e-421f-badc-31555e63945a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.11",
+            "objective_text": "Connect chromosomes to inheritance.",
+            "objective_uuid": "bd5b13ff-0f2b-4c1d-bc23-fa99b7ba5058"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.14",
+            "objective_text": "Evaluate the result of errors in division (mutation).",
+            "objective_uuid": "e58becd0-7628-461b-b41e-455f6130c159"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.13",
+            "objective_text": "Construct a model of cell division.",
+            "objective_uuid": "d1ffa6ec-af3d-4a6d-aee7-62f05aec8ec1"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.3",
+            "sub_subject_name": "Life Sciences (Living Systems Designed with Purpose & Order)",
+            "topic_id": "SCI.3.3",
+            "topic_name": "Genetics, Reproduction & Adaptation",
+            "sub_topic_id": "SCI.3.3.3",
+            "sub_topic_name": "Cell Reproduction (Mitosis/Meiosis)",
+            "objective_id": "SCI.3.3.3.16",
+            "objective_text": "Synthesize cellular biology with genetics.",
+            "objective_uuid": "2b788aa3-7575-4abf-9f42-f10e59f83c06"
+          }
+        ]
+      }
+    }
+  }
+}

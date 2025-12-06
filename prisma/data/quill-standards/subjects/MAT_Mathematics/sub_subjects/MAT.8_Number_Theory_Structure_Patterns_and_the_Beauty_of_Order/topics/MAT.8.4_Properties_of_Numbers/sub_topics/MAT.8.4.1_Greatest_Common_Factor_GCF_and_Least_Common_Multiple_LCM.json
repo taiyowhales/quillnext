@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.4.1",
+    "name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+    "topic_id": "MAT.8.4",
+    "topic_name": "Properties of Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Greatest Common Factor (GCF) and Least Common Multiple (LCM) in Properties of Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.1",
+            "objective_text": "Identify numbers that are the same in two lists.",
+            "objective_uuid": "bff7b01b-50ed-4710-b1f4-2d7afc79d0b9"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.4",
+            "objective_text": "Name common numbers.",
+            "objective_uuid": "c956ae13-b071-46a5-b42f-7b18277f7ee0"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.8",
+            "objective_text": "Identify LCM for finding common denominators.",
+            "objective_uuid": "2cafd119-d6f1-4036-9fc4-02d77df774d8"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.3",
+            "objective_text": "Recall that we share equally.",
+            "objective_uuid": "8c5b76c4-5999-45e6-806f-46d18fa59784"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.2",
+            "objective_text": "Skip count to find a match.",
+            "objective_uuid": "554bc42c-eb8a-4c56-9c1f-e2f8f3f10109"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.5",
+            "objective_text": "Summarize GCF (biggest number that divides both).",
+            "objective_uuid": "b5fbbea4-d414-4412-861b-4717c28ec9bf"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.6",
+            "objective_text": "Explain LCM (first number they both count to).",
+            "objective_uuid": "4e9284ee-fe38-48d9-a34a-504966bcfbb8"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.7",
+            "objective_text": "Find the GCF of 12 and 18.",
+            "objective_uuid": "a8a5beda-6607-4a5a-8086-037bc2a9bb59"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.15",
+            "objective_text": "Defend the utility of LCM in scheduling problems.",
+            "objective_uuid": "ac9ca581-d305-4d4b-b896-0076828fa9df"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.9",
+            "objective_text": "Analyze the relationship: $GCF(a,b) \\times LCM(a,b) = a \\times b$.",
+            "objective_uuid": "5564a83d-07a5-46d8-86d3-3380e8ebdd7f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.10",
+            "objective_text": "Interpret word problems to decide between GCF or LCM.",
+            "objective_uuid": "b275b4ea-375c-4a4f-a6b4-128999c0698a"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.11",
+            "objective_text": "Connect GCF to simplifying fractions.",
+            "objective_uuid": "68a866b8-4535-43fa-94fb-4750211ca62a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.12",
+            "objective_text": "Explain the Euclidean Algorithm.",
+            "objective_uuid": "8173386c-41d4-470a-99eb-21b044e9f359"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.14",
+            "objective_text": "Evaluate GCF of algebraic expressions.",
+            "objective_uuid": "deaf28cd-5998-48e9-b302-a6fc313722aa"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.16",
+            "objective_text": "Synthesize prime factorization for finding GCF/LCM.",
+            "objective_uuid": "2f1dbeed-a115-4c14-ab93-dbd223faf830"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.4",
+            "topic_name": "Properties of Numbers",
+            "sub_topic_id": "MAT.8.4.1",
+            "sub_topic_name": "Greatest Common Factor (GCF) and Least Common Multiple (LCM)",
+            "objective_id": "MAT.8.4.1.13",
+            "objective_text": "Construct the Euclidean Algorithm to find GCF of large numbers.",
+            "objective_uuid": "bac11e1e-81ff-4d8b-8e39-382d547e3a2c"
+          }
+        ]
+      }
+    }
+  }
+}

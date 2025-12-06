@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.4.3",
+    "name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+    "topic_id": "ART.5.4",
+    "topic_name": "Painting Techniques & Color Theory",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Color Theory (primary, secondary, tertiary, warm, cool, harmonies) in Painting Techniques & Color Theory (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.1",
+            "objective_text": "Identify Red, Yellow, and Blue (Primary).",
+            "objective_uuid": "54e0ead1-3d77-47bc-9e28-8aac34dc9fa5"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.4",
+            "objective_text": "Observe a rainbow.",
+            "objective_uuid": "e6567d48-97a8-40bd-a268-81360dfb63e3"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 7,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.2",
+            "objective_text": "Mix Primaries to make Green, Orange, Purple (Secondary).",
+            "objective_uuid": "8ea69641-57a7-42be-9219-97374bbd2a91"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.3",
+            "objective_text": "Sort colors into Warm (Sun) and Cool (Water).",
+            "objective_uuid": "47132a52-9329-45f8-ba3d-f364c9ff4341"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.5",
+            "objective_text": "Summarize the Color Wheel arrangement.",
+            "objective_uuid": "21a0d0af-6a64-4060-be6b-3f016cf806d8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.6",
+            "objective_text": "Explain Complementary colors (opposites).",
+            "objective_uuid": "29c646e0-a6ac-4356-b114-9bc0c693ea22"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.7",
+            "objective_text": "Mix Tertiary colors (Red-Orange, Blue-Green).",
+            "objective_uuid": "1cd1054f-bc12-4dc5-ab2e-1641d41a099a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.12",
+            "objective_text": "Explain Split-Complementary harmony.",
+            "objective_uuid": "be0f4b6a-5fbd-493f-ba12-1b9914fff697"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.15",
+            "objective_text": "Defend color choices based on theoretical principles.",
+            "objective_uuid": "f02f4cd2-12ce-4470-8caf-d57c47b37a4d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.9",
+            "objective_text": "Analyze Analogous and Triadic color schemes.",
+            "objective_uuid": "b551da4f-6752-4b03-a99f-c2bd7ab93d28"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.10",
+            "objective_text": "Interpret the emotional weight of color temperature.",
+            "objective_uuid": "e65072f0-bc33-420c-afd4-945870c375b9"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.11",
+            "objective_text": "Connect saturation (intensity) to focal points.",
+            "objective_uuid": "dd8d5aef-6df3-44d5-94c8-24221a260268"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.14",
+            "objective_text": "Evaluate the interaction of simultaneous contrast.",
+            "objective_uuid": "71be50bc-0411-45e3-830d-ef23ac7dfb83"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.8",
+            "objective_text": "Create a monochromatic painting (one color + white/black).",
+            "objective_uuid": "6e0b85be-b4a2-45c2-afbc-7b4cb395b595"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.13",
+            "objective_text": "Construct a painting using a limited palette.",
+            "objective_uuid": "aff54e58-3081-401e-b431-931a54b4d7f9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.3",
+            "sub_topic_name": "Color Theory (primary, secondary, tertiary, warm, cool, harmonies)",
+            "objective_id": "ART.5.4.3.16",
+            "objective_text": "Synthesize complex color harmonies to set a mood.",
+            "objective_uuid": "8cd388a5-f938-4482-acc2-f2eb4343fc2b"
+          }
+        ]
+      }
+    }
+  }
+}

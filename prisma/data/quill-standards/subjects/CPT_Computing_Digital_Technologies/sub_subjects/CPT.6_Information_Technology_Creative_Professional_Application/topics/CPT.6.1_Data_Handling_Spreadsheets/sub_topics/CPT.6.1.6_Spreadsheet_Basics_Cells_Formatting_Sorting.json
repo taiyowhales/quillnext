@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.1.6",
+    "name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+    "topic_id": "CPT.6.1",
+    "topic_name": "Data Handling & Spreadsheets",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Spreadsheet Basics (Cells, Formatting, Sorting) in Data Handling & Spreadsheets (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.1",
+            "objective_text": "Identify a grid of boxes.",
+            "objective_uuid": "0a7d8768-a243-44c5-8edf-c3be3ce7a102"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.3",
+            "objective_text": "Recall that computers can hold lists.",
+            "objective_uuid": "759ea1e0-8218-4ae4-86c9-1ed908c64921"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.4",
+            "objective_text": "Name a 'Cell'.",
+            "objective_uuid": "cfe93964-b26e-4460-83bf-099950036596"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.5",
+            "objective_text": "Summarize Rows (numbers) and Columns (letters).",
+            "objective_uuid": "20ce9a89-1a21-4f78-8d9d-1f78c7e0252a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.8",
+            "objective_text": "Identify the address of a cell (e.g., A1).",
+            "objective_uuid": "64f0766d-a388-46c1-91b8-d49dc19cdf71"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.2",
+            "objective_text": "Type a number in a box.",
+            "objective_uuid": "c07635d8-dac3-44fa-87fd-51bf1bdf4ab2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.6",
+            "objective_text": "Explain how to change cell colors.",
+            "objective_uuid": "f460c3ef-f1fe-4632-8963-9e7ce57e6b25"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.7",
+            "objective_text": "Sort a list from A to Z.",
+            "objective_uuid": "15c6f5e1-0a7d-407a-91e6-8956c7bbc3d7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.12",
+            "objective_text": "Explain locking cells/protecting sheets.",
+            "objective_uuid": "bfdd8167-b033-479c-b62f-4a8b4ef87fe7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.15",
+            "objective_text": "Defend the use of named ranges.",
+            "objective_uuid": "022d4fa9-e944-4135-ac0d-807357730c7e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.9",
+            "objective_text": "Analyze the effect of formatting (currency, date).",
+            "objective_uuid": "67d0ccdd-ef75-453b-9837-62e53f2fcd82"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.10",
+            "objective_text": "Interpret conditional formatting (color scales).",
+            "objective_uuid": "36eb80c8-73ff-4f77-8843-63e78bafb8bc"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.11",
+            "objective_text": "Connect filtering to finding specific data.",
+            "objective_uuid": "1225e041-b584-4f57-abfe-dee6f59e1685"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.14",
+            "objective_text": "Evaluate the usability of a spreadsheet layout.",
+            "objective_uuid": "06902d3a-cfa4-43eb-be67-17b87326400f"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.13",
+            "objective_text": "Construct a professional invoice template.",
+            "objective_uuid": "47feca0d-fa76-456d-984f-abf5c5a3ec79"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.6",
+            "sub_topic_name": "Spreadsheet Basics (Cells, Formatting, Sorting)",
+            "objective_id": "CPT.6.1.6.16",
+            "objective_text": "Synthesize formatting with user interface design.",
+            "objective_uuid": "63b7f2d1-6c1f-4818-b686-e60a3c81d191"
+          }
+        ]
+      }
+    }
+  }
+}

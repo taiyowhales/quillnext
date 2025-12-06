@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.4.2",
+    "name": "Division (sharing, grouping, inverse relationship)",
+    "topic_id": "MAT.4.4",
+    "topic_name": "Operations with Whole Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Division (sharing, grouping, inverse relationship) in Operations with Whole Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.1",
+            "objective_text": "Identify sharing equally.",
+            "objective_uuid": "733dbccb-d723-4ba4-9740-0529ca1a04dd"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.67,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.3",
+            "objective_text": "Recall that fair means equal.",
+            "objective_uuid": "aa423b94-93f5-448c-8b76-103b5d143a2d"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.4",
+            "objective_text": "Observe grouping objects.",
+            "objective_uuid": "3fb25b57-f8e6-4ab3-83ec-750df8e8e66d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.5",
+            "objective_text": "Summarize division as repeated subtraction.",
+            "objective_uuid": "c3cd87e3-88b2-40da-9850-18990ef27710"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.2",
+            "objective_text": "Divide a set of cookies between friends.",
+            "objective_uuid": "a80472fb-e604-47b5-96b6-ca3d6b141463"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.6",
+            "objective_text": "Explain Remainders.",
+            "objective_uuid": "324a18c2-0305-4351-a1fc-343de8c076c8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.7",
+            "objective_text": "Perform long division with one-digit divisors.",
+            "objective_uuid": "5adcd44c-165c-4d61-ac23-789c9eb03ef5"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.8",
+            "objective_text": "Check division with multiplication.",
+            "objective_uuid": "484b2089-85e8-46b9-ab75-77f6bb19d762"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.12",
+            "objective_text": "Explain division by zero (undefined).",
+            "objective_uuid": "a7472dcf-6ffb-4b4c-b20f-7d852e35f46b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.15",
+            "objective_text": "Defend the closure properties of rational numbers.",
+            "objective_uuid": "369653c1-7447-4900-8af9-1f80ddeed672"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.10",
+            "objective_text": "Interpret division as a fraction.",
+            "objective_uuid": "0ad46074-6221-4f84-92ca-c25829c848eb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.11",
+            "objective_text": "Connect divisibility rules to factoring.",
+            "objective_uuid": "74a2a915-d7d2-4e9c-808d-8ad0a1349994"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.14",
+            "objective_text": "Evaluate synthetic division.",
+            "objective_uuid": "59cbb9b1-f4b8-42e2-8449-efab6f12b242"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.13",
+            "objective_text": "Construct polynomial division.",
+            "objective_uuid": "acc4de43-0a78-4aae-8ba2-b6c7ff8fe96a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.16",
+            "objective_text": "Synthesize modular arithmetic (remainders) with cryptography.",
+            "objective_uuid": "dfed0c14-9a61-4cd4-a0bd-ec49032b4b4e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.2",
+            "sub_topic_name": "Division (sharing, grouping, inverse relationship)",
+            "objective_id": "MAT.4.4.2.9",
+            "objective_text": "Analyze the standard long division algorithm.",
+            "objective_uuid": "3b296d4e-cd6f-464b-979f-cb6424f4d356"
+          }
+        ]
+      }
+    }
+  }
+}

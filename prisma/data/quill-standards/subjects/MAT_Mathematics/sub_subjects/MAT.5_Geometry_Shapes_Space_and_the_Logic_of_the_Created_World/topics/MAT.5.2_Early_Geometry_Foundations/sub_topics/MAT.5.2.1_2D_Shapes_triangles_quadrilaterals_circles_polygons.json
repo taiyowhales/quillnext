@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.2.1",
+    "name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+    "topic_id": "MAT.5.2",
+    "topic_name": "Early Geometry Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for 2D Shapes (triangles, quadrilaterals, circles, polygons) in Early Geometry Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 7.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.1",
+            "objective_text": "Identify circles, squares, triangles, and rectangles.",
+            "objective_uuid": "43d22625-201a-4b48-9242-c71a9f6183b3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.8",
+            "objective_text": "Identify a right angle in a shape.",
+            "objective_uuid": "548313be-22af-4ce7-ac6a-02dc588fc38e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.3",
+            "objective_text": "Recall that a circle has no corners.",
+            "objective_uuid": "10a9d866-8af4-43a0-a1f7-a6581ec557d9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.4",
+            "objective_text": "Observe shapes in the classroom.",
+            "objective_uuid": "5a387607-f78d-4081-9d12-11c346be5ae1"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.2",
+            "objective_text": "Sort shapes by number of sides.",
+            "objective_uuid": "04d08766-c4d8-40f1-a927-ff10b895f425"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.5",
+            "objective_text": "Summarize the properties of quadrilaterals (trapezoid, rhombus).",
+            "objective_uuid": "8032f7d8-cab2-4c7a-8cd0-d9ed8d31acdc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.6",
+            "objective_text": "Explain the difference between regular and irregular polygons.",
+            "objective_uuid": "98782df0-073b-4aa8-b576-fb39a3c94630"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.7",
+            "objective_text": "Draw a pentagon, hexagon, and octagon.",
+            "objective_uuid": "521dbe5e-e89c-434f-9e16-aff6b1c3e792"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.12",
+            "objective_text": "Explain convex vs. concave polygons.",
+            "objective_uuid": "fb0771de-493c-4f1c-9376-1d8fea76c0c8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.15",
+            "objective_text": "Defend the definition of a circle as a locus of points.",
+            "objective_uuid": "a2dcd7e4-48cc-4255-924d-2b34e8ca5da8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.9",
+            "objective_text": "Analyze the sum of interior angles formula ($(n-2) \\times 180$).",
+            "objective_uuid": "be21c6e1-88a7-43bb-94b6-3f7efdd20b22"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.10",
+            "objective_text": "Interpret the hierarchy of quadrilaterals (e.g., a square is a rectangle).",
+            "objective_uuid": "5f736dec-b03f-4352-8a64-c1f92d66a27b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.11",
+            "objective_text": "Connect diagonal lines to vertex counts.",
+            "objective_uuid": "4ae1489d-8b8e-4506-a739-bb5d7b9f6302"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.14",
+            "objective_text": "Evaluate the properties of n-gons.",
+            "objective_uuid": "27b1108f-58f8-40f9-a2cc-83021cad7241"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.5,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.13",
+            "objective_text": "Construct a cyclic quadrilateral proof.",
+            "objective_uuid": "1498d0fa-32e4-447e-a306-6e72de5b5f22"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.1",
+            "sub_topic_name": "2D Shapes (triangles, quadrilaterals, circles, polygons)",
+            "objective_id": "MAT.5.2.1.16",
+            "objective_text": "Synthesize algebraic formulas with geometric perimeters.",
+            "objective_uuid": "618c7924-689b-466d-ad90-ed6737acb4e3"
+          }
+        ]
+      }
+    }
+  }
+}

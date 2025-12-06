@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.1.2",
+    "name": "Debugging with AI Assistance",
+    "topic_id": "CPT.7.1",
+    "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Debugging with AI Assistance in AI-Assisted Development (“Vibe Coding”) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.2",
+            "objective_text": "Listen to the fix.",
+            "objective_uuid": "5b3fbb90-1100-4383-a003-1e238622d80c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.3",
+            "objective_text": "Recall fixing mistakes.",
+            "objective_uuid": "5a8355f5-7106-4997-99fc-ebf9f0755ef2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.4",
+            "objective_text": "Name a 'Bug fixer'.",
+            "objective_uuid": "e34eb866-7737-493d-9356-e5a61c18635a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.8",
+            "objective_text": "Identify the root cause.",
+            "objective_uuid": "742db106-6f9e-4697-a2d6-0cb4bff5c909"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.1",
+            "objective_text": "Ask 'Why is it broken?'.",
+            "objective_uuid": "022d6e7e-a763-41a7-bd83-7ff9f0035ce2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.5",
+            "objective_text": "Summarize pasting an error message into AI.",
+            "objective_uuid": "c6cda335-fc76-4cbb-9e29-047716919127"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.6",
+            "objective_text": "Explain the solution provided.",
+            "objective_uuid": "ccd397f8-7c76-4fc8-ac1b-771aea395808"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.7",
+            "objective_text": "Fix a syntax error with help.",
+            "objective_uuid": "e6674bda-8238-4225-8135-02a0af63c079"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.12",
+            "objective_text": "Explain regression testing.",
+            "objective_uuid": "2f5b4bdb-d6da-4bc2-9447-b360b05ec576"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.15",
+            "objective_text": "Defend the educational value of AI explanations.",
+            "objective_uuid": "843d1660-611c-4518-8fcd-4d58c46593ad"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.9",
+            "objective_text": "Analyze the explanation of the bug.",
+            "objective_uuid": "d532d74f-7c90-4209-a9ec-e4362da807cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.10",
+            "objective_text": "Interpret logic errors vs. syntax errors.",
+            "objective_uuid": "d1c42117-ecdf-472f-9490-b627e5e59a61"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.11",
+            "objective_text": "Connect learning to debugging.",
+            "objective_uuid": "dbd129ca-a5f9-42c3-bacc-53ed7007a1a5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.14",
+            "objective_text": "Evaluate the AI's understanding of the codebase context.",
+            "objective_uuid": "e3a25288-4217-4d01-ba16-214b1d4a2d6a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.13",
+            "objective_text": "Construct a debugging session for complex concurrency issues.",
+            "objective_uuid": "31f4d679-564f-4054-9013-3ae90c1a5aa1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.2",
+            "sub_topic_name": "Debugging with AI Assistance",
+            "objective_id": "CPT.7.1.2.16",
+            "objective_text": "Synthesize problem-solving skills.",
+            "objective_uuid": "5d3e5d17-e442-45b6-b71f-84fbbcd0ffd6"
+          }
+        ]
+      }
+    }
+  }
+}

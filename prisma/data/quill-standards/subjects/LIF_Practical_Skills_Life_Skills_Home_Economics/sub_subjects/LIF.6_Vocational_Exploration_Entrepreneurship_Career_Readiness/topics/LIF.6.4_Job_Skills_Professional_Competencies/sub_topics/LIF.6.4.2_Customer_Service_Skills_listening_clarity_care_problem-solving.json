@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.6.4.2",
+    "name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+    "topic_id": "LIF.6.4",
+    "topic_name": "Job Skills & Professional Competencies",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.6",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Customer Service Skills (listening, clarity, care, problem-solving) in Job Skills & Professional Competencies (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.8",
+            "objective_text": "Identify a solution to a problem.",
+            "objective_uuid": "ca9cd7f1-35ed-4389-bea9-edcd38ffb919"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.2",
+            "objective_text": "Listen to what someone wants.",
+            "objective_uuid": "50fa90f2-d603-4bef-9234-671d3869726c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.3",
+            "objective_text": "Recall that kindness matters.",
+            "objective_uuid": "46ca0ff5-3b72-40aa-b8d4-fb2626521ace"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.1",
+            "objective_text": "Smile and say 'How can I help?'.",
+            "objective_uuid": "878b29d2-760b-4509-80a4-c9cf8df2289d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.4",
+            "objective_text": "Say 'You're welcome'.",
+            "objective_uuid": "3ebbfe8d-e23c-4265-875c-b2f8db13a15c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.5",
+            "objective_text": "Summarize how to handle a complaint.",
+            "objective_uuid": "181e07e3-c51f-4653-bfe1-34893554bc0d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.6",
+            "objective_text": "Explain why the customer is important.",
+            "objective_uuid": "df88b3a7-3d90-4abc-9e9a-50f920721218"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.7",
+            "objective_text": "Role-play a store interaction.",
+            "objective_uuid": "636515c4-fd90-45d3-a18b-c0b06f1095e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.12",
+            "objective_text": "Explain how to de-escalate a situation.",
+            "objective_uuid": "5bcfaa43-36fb-4701-b1c4-462ec0f99be9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.15",
+            "objective_text": "Defend the dignity of every person served.",
+            "objective_uuid": "b3764445-f389-4bed-b957-c40e0734e6f3"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.9",
+            "objective_text": "Analyze the principle of 'Service'.",
+            "objective_uuid": "c63d74cf-198d-4000-a5a8-1dd82b0c0154"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.10",
+            "objective_text": "Interpret active listening techniques.",
+            "objective_uuid": "e24c7b8f-9b43-4a27-bb74-8c72829c7dec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.11",
+            "objective_text": "Connect patience to difficult interactions.",
+            "objective_uuid": "14c17d26-c5ca-4497-bb29-cae554299d94"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.14",
+            "objective_text": "Evaluate the long-term value of reputation.",
+            "objective_uuid": "948c5f92-b03b-40ef-b531-214bdb212e04"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.16",
+            "objective_text": "Synthesize problem-solving with empathy.",
+            "objective_uuid": "ba158dad-da8b-4e13-b8a9-ada99b615c68"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.6",
+            "sub_subject_name": "Vocational Exploration, Entrepreneurship & Career Readiness",
+            "topic_id": "LIF.6.4",
+            "topic_name": "Job Skills & Professional Competencies",
+            "sub_topic_id": "LIF.6.4.2",
+            "sub_topic_name": "Customer Service Skills (listening, clarity, care, problem-solving)",
+            "objective_id": "LIF.6.4.2.13",
+            "objective_text": "Construct a customer service philosophy.",
+            "objective_uuid": "94e1cdd1-d95b-4cc9-91fb-06b8a4060dc4"
+          }
+        ]
+      }
+    }
+  }
+}

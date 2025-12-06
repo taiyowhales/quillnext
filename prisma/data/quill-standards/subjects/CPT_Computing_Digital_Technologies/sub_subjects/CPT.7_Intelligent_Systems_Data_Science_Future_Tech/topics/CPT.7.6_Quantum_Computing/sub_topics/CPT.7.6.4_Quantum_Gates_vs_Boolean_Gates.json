@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.6.4",
+    "name": "Quantum Gates vs Boolean Gates",
+    "topic_id": "CPT.7.6",
+    "topic_name": "Quantum Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Quantum Gates vs Boolean Gates in Quantum Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.1",
+            "objective_text": "Identify a magic door.",
+            "objective_uuid": "4e8bae6a-3b8a-46a9-9229-d334e28cbfab"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.4",
+            "objective_text": "Name a Quantum Gate.",
+            "objective_uuid": "c582811e-f2f3-474c-b610-13c91a0b3821"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.7",
+            "objective_text": "Identify reversible computing (no information lost).",
+            "objective_uuid": "deefc0e4-c67f-452f-b714-9f1b8027eece"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 20.5,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.3",
+            "objective_text": "Recall logic gates.",
+            "objective_uuid": "b0332cc2-27fd-4b1c-a065-fae0325c0393"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.2",
+            "objective_text": "Change the spinning coin.",
+            "objective_uuid": "29af5cfd-efed-4ff2-b4a6-23ab64ad6d23"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.5",
+            "objective_text": "Summarize that Quantum gates rotate the probability.",
+            "objective_uuid": "49003208-7b31-4a0a-a188-2e6a5efd5f79"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.6",
+            "objective_text": "Explain the Hadamard Gate (creates superposition).",
+            "objective_uuid": "844e3a48-b1c6-49b8-91bb-bc181526cffb"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.12",
+            "objective_text": "Explain the CNOT gate.",
+            "objective_uuid": "2f0e06d5-d271-4a35-8939-126abd83a936"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.15",
+            "objective_text": "Defend the complexity of quantum logic.",
+            "objective_uuid": "4717d4fe-da3a-41b8-bed4-359ad6928b40"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.8",
+            "objective_text": "Compare NOT gate with X gate.",
+            "objective_uuid": "9dd05a45-9bc6-40eb-91ad-da43e00c5c0f"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.9",
+            "objective_text": "Analyze the matrix representation of gates.",
+            "objective_uuid": "8b334de5-392f-45d5-a031-096dcabbdf31"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 27.5,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.14",
+            "objective_text": "Evaluate the unitary nature of quantum operators.",
+            "objective_uuid": "ca77884d-b55e-493d-bc72-c18038e88064"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.13",
+            "objective_text": "Construct a simple quantum circuit (e.g., using Qiskit).",
+            "objective_uuid": "eb2db8c4-cc3c-4611-bf10-50510e220830"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 32.0,
+        "objectives": [
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.16",
+            "objective_text": "Synthesize matrix multiplication with circuit steps.",
+            "objective_uuid": "9e67df68-ba7a-485d-897f-2763decb6663"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.10",
+            "objective_text": "Interpret circuit diagrams for quantum algorithms.",
+            "objective_uuid": "8eafdd3e-78fa-4814-b8be-9adfd3b913eb"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.4",
+            "sub_topic_name": "Quantum Gates vs Boolean Gates",
+            "objective_id": "CPT.7.6.4.11",
+            "objective_text": "Connect reversibility to thermodynamics (no heat).",
+            "objective_uuid": "cdcd9d27-2445-4f4f-9dad-572ea06246dc"
+          }
+        ]
+      }
+    }
+  }
+}

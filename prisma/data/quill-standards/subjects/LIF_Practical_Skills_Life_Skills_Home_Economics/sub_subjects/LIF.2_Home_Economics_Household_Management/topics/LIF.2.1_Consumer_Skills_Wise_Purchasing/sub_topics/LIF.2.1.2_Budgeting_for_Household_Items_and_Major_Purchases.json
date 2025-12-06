@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.2.1.2",
+    "name": "Budgeting for Household Items and Major Purchases",
+    "topic_id": "LIF.2.1",
+    "topic_name": "Consumer Skills & Wise Purchasing",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.2",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Budgeting for Household Items and Major Purchases in Consumer Skills & Wise Purchasing (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 3,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.1",
+            "objective_text": "Identify money in a piggy bank.",
+            "objective_uuid": "bfdfccb5-0664-48b1-9b42-a810c7c8029a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.2",
+            "objective_text": "Name things we buy for the house (soap, food).",
+            "objective_uuid": "a4c70db9-fed8-4db9-bef0-4cdb0a557266"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.8",
+            "objective_text": "Identify ongoing costs (pet food).",
+            "objective_uuid": "f65b22e1-8f73-4256-a344-7e60593576f5"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.3",
+            "objective_text": "Recall that we save up for big toys.",
+            "objective_uuid": "1c912253-f20d-4550-94c4-7f0e4f12acf1"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.4",
+            "objective_text": "Observe paying at the register.",
+            "objective_uuid": "b8d75731-8e41-4a17-8169-d2a86389a36b"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.5",
+            "objective_text": "Summarize 'saving for a rainy day'.",
+            "objective_uuid": "1e7115de-79c4-4868-89d0-f25f744c3409"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.6",
+            "objective_text": "Explain why we can't buy everything we want.",
+            "objective_uuid": "32fa9b3d-87d3-4701-82e1-b225cd456c0d"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.12",
+            "objective_text": "Explain sinking funds for replacement items.",
+            "objective_uuid": "cbb88dca-fb7a-43ec-a928-fd1e86ec2ace"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.15",
+            "objective_text": "Defend the biblical principle of living within means.",
+            "objective_uuid": "d4769445-8833-4c0d-9302-26c620c85f65"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.9",
+            "objective_text": "Analyze the 'envelope system' or categories.",
+            "objective_uuid": "ae68c790-77c3-4a30-beab-aaa877a4014d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.10",
+            "objective_text": "Interpret the cost of owning a pet or phone.",
+            "objective_uuid": "930c715e-37a6-4cd0-8002-a5e343a974bb"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.11",
+            "objective_text": "Connect income to spending limits.",
+            "objective_uuid": "57d6d342-85d0-4684-8a8b-b2917273ac5d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.14",
+            "objective_text": "Evaluate financing options vs. paying cash.",
+            "objective_uuid": "52a939f4-d4c2-4828-ac87-cb8da01b8ddb"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.7",
+            "objective_text": "Create a budget for a small party.",
+            "objective_uuid": "6ed7b190-0725-4c4b-841d-9e491e9e63b4"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.13",
+            "objective_text": "Construct a household budget including utilities and rent.",
+            "objective_uuid": "5a200116-dc09-40f3-8697-b1cc280bb30f"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.2",
+            "sub_subject_name": "Home Economics & Household Management",
+            "topic_id": "LIF.2.1",
+            "topic_name": "Consumer Skills & Wise Purchasing",
+            "sub_topic_id": "LIF.2.1.2",
+            "sub_topic_name": "Budgeting for Household Items and Major Purchases",
+            "objective_id": "LIF.2.1.2.16",
+            "objective_text": "Synthesize long-term planning with current spending.",
+            "objective_uuid": "46ee04b0-c9ac-4a2f-99ae-cf6888414d29"
+          }
+        ]
+      }
+    }
+  }
+}

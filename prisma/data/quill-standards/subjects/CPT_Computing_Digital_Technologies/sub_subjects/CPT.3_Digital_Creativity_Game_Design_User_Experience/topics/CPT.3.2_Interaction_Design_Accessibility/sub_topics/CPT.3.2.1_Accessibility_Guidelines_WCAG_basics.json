@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.2.1",
+    "name": "Accessibility Guidelines (WCAG basics)",
+    "topic_id": "CPT.3.2",
+    "topic_name": "Interaction Design & Accessibility",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Accessibility Guidelines (WCAG basics) in Interaction Design & Accessibility (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.1",
+            "objective_text": "Identify that some people can't see or hear well.",
+            "objective_uuid": "b6d0c3a1-00ce-4908-8422-8c77db76af73"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.2",
+            "objective_text": "Recall that games should be for everyone.",
+            "objective_uuid": "0009310f-0065-43c2-ae44-60ebc31eaa64"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.3",
+            "objective_text": "Name captions on a video.",
+            "objective_uuid": "584be8b4-af65-4e7c-b0a8-3c20422988df"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.4",
+            "objective_text": "Observe high contrast colors.",
+            "objective_uuid": "2693a5de-f347-4338-9044-55a3531e3af0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.7",
+            "objective_text": "Identify subtitles.",
+            "objective_uuid": "46693bc7-3125-49e7-a16b-0e21edcd079a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.5",
+            "objective_text": "Summarize why we need Alt Text for images.",
+            "objective_uuid": "83907473-972e-427e-b3fd-a1f32abe2034"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.6",
+            "objective_text": "Explain color blindness modes.",
+            "objective_uuid": "96939d65-65f5-4795-acc9-7e951fd8e17d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.12",
+            "objective_text": "Explain flashing lights risks (seizures).",
+            "objective_uuid": "bdb0e1d9-cfac-44d4-a327-d4ee901f0288"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.15",
+            "objective_text": "Defend design as an act of inclusion and love.",
+            "objective_uuid": "ab3e6193-66cc-4f20-8cc4-a0777293be65"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.8",
+            "objective_text": "Compare using a mouse vs. only a keyboard.",
+            "objective_uuid": "12a8c5c3-46f2-470b-834b-a5b473794a90"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.9",
+            "objective_text": "Analyze the POUR principles (Perceivable, Operable, Understandable, Robust).",
+            "objective_uuid": "a63bbd04-e8f1-4224-9149-81b74698d1cb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.10",
+            "objective_text": "Interpret screen reader compatibility.",
+            "objective_uuid": "49708a93-c425-419a-bdee-bec1aa115854"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.11",
+            "objective_text": "Connect font size to readability.",
+            "objective_uuid": "756d123f-e106-4a4f-a2c0-10300b9380e0"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.14",
+            "objective_text": "Evaluate compliance with WCAG standards.",
+            "objective_uuid": "a30e3cfd-50e3-4af4-8aa3-42c5d0fc7807"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.13",
+            "objective_text": "Construct an accessibility audit.",
+            "objective_uuid": "a0c4a65e-e359-4d3a-85cd-3614eec238b6"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.2",
+            "topic_name": "Interaction Design & Accessibility",
+            "sub_topic_id": "CPT.3.2.1",
+            "sub_topic_name": "Accessibility Guidelines (WCAG basics)",
+            "objective_id": "CPT.3.2.1.16",
+            "objective_text": "Synthesize assistive technology integration.",
+            "objective_uuid": "d351ac08-0dd1-489e-a71a-c2a88ecb427e"
+          }
+        ]
+      }
+    }
+  }
+}

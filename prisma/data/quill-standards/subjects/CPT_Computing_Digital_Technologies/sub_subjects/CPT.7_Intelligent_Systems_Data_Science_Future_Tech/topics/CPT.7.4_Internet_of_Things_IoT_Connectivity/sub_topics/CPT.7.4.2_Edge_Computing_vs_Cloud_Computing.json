@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.4.2",
+    "name": "Edge Computing vs Cloud Computing",
+    "topic_id": "CPT.7.4",
+    "topic_name": "Internet of Things (IoT) & Connectivity",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Edge Computing vs Cloud Computing in Internet of Things (IoT) & Connectivity (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.1",
+            "objective_text": "Identify thinking here vs. thinking far away.",
+            "objective_uuid": "6a4bd453-8734-409b-8e3a-6626e571e0e8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.2",
+            "objective_text": "Recall that the cloud is the internet.",
+            "objective_uuid": "a35ca25b-0b96-416a-9318-683049cb13e9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.3",
+            "objective_text": "Name 'My Tablet'.",
+            "objective_uuid": "9bb508e9-b25a-4a7b-ad1e-353c2ac31cf1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.4",
+            "objective_text": "Observe loading circles.",
+            "objective_uuid": "9ae8327f-c7ee-4a61-9226-d770730f13f3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.7",
+            "objective_text": "Identify Siri/Alexa (Cloud) vs. Calculator (Edge).",
+            "objective_uuid": "2cfde6df-89a8-407c-a7ab-936eaad0b78e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.5",
+            "objective_text": "Summarize processing on the device (Edge).",
+            "objective_uuid": "d085999c-a206-4dcc-a4ee-9286354beadc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.6",
+            "objective_text": "Explain processing on a server (Cloud).",
+            "objective_uuid": "c1a51d9d-6716-4340-b2e0-43b6cbc45141"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.12",
+            "objective_text": "Explain hybrid models.",
+            "objective_uuid": "267ea178-26b7-42a2-86f4-94316724d6a8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.15",
+            "objective_text": "Defend Edge computing for real-time applications (self-driving cars).",
+            "objective_uuid": "4fd387cd-831e-40e7-b2e1-f150ebcf9698"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.8",
+            "objective_text": "Compare speed.",
+            "objective_uuid": "075956ac-e7dd-4fd7-b9dd-6ebb37d17231"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.9",
+            "objective_text": "Analyze latency (lag).",
+            "objective_uuid": "2a7d6c7b-3792-4bc4-9519-ce343322fae0"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.10",
+            "objective_text": "Interpret bandwidth usage.",
+            "objective_uuid": "8f009e97-34e2-4f3f-b4ce-895b8acd1028"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.11",
+            "objective_text": "Connect privacy to keeping data on the Edge.",
+            "objective_uuid": "00462d63-0545-4a67-af39-94e49b2f4d40"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.14",
+            "objective_text": "Evaluate the trade-offs of distributed computing.",
+            "objective_uuid": "42c9eedd-31b7-46ff-97c7-c059588e81fc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.13",
+            "objective_text": "Construct an architectural decision matrix.",
+            "objective_uuid": "aa768783-eaee-49b7-b6e3-553fd6589f71"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.4",
+            "topic_name": "Internet of Things (IoT) & Connectivity",
+            "sub_topic_id": "CPT.7.4.2",
+            "sub_topic_name": "Edge Computing vs Cloud Computing",
+            "objective_id": "CPT.7.4.2.16",
+            "objective_text": "Synthesize network architecture.",
+            "objective_uuid": "7511d80f-adfa-4f43-82ce-1d8681d35717"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.4.1",
+    "name": "Energy Conservation (home habits, solar basics, passive solar design)",
+    "topic_id": "LIF.3.4",
+    "topic_name": "Sustainable Living & Creation Care",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Energy Conservation (home habits, solar basics, passive solar design) in Sustainable Living & Creation Care (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.7",
+            "objective_text": "Identify appliances that use a lot of power.",
+            "objective_uuid": "b6008878-01df-47e2-9f9b-5782f1f20a79"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.3",
+            "objective_text": "Recall that the sun is hot.",
+            "objective_uuid": "68228174-a5ed-4e55-ae26-edeb5a8c1a5c"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.4",
+            "objective_text": "Observe solar panels.",
+            "objective_uuid": "3962ac3f-4b40-40fd-92bc-bc632fd88b33"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.1",
+            "objective_text": "Turn off the light when leaving.",
+            "objective_uuid": "93f0515a-9171-46a9-b86b-32176942be38"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.2",
+            "objective_text": "Close the door to keep heat in.",
+            "objective_uuid": "08477870-9c94-4a09-bc50-4f19a91cc30f"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.5",
+            "objective_text": "Summarize where electricity comes from.",
+            "objective_uuid": "53fec237-fd59-44bc-8405-a146235d9945"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.6",
+            "objective_text": "Explain how a sweater saves energy (lower heat).",
+            "objective_uuid": "3f5a41b6-fce7-44d1-b494-472faf901c94"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.12",
+            "objective_text": "Explain how photovoltaic cells work (basics).",
+            "objective_uuid": "d20a5de0-0486-4e51-9ff2-157a45ba1f15"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.15",
+            "objective_text": "Defend energy independence as resilience.",
+            "objective_uuid": "73cb0fd7-7963-4f6c-8cb1-8d3603a42f00"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.8",
+            "objective_text": "Compare a sunny window in winter vs. summer.",
+            "objective_uuid": "17009379-9285-4283-81bb-9aed1f462227"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.9",
+            "objective_text": "Analyze the greenhouse effect.",
+            "objective_uuid": "8c234b1e-599e-4243-8273-dc047c9eb55c"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.10",
+            "objective_text": "Interpret a south-facing orientation (Passive Solar).",
+            "objective_uuid": "81ede4de-e39b-4559-92b8-32a9475aa7d1"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.11",
+            "objective_text": "Connect thermal mass (stone/water) to heat storage.",
+            "objective_uuid": "ef9678e3-ad54-477f-979f-793529472947"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.14",
+            "objective_text": "Evaluate the ROI of solar installation.",
+            "objective_uuid": "f4e69802-4818-4b53-b2d2-3a244425a3ab"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.13",
+            "objective_text": "Construct a plan to reduce household energy consumption.",
+            "objective_uuid": "1691e504-3fee-40ff-9632-955962386a21"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.4",
+            "topic_name": "Sustainable Living & Creation Care",
+            "sub_topic_id": "LIF.3.4.1",
+            "sub_topic_name": "Energy Conservation (home habits, solar basics, passive solar design)",
+            "objective_id": "LIF.3.4.1.16",
+            "objective_text": "Synthesize physics with architectural design.",
+            "objective_uuid": "903baec1-b42d-4090-bfe7-81dea1ae062c"
+          }
+        ]
+      }
+    }
+  }
+}

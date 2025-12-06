@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.3.2",
+    "name": "Rounding and Compatible Numbers",
+    "topic_id": "MAT.4.3",
+    "topic_name": "Mental Math & Estimation",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Rounding and Compatible Numbers in Mental Math & Estimation (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.1",
+            "objective_text": "Identify if a number is close to 10.",
+            "objective_uuid": "d532d5bb-89d9-4d3e-bbe0-c9557736b57b"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.3",
+            "objective_text": "Name 'about' how many.",
+            "objective_uuid": "2ebaa760-c17b-4aa2-a124-bd9529f2c6d0"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.8",
+            "objective_text": "Identify when to round up vs. down.",
+            "objective_uuid": "9ebeb189-f20e-48fe-84c7-bfcf09ee57e7"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.2",
+            "objective_text": "Recall the rule: 5 or more, go up.",
+            "objective_uuid": "90f0b2cf-c54b-4e1a-83e0-7cc2e6aa589e"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.4",
+            "objective_text": "Observe rounding on a number line.",
+            "objective_uuid": "dfc97252-cb80-442a-8eec-c31a027a2cbc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.5",
+            "objective_text": "Summarize rounding rules to any place value.",
+            "objective_uuid": "cb8c40ab-ee90-4c5c-b22b-c473ca06cab8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.6",
+            "objective_text": "Explain 'Compatible Numbers' (easy to add).",
+            "objective_uuid": "878c08f9-0cc4-4521-af38-ca0db2f4b56c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.7",
+            "objective_text": "Round to the nearest dollar.",
+            "objective_uuid": "26b8ab41-f577-406d-ae76-119ed761ace7"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.12",
+            "objective_text": "Explain truncation.",
+            "objective_uuid": "bda4beb1-5c6d-435f-af05-311c88b7352c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.15",
+            "objective_text": "Defend the appropriate level of precision.",
+            "objective_uuid": "734c4121-f89d-44bc-a128-c6d9a32ff7c7"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.9",
+            "objective_text": "Analyze the effect of rounding errors.",
+            "objective_uuid": "1f1cb50e-bb5f-48a0-894f-2098f0401493"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.10",
+            "objective_text": "Interpret estimation in scientific contexts.",
+            "objective_uuid": "040c4568-9704-4cba-a0ba-879e3117bbe4"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.11",
+            "objective_text": "Connect significant digits (intro) to precision.",
+            "objective_uuid": "f8b98eee-508f-4da1-b1a4-c9b67bf44fdf"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.13",
+            "objective_text": "Construct error bounds for calculations.",
+            "objective_uuid": "19a3a955-21a1-4901-a442-98bd65eb0e56"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.16",
+            "objective_text": "Synthesize numerical analysis concepts.",
+            "objective_uuid": "b3fd159b-d7dd-4307-a994-14ac2461c348"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.3",
+            "topic_name": "Mental Math & Estimation",
+            "sub_topic_id": "MAT.4.3.2",
+            "sub_topic_name": "Rounding and Compatible Numbers",
+            "objective_id": "MAT.4.3.2.14",
+            "objective_text": "Evaluate the accumulation of rounding errors in algorithms.",
+            "objective_uuid": "809c7aa9-e6b8-4f68-898c-86b737973772"
+          }
+        ]
+      }
+    }
+  }
+}

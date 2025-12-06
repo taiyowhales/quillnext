@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.8.2.3",
+    "name": "The Formation of the Canon",
+    "topic_id": "BIB.8.2",
+    "topic_name": "Prolegomena and Backgrounds (Foundations)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.8",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Formation of the Canon in Prolegomena and Backgrounds (Foundations) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.1",
+            "objective_text": "Identify the New Testament as God's Word.",
+            "objective_uuid": "7b1f9ede-9872-472f-8fbe-b26dec2ad81c"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.2",
+            "objective_text": "Name the Apostles as the men who wrote the books.",
+            "objective_uuid": "dfa2eb50-eeec-4462-a900-485e53048626"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.3",
+            "objective_text": "Recall that the Bible is true and special.",
+            "objective_uuid": "83264da9-5230-45c2-b62a-ebdbb91b2b6d"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.4",
+            "objective_text": "Observe that the books are collected into one big book.",
+            "objective_uuid": "22e9b9d2-d387-4bdb-843d-aa723ec299cf"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.5",
+            "objective_text": "Summarize how we got the 27 books of the NT.",
+            "objective_uuid": "d84f4faa-5981-4528-b0e2-9d49b800e19f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.6",
+            "objective_text": "Explain that 'Canon' means a measuring stick or rule.",
+            "objective_uuid": "060fe0ac-2cd4-404a-b5dd-549d86e8b5d6"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.8",
+            "objective_text": "Categorize the books by author (Paul, John, Peter, etc.).",
+            "objective_uuid": "40d087c5-32d0-467f-baeb-1296cc2fc996"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.12",
+            "objective_text": "Explain why the Gnostic gospels were rejected.",
+            "objective_uuid": "20f7ce4b-5ed8-493e-8736-3fe4621f56e3"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.15",
+            "objective_text": "Defend the reliability of the textual transmission of the NT.",
+            "objective_uuid": "afc25b69-ea20-4cfd-9a7d-62261ac109e5"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.16",
+            "objective_text": "Produce a study on the self-attesting nature of Scripture.",
+            "objective_uuid": "71b76090-d48c-4c84-a4c1-593db5a4d350"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.7",
+            "objective_text": "Compare Scripture with other good Christian books.",
+            "objective_uuid": "2c8dc4f9-1f59-4ddf-a035-f9ce440ae919"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.9",
+            "objective_text": "Analyze the criteria for canonicity (Apostolicity, Orthodoxy, Usage).",
+            "objective_uuid": "14462807-598f-4826-889d-0a903005d9ad"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.10",
+            "objective_text": "Interpret the role of the Holy Spirit in preserving Scripture.",
+            "objective_uuid": "b250be77-06a8-4d72-a453-2b07dfa54d18"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.11",
+            "objective_text": "Connect the early church councils to the recognition of the books.",
+            "objective_uuid": "cdefcdcd-22d4-441a-946d-8b488691faac"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.14",
+            "objective_text": "Evaluate the Muratorian Fragment and other early lists.",
+            "objective_uuid": "7b40856e-ea0a-4409-b9b5-88e36844f6c1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.3",
+            "sub_topic_name": "The Formation of the Canon",
+            "objective_id": "BIB.8.2.3.13",
+            "objective_text": "Construct a defense of the closed canon.",
+            "objective_uuid": "e3bd8036-14b5-4084-a6b6-2b3876367169"
+          }
+        ]
+      }
+    }
+  }
+}

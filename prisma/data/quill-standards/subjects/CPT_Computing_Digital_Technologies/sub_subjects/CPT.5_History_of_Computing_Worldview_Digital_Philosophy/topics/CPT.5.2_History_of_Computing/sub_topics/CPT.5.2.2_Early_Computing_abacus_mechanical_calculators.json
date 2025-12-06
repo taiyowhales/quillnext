@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.2.2",
+    "name": "Early Computing (abacus, mechanical calculators)",
+    "topic_id": "CPT.5.2",
+    "topic_name": "History of Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Early Computing (abacus, mechanical calculators) in History of Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.1",
+            "objective_text": "Identify counting beads (abacus).",
+            "objective_uuid": "35053f97-70a7-47c5-909f-54dc1833ccb4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.2",
+            "objective_text": "Name a machine that counts.",
+            "objective_uuid": "20cd7111-d5c5-4133-8aeb-eae3fefb48d0"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.7",
+            "objective_text": "Identify the Difference Engine (Babbage).",
+            "objective_uuid": "27cbd681-ac7c-4ed1-b8d0-277062b957d1"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.3",
+            "objective_text": "Recall that people counted long ago.",
+            "objective_uuid": "d2876145-5fb5-4aec-8959-261924bbc963"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.4",
+            "objective_text": "Observe a calculator.",
+            "objective_uuid": "af77f502-3d1c-409a-ac69-ceef9d7b1b94"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.5",
+            "objective_text": "Summarize the Antikythera Mechanism (ancient computer).",
+            "objective_uuid": "5da3fed4-6677-4ce7-a292-9c77c875f3e1"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.6",
+            "objective_text": "Explain Pascal's Calculator.",
+            "objective_uuid": "b629c335-8ea9-4a22-9e0e-11d1fc94456f"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.12",
+            "objective_text": "Explain the Slide Rule.",
+            "objective_uuid": "8aed7d0f-c9ea-4bdb-867b-6f8827d05f76"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.15",
+            "objective_text": "Defend the ingenuity of ancient engineers.",
+            "objective_uuid": "1ab3a545-6c36-48af-8613-048d4adb0bea"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.8",
+            "objective_text": "Compare gears with chips.",
+            "objective_uuid": "937f1d56-4e02-4e0b-9fe7-df68e2bd5f47"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.9",
+            "objective_text": "Analyze the transition from manual to mechanical calculation.",
+            "objective_uuid": "3291f261-a778-4f91-ae5c-48048bb73dfd"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.10",
+            "objective_text": "Interpret the Jacquard Loom (punch cards).",
+            "objective_uuid": "655aa047-7187-4bc0-9cb3-ec89d5601c38"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.11",
+            "objective_text": "Connect weaving patterns to binary code.",
+            "objective_uuid": "d3b562a4-05a0-40e9-afd3-75e300880ab3"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.14",
+            "objective_text": "Evaluate the complexity of Babbage's Analytical Engine.",
+            "objective_uuid": "94bfb607-d787-4418-b7df-363a8d23e43c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.13",
+            "objective_text": "Construct a timeline of pre-electronic computation.",
+            "objective_uuid": "91bc4e15-f9d4-47aa-b1ac-2daced6ccb21"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 34.0,
+        "objectives": [
+          {
+            "complexity": 34,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.2",
+            "sub_topic_name": "Early Computing (abacus, mechanical calculators)",
+            "objective_id": "CPT.5.2.2.16",
+            "objective_text": "Synthesize mechanical logic with modern algorithms.",
+            "objective_uuid": "97b43ba6-0d17-417d-b764-ca7e115ea9f5"
+          }
+        ]
+      }
+    }
+  }
+}

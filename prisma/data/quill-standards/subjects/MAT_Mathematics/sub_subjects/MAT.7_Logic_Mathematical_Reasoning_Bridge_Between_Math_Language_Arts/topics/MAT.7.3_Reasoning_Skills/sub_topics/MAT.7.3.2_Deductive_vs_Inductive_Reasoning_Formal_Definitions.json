@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.3.2",
+    "name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+    "topic_id": "MAT.7.3",
+    "topic_name": "Reasoning Skills",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Deductive vs Inductive Reasoning (Formal Definitions) in Reasoning Skills (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.1",
+            "objective_text": "Identify a rule and follow it.",
+            "objective_uuid": "2ddb155a-e0d1-46d7-83d5-fcc6cf651fc0"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.7",
+            "objective_text": "Identify a pattern that might not always be true.",
+            "objective_uuid": "7e1e0692-a941-42f8-bcca-c19a3b2fcb6e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.3",
+            "objective_text": "Recall 'If... then...' sentences.",
+            "objective_uuid": "2e9f56ec-a439-4fa5-9f40-3bff37349e6f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.4",
+            "objective_text": "Observe clues to solve a mystery.",
+            "objective_uuid": "0deae53e-a630-494c-8eaa-7ff9a400e0ca"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.2",
+            "objective_text": "Guess what comes next based on what happened before.",
+            "objective_uuid": "a99d8b9e-968a-412d-93be-4c6afdb41e3a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.5",
+            "objective_text": "Summarize Inductive (looking at examples to make a rule).",
+            "objective_uuid": "58a70a86-746f-438a-bb3e-c56b2a2b7a36"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.6",
+            "objective_text": "Explain Deductive (using a rule to find an answer).",
+            "objective_uuid": "5ba1b126-3617-479d-b067-dbd1145c3725"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.12",
+            "objective_text": "Explain validity vs. truth.",
+            "objective_uuid": "b2945f19-fed8-4088-921e-c1ea434020a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.15",
+            "objective_text": "Defend the certainty of mathematical deduction vs. scientific induction.",
+            "objective_uuid": "a2b3a754-e9a6-4ae7-bc1c-7ad440da5afa"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.8",
+            "objective_text": "Apply a general rule to a specific number.",
+            "objective_uuid": "1e5f59f5-0819-42f5-be53-7f2ace43e3e5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.9",
+            "objective_text": "Analyze the difference between 'Probable' and 'Certain'.",
+            "objective_uuid": "d9e6debd-1169-4725-8574-f4b682f7f8c4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.10",
+            "objective_text": "Interpret Sherlock Holmes' style (which is often abductive/deductive).",
+            "objective_uuid": "9e3f6b6f-e3fd-4b14-a2ca-a1b561bea38c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.11",
+            "objective_text": "Connect observation (science) to inductive logic.",
+            "objective_uuid": "2e0b2868-f05b-4c3b-a813-e732743789e8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.14",
+            "objective_text": "Evaluate the strength of an inductive argument.",
+            "objective_uuid": "1aca2846-fefb-486b-b199-fdbc9dd4df79"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.13",
+            "objective_text": "Construct formal arguments using Modus Ponens/Tollens.",
+            "objective_uuid": "aa9562c6-d0e7-4ee1-a119-c70a26a22360"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.3",
+            "topic_name": "Reasoning Skills",
+            "sub_topic_id": "MAT.7.3.2",
+            "sub_topic_name": "Deductive vs Inductive Reasoning (Formal Definitions)",
+            "objective_id": "MAT.7.3.2.16",
+            "objective_text": "Synthesize logic with geometry proofs.",
+            "objective_uuid": "1e775ec7-3342-4ea5-a5f4-66aa91f98c17"
+          }
+        ]
+      }
+    }
+  }
+}

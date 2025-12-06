@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.1.2",
+    "name": "Morphology (Roots, Prefixes, Suffixes)",
+    "topic_id": "ELA.1.1",
+    "topic_name": "Introductory Linguistics",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Morphology (Roots, Prefixes, Suffixes) in Introductory Linguistics (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.1",
+            "objective_text": "Identify a root word inside a bigger word.",
+            "objective_uuid": "02f405cf-0297-4914-80dc-702de94df34d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.8",
+            "objective_text": "Identify bound vs. free morphemes.",
+            "objective_uuid": "bfccc753-2e88-4dec-b16a-226ae485511a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.3",
+            "objective_text": "Recall that \"un-\" means not.",
+            "objective_uuid": "4c007b9c-e94a-4451-98ea-05ba2a05acdc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.4",
+            "objective_text": "Observe how endings change part of speech (quick -> quickly).",
+            "objective_uuid": "1865c481-e9d3-4915-8449-87a65ececa0e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.2",
+            "objective_text": "Add \"s\" to make plural or \"ed\" for past.",
+            "objective_uuid": "d9d6a0c3-7671-45e1-88af-14b46d843680"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.5",
+            "objective_text": "Summarize the meaning of common Latin roots (e.g., struct, port).",
+            "objective_uuid": "e8e0ed1d-3968-4a2b-a3e0-65bd324afcf7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.6",
+            "objective_text": "Explain the difference between a base word and a root.",
+            "objective_uuid": "4353eedb-104e-405e-83ae-9e6b60cad4e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.7",
+            "objective_text": "Break a complex word into morphemes.",
+            "objective_uuid": "12606a42-f23f-477a-8337-2eccc7d08b8d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.12",
+            "objective_text": "Explain the concept of agglutination (intro).",
+            "objective_uuid": "cb19276d-83fd-4e77-b065-91cffc2e5af1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.15",
+            "objective_text": "Defend the logic of English spelling based on morphology.",
+            "objective_uuid": "3bf3e29c-c03c-4019-938a-bac21a73a371"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 11.67,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.11",
+            "objective_text": "Connect Greek roots to scientific vocabulary.",
+            "objective_uuid": "72caaab4-9837-4ef2-af5a-89ab0394d302"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.9",
+            "objective_text": "Analyze how prefixes alter meaning (negation, direction, time).",
+            "objective_uuid": "7b0519bf-ee17-4c99-b7ca-7bc6d3ff51bd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.10",
+            "objective_text": "Interpret derivational vs. inflectional suffixes.",
+            "objective_uuid": "9ad53828-24bd-42a2-9430-533997a44af6"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.14",
+            "objective_text": "Evaluate the clarity of neologisms.",
+            "objective_uuid": "1c9003c5-d17b-4b7c-af05-1c9c1cc028ba"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.13",
+            "objective_text": "Construct new words using standard morphological rules.",
+            "objective_uuid": "298b06c5-f8ac-4a96-8a19-700565d8567e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.1",
+            "topic_name": "Introductory Linguistics",
+            "sub_topic_id": "ELA.1.1.2",
+            "sub_topic_name": "Morphology (Roots, Prefixes, Suffixes)",
+            "objective_id": "ELA.1.1.2.16",
+            "objective_text": "Synthesize morphological awareness with reading comprehension.",
+            "objective_uuid": "2236623a-c90a-4b50-b932-d3b40f1cb3b0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.4.6",
+    "name": "Subtraction (comparison, missing addend, inverse relationship)",
+    "topic_id": "MAT.4.4",
+    "topic_name": "Operations with Whole Numbers",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Subtraction (comparison, missing addend, inverse relationship) in Operations with Whole Numbers (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.5,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.1",
+            "objective_text": "Identify 'Minus' means taking away.",
+            "objective_uuid": "2d5bf0d2-1626-428d-84fc-6d480fc4d118"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.3",
+            "objective_text": "Recall that subtraction is the opposite of addition.",
+            "objective_uuid": "1c0b273d-f18d-4dfc-9151-daefe6859b7d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 7,
+        "average_complexity": 5.86,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.6",
+            "objective_text": "Explain checking work with addition.",
+            "objective_uuid": "90cfeafd-a11e-41a3-a381-173663390fd9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.2",
+            "objective_text": "Count back to subtract.",
+            "objective_uuid": "89085095-4fe5-4d2e-9601-4325c8d2d1c2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.4",
+            "objective_text": "Find the difference.",
+            "objective_uuid": "62c20d36-90fb-49f5-bc62-81bb20b4a1cd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.5",
+            "objective_text": "Summarize 'Comparison' subtraction (how many more?).",
+            "objective_uuid": "37a03349-2445-4cb7-aca3-56202ccc83de"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.7",
+            "objective_text": "Subtract across zeros.",
+            "objective_uuid": "a0d80b5f-5841-437a-a2c9-93fab5eb601c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.12",
+            "objective_text": "Explain why subtraction is not commutative.",
+            "objective_uuid": "5ae4f27a-4f82-4f97-993d-ff62e7466ceb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.15",
+            "objective_text": "Defend subtraction in vector spaces.",
+            "objective_uuid": "7a171332-cf77-4fc2-afb5-afee03af7c02"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.8",
+            "objective_text": "Solve for a missing addend.",
+            "objective_uuid": "05cdb22c-7cd6-43ef-82d7-3e9489057349"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.9",
+            "objective_text": "Analyze subtraction as adding the negative.",
+            "objective_uuid": "f58e9172-f411-4301-884d-89384ad0df38"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.10",
+            "objective_text": "Interpret distance on a number line.",
+            "objective_uuid": "d5c1cf8e-a0b7-4a86-97bd-864ac3f07e5b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.11",
+            "objective_text": "Connect inverse operations to solving equations.",
+            "objective_uuid": "f82a4a1e-d034-454e-a5e7-0d3c18a6e047"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.14",
+            "objective_text": "Evaluate difference quotients.",
+            "objective_uuid": "66113425-d3f2-4240-b60b-f7b0994996df"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.13",
+            "objective_text": "Construct proofs using the additive inverse.",
+            "objective_uuid": "9880383a-84c7-4db2-86c9-4d1663600aac"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.4",
+            "topic_name": "Operations with Whole Numbers",
+            "sub_topic_id": "MAT.4.4.6",
+            "sub_topic_name": "Subtraction (comparison, missing addend, inverse relationship)",
+            "objective_id": "MAT.4.4.6.16",
+            "objective_text": "Synthesize subtraction logic in computer binary (two's complement).",
+            "objective_uuid": "589cd7d4-f6e2-4d5d-bfd5-70246220a599"
+          }
+        ]
+      }
+    }
+  }
+}

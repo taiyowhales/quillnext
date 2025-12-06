@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.1.5",
+    "name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+    "topic_id": "LIF.3.1",
+    "topic_name": "Animal Husbandry (Small-Scale)",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Rabbits & Small Livestock (breeds, feed, health, housing) in Animal Husbandry (Small-Scale) (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.1",
+            "objective_text": "Identify a rabbit.",
+            "objective_uuid": "7ca2c030-8053-4510-8ac2-d8342aaee489"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.8",
+            "objective_text": "Identify different breeds.",
+            "objective_uuid": "0a4d3fc6-e4eb-4552-9fe9-9a283a82ea24"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.3",
+            "objective_text": "Recall that rabbits eat hay.",
+            "objective_uuid": "d507cf6e-00d7-412a-b1ce-f7fef938ae82"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.4",
+            "objective_text": "Observe hopping.",
+            "objective_uuid": "b91c0ad3-782d-46d9-bde5-b96051c5c822"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.2",
+            "objective_text": "Pet gently.",
+            "objective_uuid": "751d1c79-092c-4422-b384-8128ea71ccec"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.5",
+            "objective_text": "Summarize the needs of a rabbit (hutch/run).",
+            "objective_uuid": "dc35bfa4-0e62-4960-adb5-516c052a8dbf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.6",
+            "objective_text": "Explain why their teeth need chewing items.",
+            "objective_uuid": "73f20ec2-6132-4048-be16-9842c61a98cb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.7",
+            "objective_text": "Groom a rabbit.",
+            "objective_uuid": "ac3701c6-4cd0-45ff-9c16-1d87b54ccada"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.12",
+            "objective_text": "Explain the uses (fiber/meat/pet).",
+            "objective_uuid": "84441f0e-1d99-46e9-a44a-cb6e73f18f72"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.15",
+            "objective_text": "Defend responsible breeding practices.",
+            "objective_uuid": "e49b5eb8-d25a-4ee4-9761-a9933db45222"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.9",
+            "objective_text": "Analyze the digestive system (hindgut fermenter).",
+            "objective_uuid": "acd6a160-9a66-41b2-aa43-92c90bd51bec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.10",
+            "objective_text": "Interpret feed conversion ratios.",
+            "objective_uuid": "0839fcca-ae68-415c-be97-cc074a8a3a54"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.11",
+            "objective_text": "Connect breeding cycles to population management.",
+            "objective_uuid": "90c560d2-1662-4f57-a82c-0bfeeca5ccc6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.14",
+            "objective_text": "Evaluate the sustainability of rabbit meat production.",
+            "objective_uuid": "1fcc966b-93d3-45c2-b740-c164746b3993"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.13",
+            "objective_text": "Construct a housing system for small livestock.",
+            "objective_uuid": "9a68a857-82d3-481a-bb1f-a3bb326e0361"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.1",
+            "topic_name": "Animal Husbandry (Small-Scale)",
+            "sub_topic_id": "LIF.3.1.5",
+            "sub_topic_name": "Rabbits & Small Livestock (breeds, feed, health, housing)",
+            "objective_id": "LIF.3.1.5.16",
+            "objective_text": "Synthesize genetics with husbandry.",
+            "objective_uuid": "3f08c557-f498-486f-addc-cebd43e89a7b"
+          }
+        ]
+      }
+    }
+  }
+}

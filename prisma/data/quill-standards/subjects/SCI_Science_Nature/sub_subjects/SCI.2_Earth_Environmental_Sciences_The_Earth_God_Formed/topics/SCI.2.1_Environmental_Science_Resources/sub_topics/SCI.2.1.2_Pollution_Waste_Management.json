@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.2.1.2",
+    "name": "Pollution & Waste Management",
+    "topic_id": "SCI.2.1",
+    "topic_name": "Environmental Science & Resources",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.2",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pollution & Waste Management in Environmental Science & Resources (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.1",
+            "objective_text": "Identify trash and where it goes.",
+            "objective_uuid": "a7d401ed-d63e-4ab2-ba82-558972ee38fa"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.2",
+            "objective_text": "Name recycling items (paper, plastic).",
+            "objective_uuid": "5879acd5-c483-4f79-98c9-e25b479060df"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.7",
+            "objective_text": "Identify point-source vs. non-point source pollution.",
+            "objective_uuid": "fd16532b-be0e-4575-a90d-2de3d00965a1"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.3",
+            "objective_text": "Recall that smoke makes the air dirty.",
+            "objective_uuid": "e8793863-f02d-409c-9732-ee47132b61e3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.4",
+            "objective_text": "Observe a landfill or recycling truck.",
+            "objective_uuid": "4678d1b9-af32-4ecf-893f-5922c1111fc5"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.5",
+            "objective_text": "Summarize the three Rs (Reduce, Reuse, Recycle).",
+            "objective_uuid": "b28e48f7-df50-4dbf-9834-cd0b61e61834"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.6",
+            "objective_text": "Explain how plastic hurts the ocean.",
+            "objective_uuid": "5dd89507-5866-4e12-afad-abfd19509def"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.8",
+            "objective_text": "Categorize types of waste (biodegradable vs. non-biodegradable).",
+            "objective_uuid": "4e8a1860-51cb-45a6-a4d4-55b383c648af"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.12",
+            "objective_text": "Explain the greenhouse effect and air quality.",
+            "objective_uuid": "956171d9-6ea7-4b8d-98f8-5ce9ee169fd5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.15",
+            "objective_text": "Defend the biblical purity laws as a model for hygiene and cleanliness.",
+            "objective_uuid": "d0402db0-1591-4647-abf3-698bae41bae8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.9",
+            "objective_text": "Analyze the process of eutrophication in water bodies.",
+            "objective_uuid": "acbfeb06-1354-4ae9-9781-8a1b794747f8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.10",
+            "objective_text": "Interpret the \"Great Pacific Garbage Patch\".",
+            "objective_uuid": "e6369835-06a9-4bf8-8301-f189f695a9d5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.11",
+            "objective_text": "Connect consumer habits to waste production.",
+            "objective_uuid": "d8327867-4e0e-494a-ad0d-bab7f52136a1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.14",
+            "objective_text": "Evaluate the effectiveness of recycling programs.",
+            "objective_uuid": "0dd6bb80-8c3d-4e30-be5e-3d0ccca5ef8c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.13",
+            "objective_text": "Construct a proposal for reducing school or home waste.",
+            "objective_uuid": "49306c4d-521a-4e73-86c9-e51949576d1c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.2",
+            "sub_topic_name": "Pollution & Waste Management",
+            "objective_id": "SCI.2.1.2.16",
+            "objective_text": "Synthesize chemical knowledge with environmental engineering.",
+            "objective_uuid": "52d2e570-84e6-4263-81ad-c5e5f7918c21"
+          }
+        ]
+      }
+    }
+  }
+}

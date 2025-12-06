@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.6",
+    "name": "String Manipulation and Casting",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for String Manipulation and Casting in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.1",
+            "objective_text": "Identify letters and words.",
+            "objective_uuid": "bd4cc537-5cf6-496d-8c86-c34a12e5bed2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.4",
+            "objective_text": "Name a text message.",
+            "objective_uuid": "60bc2a6d-7317-482d-884f-4ab0e8624645"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.8",
+            "objective_text": "Identify the length of a string.",
+            "objective_uuid": "c8eccbd8-56b1-48e6-96a1-accb434caa21"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 7,
+        "average_complexity": 21.57,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.3",
+            "objective_text": "Recall combining words.",
+            "objective_uuid": "51021450-ae73-4ed2-8cf2-4a8536fba565"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.2",
+            "objective_text": "Change a word to capital letters.",
+            "objective_uuid": "ddf84306-e19a-46cc-ad3d-ccf948c802b8"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.5",
+            "objective_text": "Summarize Concatenation (joining strings).",
+            "objective_uuid": "00aec113-c481-422c-ac7d-f25c46d35c2a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.6",
+            "objective_text": "Explain Slicing (taking part of a word).",
+            "objective_uuid": "7bbad2e8-69d1-4b63-a7b8-5185b1d3d6cd"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.7",
+            "objective_text": "Change a number string to a math number (casting).",
+            "objective_uuid": "f4a7648d-4672-4036-b74f-f6491cebf5a1"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.12",
+            "objective_text": "Explain string immutability (in some languages).",
+            "objective_uuid": "eebe28b0-e935-4fb8-9be4-ab835be5503d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.15",
+            "objective_text": "Defend input sanitization.",
+            "objective_uuid": "81bd2842-5c7c-48d6-92df-a9ae825e4176"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.9",
+            "objective_text": "Analyze substring search.",
+            "objective_uuid": "d40a3221-b8e5-4626-903b-7da87628b009"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.10",
+            "objective_text": "Interpret ASCII/Unicode values of chars.",
+            "objective_uuid": "eb108bd0-78a0-4b77-9b1b-81efe4183033"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.11",
+            "objective_text": "Connect parsing to reading data.",
+            "objective_uuid": "6cef76d5-8315-4826-9f03-2dfe2ae6a903"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.14",
+            "objective_text": "Evaluate efficiency of string building.",
+            "objective_uuid": "c1a94b08-d956-4333-b0a8-18a12723c8b5"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.13",
+            "objective_text": "Construct Regular Expressions (Regex).",
+            "objective_uuid": "979f6a3e-a87d-46c0-bbfa-433db24c40b1"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.6",
+            "sub_topic_name": "String Manipulation and Casting",
+            "objective_id": "CPT.1.1.6.16",
+            "objective_text": "Synthesize text processing algorithms.",
+            "objective_uuid": "65ce3425-0abb-449a-9815-2e883beb4d9e"
+          }
+        ]
+      }
+    }
+  }
+}

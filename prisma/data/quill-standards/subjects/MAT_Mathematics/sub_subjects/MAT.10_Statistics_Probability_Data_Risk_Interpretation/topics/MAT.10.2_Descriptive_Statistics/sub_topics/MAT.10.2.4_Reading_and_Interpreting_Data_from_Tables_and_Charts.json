@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.2.4",
+    "name": "Reading and Interpreting Data from Tables and Charts",
+    "topic_id": "MAT.10.2",
+    "topic_name": "Descriptive Statistics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Reading and Interpreting Data from Tables and Charts in Descriptive Statistics (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.2",
+            "objective_text": "Identify which has the most/least.",
+            "objective_uuid": "49f90a65-d35c-4944-8f3c-0bb747b3d008"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.8",
+            "objective_text": "Identify trends (going up or down).",
+            "objective_uuid": "2e5e9da4-81bb-459d-93e9-cd9d8ef40afc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.3",
+            "objective_text": "Recall that charts tell a story.",
+            "objective_uuid": "22819d03-1f21-4bde-92d3-ade55c535f4a"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.1",
+            "objective_text": "Answer 'How many?' using a chart.",
+            "objective_uuid": "1504c7af-06c0-4a31-a049-811e51505413"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.4",
+            "objective_text": "Find information in a list.",
+            "objective_uuid": "bcfde842-ab2d-4aee-9152-8fa68f68fe4f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.5",
+            "objective_text": "Summarize the data in a two-column table.",
+            "objective_uuid": "42586753-f218-4e67-852e-49cdbe7ba849"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.6",
+            "objective_text": "Explain what the x and y axes represent.",
+            "objective_uuid": "413be70c-8ea0-4bb3-9c7e-20c588d986a6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.12",
+            "objective_text": "Explain interpolation (reading between points).",
+            "objective_uuid": "8510b430-cfde-4b43-b48b-11fff850c067"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.15",
+            "objective_text": "Defend an argument using statistical evidence.",
+            "objective_uuid": "19d91f32-600a-478a-804e-8f38848753c7"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.7",
+            "objective_text": "Solve simple problems using data from a graph.",
+            "objective_uuid": "75abc3fa-514e-4375-8e59-f3c24a9081fb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.9",
+            "objective_text": "Analyze dual-axis graphs.",
+            "objective_uuid": "ace27b6a-cd65-4975-b4b8-dc690eee5205"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.10",
+            "objective_text": "Interpret data from real-world sources (news, science).",
+            "objective_uuid": "2c05418d-c554-47b5-8bf4-ad896f334719"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.11",
+            "objective_text": "Connect slope in a graph to rate of change.",
+            "objective_uuid": "fa6434f7-2e14-4bae-a281-8ea74bf7499b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.14",
+            "objective_text": "Evaluate the source and context of the data.",
+            "objective_uuid": "b73578d6-9aff-466a-8f65-8dcc8f1c2502"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.13",
+            "objective_text": "Construct conclusions based on complex datasets.",
+            "objective_uuid": "a8f46743-7ee5-4fc6-bb8d-0bb7dbdb7aec"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.4",
+            "sub_topic_name": "Reading and Interpreting Data from Tables and Charts",
+            "objective_id": "MAT.10.2.4.16",
+            "objective_text": "Synthesize extrapolation (predicting future) with caution.",
+            "objective_uuid": "b9a4abe2-5d09-48b8-971a-30b63830d371"
+          }
+        ]
+      }
+    }
+  }
+}

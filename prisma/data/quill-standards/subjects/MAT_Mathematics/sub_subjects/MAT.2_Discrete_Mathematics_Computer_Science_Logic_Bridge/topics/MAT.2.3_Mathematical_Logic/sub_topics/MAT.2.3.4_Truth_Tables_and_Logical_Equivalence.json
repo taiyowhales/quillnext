@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.3.4",
+    "name": "Truth Tables and Logical Equivalence",
+    "topic_id": "MAT.2.3",
+    "topic_name": "Mathematical Logic",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Truth Tables and Logical Equivalence in Mathematical Logic (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.1",
+            "objective_text": "Identify a chart showing yes/no.",
+            "objective_uuid": "fa61dc7d-3219-4012-adb6-80d4028e4189"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.8",
+            "objective_text": "Identify when two statements mean the same thing.",
+            "objective_uuid": "e07e4fa0-983b-4716-9d58-3540dd181bdd"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.3",
+            "objective_text": "Recall sorting.",
+            "objective_uuid": "58d8ca8a-8027-48d6-b0b5-d24806ffa9f6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.4",
+            "objective_text": "Observe patterns.",
+            "objective_uuid": "e0491192-5e76-4f1b-bae7-5cb94d2d043d"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.7",
+            "objective_text": "Fill in a simple table for AND.",
+            "objective_uuid": "54653972-370a-4f3a-9604-73a2e09523fb"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.2",
+            "objective_text": "Follow a rule to find the answer.",
+            "objective_uuid": "16cebe35-be33-424a-88ff-dabd2f42bff7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.5",
+            "objective_text": "Summarize a Truth Table (listing all possibilities).",
+            "objective_uuid": "c371c0ea-b16d-4fd8-b9f0-662c408fd2fa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.6",
+            "objective_text": "Explain T and F notation.",
+            "objective_uuid": "bf763571-1e9c-4fdc-8fe6-0d936e845114"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.12",
+            "objective_text": "Explain De Morgan's Laws via tables.",
+            "objective_uuid": "114859d8-c00d-442b-a8e5-ede033d26fe0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.15",
+            "objective_text": "Defend logical deduction using tables.",
+            "objective_uuid": "976b8b84-0c15-42ed-b439-9fb0a3d86a28"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.9",
+            "objective_text": "Analyze truth tables for compound statements.",
+            "objective_uuid": "b878f53e-c219-48ca-9400-aa56f84424a8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.10",
+            "objective_text": "Interpret Tautologies (always true) and Contradictions (always false).",
+            "objective_uuid": "bcb1ae78-7483-45a5-98ca-2279dc98f2e2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.11",
+            "objective_text": "Connect truth tables to proving equivalence.",
+            "objective_uuid": "76c41ef2-331c-404b-9c9a-dcb54e04d2a1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.14",
+            "objective_text": "Evaluate the validity of an argument form.",
+            "objective_uuid": "46d079e6-abd9-4732-8ffa-fddfec30932e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.13",
+            "objective_text": "Construct tables for 3+ variables.",
+            "objective_uuid": "cc416e15-8894-4233-897b-2a2fc2b076ea"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.3",
+            "topic_name": "Mathematical Logic",
+            "sub_topic_id": "MAT.2.3.4",
+            "sub_topic_name": "Truth Tables and Logical Equivalence",
+            "objective_id": "MAT.2.3.4.16",
+            "objective_text": "Synthesize digital logic design with truth tables.",
+            "objective_uuid": "eff0fb9a-705b-4d93-9608-2d5bcb131db8"
+          }
+        ]
+      }
+    }
+  }
+}

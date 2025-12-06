@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.3.2.3",
+    "name": "The Messiah: Prophet, Priest, and King",
+    "topic_id": "BIB.3.2",
+    "topic_name": "Redemptive Historical Themes",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.3",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Messiah: Prophet, Priest, and King in Redemptive Historical Themes (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.1",
+            "objective_text": "Identify Jesus as the King.",
+            "objective_uuid": "5dd21744-a511-4dc0-b729-3c88ed9515e4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.2",
+            "objective_text": "Name a priest as someone who prays for us.",
+            "objective_uuid": "a7081486-5e44-4778-8dd7-58c63c4d14c5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.8",
+            "objective_text": "Identify 'Christ' as the Greek word for Messiah.",
+            "objective_uuid": "3f08914c-80ba-4025-acf0-205934e6dd0e"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.3",
+            "objective_text": "Recall that a prophet speaks God's words.",
+            "objective_uuid": "b3b9883a-25d6-4610-8476-8dafd3e24fe3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.4",
+            "objective_text": "Observe that Jesus does all three jobs.",
+            "objective_uuid": "986ecbbd-5c62-44ba-8abc-79e1407070ab"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.5",
+            "objective_text": "Summarize what 'Messiah' means (Anointed One).",
+            "objective_uuid": "58084a4e-a11f-4884-8b82-8da0679576a9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.6",
+            "objective_text": "Explain how Jesus is a Prophet (He teaches).",
+            "objective_uuid": "b38f881f-df9f-48eb-91db-6893f3e6113b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.12",
+            "objective_text": "Explain the Kingship of Christ over the nations.",
+            "objective_uuid": "69b925d5-6453-4e0e-897c-d7fcd5d9d9a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.15",
+            "objective_text": "Defend Jesus as the final Word, final Sacrifice, and final Authority.",
+            "objective_uuid": "2e14aeda-513d-490d-96f4-379a6aa1f8bd"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.7",
+            "objective_text": "Compare David (King) and Moses (Prophet) with Jesus.",
+            "objective_uuid": "437c01c4-f153-4ae1-9737-548c6339928c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.9",
+            "objective_text": "Analyze the anointing of leaders in the OT.",
+            "objective_uuid": "43356a50-c748-4800-853d-3403a61245ff"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.10",
+            "objective_text": "Interpret Jesus' high priestly prayer (John 17).",
+            "objective_uuid": "fd69a505-cf90-4521-b25a-10cb6bf5304c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.11",
+            "objective_text": "Connect Melchizedek to Jesus' priesthood.",
+            "objective_uuid": "8d73bcc9-2f0b-4f8a-99eb-079a130629c0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.14",
+            "objective_text": "Evaluate how the church participates in these offices.",
+            "objective_uuid": "f4424f9d-2efc-44c8-af43-6c0e9c0045a6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.13",
+            "objective_text": "Construct a profile of the Munus Triplex (Threefold Office).",
+            "objective_uuid": "49ca7360-2b0b-4e64-814e-fea50bf1dcdd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.2",
+            "topic_name": "Redemptive Historical Themes",
+            "sub_topic_id": "BIB.3.2.3",
+            "sub_topic_name": "The Messiah: Prophet, Priest, and King",
+            "objective_id": "BIB.3.2.3.16",
+            "objective_text": "Synthesize the fulfillment of all OT offices in Christ.",
+            "objective_uuid": "9e94dfdd-5a96-4276-ba1c-fa230121f19f"
+          }
+        ]
+      }
+    }
+  }
+}

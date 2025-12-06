@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.1.3",
+    "name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+    "topic_id": "LIF.4.1",
+    "topic_name": "Communication, Etiquette & Social Intelligence",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Conversational Skills (active listening, asking good questions, sustaining dialogue) in Communication, Etiquette & Social Intelligence (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.3",
+            "objective_text": "Identify a question vs. a story.",
+            "objective_uuid": "37d6115f-fc35-4c59-8c71-14518860c639"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.8",
+            "objective_text": "Identify body language (bored vs. interested).",
+            "objective_uuid": "e2417dde-449f-4816-8e42-a1540a44f1d1"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.4",
+            "objective_text": "Recall that listening is kind.",
+            "objective_uuid": "dbd2d5e3-cd84-4765-9a9e-49f3ab1cb739"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.1",
+            "objective_text": "Look at the person talking.",
+            "objective_uuid": "08a2804f-8a62-4dc6-87e7-92e24b9d6d4e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.2",
+            "objective_text": "Take turns speaking.",
+            "objective_uuid": "ba7320df-e30a-4598-a292-c80b63a5b24b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.5",
+            "objective_text": "Summarize what the other person said.",
+            "objective_uuid": "45bc2a93-0aa9-4141-928f-4310c761abc5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.6",
+            "objective_text": "Explain why we ask questions (to learn/show care).",
+            "objective_uuid": "555b3522-4f91-40e8-9970-049c9650769a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.7",
+            "objective_text": "Maintain eye contact during a chat.",
+            "objective_uuid": "e886141d-cb51-4646-a719-d18d9742c3df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.12",
+            "objective_text": "Explain how to exit a conversation gracefully.",
+            "objective_uuid": "2c192d44-7328-4a69-89ae-4e30bfc24dfe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.15",
+            "objective_text": "Defend the ministry of presence.",
+            "objective_uuid": "f0bbcc25-ff79-450b-a785-7b22c70493cb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.9",
+            "objective_text": "Analyze the 80/20 rule (listen more than talk).",
+            "objective_uuid": "c7f9f683-3fce-4e48-b075-1db894ae8264"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.10",
+            "objective_text": "Interpret open-ended vs. closed questions.",
+            "objective_uuid": "90437b20-a6e9-4f9c-a622-ad469b12f96e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.11",
+            "objective_text": "Connect empathy to listening.",
+            "objective_uuid": "044d3a2e-bee8-492f-b7b7-f7c9cd7c2eb9"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.14",
+            "objective_text": "Evaluate personal listening barriers (interrupting/judging).",
+            "objective_uuid": "7ed1af7a-17a1-46ab-8133-baa2d7d699c7"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.13",
+            "objective_text": "Construct a meaningful dialogue with a stranger.",
+            "objective_uuid": "55a678b9-b681-40ca-90b1-9a7cad045331"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.1",
+            "topic_name": "Communication, Etiquette & Social Intelligence",
+            "sub_topic_id": "LIF.4.1.3",
+            "sub_topic_name": "Conversational Skills (active listening, asking good questions, sustaining dialogue)",
+            "objective_id": "LIF.4.1.3.16",
+            "objective_text": "Synthesize active listening techniques (reflecting/validating).",
+            "objective_uuid": "d38223ae-415a-4c6d-9cc8-b1cae8fa7405"
+          }
+        ]
+      }
+    }
+  }
+}

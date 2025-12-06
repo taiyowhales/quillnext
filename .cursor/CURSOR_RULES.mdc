@@ -1,0 +1,238 @@
+---
+alwaysApply: true
+---
+## 🎨 Design System & UI Rules
+
+### 1. Tailwind CSS v4 Configuration
+**Version:** Tailwind CSS 4.1.17
+
+We do **not** use `tailwind.config.js`. Design tokens are defined in `app/globals.css` using `@theme`. You must use these variables.
+
+**Core Color Palette:**
+* **Primary (Indigo):** `var(--color-qc-primary)` / `#3A3F76`
+* **Secondary (Gold):** `var(--color-qc-secondary)` / `#D9A441`
+* **Background (Parchment):** `var(--color-qc-parchment)` / `#F9F5EF`
+* **Text (Charcoal):** `var(--color-qc-charcoal)` / `#1C1E23`
+
+**Global CSS (`app/globals.css`) Reference:**
+```css
+@import "tailwindcss";
+
+@theme {
+  /* Fonts */
+  --font-display: "Cormorant Garamond", ui-serif, serif;
+  --font-body: "Inter", ui-sans-serif, sans-serif;
+
+  /* Colors */
+  --color-qc-primary: #3A3F76;
+  --color-qc-secondary: #D9A441;
+  --color-qc-charcoal: #1C1E23;
+  --color-qc-warm-stone: #E5E2DC;
+  --color-qc-parchment: #F9F5EF;
+  --color-qc-success: #3DAA75;
+  --color-qc-warning: #E0A03C;
+  --color-qc-error: #B83E3E;
+
+  --color-qc-text-primary: #1C1E23;
+  --color-qc-text-secondary: #3A3F76;
+  --color-qc-text-muted: #6B6E7A;
+
+  --color-qc-border-subtle: #DDD5C7;
+  --color-qc-border-strong: #C8B89F;
+
+  /* Radii */
+  --radius-qc-sm: 6px;
+  --radius-qc-md: 8px;
+  --radius-qc-lg: 12px;
+
+  /* Animations */
+  --animate-qc-fade-in: qc-fade-in 180ms cubic-bezier(0.2, 0, 0.2, 1) both;
+  --animate-qc-shimmer: qc-shimmer 1.25s linear infinite;
+}
+````
+
+### 2\. Implementation Rules for UI
+
+1.  **No Hardcoded Colors:** NEVER use `bg-gray-100` or `text-black`. ALWAYS use `bg-qc-parchment`, `bg-qc-warm-stone`, or `text-qc-charcoal`.
+2.  **Typography:**
+      * **Headings:** Always `font-display` (Cormorant Garamond).
+      * **Body:** Always `font-body` (Inter).
+3.  **Components:**
+      * **Cards:** `bg-white` on `bg-qc-parchment`. Radius `rounded-qc-lg`. Border `border-qc-border-subtle/50`. Shadow `shadow-[0_10px_30px_rgba(10,8,6,0.12)]`.
+      * **Buttons:** Radius `rounded-qc-md`. Primary: `bg-qc-primary`. Secondary: `bg-qc-secondary`.
+4.  **Icons:** Use **Phosphor Icons** (`@phosphor-icons/react@^2.1.10`).
+      * Standard: `weight="regular"`
+      * Active/Nav: `weight="fill"`
+      * Fallback to Lucide ONLY if the metaphor is missing.
+
+-----
+
+## 📂 Project Structure & Conventions
+
+  * **App Router:** `src/app/**/page.tsx`, `layout.tsx`, `loading.tsx`, `error.tsx`.
+  * **Internal API:** `src/server/api/routers/*.ts` (tRPC).
+  * **Database:** `prisma/schema.prisma` defines models.
+  * **Components:** `src/components/*.tsx`. Use PascalCase.
+  * **Utils:** `src/lib/*.ts` or `src/utils/*.ts`. Use camelCase.
+
+### File Strategy
+
+  * **Colocation:** Keep feature-specific components near their routes if not reusable.
+  * **Server Components First:** Default to RSC. Use `"use client"` only for hooks, event handlers, and browser APIs.
+  * **Exports:** Export shared types from `src/types`.
+
+-----
+
+## 💻 Coding Rules
+
+### 1\. General Principles
+
+  * **Type Safety:** No `any`. Use `unknown` + refinement if necessary. Infer types from Zod schemas (`z.infer`).
+  * **Composition:** Prefer small, functional components. Avoid classes.
+  * **Security First:** Validate all inputs at the boundary. No secrets in client code.
+
+### 2\. Next.js 16 (App Router)
+
+  * **Version:** Next.js 16.0.7 (Active LTS, requires Node.js 20.9+)
+  * **Data Fetching:**
+      * **Server Components:** Fetch directly via Prisma or tRPC caller.
+      * **Client Components:** Use tRPC hooks (`api.router.procedure.useQuery`).
+  * **Server Actions:** Use for form mutations. Wrap in `try/catch` and return structured responses.
+  * **Layouts:** Use nested layouts for navigation/shells.
+
+### 3\. Database (Prisma 7 + Postgres)
+
+  * **Version:** Prisma 7.1.0 (Rust-free client, ESM-first)
+  * **Generator:** Use `provider = "prisma-client"` in `schema.prisma` (Prisma 7 standard).
+  * **Schema:** Define models in `prisma/schema.prisma`. Use `PascalCase` for models.
+  * **Migrations:** Use `prisma migrate`. Never manually hack the DB.
+  * **Access:** Rely on Prisma. Avoid raw SQL unless strictly necessary (and then parameterize).
+  * **Efficiency:** Use `include` and `select` to prevent over-fetching.
+
+### 4\. tRPC v11 & API
+
+  * **Version:** tRPC 11.7.2 (stable v11 release)
+  * **Structure:** Routers in `src/server/api/routers`.
+  * **Procedures:**
+      * `publicProcedure` for public access.
+      * `protectedProcedure` for authenticated users.
+  * **Validation:** Every procedure MUST have a `.input(zodSchema)`.
+  * **Error Handling:** Throw `TRPCError` with specific codes (`UNAUTHORIZED`, `NOT_FOUND`).
+
+### 5\. Authentication (Auth.js v5)
+
+  * **Version:** NextAuth.js v5.0.0-beta.30 (Auth.js v5 standard for T3 stack)
+  * **Adapter:** `@auth/prisma-adapter@^2.11.1`
+  * **Server Side:** Use `auth()` from `@/server/auth` to validate requests (v5 API).
+  * **Client Side:** Never trust the session payload alone for security. Re-verify on server.
+  * **Secrets:** Store secrets in env vars only. Access via typed env module.
+
+### 6\. Forms & Validation (Zod v4 + React Hook Form)
+
+  * **Zod Version:** 4.1.13 (⚠️ Breaking changes from v3 - review `z.infer` usage)
+  * **React Hook Form:** 7.68.0
+  * **Resolver:** `@hookform/resolvers@^5.2.2`
+  * **Schema First:** Define Zod schema -\> Infer Type -\> Create Form.
+  * **Integration:** Use `zodResolver` with React Hook Form.
+  * **UI:** Use Shadcn/UI Form components.
+  * **Safety:** Never trust `req.body` or `FormData` without Zod validation.
+
+### 7\. State Management
+
+  * **Server State:** TanStack Query 5.90.12 (via tRPC).
+  * **URL State:** Nuqs 2.8.3 (for search params, filters, pagination).
+  * **Global Client State:** Zustand 5.0.9 (only for UI state like modals, sidebar toggle).
+
+-----
+
+## 🛡️ Critical Security Instructions
+
+1.  **No Secrets:** Never commit `.env`. Never expose API keys to client.
+2.  **Input Validation:** ALL Server Actions and API endpoints must validate inputs with Zod.
+3.  **Auth Checks:** ALL protected routes must check session existence before executing logic.
+4.  **No Hallucinations:** Do not install npm packages unless explicitly requested.
+
+-----
+
+## 🤖 AI Model Configuration
+
+  * **Models:** Gemini 3 Pro, Gemini 2.5 Pro, Flash, and Flash-Lite with intelligent task-based selection
+  * **Provider:** `@ai-sdk/google` (Vercel AI SDK)
+  * **Configuration:** `src/lib/ai/config.ts`
+  * **Selection Strategy:**
+      * **Gemini 3 Pro** ($2/$12): Highest complexity, personality profiling, advanced reasoning
+      * **Gemini 2.5 Pro** ($1.25/$10): Complex reasoning, multi-step tasks (cost-effective alternative)
+      * **Flash** ($0.30/$2.50): Most content generation, Generative UI, quizzes
+      * **Flash-Lite** ($0.10/$0.40): Simple tasks, summarization, text transformations
+  * **Usage:** Use `getModelForTask(AITaskType)` for automatic selection
+  * **Embeddings:** OpenAI `text-embedding-3-small` (1536 dimensions)
+  * **Reference:** [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
+
+## 📚 Canonical Documentation Reference
+
+  * [Next.js 16 App Router](https://nextjs.org/docs/app)
+  * [Tailwind CSS v4](https://tailwindcss.com/docs)
+  * [tRPC v11](https://trpc.io/docs)
+  * [Prisma 7](https://www.prisma.io/docs)
+  * [Auth.js v5](https://authjs.dev)
+  * [Gemini 3 API](https://ai.google.dev/gemini-api/docs/gemini-3)
+  * [Vercel AI SDK](https://sdk.vercel.ai)
+  * [Zod v4](https://zod.dev) (⚠️ Breaking changes from v3)
+  * [Shadcn/UI](https://ui.shadcn.com/docs)
+  * [React Hook Form](https://react-hook-form.com)
+  * [TanStack Query](https://tanstack.com/query/latest)
+  * [Nuqs](https://nuqs.47ng.com)
+  * [React Email](https://react.email/docs)
+
+## 📦 Package Versions (December 2025)
+
+**Core Framework:**
+- Next.js: `16.0.7` (Active LTS)
+- React: `19.2.1`
+- React DOM: `19.2.1`
+- TypeScript: `5.9.3`
+- Node.js Types: `@types/node@^24.10.1` (Node.js 24 Active LTS)
+
+**Styling:**
+- Tailwind CSS: `4.1.17`
+- tailwind-merge: `3.4.0`
+- Phosphor Icons: `@phosphor-icons/react@^2.1.10`
+
+**Database & ORM:**
+- Prisma: `7.1.0` (Rust-free client)
+- @prisma/client: `7.1.0`
+
+**API & Data Fetching:**
+- tRPC: `11.7.2` (stable v11)
+- @trpc/server: `11.7.2`
+- @trpc/client: `11.7.2`
+- @trpc/react-query: `11.7.2`
+- @trpc/next: `11.7.2`
+- TanStack Query: `5.90.12`
+- superjson: `2.2.6`
+
+**Authentication:**
+- next-auth: `5.0.0-beta.30` (Auth.js v5)
+- @auth/prisma-adapter: `2.11.1`
+
+**Forms & Validation:**
+- React Hook Form: `7.68.0`
+- @hookform/resolvers: `5.2.2`
+- Zod: `4.1.13` (⚠️ Breaking changes from v3)
+
+**State Management:**
+- Zustand: `5.0.9`
+- Nuqs: `2.8.3`
+
+**Utilities:**
+- clsx: `2.1.1`
+- class-variance-authority: `0.7.0`
+- @radix-ui/react-slot: `1.1.0`
+
+**Development:**
+- eslint: `9.15.0`
+- eslint-config-next: `16.0.7`
+- tsx: `4.21.0`
+- js-yaml: `4.1.0`
+
+<!-- end list -->

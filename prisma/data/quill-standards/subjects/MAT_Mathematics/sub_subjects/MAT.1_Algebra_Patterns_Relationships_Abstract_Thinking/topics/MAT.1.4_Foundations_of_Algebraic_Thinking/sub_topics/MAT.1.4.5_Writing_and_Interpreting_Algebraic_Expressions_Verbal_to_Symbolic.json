@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.4.5",
+    "name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+    "topic_id": "MAT.1.4",
+    "topic_name": "Foundations of Algebraic Thinking",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Writing and Interpreting Algebraic Expressions (Verbal to Symbolic) in Foundations of Algebraic Thinking (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.1",
+            "objective_text": "Identify math words (add, take away).",
+            "objective_uuid": "314960c2-7b5b-4b46-97a5-508fffd3aa76"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.8",
+            "objective_text": "Identify the variable in a story.",
+            "objective_uuid": "4a5706d7-7140-47a8-86b0-c272bbbf1c8b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.3",
+            "objective_text": "Recall that stories can be math problems.",
+            "objective_uuid": "df0850fd-d921-4c68-8e21-b40fc5cf90b6"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.2",
+            "objective_text": "Write a number sentence for a story.",
+            "objective_uuid": "00a54923-e4ee-4605-bc48-49785d584630"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.4",
+            "objective_text": "Draw a picture of a word problem.",
+            "objective_uuid": "3c94b40d-8928-4a71-9c36-fae594b73b1b"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.5",
+            "objective_text": "Summarize phrases like 'product of', 'quotient of'.",
+            "objective_uuid": "9c05722e-01c5-43d1-8295-e7318b8c9fd7"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.6",
+            "objective_text": "Explain that 'twice' means multiply by 2.",
+            "objective_uuid": "be24da51-95fd-4219-aa93-db72aaf02ee5"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.7",
+            "objective_text": "Translate a sentence into an expression ($3$ more than a number).",
+            "objective_uuid": "a30627c8-28a7-4120-bd4b-20a293de4948"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.12",
+            "objective_text": "Explain the difference between 'less than' and 'less than or equal to'.",
+            "objective_uuid": "c085f281-8fa2-4fb3-8655-eb0d99bde917"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 14.5,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.9",
+            "objective_text": "Analyze word problems to define variables.",
+            "objective_uuid": "cd630c95-2d5a-46b5-b10d-a4be191a93eb"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.10",
+            "objective_text": "Interpret inequalities from text ('at least', 'at most').",
+            "objective_uuid": "6bd9db92-b15a-46f0-b84e-a16cc03a6b30"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.11",
+            "objective_text": "Connect real-world rates to algebraic slopes.",
+            "objective_uuid": "c269368b-ef53-4001-a8cc-86c20e24bf52"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.15",
+            "objective_text": "Defend the translation logic.",
+            "objective_uuid": "d7437d1d-2750-4102-a092-69b797ed9dc1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.14",
+            "objective_text": "Evaluate the constraints of a physical problem.",
+            "objective_uuid": "04613dc5-462a-4fa8-b5a9-5e99413653fc"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.13",
+            "objective_text": "Construct systems of equations from complex narratives.",
+            "objective_uuid": "ca3c1a98-6c43-47cd-b32b-8e4e78acd540"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.4",
+            "topic_name": "Foundations of Algebraic Thinking",
+            "sub_topic_id": "MAT.1.4.5",
+            "sub_topic_name": "Writing and Interpreting Algebraic Expressions (Verbal to Symbolic)",
+            "objective_id": "MAT.1.4.5.16",
+            "objective_text": "Synthesize modeling with optimization.",
+            "objective_uuid": "cac22978-3ec6-4053-bad7-ab0f3f35e1e6"
+          }
+        ]
+      }
+    }
+  }
+}

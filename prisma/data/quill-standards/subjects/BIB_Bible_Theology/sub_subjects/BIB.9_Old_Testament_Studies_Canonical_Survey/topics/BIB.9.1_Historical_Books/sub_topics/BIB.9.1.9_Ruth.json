@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.9.1.9",
+    "name": "Ruth",
+    "topic_id": "BIB.9.1",
+    "topic_name": "Historical Books",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.9",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ruth in Historical Books (Bible & Theology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.1",
+            "objective_text": "Identify Ruth as a loyal daughter-in-law.",
+            "objective_uuid": "f1ef4f37-836f-4756-9c30-41e271119cca"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.2",
+            "objective_text": "Name Boaz as the kind man.",
+            "objective_uuid": "3d263224-9818-4998-9afc-2e0697ed2c19"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.3",
+            "objective_text": "Recall that Ruth picked up grain in the fields.",
+            "objective_uuid": "199b48ef-49cd-4e5c-9def-dbd10ec4cf30"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.4",
+            "objective_text": "Observe that King David came from Ruth's family.",
+            "objective_uuid": "a363f5e3-078d-4911-ae2e-10ff71376f49"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.5",
+            "objective_text": "Summarize the story of Naomi's return to Bethlehem.",
+            "objective_uuid": "ec5d15e9-2dbc-4d77-8a3f-0e3b8aa0467a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.6",
+            "objective_text": "Explain what a 'Kinsman Redeemer' is.",
+            "objective_uuid": "f8a29a9e-d8be-4c10-9cee-1462ae580844"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.12",
+            "objective_text": "Explain the levirate marriage custom.",
+            "objective_uuid": "76ba51db-36db-4a9d-affc-0efb030177cf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.15",
+            "objective_text": "Defend the inclusion of Gentiles in the plan of salvation.",
+            "objective_uuid": "144deedd-acff-4282-9beb-ed0892b96e5a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.7",
+            "objective_text": "Compare the choice of Orpah (left) and Ruth (stayed).",
+            "objective_uuid": "533e0bff-f08d-4fff-8c2f-366bb44e64e8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.8",
+            "objective_text": "Apply the loyalty of Ruth to our friendships.",
+            "objective_uuid": "3217777c-c0b6-415e-a481-41ee532c3d4f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.9",
+            "objective_text": "Analyze the literary structure of the book.",
+            "objective_uuid": "6bb6c62c-f117-4d8c-87a4-ded8aa66de1f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.10",
+            "objective_text": "Interpret the significance of a Moabite in the line of Christ.",
+            "objective_uuid": "ba57934c-d750-4945-8571-9924972d90e7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.11",
+            "objective_text": "Connect the timeline of Ruth to the period of the Judges.",
+            "objective_uuid": "a043dd2e-b713-4764-a26e-a9e9488f2f43"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.14",
+            "objective_text": "Evaluate the role of providence in the book (God is never named as acting directly).",
+            "objective_uuid": "2fd83608-db87-405e-ad87-55b5a06524ca"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.13",
+            "objective_text": "Construct a character study of Boaz as a type of Christ.",
+            "objective_uuid": "91343b9c-b725-475d-a8aa-2f9330756760"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.9",
+            "sub_subject_name": "Old Testament Studies (Canonical Survey)",
+            "topic_id": "BIB.9.1",
+            "topic_name": "Historical Books",
+            "sub_topic_id": "BIB.9.1.9",
+            "sub_topic_name": "Ruth",
+            "objective_id": "BIB.9.1.9.16",
+            "objective_text": "Synthesize the book as a bridge between Judges and the Monarchy.",
+            "objective_uuid": "401761f3-6370-48a8-a3f5-b53ab5d5cd72"
+          }
+        ]
+      }
+    }
+  }
+}

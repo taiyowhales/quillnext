@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.3.2.4",
+    "name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+    "topic_id": "DST.3.2",
+    "topic_name": "Energy Generation & Storage",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sustainability in Energy (efficiency ratings, embodied energy) in Energy Generation & Storage (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.1",
+            "objective_text": "Identify turning off the lights.",
+            "objective_uuid": "9721922e-df03-44d6-a6c8-eacf741d8b3d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.2",
+            "objective_text": "Name wasting energy.",
+            "objective_uuid": "4deebf01-1963-4080-b666-10d1abec97c9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.8",
+            "objective_text": "Identify insulation.",
+            "objective_uuid": "4ad0214d-06dd-4185-a2e2-b22c930eb097"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.3",
+            "objective_text": "Recall that saving energy helps the world.",
+            "objective_uuid": "6323ca34-0e38-4525-b217-dc65564084bb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.4",
+            "objective_text": "Observe an energy sticker on a fridge.",
+            "objective_uuid": "cb97580d-d9ca-486f-be22-9788a5f31e15"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.5",
+            "objective_text": "Summarize Energy Efficiency (getting more for less).",
+            "objective_uuid": "acc3ee5a-3281-43ae-a4d0-150968f88342"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.6",
+            "objective_text": "Explain 'Embodied Energy' (energy used to make the thing).",
+            "objective_uuid": "c559148d-791b-4dd8-b52c-7492820bd9df"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.12",
+            "objective_text": "Explain thermal loss.",
+            "objective_uuid": "24b1f436-b283-4267-94a0-63a2e59a6598"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.15",
+            "objective_text": "Defend the pursuit of net-zero design.",
+            "objective_uuid": "672ff937-104a-4886-b466-307cf8000998"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.7",
+            "objective_text": "Compare an LED bulb with an old bulb.",
+            "objective_uuid": "0c19476b-e639-473a-819e-964f2d250008"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.9",
+            "objective_text": "Analyze energy labels (A+++).",
+            "objective_uuid": "3df43a8c-70cc-4621-ac37-263bb52b3c1c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.10",
+            "objective_text": "Interpret the payback time for solar panels.",
+            "objective_uuid": "f0ba4292-2bcb-4171-bc01-9c26ef42ae1c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.11",
+            "objective_text": "Connect transportation costs to product energy.",
+            "objective_uuid": "eb6feb22-ee3d-455d-b3af-6717213a0f7f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.14",
+            "objective_text": "Evaluate the cradle-to-grave energy cost.",
+            "objective_uuid": "b835d766-3547-485b-92de-25a9720d522d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.13",
+            "objective_text": "Construct an energy audit of a building.",
+            "objective_uuid": "357d57b2-1db7-4c24-b2ef-507dc19a8b5b"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.2",
+            "topic_name": "Energy Generation & Storage",
+            "sub_topic_id": "DST.3.2.4",
+            "sub_topic_name": "Sustainability in Energy (efficiency ratings, embodied energy)",
+            "objective_id": "DST.3.2.4.16",
+            "objective_text": "Synthesize thermodynamics with environmental stewardship.",
+            "objective_uuid": "d3e6ec9f-c759-41b5-b26c-084c4bb30632"
+          }
+        ]
+      }
+    }
+  }
+}

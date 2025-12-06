@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.3.1",
+    "name": "Copyright, Fair Use & Creative Commons",
+    "topic_id": "CPT.4.3",
+    "topic_name": "Information Literacy",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Copyright, Fair Use & Creative Commons in Information Literacy (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.1",
+            "objective_text": "Identify 'Mine' vs. 'Yours'.",
+            "objective_uuid": "2eef9ad2-d2b1-49f9-8747-0e438a9051d3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.3",
+            "objective_text": "Recall stealing is wrong.",
+            "objective_uuid": "b38ef9d1-1257-46a8-a60e-8140aa9a2dfe"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.4",
+            "objective_text": "Name the artist.",
+            "objective_uuid": "4ca9b432-ccc5-4572-bffd-edd8481d94f1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.8",
+            "objective_text": "Identify the © symbol.",
+            "objective_uuid": "963e6b42-d69a-4026-b12c-ca804f0b9bc3"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.2",
+            "objective_text": "Ask permission to use a picture.",
+            "objective_uuid": "b1f09f16-1a9b-459e-a786-ce12e8b3e882"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.5",
+            "objective_text": "Summarize what Copyright means (right to copy).",
+            "objective_uuid": "aa4f0374-70e4-4c6b-8836-76fc98b03794"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.6",
+            "objective_text": "Explain Plagiarism (copying homework).",
+            "objective_uuid": "1e787294-a4ea-487c-81ea-4397ed98e30c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.7",
+            "objective_text": "Use a Creative Commons image.",
+            "objective_uuid": "715d2c01-ee3e-47fc-9c41-c637e7241701"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.12",
+            "objective_text": "Explain different CC licenses (Attribution, Non-Commercial).",
+            "objective_uuid": "6d24e1fc-5de8-4219-9f22-cb5477d9db36"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.15",
+            "objective_text": "Defend intellectual property rights.",
+            "objective_uuid": "441bb48b-de6c-4386-be7f-029bf4d78190"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.9",
+            "objective_text": "Analyze the four factors of Fair Use.",
+            "objective_uuid": "dc9fa36d-641d-4c50-b081-9fdfd7a8136c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.10",
+            "objective_text": "Interpret public domain.",
+            "objective_uuid": "cd3e09c8-7fbe-41d2-ae13-dc6e43ec0bce"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.11",
+            "objective_text": "Connect piracy to theft.",
+            "objective_uuid": "e7e2ce37-5d7a-41de-879a-c2fde9fc1047"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.14",
+            "objective_text": "Evaluate the ethics of AI training on copyrighted art.",
+            "objective_uuid": "09377a82-ad0c-4c4a-8602-76a07b32d2a6"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.13",
+            "objective_text": "Construct a project using legally sourced assets.",
+            "objective_uuid": "cfabfb79-f836-40b4-b8b8-41e152540ee8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.1",
+            "sub_topic_name": "Copyright, Fair Use & Creative Commons",
+            "objective_id": "CPT.4.3.1.16",
+            "objective_text": "Synthesize legal compliance with creativity.",
+            "objective_uuid": "20b82bc1-21c6-49e3-8bac-b11bfb51780e"
+          }
+        ]
+      }
+    }
+  }
+}

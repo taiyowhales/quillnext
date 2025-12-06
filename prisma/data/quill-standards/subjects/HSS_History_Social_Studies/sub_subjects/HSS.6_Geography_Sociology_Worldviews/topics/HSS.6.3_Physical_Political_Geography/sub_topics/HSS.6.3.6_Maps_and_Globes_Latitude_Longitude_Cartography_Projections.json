@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.6.3.6",
+    "name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+    "topic_id": "HSS.6.3",
+    "topic_name": "Physical & Political Geography",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.6",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Maps and Globes (Latitude/Longitude, Cartography, Projections) in Physical & Political Geography (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.1",
+            "objective_text": "Identify a map as a picture of a place.",
+            "objective_uuid": "17332ac9-ce58-4163-9b0f-527ee295e106"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.2",
+            "objective_text": "Name the North, South, East, and West directions.",
+            "objective_uuid": "2abd28bd-6460-420c-845a-9759baa5c7d6"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.3",
+            "objective_text": "Recall that a globe is round like the earth.",
+            "objective_uuid": "5818226c-3d3c-4cf3-ae70-7cb1908bb5eb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.4",
+            "objective_text": "Observe that blue means water on a map.",
+            "objective_uuid": "15054a61-a8a6-42e8-9bf3-9376833d2136"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.5",
+            "objective_text": "Summarize how to use a grid to find a city.",
+            "objective_uuid": "93a1c115-0a64-4c7a-8972-8884220b2870"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.6",
+            "objective_text": "Explain the difference between a map (flat) and globe (round).",
+            "objective_uuid": "01b9cbf2-1ff4-46f3-b423-fa4d32bc42f4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.8",
+            "objective_text": "Use a map key/legend.",
+            "objective_uuid": "81be3615-a576-4c34-9e67-a8e39ddcb685"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.12",
+            "objective_text": "Explain why all flat maps are distorted.",
+            "objective_uuid": "190cf1b7-6038-4313-8591-20eb4b36eae9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.15",
+            "objective_text": "Defend the utility of the Gall-Peters projection vs. Robinson.",
+            "objective_uuid": "896f46e9-4287-48ff-9f70-a730872abd18"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.7",
+            "objective_text": "Compare a physical map with a political map.",
+            "objective_uuid": "3126d1d7-77c3-4f1b-95d2-9b8c41922b68"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.9",
+            "objective_text": "Analyze the distortion in the Mercator Projection.",
+            "objective_uuid": "58031e8b-e2d0-451e-b7b3-c08a5d0a991a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.10",
+            "objective_text": "Interpret Latitude and Longitude coordinates.",
+            "objective_uuid": "a7f8e02a-a624-459d-a425-e271bfcb4221"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.11",
+            "objective_text": "Connect map scale to real-world distance.",
+            "objective_uuid": "82ffa001-bab8-44cd-9e2d-cbdfc34e08c8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.14",
+            "objective_text": "Evaluate the political implications of map design (e.g., size of Africa).",
+            "objective_uuid": "c2c9fcb9-2e9d-4b15-8a51-5eecf5efe8f5"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.13",
+            "objective_text": "Construct an argument for using different projections for different purposes.",
+            "objective_uuid": "aca09ced-0846-44a5-ad9b-f1c09ac3a1b5"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.6",
+            "sub_subject_name": "Geography, Sociology & Worldviews",
+            "topic_id": "HSS.6.3",
+            "topic_name": "Physical & Political Geography",
+            "sub_topic_id": "HSS.6.3.6",
+            "sub_topic_name": "Maps and Globes (Latitude/Longitude, Cartography, Projections)",
+            "objective_id": "HSS.6.3.6.16",
+            "objective_text": "Synthesize cartographic history with exploration.",
+            "objective_uuid": "df0a43a1-7712-44be-909f-f39da26bee03"
+          }
+        ]
+      }
+    }
+  }
+}

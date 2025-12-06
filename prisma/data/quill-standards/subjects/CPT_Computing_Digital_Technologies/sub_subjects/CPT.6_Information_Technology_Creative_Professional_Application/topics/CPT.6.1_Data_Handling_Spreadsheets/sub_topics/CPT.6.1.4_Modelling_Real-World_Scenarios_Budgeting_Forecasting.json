@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.1.4",
+    "name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+    "topic_id": "CPT.6.1",
+    "topic_name": "Data Handling & Spreadsheets",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Modelling Real-World Scenarios (Budgeting, Forecasting) in Data Handling & Spreadsheets (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.1",
+            "objective_text": "Identify money in a list.",
+            "objective_uuid": "9c1ea373-9aac-44be-bcc2-0d5c6c663785"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.2",
+            "objective_text": "Recall saving for a toy.",
+            "objective_uuid": "1ec1bcdc-c4d8-420a-b549-1eac7482d923"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.3",
+            "objective_text": "Name 'Budget'.",
+            "objective_uuid": "4a14c34b-e13b-49f3-9f9f-9b7440558a1a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.4",
+            "objective_text": "Observe spending.",
+            "objective_uuid": "fee9466a-0691-4d5f-b7e7-8db5cbde8adc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.8",
+            "objective_text": "Identify total cost.",
+            "objective_uuid": "52bfce3d-3edd-406c-afe1-a739739313c1"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.5",
+            "objective_text": "Summarize a 'What If' question.",
+            "objective_uuid": "f3315a47-5169-4278-b32e-6c8a08291f82"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.6",
+            "objective_text": "Explain tracking allowance.",
+            "objective_uuid": "9eb88fa4-987c-4937-8284-9d0b3c816706"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.12",
+            "objective_text": "Explain compound interest in a sheet.",
+            "objective_uuid": "2d540724-be41-40f1-8a61-ac15926a2baa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.15",
+            "objective_text": "Defend the assumptions in a forecast.",
+            "objective_uuid": "bc514435-3b76-4c14-a97a-00804c4db22f"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.9",
+            "objective_text": "Analyze a break-even chart.",
+            "objective_uuid": "ea65065c-0d56-4752-9a7d-42ec4cb9527d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.10",
+            "objective_text": "Interpret a savings projection.",
+            "objective_uuid": "30b82103-dd78-4d35-8ddf-aeb32c982f76"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.11",
+            "objective_text": "Connect variables to outcomes (Goal Seek).",
+            "objective_uuid": "0d6467ad-acd4-4e37-9ae8-12bcc6b534e9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.14",
+            "objective_text": "Evaluate sensitivity analysis.",
+            "objective_uuid": "45542f88-5c2e-4877-b583-2522a5ea82dc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.7",
+            "objective_text": "Create a shopping list with prices.",
+            "objective_uuid": "9d20e36f-9bfc-4513-bf11-1b7480a4b380"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.16",
+            "objective_text": "Synthesize statistical modeling functions.",
+            "objective_uuid": "655f784d-9a14-4e85-bc89-fc8eee0a7ac9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.1",
+            "topic_name": "Data Handling & Spreadsheets",
+            "sub_topic_id": "CPT.6.1.4",
+            "sub_topic_name": "Modelling Real-World Scenarios (Budgeting, Forecasting)",
+            "objective_id": "CPT.6.1.4.13",
+            "objective_text": "Construct a financial model for a business plan.",
+            "objective_uuid": "2f3947c5-4538-4872-b49d-217a8082559b"
+          }
+        ]
+      }
+    }
+  }
+}

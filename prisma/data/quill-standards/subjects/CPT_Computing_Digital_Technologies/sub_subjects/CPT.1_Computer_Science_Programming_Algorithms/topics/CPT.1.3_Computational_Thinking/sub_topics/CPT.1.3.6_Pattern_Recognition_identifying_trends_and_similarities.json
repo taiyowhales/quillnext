@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.3.6",
+    "name": "Pattern Recognition (identifying trends and similarities)",
+    "topic_id": "CPT.1.3",
+    "topic_name": "Computational Thinking",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pattern Recognition (identifying trends and similarities) in Computational Thinking (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.1",
+            "objective_text": "Identify repeating shapes (Circle, Square, Circle...).",
+            "objective_uuid": "ce784bc6-569d-4555-a58b-a84da9612a86"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.8",
+            "objective_text": "Identify similarities between two different games.",
+            "objective_uuid": "5286c8b4-b079-4363-9a82-7aed83aed797"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.5,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.3",
+            "objective_text": "Recall that days of the week repeat.",
+            "objective_uuid": "21b35c40-85b7-49dc-ac3f-b192a5d89353"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.4",
+            "objective_text": "Predict the next number in a simple sequence.",
+            "objective_uuid": "978343f7-9399-4575-b98c-50bf7faab0d4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.2",
+            "objective_text": "Sort items by color or size.",
+            "objective_uuid": "81b68329-2999-4e08-9a7f-735ee5b439f5"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.5",
+            "objective_text": "Summarize the rule for a number pattern.",
+            "objective_uuid": "f5fb2012-7894-4c09-975b-9c3e2c48e3b2"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.6",
+            "objective_text": "Explain how knowing a pattern helps solve a puzzle.",
+            "objective_uuid": "6e265745-de75-46bb-96a0-0caaf8078608"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.7",
+            "objective_text": "Group animals by common features.",
+            "objective_uuid": "5c624c58-8858-4453-9442-582fb2a3b743"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.12",
+            "objective_text": "Explain how identifying patterns reduces work.",
+            "objective_uuid": "19bae790-8b8c-4f3f-8c38-f0e16bc3ef4f"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.15",
+            "objective_text": "Defend the use of heuristics in problem solving.",
+            "objective_uuid": "be3e775c-e705-4fb0-afdf-da031f8116e3"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.9",
+            "objective_text": "Analyze data to find trends.",
+            "objective_uuid": "2c0f5b67-49cb-4896-bd4d-af8bba146297"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.10",
+            "objective_text": "Interpret reusable code segments.",
+            "objective_uuid": "dba2b3ba-2927-4e10-b14b-8ecd8179c00f"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.11",
+            "objective_text": "Connect patterns in nature (fractals) to algorithms.",
+            "objective_uuid": "190ed752-3e51-4284-8d4c-8d8aed20f64a"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.14",
+            "objective_text": "Evaluate pattern matching algorithms (Regex).",
+            "objective_uuid": "171e5998-0935-4560-bb68-f6555d4acbd6"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.13",
+            "objective_text": "Construct a general solution based on specific cases.",
+            "objective_uuid": "d6df6c48-1ea3-4831-aef7-b8a0f0b0aedb"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.6",
+            "sub_topic_name": "Pattern Recognition (identifying trends and similarities)",
+            "objective_id": "CPT.1.3.6.16",
+            "objective_text": "Synthesize machine learning concepts (identifying patterns in data).",
+            "objective_uuid": "af654df8-6461-42b4-8956-4664efa748d6"
+          }
+        ]
+      }
+    }
+  }
+}

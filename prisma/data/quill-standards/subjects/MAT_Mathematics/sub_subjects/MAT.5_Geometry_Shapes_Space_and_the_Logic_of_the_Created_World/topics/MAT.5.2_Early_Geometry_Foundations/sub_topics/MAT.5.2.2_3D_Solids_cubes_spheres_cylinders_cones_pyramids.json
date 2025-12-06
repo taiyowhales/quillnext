@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.2.2",
+    "name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+    "topic_id": "MAT.5.2",
+    "topic_name": "Early Geometry Foundations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for 3D Solids (cubes, spheres, cylinders, cones, pyramids) in Early Geometry Foundations (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 6.75,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.1",
+            "objective_text": "Identify a ball (sphere) and a box (cube).",
+            "objective_uuid": "9b26f4dd-5514-4164-bdfa-be3c7da322df"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.2",
+            "objective_text": "Name a cone (ice cream) and cylinder (can).",
+            "objective_uuid": "ab916046-2fa1-4f8a-84ef-02ac721a8b1b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.8",
+            "objective_text": "Identify a sphere's lack of edges.",
+            "objective_uuid": "3afbc257-4541-4b9b-9da7-c805de3e1bd9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.3",
+            "objective_text": "Recall that solids take up space.",
+            "objective_uuid": "30bef589-3bc2-4ef1-82bc-bb33511702ff"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 6,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.4",
+            "objective_text": "Stack blocks to build.",
+            "objective_uuid": "edadf1ad-a55f-4903-ae82-512c7dc02ab9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.5",
+            "objective_text": "Summarize Faces, Edges, and Vertices.",
+            "objective_uuid": "0c0c973e-a170-4a78-ab5c-33ec073c2045"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.6",
+            "objective_text": "Explain the difference between a prism and a pyramid.",
+            "objective_uuid": "ec5f9547-a595-4afc-b1b8-3a611a118af2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.7",
+            "objective_text": "Unfold a box to see its Net.",
+            "objective_uuid": "80779109-55c0-406f-b1ab-f1c8d608b192"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.12",
+            "objective_text": "Explain skew lines.",
+            "objective_uuid": "06c74554-b0b1-4e63-ac6d-2965bb6f444c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.15",
+            "objective_text": "Defend the geometry of molecular structures.",
+            "objective_uuid": "6de85442-1fcb-4f54-b34d-435ebe8f7aa1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.9",
+            "objective_text": "Analyze Euler's Formula for polyhedra ($F + V = E + 2$).",
+            "objective_uuid": "37c06644-a54c-4559-b12e-95af718af84a"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.10",
+            "objective_text": "Interpret cross-sections (slicing a 3D shape).",
+            "objective_uuid": "a97cc32a-521d-4b8c-9a54-e091b40d554f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.11",
+            "objective_text": "Connect 2D rotation to creating 3D solids.",
+            "objective_uuid": "f61782ab-1cf8-4f1d-baf5-4862f91cddf7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.14",
+            "objective_text": "Evaluate the duality of solids (e.g., cube and octahedron).",
+            "objective_uuid": "23fe1a3f-71ef-43d0-8d99-9b9ae81f587b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.13",
+            "objective_text": "Construct the five Platonic Solids.",
+            "objective_uuid": "23af2217-e877-4e85-82c0-0d9aab1e0026"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 36.0,
+        "objectives": [
+          {
+            "complexity": 36,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.2",
+            "topic_name": "Early Geometry Foundations",
+            "sub_topic_id": "MAT.5.2.2",
+            "sub_topic_name": "3D Solids (cubes, spheres, cylinders, cones, pyramids)",
+            "objective_id": "MAT.5.2.2.16",
+            "objective_text": "Synthesize volume calculus (Cavalieri’s Principle).",
+            "objective_uuid": "e6053c25-6b22-4de3-ba6f-673f78f95038"
+          }
+        ]
+      }
+    }
+  }
+}

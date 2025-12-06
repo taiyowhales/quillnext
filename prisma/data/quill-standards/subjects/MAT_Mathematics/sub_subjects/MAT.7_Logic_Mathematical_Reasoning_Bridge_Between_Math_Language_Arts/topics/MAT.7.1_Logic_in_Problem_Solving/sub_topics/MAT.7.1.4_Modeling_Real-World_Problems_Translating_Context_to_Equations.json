@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.1.4",
+    "name": "Modeling Real-World Problems (Translating Context to Equations)",
+    "topic_id": "MAT.7.1",
+    "topic_name": "Logic in Problem Solving",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Modeling Real-World Problems (Translating Context to Equations) in Logic in Problem Solving (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.8",
+            "objective_text": "Identify keywords.",
+            "objective_uuid": "c1780fd5-4f34-498e-a607-a4df70bda0e8"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.3",
+            "objective_text": "Recall that math tells stories about real things.",
+            "objective_uuid": "d71b1162-c72b-4210-8724-9a3ebf3fbd28"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.1",
+            "objective_text": "Draw a picture of a math story.",
+            "objective_uuid": "544b9e30-45ac-49e3-b304-c6b72e4892f0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.2",
+            "objective_text": "Use counters to act it out.",
+            "objective_uuid": "99b96958-13c9-415d-b0e1-709c2810f6c6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.4",
+            "objective_text": "Write a number sentence.",
+            "objective_uuid": "053fb4b5-1af1-40c9-b1c6-99c9ccb1180a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.5",
+            "objective_text": "Summarize the 'Knowns' and 'Unknowns'.",
+            "objective_uuid": "0f0bdfc5-f860-499a-a67e-dd2fa57e418d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.6",
+            "objective_text": "Explain which operation to use (add/subtract/mult/div).",
+            "objective_uuid": "f61c39f4-91d7-44ad-87ee-0963241006da"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.7",
+            "objective_text": "Write an equation with a variable.",
+            "objective_uuid": "f9e8f94b-2b7c-43cd-bff0-c7b6cb8a81d5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.12",
+            "objective_text": "Explain the units of the answer.",
+            "objective_uuid": "57a2b614-c43b-42ca-9f74-4423f4a51413"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.15",
+            "objective_text": "Defend the assumptions made.",
+            "objective_uuid": "4ce2a7e5-527a-4b45-b22f-ab6a327627b4"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.9",
+            "objective_text": "Analyze word problems to define variables.",
+            "objective_uuid": "03080798-d099-4049-8dfa-becc99ff6571"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.10",
+            "objective_text": "Interpret functions representing cost or distance.",
+            "objective_uuid": "d9192cd9-7977-47b7-ac13-2add5447f689"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.11",
+            "objective_text": "Connect slope to rate of change in context.",
+            "objective_uuid": "373b2140-ba17-479e-bdd1-9f6c83e6b29d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.14",
+            "objective_text": "Evaluate the limitations of the model.",
+            "objective_uuid": "72cdd637-f7f1-4eaf-a2e0-f59a1c279c1a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.13",
+            "objective_text": "Construct a mathematical model for a physical system.",
+            "objective_uuid": "3e9e2426-d680-43dc-85ed-0a3d78628b61"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 36.0,
+        "objectives": [
+          {
+            "complexity": 36,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.4",
+            "sub_topic_name": "Modeling Real-World Problems (Translating Context to Equations)",
+            "objective_id": "MAT.7.1.4.16",
+            "objective_text": "Synthesize calculus/algebra to solve the model.",
+            "objective_uuid": "6aedb552-72fb-47c4-a2fe-ffcc0f4c4820"
+          }
+        ]
+      }
+    }
+  }
+}

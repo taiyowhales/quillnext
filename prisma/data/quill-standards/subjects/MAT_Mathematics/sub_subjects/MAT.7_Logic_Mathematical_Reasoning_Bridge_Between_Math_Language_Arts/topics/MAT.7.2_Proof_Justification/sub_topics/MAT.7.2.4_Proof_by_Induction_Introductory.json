@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.2.4",
+    "name": "Proof by Induction (Introductory)",
+    "topic_id": "MAT.7.2",
+    "topic_name": "Proof & Justification",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Proof by Induction (Introductory) in Proof & Justification (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.7",
+            "objective_text": "Identify the base case (starting point).",
+            "objective_uuid": "cae449b7-03b8-4e62-8be5-569b711e3b25"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.3",
+            "objective_text": "Recall that if one hits the next, they all fall.",
+            "objective_uuid": "78129c8e-8d76-4214-8064-feb05d7a81bd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.4",
+            "objective_text": "Observe a chain reaction.",
+            "objective_uuid": "fb6d14be-dd21-44ff-8d6f-735a628b8c5b"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.1",
+            "objective_text": "Set up dominoes.",
+            "objective_uuid": "008bb5a5-f5f0-454c-b421-f8fa903449a6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.2",
+            "objective_text": "Knock down the first one.",
+            "objective_uuid": "24a45992-7ce0-47d4-ab51-7d78a5b4b915"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.5",
+            "objective_text": "Summarize the ladder analogy (Step 1, and if on a step, can go to next).",
+            "objective_uuid": "356e23d4-837a-4213-9b38-cea8a3d9fdcf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.6",
+            "objective_text": "Explain climbing forever.",
+            "objective_uuid": "3c1654db-85a8-49ca-88dd-df95b53c1806"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.8",
+            "objective_text": "Predict the pattern continues.",
+            "objective_uuid": "95b75953-cca0-429f-9e0e-38590136fe3a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.12",
+            "objective_text": "Explain why we need the inductive step.",
+            "objective_uuid": "2e3e3d8f-3454-4538-8708-ae093912e15c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.15",
+            "objective_text": "Defend the 'Domino Effect' logic.",
+            "objective_uuid": "361503f0-11fc-408e-98c2-81416a02de29"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.9",
+            "objective_text": "Analyze the structure: Base Case + Inductive Step.",
+            "objective_uuid": "8114609b-378d-43e0-b1e0-1369725656c5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.10",
+            "objective_text": "Interpret recursive formulas.",
+            "objective_uuid": "6a0475bd-9cc3-40a1-8959-92e080856b6c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.11",
+            "objective_text": "Connect induction to patterns in sums.",
+            "objective_uuid": "b252577a-b123-4efb-bd2a-f19bd08012b5"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.14",
+            "objective_text": "Evaluate sums of series using induction.",
+            "objective_uuid": "994767aa-f799-4fcb-8edb-58cd3d5ff230"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.13",
+            "objective_text": "Construct a formal Proof by Mathematical Induction.",
+            "objective_uuid": "0ffea79c-b9a7-40bc-aef9-c617d1255d0d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.4",
+            "sub_topic_name": "Proof by Induction (Introductory)",
+            "objective_id": "MAT.7.2.4.16",
+            "objective_text": "Synthesize properties of integers.",
+            "objective_uuid": "724e042a-396a-4333-9932-9148283a4173"
+          }
+        ]
+      }
+    }
+  }
+}

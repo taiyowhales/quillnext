@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.2.2",
+    "name": "Major Global Cities",
+    "topic_id": "GEO.3.2",
+    "topic_name": "Global Political Mastery",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Major Global Cities in Global Political Mastery (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.1",
+            "objective_text": "Identify a 'City' as a place with many people and buildings.",
+            "objective_uuid": "d95daea1-148c-4439-890d-60779ac919b4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.2",
+            "objective_text": "Name New York, London, or Paris.",
+            "objective_uuid": "97c1fc13-712a-4070-9215-0ac53dac3950"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.8",
+            "objective_text": "Identify iconic landmarks (Eiffel Tower, Big Ben).",
+            "objective_uuid": "4e47fa90-0c11-4c89-8abe-cb594e990e9a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.3",
+            "objective_text": "Recall that cities are busy places.",
+            "objective_uuid": "51e1c7e6-88ca-41d3-b4f4-693420cf9b73"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.4",
+            "objective_text": "Observe pictures of skyscrapers.",
+            "objective_uuid": "42438870-039d-48b7-9a1c-db52ebdc1dba"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.5",
+            "objective_text": "Locate 20 major world cities on a map.",
+            "objective_uuid": "6bb3e1e9-01ac-4af5-b6d7-17a25af72b61"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.6",
+            "objective_text": "Explain why people live in cities (jobs, schools).",
+            "objective_uuid": "f848fcd0-778c-47ba-a101-98df7dbc3035"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.12",
+            "objective_text": "Explain the concept of a 'Megacity' (10 million+).",
+            "objective_uuid": "c5d9e896-df4b-4c16-b1ee-bb1fbf40a459"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.15",
+            "objective_text": "Defend the role of urbanization in economic development.",
+            "objective_uuid": "b9904c38-bf65-45a7-9d1c-022cc69a623b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.7",
+            "objective_text": "Compare a capital city with a business city (e.g., Washington DC vs. NYC).",
+            "objective_uuid": "1c7587e3-9126-43cf-90d5-5ebf509e764f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.9",
+            "objective_text": "Analyze the difference between a political capital and an economic hub.",
+            "objective_uuid": "95b6c539-10fd-42f9-b78f-61687f1851a8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.10",
+            "objective_text": "Interpret the location of cities near water (ports).",
+            "objective_uuid": "a6e9a320-a16e-4898-84f9-3a310622314f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.11",
+            "objective_text": "Connect the Silk Road to historic cities (Istanbul, Samarkand).",
+            "objective_uuid": "5bbc1c1b-26af-40e4-9470-12b0d474b09c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.14",
+            "objective_text": "Evaluate the strategic importance of 'Alpha' global cities.",
+            "objective_uuid": "feec6c45-2c0d-475b-a5a2-a34e6d112dc2"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.16",
+            "objective_text": "Synthesize the cultural significance of cities like Jerusalem or Mecca.",
+            "objective_uuid": "771c8784-46eb-40a7-a517-72a106798394"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.2",
+            "sub_topic_name": "Major Global Cities",
+            "objective_id": "GEO.3.2.2.13",
+            "objective_text": "Construct a mental map of the global financial network of cities.",
+            "objective_uuid": "e46cd467-eb51-47a8-8a0c-655be514f1ec"
+          }
+        ]
+      }
+    }
+  }
+}

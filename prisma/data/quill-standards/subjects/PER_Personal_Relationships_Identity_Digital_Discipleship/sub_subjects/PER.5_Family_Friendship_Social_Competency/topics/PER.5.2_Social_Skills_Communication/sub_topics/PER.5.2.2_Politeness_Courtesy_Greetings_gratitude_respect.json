@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "PER.5.2.2",
+    "name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+    "topic_id": "PER.5.2",
+    "topic_name": "Social Skills & Communication",
+    "subject_id": "PER",
+    "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+    "sub_subject_id": "PER.5",
+    "sub_subject_name": "Digital Discipleship, Safety & Citizenship",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Politeness & Courtesy (Greetings, gratitude, respect) in Social Skills & Communication (Personal Relationships, Identity & Digital Discipleship)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.8",
+            "objective_text": "Identify rude behavior.",
+            "objective_uuid": "8e9567d3-66e3-4406-ab64-a7bf85504dce"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.3",
+            "objective_text": "Recall holding the door for others.",
+            "objective_uuid": "f12d5980-7c33-4383-aeb2-9276589511f2"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.1",
+            "objective_text": "Say 'Please' and 'Thank you'.",
+            "objective_uuid": "b36f4757-dd5a-484c-af1e-d8976697bc72"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.2",
+            "objective_text": "Greet adults by name.",
+            "objective_uuid": "b56262be-33f3-4aab-b4ab-567d9bb744d6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.4",
+            "objective_text": "Wave hello.",
+            "objective_uuid": "9786620f-bb30-43bd-88de-42f207850f95"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.5",
+            "objective_text": "Summarize why manners matter (makes people feel valued).",
+            "objective_uuid": "f95b36a2-d7f1-41cf-841d-654e582acffa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.6",
+            "objective_text": "Explain how to introduce a friend.",
+            "objective_uuid": "e6706374-e2d9-4315-81ec-7ed8e51df6b7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.7",
+            "objective_text": "Write a thank-you note.",
+            "objective_uuid": "fce1f379-3bd6-4d33-8052-f791a3bc32f6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.12",
+            "objective_text": "Explain RSVP etiquette.",
+            "objective_uuid": "0ddb533f-0195-4caa-9d32-d12d3c0a03fd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.15",
+            "objective_text": "Defend manners as a liturgy of love.",
+            "objective_uuid": "e23eac17-6f9a-4571-aa48-3e2181e5c49b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.9",
+            "objective_text": "Analyze the Golden Rule in social settings.",
+            "objective_uuid": "edc1d3c8-f7e8-4e24-a3e7-f33efad6f9e6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.10",
+            "objective_text": "Interpret the etiquette of different situations (formal vs. casual).",
+            "objective_uuid": "4b6a147f-f551-4d74-9398-31ea3801b197"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.11",
+            "objective_text": "Connect courtesy to Christian witness.",
+            "objective_uuid": "59963097-a86f-47b1-bfdf-165d0d0e1a97"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.14",
+            "objective_text": "Evaluate the impact of civility on culture.",
+            "objective_uuid": "c16e5406-0fb9-4a6d-a3dd-9d6cfaf33018"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.13",
+            "objective_text": "Construct a professional email or letter.",
+            "objective_uuid": "e2c0a4e8-6fda-4caf-a3fa-ce0e40c6d97e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "PER",
+            "subject_name": "Personal Relationships, Identity & Digital Discipleship",
+            "sub_subject_id": "PER.5",
+            "sub_subject_name": "Family, Friendship & Social Competency",
+            "topic_id": "PER.5.2",
+            "topic_name": "Social Skills & Communication",
+            "sub_topic_id": "PER.5.2.2",
+            "sub_topic_name": "Politeness & Courtesy (Greetings, gratitude, respect)",
+            "objective_id": "PER.5.2.2.16",
+            "objective_text": "Synthesize cultural norms with universal respect.",
+            "objective_uuid": "6ce6a704-47f8-4023-bef5-0d180d73b5bf"
+          }
+        ]
+      }
+    }
+  }
+}

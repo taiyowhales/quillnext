@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.1.3",
+    "name": "Imago Dei & Creativity",
+    "topic_id": "CPT.5.1",
+    "topic_name": "Biblical Worldview & Technology",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Imago Dei & Creativity in Biblical Worldview & Technology (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.1",
+            "objective_text": "Identify God as the Maker.",
+            "objective_uuid": "032bbff3-39db-4ad6-af7f-8ea44de0c445"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.2",
+            "objective_text": "Name ourselves as little makers.",
+            "objective_uuid": "3c634120-635a-4329-b426-9f1bb4367d2f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.7",
+            "objective_text": "Identify technology as a gift.",
+            "objective_uuid": "c611abb5-a9ef-4f82-9433-cb4f03eff8cb"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.3",
+            "objective_text": "Recall that we make things because God made us.",
+            "objective_uuid": "e6f3c677-7337-42cf-8720-827544277ebd"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.4",
+            "objective_text": "Observe creativity.",
+            "objective_uuid": "499769f0-caa7-4910-a59f-e92b18393202"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.5",
+            "objective_text": "Summarize 'Imago Dei' (Image of God).",
+            "objective_uuid": "e65a0318-88e5-4f49-8c29-ca8ef506ee2b"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.6",
+            "objective_text": "Explain that coding is a way to create order.",
+            "objective_uuid": "0947226a-0f28-4f22-bf9f-6e79b2559934"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.12",
+            "objective_text": "Explain dominion over data.",
+            "objective_uuid": "c354ad0b-5060-4aac-950e-ff2f4cd6dd84"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.15",
+            "objective_text": "Defend technology as a fulfillment of human purpose.",
+            "objective_uuid": "5a9e5be0-498d-4d29-a06f-79f95f2ef787"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.8",
+            "objective_text": "Compare magic (fake) with technology (real).",
+            "objective_uuid": "71567496-27f6-4acf-8751-2602a320a6f9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.9",
+            "objective_text": "Analyze the Cultural Mandate (Genesis 1:28).",
+            "objective_uuid": "c6cc5685-bc22-4d30-afa8-ae3c7b5329a4"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.10",
+            "objective_text": "Interpret sub-creation (Tolkien's concept).",
+            "objective_uuid": "f2f6e806-65b3-493b-bd54-b7114b490aeb"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.11",
+            "objective_text": "Connect binary logic to God's truth (Yes/No).",
+            "objective_uuid": "f1d4e6ad-3847-46ef-aff3-e4093fe7cbff"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.14",
+            "objective_text": "Evaluate the distinction between creating and discovering.",
+            "objective_uuid": "7b8e34cd-ab00-4bab-861a-685cd4c7fca0"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.13",
+            "objective_text": "Construct a theology of making.",
+            "objective_uuid": "42066847-5e4b-48a1-86d7-854b9db8c8b7"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.1",
+            "topic_name": "Biblical Worldview & Technology",
+            "sub_topic_id": "CPT.5.1.3",
+            "sub_topic_name": "Imago Dei & Creativity",
+            "objective_id": "CPT.5.1.3.16",
+            "objective_text": "Synthesize creative expression with technical skill.",
+            "objective_uuid": "303eb3cd-34df-474e-8164-8a0dc26e2372"
+          }
+        ]
+      }
+    }
+  }
+}

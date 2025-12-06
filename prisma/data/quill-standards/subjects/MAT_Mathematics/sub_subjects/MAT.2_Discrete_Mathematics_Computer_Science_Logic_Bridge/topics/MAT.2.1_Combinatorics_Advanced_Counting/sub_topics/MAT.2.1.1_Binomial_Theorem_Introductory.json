@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.1.1",
+    "name": "Binomial Theorem (Introductory)",
+    "topic_id": "MAT.2.1",
+    "topic_name": "Combinatorics (Advanced Counting)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Binomial Theorem (Introductory) in Combinatorics (Advanced Counting) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.1",
+            "objective_text": "Identify a pattern of numbers (1, 2, 1).",
+            "objective_uuid": "e71c558b-a28c-4f63-9bc1-c9bbd33ab6a0"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.8",
+            "objective_text": "Identify the coefficients.",
+            "objective_uuid": "821bf60b-67bb-47e5-a471-60cf2ae5a7e6"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 4.67,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.3",
+            "objective_text": "Recall expanding shapes.",
+            "objective_uuid": "193f8b36-fbc5-4cdb-9d75-3f2804583700"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.4",
+            "objective_text": "Observe symmetry.",
+            "objective_uuid": "61f370b6-dbd1-4d44-84ed-18f08a804732"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.6",
+            "objective_text": "Explain how to find the next row (add numbers above).",
+            "objective_uuid": "51cc2736-b0bc-4d3d-a4ef-1629baf06658"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.2",
+            "objective_text": "Stack blocks in a pyramid.",
+            "objective_uuid": "1234e870-92fd-4f41-a5fe-919619e0a2da"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.5",
+            "objective_text": "Summarize Pascal's Triangle patterns.",
+            "objective_uuid": "8be9ecaf-5435-4a36-b2e4-c9777bfc6158"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.7",
+            "objective_text": "Expand $(x+y)^2$.",
+            "objective_uuid": "3d44a712-1a64-4efa-98e6-f12fe02dba9e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.12",
+            "objective_text": "Explain the symmetry of the coefficients.",
+            "objective_uuid": "44618fbe-9722-43df-8913-6ee5c371c87a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.15",
+            "objective_text": "Defend the relationship to the normal distribution.",
+            "objective_uuid": "d5e0dd40-58ac-4df9-9d75-3c24b6cafd80"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.9",
+            "objective_text": "Analyze the connection between Pascal's Triangle and Combinations.",
+            "objective_uuid": "35cebee5-4515-4237-b3a6-18320cd72e38"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.10",
+            "objective_text": "Interpret the expansion of $(a+b)^n$.",
+            "objective_uuid": "c6024cd5-349e-462f-8d60-8a8196d4622f"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.11",
+            "objective_text": "Connect probability of coin flips to binomial coefficients.",
+            "objective_uuid": "dbbe8724-04fe-42ce-9eda-cdacf8deb5dc"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.14",
+            "objective_text": "Evaluate specific terms in a high-power expansion.",
+            "objective_uuid": "a63cfbc1-f354-4e5c-ad1c-53b2def4f11e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.13",
+            "objective_text": "Construct the full binomial expansion using sigma notation.",
+            "objective_uuid": "cfa31e7f-c8bd-48a8-a871-f2c16b39a5f0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.1",
+            "topic_name": "Combinatorics (Advanced Counting)",
+            "sub_topic_id": "MAT.2.1.1",
+            "sub_topic_name": "Binomial Theorem (Introductory)",
+            "objective_id": "MAT.2.1.1.16",
+            "objective_text": "Synthesize algebraic proof with combinatorial identity.",
+            "objective_uuid": "c3da108b-ab13-4724-bc2e-9e1bd27f4d1f"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.4.5.3",
+    "name": "Weather Hazards",
+    "topic_id": "GEO.4.5",
+    "topic_name": "Weather, Climate & Atmospheric Systems",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.4",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Weather Hazards in Weather, Climate & Atmospheric Systems (Geography)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.1",
+            "objective_text": "Identify a storm with thunder and lightning.",
+            "objective_uuid": "159b16b9-eff5-4e6e-892b-f729e71ab329"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.2",
+            "objective_text": "Name a Tornado or Hurricane as a big wind.",
+            "objective_uuid": "4e941856-be2e-48e4-bbc7-3b5a570cb8fd"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.8",
+            "objective_text": "Identify the 'Eye' of a hurricane.",
+            "objective_uuid": "4c663536-f899-4346-8eda-f4ba80775fe9"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.3",
+            "objective_text": "Recall that we stay inside during bad weather.",
+            "objective_uuid": "0723cf0e-350d-4eb6-9caf-62c83d827a79"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.4",
+            "objective_text": "Observe weather warnings on TV.",
+            "objective_uuid": "f538ab05-bd34-4fc9-aa3c-3781189e953d"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.5",
+            "objective_text": "Summarize how a hurricane forms over warm water.",
+            "objective_uuid": "5e0db74a-8a43-4a1b-8921-b00f84719abe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.6",
+            "objective_text": "Explain the difference between a Watch and a Warning.",
+            "objective_uuid": "20d637d2-2203-4208-b362-5f96b29bb7a1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.12",
+            "objective_text": "Explain the storm surge effect.",
+            "objective_uuid": "eff7ce04-4eb0-499c-8709-46e5fd0f59cc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.15",
+            "objective_text": "Defend the importance of preparation and building codes.",
+            "objective_uuid": "f407443c-6c49-4e04-842d-87e31bff4cb8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.7",
+            "objective_text": "Compare a blizzard with a drought.",
+            "objective_uuid": "dea13188-eca3-4179-af21-651b09987f35"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.9",
+            "objective_text": "Analyze the conditions needed for tropical storms (27°C water, Coriolis).",
+            "objective_uuid": "5b0077b6-9927-4c60-ae6a-b6b1cae0a95c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.10",
+            "objective_text": "Interpret the Saffir-Simpson scale.",
+            "objective_uuid": "13813f92-ca10-46df-af88-ac0487ff7895"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.11",
+            "objective_text": "Connect 'Tornado Alley' to US geography.",
+            "objective_uuid": "e325f732-245d-41d4-8b8c-2761a4be95aa"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.14",
+            "objective_text": "Evaluate the economic impact of extreme weather events.",
+            "objective_uuid": "a0fbc5e0-5d50-473f-bc04-04c6d336bf88"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.13",
+            "objective_text": "Construct a tracking map of a historical storm.",
+            "objective_uuid": "fe80f78f-61c5-4391-989c-8c55d5abcfcb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.5",
+            "topic_name": "Weather, Climate & Atmospheric Systems",
+            "sub_topic_id": "GEO.4.5.3",
+            "sub_topic_name": "Weather Hazards",
+            "objective_id": "GEO.4.5.3.16",
+            "objective_text": "Synthesize the relationship between climate change and storm intensity.",
+            "objective_uuid": "e8f6d027-0a72-4f05-9bb7-cabffaf66abc"
+          }
+        ]
+      }
+    }
+  }
+}

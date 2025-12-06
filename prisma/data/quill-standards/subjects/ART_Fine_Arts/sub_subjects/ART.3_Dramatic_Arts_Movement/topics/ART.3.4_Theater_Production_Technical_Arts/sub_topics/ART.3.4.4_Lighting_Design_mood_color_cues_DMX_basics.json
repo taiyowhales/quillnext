@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ART.3.4.4",
+    "name": "Lighting Design (mood, color, cues, DMX basics)",
+    "topic_id": "ART.3.4",
+    "topic_name": "Theater Production & Technical Arts",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.3",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Lighting Design (mood, color, cues, DMX basics) in Theater Production & Technical Arts (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.1",
+            "objective_text": "Identify bright lights and dark shadows.",
+            "objective_uuid": "d49acd8a-1744-4e73-a939-da442ea1dcd8"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.2",
+            "objective_text": "Name colors used for night (blue) or day (yellow).",
+            "objective_uuid": "ebbc5ed1-e61e-4ccf-b928-a6f2149cdfa5"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.8",
+            "objective_text": "Identify a blackout.",
+            "objective_uuid": "cdb86ec4-b944-4652-a033-7749d758c322"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.3",
+            "objective_text": "Recall that lights help us see the actors.",
+            "objective_uuid": "d64a8592-ba0f-4801-b9f2-97e3c7c020b4"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.4",
+            "objective_text": "Observe a spotlight.",
+            "objective_uuid": "31bb38ac-241d-4b18-91a0-3c6fd6456f73"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.5",
+            "objective_text": "Summarize how light changes the mood.",
+            "objective_uuid": "ccbdb7eb-96d5-470c-8813-86dbc648a88a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.6",
+            "objective_text": "Explain what a 'Gel' is (color filter).",
+            "objective_uuid": "a3c5918a-76ad-4115-a10b-28e3e5e7ee82"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.12",
+            "objective_text": "Explain the difference between a Source 4 and a PAR can.",
+            "objective_uuid": "f606cc96-2cb6-4a57-9618-d7912a9fa0ad"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.15",
+            "objective_text": "Defend the psychological impact of lighting angles.",
+            "objective_uuid": "9241bbe2-7bbd-4aab-8e3d-940225a14c6b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.7",
+            "objective_text": "Compare warm light vs. cool light.",
+            "objective_uuid": "38d7273e-f535-43bd-bbe3-bc5686d6a8b5"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.9",
+            "objective_text": "Analyze the McCandless Method (45-degree angles).",
+            "objective_uuid": "bd3feca9-d1f2-4e55-9cdb-89b79a33725b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.10",
+            "objective_text": "Interpret a lighting cue sheet.",
+            "objective_uuid": "c92c3b5b-9aa5-4286-895d-03fc85e914bc"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.11",
+            "objective_text": "Connect intensity to focal point.",
+            "objective_uuid": "0960285e-ec1a-41ba-aa8d-c52e9021dae4"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.14",
+            "objective_text": "Evaluate the use of gobos for texture.",
+            "objective_uuid": "1c1df5d9-a735-4802-98a5-5dabc1fbb25e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.13",
+            "objective_text": "Construct a lighting plot for a production.",
+            "objective_uuid": "80a42d5f-cfef-4890-ac2f-6c5033cdcfff"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.3",
+            "sub_subject_name": "Dramatic Arts & Movement",
+            "topic_id": "ART.3.4",
+            "topic_name": "Theater Production & Technical Arts",
+            "sub_topic_id": "ART.3.4.4",
+            "sub_topic_name": "Lighting Design (mood, color, cues, DMX basics)",
+            "objective_id": "ART.3.4.4.16",
+            "objective_text": "Synthesize technical programming (DMX) with artistic vision.",
+            "objective_uuid": "a6c8a61d-efc6-4079-9b90-99c306034caa"
+          }
+        ]
+      }
+    }
+  }
+}

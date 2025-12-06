@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.4.4",
+    "name": "Venn Diagrams and Visualizing Relationships",
+    "topic_id": "MAT.2.4",
+    "topic_name": "Set Theory (Foundations of Math)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Venn Diagrams and Visualizing Relationships in Set Theory (Foundations of Math) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.2",
+            "objective_text": "Identify the middle part where hoops overlap.",
+            "objective_uuid": "a7bd1acc-9ce3-459d-a8e1-4b064ec4d835"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.8",
+            "objective_text": "Identify the outside box (Universe).",
+            "objective_uuid": "a3e9164d-0645-4f5d-9da6-4927efe9ebc2"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.3",
+            "objective_text": "Recall that one thing can be two things (red AND square).",
+            "objective_uuid": "30474f6c-82d1-4990-a791-445466f15751"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.4",
+            "objective_text": "Observe sorting.",
+            "objective_uuid": "29a88210-1f43-43d9-a946-e576f21c3cd4"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.7",
+            "objective_text": "Place numbers in the correct region.",
+            "objective_uuid": "aa25166c-b6ef-4987-a41b-b49d6f32ed0d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.1",
+            "objective_text": "Sort shapes into two hoops.",
+            "objective_uuid": "e9a8d5d9-7654-4fbb-8c82-00dfebed032b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.5",
+            "objective_text": "Summarize how a Venn Diagram works.",
+            "objective_uuid": "2db48d91-46b5-41a1-ab5a-9ca36fbc6829"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.6",
+            "objective_text": "Explain regions in a 2-circle diagram.",
+            "objective_uuid": "e1bba4ea-119f-4b99-a9a0-f92d923c2894"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.12",
+            "objective_text": "Explain how to use Venns for solving logic puzzles.",
+            "objective_uuid": "fd2fd399-1b29-4143-bc95-c4a396fbde4e"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.15",
+            "objective_text": "Defend the limitations of Venns for 4+ sets.",
+            "objective_uuid": "9556d201-f7af-4e5e-a85d-9345b99a07f9"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.9",
+            "objective_text": "Analyze a 3-circle Venn Diagram.",
+            "objective_uuid": "6e781d46-2644-4b9a-970a-5a37f6014791"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.10",
+            "objective_text": "Interpret the region $(A \\cap B) \\cup C$.",
+            "objective_uuid": "ac3503e1-b0c1-4ec9-9584-403a54c51c28"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.11",
+            "objective_text": "Connect shading to logical statements.",
+            "objective_uuid": "491ce0eb-af2f-46db-a128-0c64beb94165"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.14",
+            "objective_text": "Evaluate survey data using Venn regions.",
+            "objective_uuid": "23606854-b0a9-4309-9b9f-8be7492b1cc8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.13",
+            "objective_text": "Construct Venn diagrams to prove set identities.",
+            "objective_uuid": "e0d48563-c34b-43bf-9d9e-7c030697ed7f"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.4",
+            "topic_name": "Set Theory (Foundations of Math)",
+            "sub_topic_id": "MAT.2.4.4",
+            "sub_topic_name": "Venn Diagrams and Visualizing Relationships",
+            "objective_id": "MAT.2.4.4.16",
+            "objective_text": "Synthesize visual logic with algebraic set theory.",
+            "objective_uuid": "c6afd299-de00-4334-a723-49d2a8934932"
+          }
+        ]
+      }
+    }
+  }
+}

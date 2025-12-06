@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.2.6",
+    "name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+    "topic_id": "LIF.5.2",
+    "topic_name": "Basic Home Maintenance & Repair",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing) in Basic Home Maintenance & Repair (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.1",
+            "objective_text": "Identify falling leaves.",
+            "objective_uuid": "89e6a7d2-862e-40f2-ad96-dad269bbe9bc"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.3",
+            "objective_text": "Name a shovel for snow.",
+            "objective_uuid": "a50d3907-88fa-446d-ae0a-0c5cec6b4db4"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.8",
+            "objective_text": "Identify the air conditioner unit.",
+            "objective_uuid": "79cee436-6a6e-4ec5-b0e2-f7ed996a7375"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.2",
+            "objective_text": "Recall that we get the house ready for winter.",
+            "objective_uuid": "d7355d4e-23ce-4a51-a426-227a74a82273"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.4",
+            "objective_text": "Observe changing a furnace filter.",
+            "objective_uuid": "6b99c835-9bd0-4f14-ac4d-8f19a87f5147"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.5",
+            "objective_text": "Summarize why we clean gutters (water flow).",
+            "objective_uuid": "0089679e-59bd-49f2-bcc3-108c49d3235d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.6",
+            "objective_text": "Explain why pipes can freeze.",
+            "objective_uuid": "d6c8690c-fb5d-4fd7-9fb1-94a0adacd61f"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.7",
+            "objective_text": "Help rake leaves.",
+            "objective_uuid": "9644689c-4560-43d9-86d8-496ee8c56f5b"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.12",
+            "objective_text": "Explain preventative maintenance.",
+            "objective_uuid": "83478e51-c550-48a3-b077-672021928340"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.15",
+            "objective_text": "Defend the cost-savings of regular care.",
+            "objective_uuid": "d5ebda5c-6840-4c4e-91f8-b49c1c37870e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.9",
+            "objective_text": "Analyze the airflow restriction of a dirty filter.",
+            "objective_uuid": "7e3bf4e7-1ca1-4783-ad06-13bf4225c112"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.10",
+            "objective_text": "Interpret a seasonal maintenance checklist.",
+            "objective_uuid": "3d33caf1-ddf2-4b52-9838-df11f2526865"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.11",
+            "objective_text": "Connect disconnecting hoses to preventing freezing.",
+            "objective_uuid": "5ead2ebe-5ee9-4ba1-9bf6-6c23739ce34f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.14",
+            "objective_text": "Evaluate the lifespan of home systems.",
+            "objective_uuid": "234a51a2-76d8-40ba-9bd1-944f2c13c727"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.13",
+            "objective_text": "Construct an annual maintenance calendar.",
+            "objective_uuid": "5e253cfa-1ff4-436e-bf06-1c7ef9d6ca2f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.2",
+            "topic_name": "Basic Home Maintenance & Repair",
+            "sub_topic_id": "LIF.5.2.6",
+            "sub_topic_name": "Seasonal Maintenance (HVAC filters, gutter cleaning, winterizing)",
+            "objective_id": "LIF.5.2.6.16",
+            "objective_text": "Synthesize systems thinking with home ownership.",
+            "objective_uuid": "e571829a-91dd-43a0-bc69-1e76142b3653"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.6.2",
+    "name": "Scale Factors and Scale Drawings (Maps and Models)",
+    "topic_id": "MAT.4.6",
+    "topic_name": "Ratios, Proportion & Scaling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Scale Factors and Scale Drawings (Maps and Models) in Ratios, Proportion & Scaling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.1",
+            "objective_text": "Identify a map as a small picture of a big place.",
+            "objective_uuid": "61d62d18-55df-4779-9ddb-0f51eeeae831"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.8",
+            "objective_text": "Identify scale models.",
+            "objective_uuid": "7d948ba4-080d-43d6-85df-b3316cd3daff"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.3",
+            "objective_text": "Recall that small things represent big things.",
+            "objective_uuid": "6518c438-f73e-4b48-9d6d-1fc4b488b32a"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.4",
+            "objective_text": "Observe zooming in and out.",
+            "objective_uuid": "cc704d41-3b16-41d0-bbaa-a0d5208f5223"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.2",
+            "objective_text": "Build a model car.",
+            "objective_uuid": "debafb82-89b7-4bb8-aea2-aa7975e9f46a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.5",
+            "objective_text": "Summarize what a Scale is (e.g., 1 inch = 1 mile).",
+            "objective_uuid": "79e482b3-8f82-4517-90d9-45c39fe71ade"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.6",
+            "objective_text": "Explain zooming.",
+            "objective_uuid": "ab97133f-b65e-432f-a089-9f66ae03ae50"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.7",
+            "objective_text": "Measure distances on a map.",
+            "objective_uuid": "f0b0e028-4b9c-40a4-b01e-65239e15fb21"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.12",
+            "objective_text": "Explain how to calculate actual size from a model.",
+            "objective_uuid": "f9bdf2ac-992d-452d-9a33-09bc16ec3e66"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.15",
+            "objective_text": "Defend the use of similarity in indirect measurement.",
+            "objective_uuid": "fca2ebcd-1f33-443f-bd28-3acd9fafb830"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.9",
+            "objective_text": "Analyze the effect of scale factor on length vs. area.",
+            "objective_uuid": "2f83d243-3e15-4c23-9044-38260a6d6f2c"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.10",
+            "objective_text": "Interpret blueprints.",
+            "objective_uuid": "4aab724a-f0e6-4a80-9db7-0ca45dfef1d5"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.11",
+            "objective_text": "Connect dilation to scale factor.",
+            "objective_uuid": "6f62dcc6-cd17-45f2-a7cf-d2b3bf29093e"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.14",
+            "objective_text": "Evaluate the square-cube law (scaling area vs. volume).",
+            "objective_uuid": "af44dec2-def4-4018-88a6-75d9d09243b2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.13",
+            "objective_text": "Construct a scale drawing with precision.",
+            "objective_uuid": "5d07d21b-1b61-4d47-b869-434b1db069fa"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.6",
+            "topic_name": "Ratios, Proportion & Scaling",
+            "sub_topic_id": "MAT.4.6.2",
+            "sub_topic_name": "Scale Factors and Scale Drawings (Maps and Models)",
+            "objective_id": "MAT.4.6.2.16",
+            "objective_text": "Synthesize fractals with self-similarity.",
+            "objective_uuid": "b77ba801-d9bb-4a98-be8b-033b2459f83f"
+          }
+        ]
+      }
+    }
+  }
+}

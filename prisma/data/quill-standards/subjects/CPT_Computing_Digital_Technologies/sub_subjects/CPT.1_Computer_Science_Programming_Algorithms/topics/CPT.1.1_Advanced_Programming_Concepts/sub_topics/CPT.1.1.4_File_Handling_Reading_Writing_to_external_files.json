@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.4",
+    "name": "File Handling (Reading/Writing to external files)",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for File Handling (Reading/Writing to external files) in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.1",
+            "objective_text": "Identify opening a file.",
+            "objective_uuid": "f532f243-bc48-4633-88ea-9ca6f3bf97e0"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.4",
+            "objective_text": "Name a text file.",
+            "objective_uuid": "f1079b30-50e5-4e7e-85a7-ee585bdb3254"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.8",
+            "objective_text": "Identify 'Open', 'Read', 'Write', 'Close'.",
+            "objective_uuid": "26ebab27-3a37-4a61-b554-958020b01978"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 21.5,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.3",
+            "objective_text": "Recall that the computer remembers.",
+            "objective_uuid": "12c42e42-ee51-47e8-9e3e-7a44ffba09e8"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.2",
+            "objective_text": "Save a picture.",
+            "objective_uuid": "a3b93acd-47c1-4d4c-b4b8-61f69ac4f9ec"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.5",
+            "objective_text": "Summarize reading text from a file.",
+            "objective_uuid": "c0d4ac23-90ea-474b-b200-d4a60ea6394d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.6",
+            "objective_text": "Explain writing (saving) data.",
+            "objective_uuid": "ddecbbfe-e925-4f2f-b59b-52a2228806a6"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.12",
+            "objective_text": "Explain file permissions.",
+            "objective_uuid": "ab9d3522-2c03-4105-a035-4bd4d5a586ad"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.15",
+            "objective_text": "Defend data persistence strategies.",
+            "objective_uuid": "0cb2c47a-f629-4331-87f8-6b28b509510b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.9",
+            "objective_text": "Analyze file paths (absolute vs. relative).",
+            "objective_uuid": "5d9a955c-c185-4002-a88b-fa2b7748b7a1"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.10",
+            "objective_text": "Interpret appending vs. overwriting.",
+            "objective_uuid": "9ac981f4-3870-4aeb-a3d5-8006073e128b"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.11",
+            "objective_text": "Connect CSV files to spreadsheets.",
+            "objective_uuid": "e84cec6a-3a08-4b12-9178-4485561678d9"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.14",
+            "objective_text": "Evaluate exception handling in file I/O.",
+            "objective_uuid": "46bdc660-2a92-485c-a3b0-2718f03d5bfd"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.7",
+            "objective_text": "Create a high-score file.",
+            "objective_uuid": "36c374a0-7fae-4607-b46c-926924f73f08"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.13",
+            "objective_text": "Construct a database connection.",
+            "objective_uuid": "c92bc1ae-1182-4efa-841e-bbad14bb75f0"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.4",
+            "sub_topic_name": "File Handling (Reading/Writing to external files)",
+            "objective_id": "CPT.1.1.4.16",
+            "objective_text": "Synthesize serialization (JSON/XML).",
+            "objective_uuid": "a2beeb75-5865-46d6-ae00-7b8a8d7fbd71"
+          }
+        ]
+      }
+    }
+  }
+}

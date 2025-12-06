@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.3.1",
+    "name": "Applications in Real World Problems (Navigation, Surveying)",
+    "topic_id": "MAT.11.3",
+    "topic_name": "Triangle Trigonometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Applications in Real World Problems (Navigation, Surveying) in Triangle Trigonometry (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 14.85,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.1",
+            "objective_text": "Identify a map.",
+            "objective_uuid": "ecabd8fd-197f-4a1f-80b8-b4a349f0a709"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.2",
+            "objective_text": "Name North, South, East, West.",
+            "objective_uuid": "bebece4f-05ca-4a91-993a-ec4a855a6016"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.8",
+            "objective_text": "Identify triangulation (finding a spot using two others).",
+            "objective_uuid": "61a16849-26d4-4785-aa22-6e61b936e680"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.3",
+            "objective_text": "Recall that sailors use math.",
+            "objective_uuid": "0555c627-9353-40de-8457-6ab96bbe619b"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.4",
+            "objective_text": "Observe a compass.",
+            "objective_uuid": "18a1843b-ecb4-4e99-9692-c547c5d3f542"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.5",
+            "objective_text": "Summarize how to find distance without walking it.",
+            "objective_uuid": "ffa41f39-e278-40ca-8147-92463ec3ce7d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.6",
+            "objective_text": "Explain bearings (direction in degrees).",
+            "objective_uuid": "0ba8a820-bf9d-4f71-a45c-dead414302e6"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.7",
+            "objective_text": "Draw a path given directions.",
+            "objective_uuid": "8092f4cd-bf29-425f-8733-c84393f149ef"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.12",
+            "objective_text": "Explain measuring the width of a river from the bank.",
+            "objective_uuid": "7752a1cd-53b4-4ae9-bbe5-ee124b4ca7c8"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.15",
+            "objective_text": "Defend the historical importance of trig in exploration.",
+            "objective_uuid": "cfb73615-42f9-45db-8575-e091760a02e8"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.9",
+            "objective_text": "Analyze bearings (e.g., N 30 E).",
+            "objective_uuid": "2d883eb0-e419-4404-af3c-78938a449cf2"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.10",
+            "objective_text": "Interpret vectors for wind and speed.",
+            "objective_uuid": "e19e7dd3-9317-4683-afed-7dceb937ac89"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.11",
+            "objective_text": "Connect trigonometry to GPS concepts.",
+            "objective_uuid": "ce258474-8cea-4b2c-af58-0a10ae16acac"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.14",
+            "objective_text": "Evaluate the impact of curvature on long-distance surveying.",
+            "objective_uuid": "b73c69ef-a47b-41f4-bfb5-1b48130dbf38"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.13",
+            "objective_text": "Construct a surveying plan for a plot of land.",
+            "objective_uuid": "0b7de3af-8e51-4074-a0d0-2ce82794cb32"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.1",
+            "sub_topic_name": "Applications in Real World Problems (Navigation, Surveying)",
+            "objective_id": "MAT.11.3.1.16",
+            "objective_text": "Synthesize physics (force vectors) with trig applications.",
+            "objective_uuid": "1b8aaac7-bef9-418b-b842-472f977136af"
+          }
+        ]
+      }
+    }
+  }
+}

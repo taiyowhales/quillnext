@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.3.4",
+    "name": "UI Components (buttons, lists, input fields)",
+    "topic_id": "CPT.3.3",
+    "topic_name": "Mobile App Development (Introductory)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for UI Components (buttons, lists, input fields) in Mobile App Development (Introductory) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.1",
+            "objective_text": "Identify a button to touch.",
+            "objective_uuid": "b4d9132d-99c3-497c-b033-7f6162a37837"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.3",
+            "objective_text": "Recall typing in a box.",
+            "objective_uuid": "aafcb947-c319-4172-9d83-94d6deee7b86"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.4",
+            "objective_text": "Name a slider.",
+            "objective_uuid": "fa88ffce-08bc-41b0-8ba9-b5c3b8c8d9f9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.8",
+            "objective_text": "Identify the keyboard popping up.",
+            "objective_uuid": "312048c3-94d3-4faf-942f-2ff21e37a62d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.2",
+            "objective_text": "Scroll a list.",
+            "objective_uuid": "ebdf2510-5332-4055-b26c-8a21294266e9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.5",
+            "objective_text": "Summarize standard phone parts (switch, checkbox).",
+            "objective_uuid": "dc673ab1-05ca-4612-8683-60fec0958ea3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.6",
+            "objective_text": "Explain a 'Toast' (pop-up message).",
+            "objective_uuid": "e96c114b-fe54-4bb0-92a1-1df94d8da4ea"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.12",
+            "objective_text": "Explain the App Bar.",
+            "objective_uuid": "305e974f-3ef6-4973-bdaf-c47c5f9ba2d5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.15",
+            "objective_text": "Defend native vs. web app choices.",
+            "objective_uuid": "4d24f4ce-e6b3-41e3-839a-0d4a4f211b7e"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.9",
+            "objective_text": "Analyze Material Design (Google) vs. Human Interface (Apple).",
+            "objective_uuid": "3f372ba4-98dd-4b8c-a6c3-e412b3c52994"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.10",
+            "objective_text": "Interpret responsive layouts on different screens.",
+            "objective_uuid": "405888b4-15b9-483a-971c-546854faf3d2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.11",
+            "objective_text": "Connect components to functions.",
+            "objective_uuid": "86a9a926-8bc9-4f01-9560-6bce0d3239f2"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.14",
+            "objective_text": "Evaluate component reusability.",
+            "objective_uuid": "9f39cb75-ab4e-4185-adb2-6066e4ed97ec"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.7",
+            "objective_text": "Design a login screen.",
+            "objective_uuid": "0ad804e1-0162-4c85-acd4-2c3134484bbd"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.13",
+            "objective_text": "Construct a UI using a framework (React Native/Flutter concepts).",
+            "objective_uuid": "a8085b8a-c596-4121-bbef-ae28af5189ec"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.3",
+            "topic_name": "Mobile App Development (Introductory)",
+            "sub_topic_id": "CPT.3.3.4",
+            "sub_topic_name": "UI Components (buttons, lists, input fields)",
+            "objective_id": "CPT.3.3.4.16",
+            "objective_text": "Synthesize event handling on mobile.",
+            "objective_uuid": "a149836e-65f2-4c94-a8ca-e4f9badbc3d9"
+          }
+        ]
+      }
+    }
+  }
+}

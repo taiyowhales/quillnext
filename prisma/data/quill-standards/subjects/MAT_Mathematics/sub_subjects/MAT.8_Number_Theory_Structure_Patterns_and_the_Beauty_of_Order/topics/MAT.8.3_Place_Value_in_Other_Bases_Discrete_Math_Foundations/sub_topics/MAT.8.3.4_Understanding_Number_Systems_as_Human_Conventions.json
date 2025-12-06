@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.3.4",
+    "name": "Understanding Number Systems as Human Conventions",
+    "topic_id": "MAT.8.3",
+    "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Understanding Number Systems as Human Conventions in Place Value in Other Bases (Discrete Math Foundations) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.67,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.1",
+            "objective_text": "Identify counting on fingers (10 fingers).",
+            "objective_uuid": "871aa949-6957-486c-9ee1-75d0fae1658a"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.2",
+            "objective_text": "Name other ways people counted long ago.",
+            "objective_uuid": "2688444d-f48d-4c18-887d-76b33bc39cf6"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.8",
+            "objective_text": "Identify the zero placeholder necessity.",
+            "objective_uuid": "4996340e-0036-4309-a7ab-f27bf205a078"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.5,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.3",
+            "objective_text": "Recall that numbers are ideas.",
+            "objective_uuid": "01eebdde-6b96-4f28-bb39-dc1355dc9d02"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.4",
+            "objective_text": "Observe Roman Numerals.",
+            "objective_uuid": "70f985cc-0f4f-4dcf-b126-c7474f94bbc3"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.5",
+            "objective_text": "Summarize the Mayan (Base 20) or Babylonian (Base 60) systems.",
+            "objective_uuid": "fd5573f6-2b4f-427d-a32f-b8e9eadaaaa4"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.6",
+            "objective_text": "Explain why we have 60 seconds in a minute.",
+            "objective_uuid": "a2fea456-af31-484c-b37b-c39bc262cd6b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.12",
+            "objective_text": "Explain the Hindu-Arabic origin.",
+            "objective_uuid": "af775f5e-ba74-4930-b6c9-ac75f0379d09"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.15",
+            "objective_text": "Defend mathematics as discovery rather than invention.",
+            "objective_uuid": "7eff1433-2b7e-4930-b526-a18409799e6c"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.9",
+            "objective_text": "Analyze the cultural anthropology of counting.",
+            "objective_uuid": "07c1288a-1dc9-4cf5-bb56-045eb67095e3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.11",
+            "objective_text": "Connect linguistic counting systems to math.",
+            "objective_uuid": "c0045462-d70d-4127-8d86-291b485d3de2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.7",
+            "objective_text": "Compare tally marks with digits.",
+            "objective_uuid": "f7a00d8f-1c30-4443-9cc5-66b5cc367ff0"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.10",
+            "objective_text": "Interpret the advantages of positional systems over additive (Roman).",
+            "objective_uuid": "75d9794e-9b14-4825-a738-cd8434df6507"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.14",
+            "objective_text": "Evaluate the theological implication of universal mathematical truths vs. human symbols.",
+            "objective_uuid": "d55fd134-5e03-48f7-8e1c-3fa1e4a573b4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.13",
+            "objective_text": "Construct an analysis of the 'Duodecimal' (Base 12) advocacy.",
+            "objective_uuid": "de5d23f4-388c-4486-a7f8-753389798693"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.4",
+            "sub_topic_name": "Understanding Number Systems as Human Conventions",
+            "objective_id": "MAT.8.3.4.16",
+            "objective_text": "Synthesize history of math with number theory.",
+            "objective_uuid": "33c6343f-860b-42c8-9769-5f04ed0a6476"
+          }
+        ]
+      }
+    }
+  }
+}

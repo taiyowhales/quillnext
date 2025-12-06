@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.3.4",
+    "name": "Simple Hypothesis Testing (Intuitive)",
+    "topic_id": "MAT.10.3",
+    "topic_name": "Introduction to Inference and Modeling",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Simple Hypothesis Testing (Intuitive) in Introduction to Inference and Modeling (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.8",
+            "objective_text": "Identify evidence.",
+            "objective_uuid": "32d1765b-0de9-4626-8b16-dbbe14b90654"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.3",
+            "objective_text": "Recall that if it's always heads, it's a trick.",
+            "objective_uuid": "684047d2-fc66-487f-9c7f-f5e1210df762"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.4",
+            "objective_text": "Observe results.",
+            "objective_uuid": "7d7a649a-ed5d-45c8-b6c3-a32e79601c2a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 7,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.1",
+            "objective_text": "Ask 'Is the coin fair?'.",
+            "objective_uuid": "c52ef282-48eb-40af-9b61-c1c374a8809e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.2",
+            "objective_text": "Flip it many times.",
+            "objective_uuid": "ccab552a-6d1f-49fd-bc7c-4e6f96f7945a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.5",
+            "objective_text": "Summarize testing a claim.",
+            "objective_uuid": "9f9d4a8c-5682-4e4d-9b9e-3333b0841557"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.6",
+            "objective_text": "Explain that weird things happen sometimes.",
+            "objective_uuid": "9f6cfc21-a2e0-4d16-97a5-55ce09888296"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.7",
+            "objective_text": "Decide if a result is surprising.",
+            "objective_uuid": "632c5563-e75e-4932-a886-afdf7e435f56"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.12",
+            "objective_text": "Explain Type I and Type II errors (false alarm/miss).",
+            "objective_uuid": "98f8e8fb-b93e-48c6-9313-bbcb05349657"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.15",
+            "objective_text": "Defend the conclusion 'Reject' or 'Fail to Reject'.",
+            "objective_uuid": "9631d49e-9ea5-4006-8796-d6b96c94fab2"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.9",
+            "objective_text": "Analyze the Null Hypothesis (nothing special is happening).",
+            "objective_uuid": "b2f5009b-035b-44f9-84f6-7c280f03779c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.10",
+            "objective_text": "Interpret statistical significance (unlikely to be luck).",
+            "objective_uuid": "538e5bcb-e208-43b5-a71b-8aaa5643cd11"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.11",
+            "objective_text": "Connect p-value to 'surprise factor'.",
+            "objective_uuid": "0b431f1c-0df9-4a37-9fa5-ca63fa45fd53"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.14",
+            "objective_text": "Evaluate the p-value against alpha levels.",
+            "objective_uuid": "a00a956d-9478-4c1c-b3ad-4d6b03e9bfd0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.13",
+            "objective_text": "Construct a formal hypothesis test (t-test or z-test).",
+            "objective_uuid": "76e94b70-51ac-4b8a-a71e-3060c496687f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.3",
+            "topic_name": "Introduction to Inference and Modeling",
+            "sub_topic_id": "MAT.10.3.4",
+            "sub_topic_name": "Simple Hypothesis Testing (Intuitive)",
+            "objective_id": "MAT.10.3.4.16",
+            "objective_text": "Synthesize scientific method with statistical rigor.",
+            "objective_uuid": "2b95305a-167e-4ea2-803c-d9fbfc00682e"
+          }
+        ]
+      }
+    }
+  }
+}

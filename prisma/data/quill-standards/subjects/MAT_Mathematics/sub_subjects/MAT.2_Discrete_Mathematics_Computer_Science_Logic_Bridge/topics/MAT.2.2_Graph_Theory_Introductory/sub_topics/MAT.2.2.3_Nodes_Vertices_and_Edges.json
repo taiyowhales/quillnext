@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.2.3",
+    "name": "Nodes (Vertices) and Edges",
+    "topic_id": "MAT.2.2",
+    "topic_name": "Graph Theory (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Nodes (Vertices) and Edges in Graph Theory (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.1",
+            "objective_text": "Identify dots and lines.",
+            "objective_uuid": "096e51b0-376f-4caf-b228-b91a2c5e3190"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.8",
+            "objective_text": "Identify the degree of a vertex (how many lines touch it).",
+            "objective_uuid": "274321af-c4ab-4cae-ba3a-5c00e50a011a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.3",
+            "objective_text": "Recall that lines connect places.",
+            "objective_uuid": "15405cd5-eb54-4ce9-b654-51f5ca1e43ab"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.4",
+            "objective_text": "Observe a map.",
+            "objective_uuid": "a05949f4-3652-46b8-875e-fb9ddfa389fd"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.5",
+            "objective_text": "Summarize a Graph (dots and lines, not a chart).",
+            "objective_uuid": "9c0b3597-302e-4d0a-b355-8843fcbbd0b4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.6",
+            "objective_text": "Explain a Vertex (dot) and Edge (line).",
+            "objective_uuid": "34697f1e-0dea-447d-a2ff-989bd02088bc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.7",
+            "objective_text": "Draw a social network (friends connected).",
+            "objective_uuid": "dda352f2-cb8d-47db-9fbd-dffb92558771"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.12",
+            "objective_text": "Explain planar graphs (no crossing lines).",
+            "objective_uuid": "bf5b6427-ffa3-4c6f-b108-5beab0e673c3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.15",
+            "objective_text": "Defend the utility of graphs for modeling relationships.",
+            "objective_uuid": "fd9cebfe-6d43-4350-a6ca-3980c31e463f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.2",
+            "objective_text": "Connect dots to make a shape.",
+            "objective_uuid": "4fb29535-57b9-455a-9639-441b1c1341f3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.9",
+            "objective_text": "Analyze connectivity.",
+            "objective_uuid": "4c6d4334-82f1-49dc-85d9-cbaa686a914d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.10",
+            "objective_text": "Interpret an Adjacency Matrix.",
+            "objective_uuid": "060301e6-6bdc-4cc4-af62-d673aa0fe45b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.11",
+            "objective_text": "Connect graphs to map coloring problems.",
+            "objective_uuid": "05cff70b-7722-4be2-ab43-3b78dc2dcc62"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.14",
+            "objective_text": "Evaluate graph density.",
+            "objective_uuid": "0acbcc0d-473f-4d16-a353-ff3dd0a3cd11"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.13",
+            "objective_text": "Construct isomorphic graphs.",
+            "objective_uuid": "fb964651-ba3b-4500-a684-20a1b4dad756"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.3",
+            "sub_topic_name": "Nodes (Vertices) and Edges",
+            "objective_id": "MAT.2.2.3.16",
+            "objective_text": "Synthesize matrix algebra with graph theory.",
+            "objective_uuid": "cee02c8a-20dc-4af7-a376-5f1f56a71c1d"
+          }
+        ]
+      }
+    }
+  }
+}

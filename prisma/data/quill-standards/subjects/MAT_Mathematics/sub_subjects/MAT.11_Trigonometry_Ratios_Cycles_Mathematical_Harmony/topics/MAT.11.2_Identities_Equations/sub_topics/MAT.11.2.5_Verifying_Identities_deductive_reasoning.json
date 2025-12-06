@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.2.5",
+    "name": "Verifying Identities (deductive reasoning)",
+    "topic_id": "MAT.11.2",
+    "topic_name": "Identities & Equations",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Verifying Identities (deductive reasoning) in Identities & Equations (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 12,
+        "average_complexity": 14.75,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.1",
+            "objective_text": "Identify that two pictures are the same.",
+            "objective_uuid": "83208a81-70d1-4a18-a9e5-5f8365a1fdf2"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.4",
+            "objective_text": "Name a match.",
+            "objective_uuid": "e2d332b7-07a3-426b-94d4-4f582a9959a3"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.8",
+            "objective_text": "Identify a 'Identity' (always true).",
+            "objective_uuid": "4d36e45b-0408-46bd-8e4c-4dc210cf3bbf"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.3",
+            "objective_text": "Recall showing work.",
+            "objective_uuid": "a53ecfdc-0a10-42e0-82a6-5154a15f1cb9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.2",
+            "objective_text": "Show that $2+2=4$.",
+            "objective_uuid": "072d2cdf-be37-47ac-bc7b-ad25496a2205"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.5",
+            "objective_text": "Summarize proving that Left Side = Right Side.",
+            "objective_uuid": "30d04575-4fa1-4c6b-a5d2-a4caeb923f80"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.6",
+            "objective_text": "Explain that we can't move things across the equals sign.",
+            "objective_uuid": "fed9d4f4-032e-46ae-a9c6-dc7933a64900"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.7",
+            "objective_text": "Simplify one side to match the other.",
+            "objective_uuid": "392fef48-0ba2-42ea-a0e3-73e8c7425c07"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.12",
+            "objective_text": "Explain step-by-step justification.",
+            "objective_uuid": "ba9fa55f-18f7-416e-b863-767969d845f9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.15",
+            "objective_text": "Defend the validity of the identity.",
+            "objective_uuid": "a29b7418-9569-480f-a6e3-569166e92723"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.9",
+            "objective_text": "Analyze strategies (change to sine/cosine, common denominator).",
+            "objective_uuid": "c07f550a-72d8-4e01-9c7d-2856381620e0"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.10",
+            "objective_text": "Interpret the logic of verification.",
+            "objective_uuid": "9671eb46-29a0-4bd7-88da-4566a6a34222"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.11",
+            "objective_text": "Connect algebraic skills to trig.",
+            "objective_uuid": "283bde43-b7a7-463d-88f8-afbb2de797a2"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.14",
+            "objective_text": "Evaluate the most efficient path to proof.",
+            "objective_uuid": "4745dadc-a230-45c5-bd4d-c9c94b55c921"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.13",
+            "objective_text": "Construct rigorous proofs for complex identities.",
+            "objective_uuid": "0ba2b26f-cef7-47f1-a85e-44c47b6b3530"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.2",
+            "topic_name": "Identities & Equations",
+            "sub_topic_id": "MAT.11.2.5",
+            "sub_topic_name": "Verifying Identities (deductive reasoning)",
+            "objective_id": "MAT.11.2.5.16",
+            "objective_text": "Synthesize all trigonometric knowledge.",
+            "objective_uuid": "eca2e847-de96-49ed-a818-fefc9ec0271c"
+          }
+        ]
+      }
+    }
+  }
+}

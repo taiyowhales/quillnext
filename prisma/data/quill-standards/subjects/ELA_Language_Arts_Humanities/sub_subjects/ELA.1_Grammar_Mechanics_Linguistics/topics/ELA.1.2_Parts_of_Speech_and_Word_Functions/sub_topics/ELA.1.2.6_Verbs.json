@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.1.2.6",
+    "name": "Verbs",
+    "topic_id": "ELA.1.2",
+    "topic_name": "Parts of Speech and Word Functions",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.1",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Verbs in Parts of Speech and Word Functions (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.1",
+            "objective_text": "Identify verbs as 'doing' words or 'being' words.",
+            "objective_uuid": "c57994ec-0620-46b6-96ce-b8370b76b1be"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.4",
+            "objective_text": "Identify helping verbs (is, am, are, was, were).",
+            "objective_uuid": "572ab85d-b53b-4dfb-a10e-9162250de0d7"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.8",
+            "objective_text": "Identify the main verb phrase in a sentence.",
+            "objective_uuid": "35523e1d-dd10-469b-9835-957c611def71"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.2",
+            "objective_text": "Change verbs to show past, present, and future (simple tenses).",
+            "objective_uuid": "598af6e6-3b0e-44e3-b161-471179417059"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.3",
+            "objective_text": "Match verbs to the subject (He runs, They run).",
+            "objective_uuid": "28a32611-12d3-4cdf-8f8e-1eef8ad7d997"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.5",
+            "objective_text": "Categorize verbs as Action, Linking, or Helping.",
+            "objective_uuid": "7ebeb093-420c-47c4-8d91-d4c9c49bdd36"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.6",
+            "objective_text": "Form perfect tenses (have/had + participle) correctly.",
+            "objective_uuid": "55efb3e6-efeb-4ad9-a780-03ed92a6d21f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.7",
+            "objective_text": "Use irregular verbs correctly in the past tense.",
+            "objective_uuid": "36798c2b-0b38-4532-b6ff-49fa1c290e8a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.12",
+            "objective_text": "Explain how modal verbs (might, should, must) change meaning.",
+            "objective_uuid": "65ff3a13-f438-4d78-8bdc-3150f14698a5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.15",
+            "objective_text": "Defend the use of the Subjunctive Mood for hypothetical situations.",
+            "objective_uuid": "5dcdc1d5-3bcc-41bc-b3d5-35bf3a6ba4b8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.9",
+            "objective_text": "Analyze the three moods of verbs: Indicative, Imperative, Subjunctive.",
+            "objective_uuid": "2b8a8da0-c9b1-4ac5-9cb3-088c4a9bdb58"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.10",
+            "objective_text": "Interpret the difference between Active and Passive voice.",
+            "objective_uuid": "044d95d0-da2e-483f-9e62-f61abdb723b1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.11",
+            "objective_text": "Connect verb aspect (Progressive, Perfect) to the timing of an action.",
+            "objective_uuid": "2181bd1e-5943-46e6-a43f-084475c35fa0"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.14",
+            "objective_text": "Evaluate the rhetorical effect of using the Passive Voice.",
+            "objective_uuid": "a8abdb6d-eda8-4ec0-8d02-8b74a60abfc8"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.13",
+            "objective_text": "Construct complex sentences maintaining consistent verb tense.",
+            "objective_uuid": "d7adb3cb-95a4-4f19-93f9-569850d547f3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.1",
+            "sub_subject_name": "Grammar, Mechanics & Linguistics",
+            "topic_id": "ELA.1.2",
+            "topic_name": "Parts of Speech and Word Functions",
+            "sub_topic_id": "ELA.1.2.6",
+            "sub_topic_name": "Verbs",
+            "objective_id": "ELA.1.2.6.16",
+            "objective_text": "Synthesize verb choice to strengthen writing (strong verbs vs. adverbs).",
+            "objective_uuid": "719ecec9-1c00-4765-b10a-98bddd5735e0"
+          }
+        ]
+      }
+    }
+  }
+}

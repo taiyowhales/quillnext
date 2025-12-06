@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.2.1",
+    "name": "Public Discourse & Civil Debate",
+    "topic_id": "HSS.2.2",
+    "topic_name": "Civic Responsibility & Participation",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Public Discourse & Civil Debate in Civic Responsibility & Participation (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.1",
+            "objective_text": "Identify polite words.",
+            "objective_uuid": "70d09f54-1ba5-4eb8-8172-4b7e7730866a"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.2",
+            "objective_text": "Name listening as important.",
+            "objective_uuid": "343ce42e-0393-4e26-a1f3-26a8792361ea"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.3",
+            "objective_text": "Recall that we can be friends even if we disagree.",
+            "objective_uuid": "c52a027b-0477-4432-97d6-ec6e7e54decd"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.4",
+            "objective_text": "Observe people talking calmly.",
+            "objective_uuid": "b8e08ad8-ae61-4e6c-832d-3caf6205035d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.5",
+            "objective_text": "Summarize how to disagree without being mean.",
+            "objective_uuid": "b363d5aa-0d61-4f94-a981-b50ab8d3281d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.6",
+            "objective_text": "Explain what 'Free Speech' means.",
+            "objective_uuid": "ef0c4557-f54d-4684-9a5c-bbf9dc3e6799"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.12",
+            "objective_text": "Explain the 'Straw Man' fallacy.",
+            "objective_uuid": "420f974b-9990-44b5-a658-62063fce4029"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.15",
+            "objective_text": "Defend the Christian duty to be 'salt and light' in politics.",
+            "objective_uuid": "bfb92a54-8301-4bbd-82c9-cbf196dc4bb7"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.7",
+            "objective_text": "Compare a debate with a fight.",
+            "objective_uuid": "531ac7fc-5f34-4b66-af6f-4391d5f36911"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.8",
+            "objective_text": "Apply respect to someone with a different opinion.",
+            "objective_uuid": "8965c282-beed-4ced-8d6a-4778617ad9e9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.9",
+            "objective_text": "Analyze the concept of the 'Public Square'.",
+            "objective_uuid": "016903ad-22c6-4003-8003-b0ba5da04b1a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.10",
+            "objective_text": "Interpret the First Amendment rights to assemble and petition.",
+            "objective_uuid": "c9a6f3f1-666a-4547-b75d-d60fb57331fc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.11",
+            "objective_text": "Connect social media to the decline of civil discourse.",
+            "objective_uuid": "8601d96b-d05b-461d-8383-4c50d6422cda"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.14",
+            "objective_text": "Evaluate the limits of free speech (libel, incitement).",
+            "objective_uuid": "3a2c8d6d-7f3b-45e6-9904-cecaf1a74861"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.13",
+            "objective_text": "Construct a persuasive argument on a policy issue.",
+            "objective_uuid": "baa476f5-9458-4ff5-922f-b21e86f6b010"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.1",
+            "sub_topic_name": "Public Discourse & Civil Debate",
+            "objective_id": "HSS.2.2.1.16",
+            "objective_text": "Synthesize the relationship between truth and charity in discourse.",
+            "objective_uuid": "55c17827-7a46-442a-9897-3f49a6eaa41c"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.1.1",
+    "name": "Applications in Calendars and Simple Cryptography",
+    "topic_id": "MAT.8.1",
+    "topic_name": "Modular Arithmetic (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Applications in Calendars and Simple Cryptography in Modular Arithmetic (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.1",
+            "objective_text": "Identify secret codes.",
+            "objective_uuid": "70603702-9ea6-401a-9a5b-1b5c646b2486"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.4",
+            "objective_text": "Name the day of the week.",
+            "objective_uuid": "5930786c-7a83-4670-87aa-760771b9126c"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.8",
+            "objective_text": "Identify the 'Key' to a code.",
+            "objective_uuid": "a13a7f7e-15be-4f7b-b1eb-8a3a9aa3e23c"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.3",
+            "objective_text": "Recall that we can hide messages.",
+            "objective_uuid": "b140a4e8-287b-4322-8c82-e6e6ccb38253"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.2",
+            "objective_text": "Use a decoder ring.",
+            "objective_uuid": "cbb9d81b-d122-446a-8480-1c931cf410b4"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.5",
+            "objective_text": "Summarize a Caesar Shift cipher (A becomes B).",
+            "objective_uuid": "af986611-5d59-4fa1-9fc4-81e511bb53ed"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.6",
+            "objective_text": "Explain how to figure out the day of the week for a future date.",
+            "objective_uuid": "1636c2ac-54ab-49e5-9c0e-c989f3525d36"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.7",
+            "objective_text": "Encode a simple message.",
+            "objective_uuid": "1c799e6a-4e21-4eef-9bf0-b84e4cd7aa1a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.12",
+            "objective_text": "Explain frequency analysis in decoding.",
+            "objective_uuid": "57e9592c-5620-45fc-8250-65d14ef6057c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.15",
+            "objective_text": "Defend privacy and the need for cryptography.",
+            "objective_uuid": "fceea3c3-bcca-4f16-a453-0519fcd39488"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.9",
+            "objective_text": "Analyze the Caesar Cipher as addition modulo 26.",
+            "objective_uuid": "6e4b4c98-851b-4979-b38a-18e78c637a89"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.11",
+            "objective_text": "Connect prime numbers to code breaking.",
+            "objective_uuid": "60b3dd76-15e9-4fec-a9ef-71db4026a8f0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.14",
+            "objective_text": "Evaluate the security of modular-based encryption (RSA intro).",
+            "objective_uuid": "6bd94508-91c1-4315-ae10-a4868e3ad61e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.13",
+            "objective_text": "Construct a Vigenere Cipher encryption.",
+            "objective_uuid": "135c292b-6fc8-47c8-b696-6918fab20e58"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.16",
+            "objective_text": "Synthesize historical cryptography with mathematical rigor.",
+            "objective_uuid": "03421818-bcab-4d2d-8459-9f6d9137db02"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.1",
+            "topic_name": "Modular Arithmetic (Introductory)",
+            "sub_topic_id": "MAT.8.1.1",
+            "sub_topic_name": "Applications in Calendars and Simple Cryptography",
+            "objective_id": "MAT.8.1.1.10",
+            "objective_text": "Interpret the Doomsday Algorithm for calendars.",
+            "objective_uuid": "c76cf605-4be4-4c77-9fd0-1db06425bd00"
+          }
+        ]
+      }
+    }
+  }
+}

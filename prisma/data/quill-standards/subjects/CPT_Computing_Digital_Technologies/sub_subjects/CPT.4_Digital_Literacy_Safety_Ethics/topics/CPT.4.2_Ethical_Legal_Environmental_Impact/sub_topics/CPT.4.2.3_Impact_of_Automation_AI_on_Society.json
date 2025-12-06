@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.2.3",
+    "name": "Impact of Automation & AI on Society",
+    "topic_id": "CPT.4.2",
+    "topic_name": "Ethical, Legal & Environmental Impact",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Impact of Automation & AI on Society in Ethical, Legal & Environmental Impact (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.1",
+            "objective_text": "Identify a robot doing a job.",
+            "objective_uuid": "4422fb58-c391-4122-9580-c6c713f022f0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.2",
+            "objective_text": "Name a self-checkout.",
+            "objective_uuid": "40e965f4-4c24-4654-b261-bc845628cba8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.3",
+            "objective_text": "Recall that machines help us.",
+            "objective_uuid": "c88d2110-8df5-4f45-b3ee-f0876debc948"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.4",
+            "objective_text": "Observe a smart speaker.",
+            "objective_uuid": "17f0875c-1db0-40d3-8d3e-21ad450463f4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.7",
+            "objective_text": "Identify jobs that need humans (caring, art).",
+            "objective_uuid": "30a5747f-8e25-42a0-8d36-70e8b4401b8a"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.5",
+            "objective_text": "Summarize how AI helps doctors or drivers.",
+            "objective_uuid": "97e2a88c-4aba-4b17-a146-e00fe8b1d2b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.6",
+            "objective_text": "Explain that robots can do boring jobs.",
+            "objective_uuid": "cc2642b8-83a4-4870-b3db-dd32a804af2c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.12",
+            "objective_text": "Explain the 'Black Box' problem.",
+            "objective_uuid": "86975b16-56ee-43c9-a959-0bfcef99e8fc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.15",
+            "objective_text": "Defend human dignity in an automated world.",
+            "objective_uuid": "6abc7757-3bb5-4ef1-88b6-63f25995c3b5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.8",
+            "objective_text": "Compare a human driver vs. a self-driving car.",
+            "objective_uuid": "d20d477f-126b-4baa-9170-3ae0f39078de"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.9",
+            "objective_text": "Analyze the shift in the job market.",
+            "objective_uuid": "14874b02-07b1-40d3-9149-25cf81ccd870"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.10",
+            "objective_text": "Interpret the benefits and risks of automation.",
+            "objective_uuid": "c5905c9d-3e2e-4091-a72b-3bc62481a4e3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.11",
+            "objective_text": "Connect AI to bias in decision making.",
+            "objective_uuid": "43bbddfc-700f-42cd-af9d-1dc5c822b9b4"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.14",
+            "objective_text": "Evaluate the ethical implications of autonomous weapons.",
+            "objective_uuid": "a33f2912-67b3-4953-b16b-afb00e3c086c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.13",
+            "objective_text": "Construct a future scenario analysis.",
+            "objective_uuid": "469e2d9d-8aff-4a21-b5ce-0aa4903ea97e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.2",
+            "topic_name": "Ethical, Legal & Environmental Impact",
+            "sub_topic_id": "CPT.4.2.3",
+            "sub_topic_name": "Impact of Automation & AI on Society",
+            "objective_id": "CPT.4.2.3.16",
+            "objective_text": "Synthesize economic theory with technological trends.",
+            "objective_uuid": "5925224d-94e9-49f0-b4f4-68632c23df29"
+          }
+        ]
+      }
+    }
+  }
+}

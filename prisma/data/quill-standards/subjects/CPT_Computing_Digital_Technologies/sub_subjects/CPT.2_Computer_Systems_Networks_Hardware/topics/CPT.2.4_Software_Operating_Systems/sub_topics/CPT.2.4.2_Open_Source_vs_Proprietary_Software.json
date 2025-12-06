@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.4.2",
+    "name": "Open Source vs Proprietary Software",
+    "topic_id": "CPT.2.4",
+    "topic_name": "Software & Operating Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Open Source vs Proprietary Software in Software & Operating Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.1",
+            "objective_text": "Identify sharing vs. keeping secret.",
+            "objective_uuid": "90fceafd-34b1-48b0-ab87-707b56a12388"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.2",
+            "objective_text": "Recall that some code is free to change.",
+            "objective_uuid": "d1c81e72-9d87-4539-98b3-e9e24e2b00dc"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.3",
+            "objective_text": "Name Linux (penguin).",
+            "objective_uuid": "cbfc4d44-6221-4811-a117-53bc21ee8a5e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.4",
+            "objective_text": "Observe community projects.",
+            "objective_uuid": "7ba407cf-1b7a-4cb9-9e7d-ccf11e73b294"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.7",
+            "objective_text": "Identify Microsoft Word (Proprietary) vs. LibreOffice (Open).",
+            "objective_uuid": "249d3957-46af-402b-b910-77151d914d8c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.5",
+            "objective_text": "Summarize Open Source (code is public).",
+            "objective_uuid": "d02ff0c8-2e54-4c48-a00c-582963f9911d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.6",
+            "objective_text": "Explain Proprietary (code is locked/sold).",
+            "objective_uuid": "27625750-695e-4c48-84a2-75342f4b8390"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.12",
+            "objective_text": "Explain licensing (GPL, Creative Commons).",
+            "objective_uuid": "e2475856-bc4f-4892-bdaa-ad5573fb5172"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.15",
+            "objective_text": "Defend the intellectual property rights of proprietary devs.",
+            "objective_uuid": "d6d1243a-c7f9-4c52-9d29-f1a8c04b40d3"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.8",
+            "objective_text": "Compare buying a cake vs. getting a recipe.",
+            "objective_uuid": "08e493fd-b26f-4143-b8df-3d3740ef4e78"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.9",
+            "objective_text": "Analyze the business models (support vs. license).",
+            "objective_uuid": "67aa060f-852a-417d-89a2-87e0075326a2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.10",
+            "objective_text": "Interpret collaborative development.",
+            "objective_uuid": "5627aea5-e728-4130-99b5-c6b8e08db3fc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.11",
+            "objective_text": "Connect Android (Linux kernel) to open source.",
+            "objective_uuid": "7c28c6f4-5b82-4552-88a3-076f53c606be"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.14",
+            "objective_text": "Evaluate the security 'many eyes' hypothesis.",
+            "objective_uuid": "23a02454-5357-4ff9-9a7f-7074761e2964"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.13",
+            "objective_text": "Construct an argument for open standards.",
+            "objective_uuid": "b958c008-bafd-4a17-bea6-6fe77d8d43a6"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.4",
+            "topic_name": "Software & Operating Systems",
+            "sub_topic_id": "CPT.2.4.2",
+            "sub_topic_name": "Open Source vs Proprietary Software",
+            "objective_id": "CPT.2.4.2.16",
+            "objective_text": "Synthesize FOSS (Free and Open Source Software) philosophy.",
+            "objective_uuid": "9c553b05-8a13-4fb5-aa1f-ae70d4d26219"
+          }
+        ]
+      }
+    }
+  }
+}

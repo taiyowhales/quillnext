@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.1.4",
+    "name": "The Scientific Method vs. Scientism",
+    "topic_id": "SCI.6.1",
+    "topic_name": "Logic & Critical Thinking in Science",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Scientific Method vs. Scientism in Logic & Critical Thinking in Science (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.1",
+            "objective_text": "Identify asking a question and testing it.",
+            "objective_uuid": "e93db709-53eb-438d-9f7f-f3703597a77f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.2",
+            "objective_text": "Name \"Science\" as studying the world.",
+            "objective_uuid": "5e462438-7001-46b7-99e3-bd7bfb2259f1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.8",
+            "objective_text": "Identify limits of observation (can't observe history directly).",
+            "objective_uuid": "2b1b8d4a-dda6-4d71-8707-fc03ff54b6fc"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.3",
+            "objective_text": "Recall that science can't answer \"Why are we here?\".",
+            "objective_uuid": "1e00ea96-b1df-4fec-bbdb-7b52f66228a9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.4",
+            "objective_text": "Observe that science studies things we can see/touch.",
+            "objective_uuid": "fda3456c-c9c1-40d8-8d37-043b7f9b5b05"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.5",
+            "objective_text": "Summarize the Scientific Method (Hypothesis, Test, Conclusion).",
+            "objective_uuid": "96caaa0e-01bb-4612-b903-c00e6ee4ca32"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.6",
+            "objective_text": "Explain \"Scientism\" (thinking science is the only way to know truth).",
+            "objective_uuid": "8c23b909-da47-458c-97e6-7726cb315fac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.12",
+            "objective_text": "Explain epistemological humility.",
+            "objective_uuid": "b70a2970-f8e3-4ea2-bd2a-63f95b47e263"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.15",
+            "objective_text": "Defend other ways of knowing (logic, revelation, history).",
+            "objective_uuid": "38577a4f-daf0-4706-8a46-5401c8274a9c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.7",
+            "objective_text": "Compare a scientific question with a moral question.",
+            "objective_uuid": "cf7c3578-5a75-4f07-aee1-367bb062490f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.10",
+            "objective_text": "Interpret the difference between operational and historical science.",
+            "objective_uuid": "54a8272e-84ee-432b-a31d-43699a6f9b74"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.11",
+            "objective_text": "Connect assumptions (uniformitarianism) to conclusions.",
+            "objective_uuid": "66594ee5-f0f6-4658-b9be-b5a74c1b8662"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.14",
+            "objective_text": "Evaluate the statement \"Science says...\".",
+            "objective_uuid": "0d1a066f-8c99-4d63-94cf-ec3e21ffb5a4"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.13",
+            "objective_text": "Construct a demarcation of science vs. non-science.",
+            "objective_uuid": "65647786-07d8-4448-9273-d1b2d5bab923"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.16",
+            "objective_text": "Synthesize the integration of faith and science.",
+            "objective_uuid": "30678065-3d28-47c7-90f8-d46733575e5d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.4",
+            "sub_topic_name": "The Scientific Method vs. Scientism",
+            "objective_id": "SCI.6.1.4.9",
+            "objective_text": "Analyze the domain of science vs. philosophy/theology.",
+            "objective_uuid": "cb580586-8c3d-4c86-9db4-64f924db1052"
+          }
+        ]
+      }
+    }
+  }
+}

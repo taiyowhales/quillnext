@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.2.5",
+    "name": "Photo Editing (Layers, filters, cropping, resolution)",
+    "topic_id": "CPT.6.2",
+    "topic_name": "Multimedia Production",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Photo Editing (Layers, filters, cropping, resolution) in Multimedia Production (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.1",
+            "objective_text": "Identify a photo filter.",
+            "objective_uuid": "e4df8ba5-b361-465b-89f4-6df956e21624"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.3",
+            "objective_text": "Recall fixing a mistake.",
+            "objective_uuid": "b72dc66d-97c1-4188-aef0-7dfa3de874b4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.8",
+            "objective_text": "Identify the magic wand tool.",
+            "objective_uuid": "d5bfe8d5-d68d-403e-a362-60740f5c3455"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.2",
+            "objective_text": "Crop a picture.",
+            "objective_uuid": "40310a52-78ad-4e79-9031-e998698cacd2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.4",
+            "objective_text": "Rotate a picture.",
+            "objective_uuid": "a75a08fb-1416-4d91-b48d-db335839a14a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.5",
+            "objective_text": "Summarize what a Layer is (stacking clear paper).",
+            "objective_uuid": "a8797975-a107-461f-9513-a68dbc14eabd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.6",
+            "objective_text": "Explain brightness and contrast.",
+            "objective_uuid": "3427778b-fb9a-43e0-9aae-fc2d3494cbce"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.7",
+            "objective_text": "Remove red-eye.",
+            "objective_uuid": "613fa616-0c89-4cef-a617-8bc3851a7139"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.12",
+            "objective_text": "Explain cloning/healing tools.",
+            "objective_uuid": "0a2fcd6f-82c4-4f25-a510-b5650e674d4d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.15",
+            "objective_text": "Defend ethical standards in photo manipulation.",
+            "objective_uuid": "edf32ec9-8d2d-4f3b-b44c-305542383131"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.9",
+            "objective_text": "Analyze non-destructive editing (adjustment layers).",
+            "objective_uuid": "ad519ced-424b-43d9-9c41-e83647d37fd8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.10",
+            "objective_text": "Interpret the histogram.",
+            "objective_uuid": "fed30112-ca13-4290-a14f-bf808e0a236a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.11",
+            "objective_text": "Connect masking to hiding parts of a layer.",
+            "objective_uuid": "fae52b68-4ccc-4a45-b7ab-2bc7e4f5dabf"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.14",
+            "objective_text": "Evaluate color grading and correction.",
+            "objective_uuid": "dc7bb1cd-8bda-4ab7-9139-7ab736d9a30c"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.13",
+            "objective_text": "Construct a composite image from multiple sources.",
+            "objective_uuid": "998afa31-f2ee-4857-ad1d-1c59de1f1563"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.5",
+            "sub_topic_name": "Photo Editing (Layers, filters, cropping, resolution)",
+            "objective_id": "CPT.6.2.5.16",
+            "objective_text": "Synthesize blend modes.",
+            "objective_uuid": "eeb11f6a-074f-4652-9bf2-92002a22347b"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.7",
+    "name": "Sequencing, Selection, and Iteration",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sequencing, Selection, and Iteration in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.8",
+            "objective_text": "Identify a sequence error.",
+            "objective_uuid": "5ff5bc85-8c5a-4338-b452-66ab461fd7c2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.4",
+            "objective_text": "Recall first, then, last.",
+            "objective_uuid": "b086962e-49d5-4b96-98a6-395ee1007f8e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 7,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.1",
+            "objective_text": "Put steps in the right order (Sequence).",
+            "objective_uuid": "06d61510-fc4d-4f5b-a523-537a1984a2f9"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.2",
+            "objective_text": "Choose 'Yes' or 'No' (Selection).",
+            "objective_uuid": "39e5b984-9549-4014-af53-258f622559c1"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.3",
+            "objective_text": "Do something three times (Iteration).",
+            "objective_uuid": "df2bfb09-6bb9-4766-b0a9-46863d2d4ec0"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.5",
+            "objective_text": "Summarize the three building blocks of code.",
+            "objective_uuid": "d5e818c8-e6c7-4079-a2f5-0a843d20aa3b"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.6",
+            "objective_text": "Explain an 'If-Then' statement.",
+            "objective_uuid": "416cacf8-2ba1-4d25-b86e-863b58f29861"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.12",
+            "objective_text": "Explain infinite loops.",
+            "objective_uuid": "cbe767d8-2ef0-4da6-bd47-868fc9a4f95c"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.15",
+            "objective_text": "Defend the necessity of control structures.",
+            "objective_uuid": "e582970a-c9c6-466a-9819-273a466ac0a4"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.9",
+            "objective_text": "Analyze nested loops (loop inside a loop).",
+            "objective_uuid": "52be48be-c1e0-48b6-8594-1f0772cfeb91"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.10",
+            "objective_text": "Interpret 'If-Else If-Else' chains.",
+            "objective_uuid": "79dd69ff-950f-4933-bc88-dd4a9a0d61e8"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.11",
+            "objective_text": "Connect iteration to efficiency.",
+            "objective_uuid": "7945d65c-b3bb-4f8c-afce-3b6dc663d51a"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.14",
+            "objective_text": "Evaluate the most efficient loop structure (For vs. While).",
+            "objective_uuid": "dbe4ecd2-3f92-411b-adba-78edc7b4ba4e"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.7",
+            "objective_text": "Create a Repeat loop.",
+            "objective_uuid": "c309624b-cce8-4dc9-82bd-61b02517d509"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.13",
+            "objective_text": "Construct complex logic combining all three structures.",
+            "objective_uuid": "5371b5fa-cb29-48ac-8e70-1c67fffd9a35"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.7",
+            "sub_topic_name": "Sequencing, Selection, and Iteration",
+            "objective_id": "CPT.1.2.7.16",
+            "objective_text": "Synthesize algorithmic flow.",
+            "objective_uuid": "6ca62b8b-4011-4f7d-b7b2-4f51063d496d"
+          }
+        ]
+      }
+    }
+  }
+}

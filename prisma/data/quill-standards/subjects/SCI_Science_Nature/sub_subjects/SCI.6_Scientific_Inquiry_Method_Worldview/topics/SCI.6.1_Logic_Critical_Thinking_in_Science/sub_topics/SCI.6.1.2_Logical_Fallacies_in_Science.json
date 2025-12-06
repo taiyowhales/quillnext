@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.1.2",
+    "name": "Logical Fallacies in Science",
+    "topic_id": "SCI.6.1",
+    "topic_name": "Logic & Critical Thinking in Science",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Logical Fallacies in Science in Logic & Critical Thinking in Science (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.1",
+            "objective_text": "Identify a silly reason.",
+            "objective_uuid": "431e3633-533a-43d0-8c2e-44c30866fbad"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.2",
+            "objective_text": "Name \"Because I said so\".",
+            "objective_uuid": "fcde093e-926c-40ae-be6e-cbdd93f6ee89"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.7",
+            "objective_text": "Identify Circular Reasoning.",
+            "objective_uuid": "d6f2403b-68a3-4be6-9ee5-5f153a4310a0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.3",
+            "objective_text": "Recall that just because two things happen together doesn't mean one caused the other.",
+            "objective_uuid": "23c2db1a-d5f5-4689-84f9-2e662fdc4f29"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.4",
+            "objective_text": "Observe jumping to conclusions.",
+            "objective_uuid": "7350406a-9f16-457b-8bc7-741bf780cdf4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.5",
+            "objective_text": "Summarize Post Hoc (After this, therefore because of this).",
+            "objective_uuid": "7b57f37a-0a72-447f-a6ce-0e9fd9d66826"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.6",
+            "objective_text": "Explain Ad Hominem (attacking the scientist, not the science).",
+            "objective_uuid": "bf80c821-f713-478a-985d-b058232d5499"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.12",
+            "objective_text": "Explain the Naturalistic Fallacy (Natural = Good).",
+            "objective_uuid": "dad1f7dc-ff2c-41b5-8903-400908a616d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.15",
+            "objective_text": "Defend logical rigor as a tool for truth.",
+            "objective_uuid": "a3cc28a6-df96-4038-8ab2-1e9b9ee6c38f"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.8",
+            "objective_text": "Compare an argument from authority vs. evidence.",
+            "objective_uuid": "5491eaa7-2ee7-4ee2-b93d-521d6fcba178"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.9",
+            "objective_text": "Analyze the Straw Man argument in scientific debates.",
+            "objective_uuid": "4a5a829d-0e94-4311-ae3b-d9f42bcc0fae"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.10",
+            "objective_text": "Interpret the Equivocation fallacy (changing definitions).",
+            "objective_uuid": "75c57912-638e-42eb-a1c9-a66365276d3d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.11",
+            "objective_text": "Connect the \"God of the Gaps\" fallacy.",
+            "objective_uuid": "1a98b0b7-381e-4ea6-bff8-abafde7e9098"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.14",
+            "objective_text": "Evaluate the \"No True Scotsman\" fallacy in taxonomy.",
+            "objective_uuid": "fc16e874-d75c-41c4-b4df-fc7b66982ee0"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.13",
+            "objective_text": "Construct a logical breakdown of a pseudoscience claim.",
+            "objective_uuid": "5e6812de-9f75-4f21-a2b1-2bfbdfa962b1"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.2",
+            "sub_topic_name": "Logical Fallacies in Science",
+            "objective_id": "SCI.6.1.2.16",
+            "objective_text": "Synthesize philosophy of science with logic.",
+            "objective_uuid": "bc9fe01c-5629-415c-ba71-6792eaf4dca7"
+          }
+        ]
+      }
+    }
+  }
+}

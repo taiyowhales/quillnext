@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "SCI.1.1.3",
+    "name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+    "topic_id": "SCI.1.1",
+    "topic_name": "Engineering & Design (Practical Application of Physics)",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.1",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Engineering Design Cycle (ask, imagine, plan, create, improve, present) in Engineering & Design (Practical Application of Physics) (Science & Nature)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.1",
+            "objective_text": "Identify a simple problem in daily life and suggest a way to fix it with available materials.",
+            "objective_uuid": "4b4a2688-6acc-4101-81a0-0961b75bce8c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 22.67,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.3",
+            "objective_text": "Recognize that God gives wisdom to create useful things for others.",
+            "objective_uuid": "472e6cbb-57e4-493d-b617-9fd00c438883"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.2",
+            "objective_text": "Draw or build a basic model to solve a problem (e.g., a blanket fort that stays up).",
+            "objective_uuid": "b5625cfa-d50b-420c-8d77-93142138c427"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.5",
+            "objective_text": "Explain the steps of the design cycle using a simple project (ask → imagine → plan → create → improve).",
+            "objective_uuid": "986107a1-a6ad-47d2-b5dc-ad1c51c35b86"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 12,
+        "average_complexity": 28.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.4",
+            "objective_text": "Share a creation and say one thing that worked well and one thing to improve.",
+            "objective_uuid": "abf5df70-0383-4c17-89ee-cf3ad4febf12"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.6",
+            "objective_text": "Sketch a labeled plan before building.",
+            "objective_uuid": "1cc77766-0079-4340-b76e-38549a6f5f06"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.8",
+            "objective_text": "Test a model, record what happened, and suggest one improvement.",
+            "objective_uuid": "f3979ff7-032d-41d6-bbcd-1c2e280c4e93"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.12",
+            "objective_text": "Present a final design with evidence of improvement and gratitude to God for creativity.",
+            "objective_uuid": "69ab20ee-2bd4-4e67-a968-43984f3e0bea"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.7",
+            "objective_text": "Compare human inventions to God's perfect designs in creation.",
+            "objective_uuid": "567d07ee-1231-426f-b291-2c48c5cf7583"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.9",
+            "objective_text": "Analyze a real-world problem and develop criteria and constraints for a solution.",
+            "objective_uuid": "4222cfa3-e55c-4a0a-aae3-ced0ea064b7f"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.11",
+            "objective_text": "Connect the dominion mandate (Gen 1:28) to responsible engineering.",
+            "objective_uuid": "696fa879-7369-4787-830a-aebcccb45d08"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.15",
+            "objective_text": "Defend engineering as image-bearing sub-creation stewardship.",
+            "objective_uuid": "89931854-57a4-42d0-83c4-1f9072cbfd18"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.14",
+            "objective_text": "Evaluate trade-offs in cost, safety, aesthetics, and ethics.",
+            "objective_uuid": "1d079d65-5901-4d9b-a506-588eeeb73e75"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.10",
+            "objective_text": "Construct prototypes iteratively, documenting changes based on testing.",
+            "objective_uuid": "a7bef9c1-0112-4c7f-b81d-f15207688a5f"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.13",
+            "objective_text": "Construct a complete engineering design portfolio for a community-need project.",
+            "objective_uuid": "705a3f52-0ff9-42c4-8696-55f51c2e3685"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.1",
+            "sub_subject_name": "Applied Science, Technology & Engineering (STEM)",
+            "topic_id": "SCI.1.1",
+            "topic_name": "Engineering & Design (Practical Application of Physics)",
+            "sub_topic_id": "SCI.1.1.3",
+            "sub_topic_name": "Engineering Design Cycle (ask, imagine, plan, create, improve, present)",
+            "objective_id": "SCI.1.1.3.16",
+            "objective_text": "Synthesize biblical wisdom literature (Prov 8; 24:3–4) with modern engineering principles.",
+            "objective_uuid": "5facba4b-fa85-4111-af68-f163402beae7"
+          }
+        ]
+      }
+    }
+  }
+}

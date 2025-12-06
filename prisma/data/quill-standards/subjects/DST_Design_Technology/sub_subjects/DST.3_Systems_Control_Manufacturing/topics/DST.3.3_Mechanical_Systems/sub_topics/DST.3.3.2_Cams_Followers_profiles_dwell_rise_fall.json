@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.3.2",
+    "name": "Cams & Followers (profiles, dwell, rise/fall)",
+    "topic_id": "DST.3.3",
+    "topic_name": "Mechanical Systems",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Cams & Followers (profiles, dwell, rise/fall) in Mechanical Systems (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.1",
+            "objective_text": "Identify a bumpy wheel.",
+            "objective_uuid": "14c41d9c-d2c1-4fa8-ab7d-b97c80471b91"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.2",
+            "objective_text": "Name the part that goes up and down.",
+            "objective_uuid": "3f3a5583-967c-44eb-ac9f-f6f489c7ddd3"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.7",
+            "objective_text": "Identify the Follower (the stick resting on the cam).",
+            "objective_uuid": "027cbbdb-729e-4131-8867-9814cd91654e"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.3",
+            "objective_text": "Recall that the shape of the wheel changes the movement.",
+            "objective_uuid": "e614b454-c49b-4ba0-b443-63dd7ecb13ce"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.4",
+            "objective_text": "Observe a toy that bobs up and down.",
+            "objective_uuid": "ff4fb3db-c214-460f-a5b5-0b8f48dd8de7"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.5",
+            "objective_text": "Summarize how a Cam turns rotary motion into reciprocating motion.",
+            "objective_uuid": "9eefb6f6-2ca6-415f-8f3b-94491965d065"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.6",
+            "objective_text": "Explain a 'Snail Cam' (drops suddenly).",
+            "objective_uuid": "cfedeb6c-2c56-4580-9880-5df23b691009"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.12",
+            "objective_text": "Explain the need for a guide on the follower.",
+            "objective_uuid": "95f2d99b-b31d-45a3-9165-aa1e493fbf74"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.15",
+            "objective_text": "Defend the use of cams in automation (automata).",
+            "objective_uuid": "afcb212e-eeec-4eba-beac-deb47485adb9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.8",
+            "objective_text": "Compare a round wheel with an egg-shaped wheel.",
+            "objective_uuid": "dc4b8b30-c408-480e-b74f-4c6e74f857cf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.9",
+            "objective_text": "Analyze different profiles (Pear, Heart, Eccentric).",
+            "objective_uuid": "793d2532-7bb8-4033-981d-71cc40f3adc9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.10",
+            "objective_text": "Interpret the concept of 'Dwell' (staying still).",
+            "objective_uuid": "79a512cc-7e53-4911-8879-7f552328c4f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.11",
+            "objective_text": "Connect the cam shape to the movement graph.",
+            "objective_uuid": "c0b96af6-d294-4f6d-9224-baa2a839b9c2"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.14",
+            "objective_text": "Evaluate the wear and friction on the follower.",
+            "objective_uuid": "fd89ffdb-10d2-4660-bb89-cfa6d72d80fe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.13",
+            "objective_text": "Construct a displacement diagram for a specific cam profile.",
+            "objective_uuid": "8375fcaa-4556-4f51-bede-c0f27d590f2c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.2",
+            "sub_topic_name": "Cams & Followers (profiles, dwell, rise/fall)",
+            "objective_id": "DST.3.3.2.16",
+            "objective_text": "Synthesize mathematical profiling with mechanical output.",
+            "objective_uuid": "97bd79aa-7aad-4185-9c47-c7b019cbf87b"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "DST.4.2.2",
+    "name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+    "topic_id": "DST.4.2",
+    "topic_name": "Evaluation & Quality Assurance",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.4",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Lifecycle Analysis (assessing environmental impact from cradle to grave) in Evaluation & Quality Assurance (Design & Technology)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.1",
+            "objective_text": "Identify if the material can be recycled.",
+            "objective_uuid": "4085d34b-943e-4c10-a883-0d586a20a0d7"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.2",
+            "objective_text": "Name the bin where it goes.",
+            "objective_uuid": "28c4af81-f137-494f-a819-af0e08ac06c6"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.8",
+            "objective_text": "Identify the '6 Rs' (Recycle, Reuse, Reduce, Refuse, Rethink, Repair).",
+            "objective_uuid": "0f168232-d9cc-4294-a87c-0587530b1b45"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.3",
+            "objective_text": "Recall that trash hurts the earth.",
+            "objective_uuid": "73c67af7-8bde-45bb-9d0e-1d68c0bd9f0c"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.4",
+            "objective_text": "Observe that things break and get thrown away.",
+            "objective_uuid": "2f2e8e56-2c10-4cbd-aa02-ce83bb6fbcb3"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.5",
+            "objective_text": "Summarize where materials come from (trees, oil, mines).",
+            "objective_uuid": "748a6b25-71b3-44bd-add1-fa4a5fed749b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.6",
+            "objective_text": "Explain what happens when we throw it away (Landfill).",
+            "objective_uuid": "f7813026-faec-4c73-9a2d-771048060bab"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.12",
+            "objective_text": "Explain 'Built-in Obsolescence'.",
+            "objective_uuid": "f341a903-4e98-4413-8970-4e526fa20573"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 5,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.7",
+            "objective_text": "Compare a disposable cup with a reusable one.",
+            "objective_uuid": "d7616ab6-d07b-45fe-8f41-8fc55e88925e"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.9",
+            "objective_text": "Analyze the Carbon Footprint of a product.",
+            "objective_uuid": "427f5a1a-a4b8-44b2-bc16-bcbd26b9b203"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.10",
+            "objective_text": "Interpret a Lifecycle Assessment (LCA) chart.",
+            "objective_uuid": "112d593e-3864-4f08-9bc0-ab2242918470"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.11",
+            "objective_text": "Connect transportation distance to environmental cost.",
+            "objective_uuid": "a1b64a3d-9f4c-42d5-9003-c8f083b1f4bc"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.15",
+            "objective_text": "Defend the stewardship of resources in manufacturing.",
+            "objective_uuid": "65c35f7a-132e-4b56-8cb6-5d7081983ef7"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.14",
+            "objective_text": "Evaluate the embodied energy of materials.",
+            "objective_uuid": "71ac86c5-47c8-475f-ac95-885372edf7e6"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.13",
+            "objective_text": "Construct a Cradle-to-Cradle design strategy.",
+            "objective_uuid": "33e92354-881c-4e20-b175-1021e898bd56"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.4",
+            "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+            "topic_id": "DST.4.2",
+            "topic_name": "Evaluation & Quality Assurance",
+            "sub_topic_id": "DST.4.2.2",
+            "sub_topic_name": "Lifecycle Analysis (assessing environmental impact from cradle to grave)",
+            "objective_id": "DST.4.2.2.16",
+            "objective_text": "Synthesize circular economy principles.",
+            "objective_uuid": "724722e1-c7c1-473e-8667-724afe9b3a7e"
+          }
+        ]
+      }
+    }
+  }
+}

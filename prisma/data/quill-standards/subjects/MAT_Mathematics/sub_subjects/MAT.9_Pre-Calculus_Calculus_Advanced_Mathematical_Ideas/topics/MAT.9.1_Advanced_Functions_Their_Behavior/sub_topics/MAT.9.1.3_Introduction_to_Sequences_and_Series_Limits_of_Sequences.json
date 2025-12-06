@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.9.1.3",
+    "name": "Introduction to Sequences and Series (Limits of Sequences)",
+    "topic_id": "MAT.9.1",
+    "topic_name": "Advanced Functions & Their Behavior",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.9",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Introduction to Sequences and Series (Limits of Sequences) in Advanced Functions & Their Behavior (Mathematics)",
+    "grade_levels": {
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.1",
+            "objective_text": "Identify a list of numbers.",
+            "objective_uuid": "8127d5a0-cf0a-4d32-bead-4a7c29b1ce8d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 12,
+        "average_complexity": 30.58,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.8",
+            "objective_text": "Identify the next three terms.",
+            "objective_uuid": "8377b270-6e2e-4ee2-ad25-fea29721dd39"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.3",
+            "objective_text": "Recall that we get closer but don't touch.",
+            "objective_uuid": "4e8183a9-1065-4909-88db-7549c7adfd39"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.4",
+            "objective_text": "Observe smaller and smaller pieces.",
+            "objective_uuid": "fd570451-434a-4f50-92d0-b99b6b11ea01"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.7",
+            "objective_text": "Sum the first 5 numbers.",
+            "objective_uuid": "bcb3f260-d5f2-4af9-95a3-df5fba6989be"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.12",
+            "objective_text": "Explain why adding infinite numbers can equal a finite sum.",
+            "objective_uuid": "47cf8e8c-5b29-4576-8993-b546255585df"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.2",
+            "objective_text": "Walk halfway to the wall, then halfway again.",
+            "objective_uuid": "1aab84bb-c8c6-48e8-94be-43ce62f06182"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.5",
+            "objective_text": "Summarize a pattern that shrinks ($1/2, 1/4, 1/8$).",
+            "objective_uuid": "f9358cbf-d7ac-4819-a4ef-62e880f20321"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.6",
+            "objective_text": "Explain that a list can go on forever.",
+            "objective_uuid": "35de3376-1e29-489d-934c-c0f8717cffa1"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.15",
+            "objective_text": "Defend the resolution of Zeno's Paradox.",
+            "objective_uuid": "8407efec-1847-4890-bec3-9546bef07431"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.9",
+            "objective_text": "Analyze convergent vs. divergent patterns.",
+            "objective_uuid": "95419270-b67c-48d8-9099-78ea3cd8b861"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.10",
+            "objective_text": "Interpret the 'Limit' as the value approached.",
+            "objective_uuid": "4da80dc9-7453-4a52-8a98-703060563fd0"
+          },
+          {
+            "complexity": 34,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.11",
+            "objective_text": "Connect infinite decimals ($0.333...$) to limits.",
+            "objective_uuid": "c248424b-7a7e-41e5-9f4d-88a2a89428be"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 39.0,
+        "objectives": [
+          {
+            "complexity": 37,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.14",
+            "objective_text": "Evaluate sums of infinite geometric series.",
+            "objective_uuid": "e01623ac-68bb-4497-93ec-9a01a8b00c9e"
+          },
+          {
+            "complexity": 40,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.13",
+            "objective_text": "Construct the limit notation $\\lim_{n \\to \\infty} a_n$.",
+            "objective_uuid": "f36afb6f-e878-4965-902b-0bff8a080baf"
+          },
+          {
+            "complexity": 40,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.9",
+            "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+            "topic_id": "MAT.9.1",
+            "topic_name": "Advanced Functions & Their Behavior",
+            "sub_topic_id": "MAT.9.1.3",
+            "sub_topic_name": "Introduction to Sequences and Series (Limits of Sequences)",
+            "objective_id": "MAT.9.1.3.16",
+            "objective_text": "Synthesize factorial notation with sequences.",
+            "objective_uuid": "3414479f-545b-4605-bc2a-cab4f5461fec"
+          }
+        ]
+      }
+    }
+  }
+}

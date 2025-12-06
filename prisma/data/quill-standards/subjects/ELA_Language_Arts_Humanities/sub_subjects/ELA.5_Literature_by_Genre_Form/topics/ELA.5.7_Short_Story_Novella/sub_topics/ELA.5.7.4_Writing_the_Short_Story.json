@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.5.7.4",
+    "name": "Writing the Short Story",
+    "topic_id": "ELA.5.7",
+    "topic_name": "Short Story & Novella",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.5",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Writing the Short Story in Short Story & Novella (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.8",
+            "objective_text": "Identify the climax of my own story.",
+            "objective_uuid": "fc263274-d826-4a99-8866-e8dc3921a4cc"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.2",
+            "objective_text": "Write a beginning, middle, and end.",
+            "objective_uuid": "65b79383-3f7b-476f-89e7-229544b8f20c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.1",
+            "objective_text": "Think of one character and one problem.",
+            "objective_uuid": "e7d06625-a62f-4298-8123-489aa30376e3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.3",
+            "objective_text": "Use describing words.",
+            "objective_uuid": "b13b4943-fb9b-4110-83bb-3578ca08757d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.4",
+            "objective_text": "Draw pictures for the story.",
+            "objective_uuid": "103e98b6-fadf-4393-87f2-e208ca307c49"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.5",
+            "objective_text": "Summarize the writing process (Brainstorm, Draft, Edit).",
+            "objective_uuid": "15bb03aa-5269-402c-a6dc-008ea33e100c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.6",
+            "objective_text": "Explain \"Show, Don't Tell\".",
+            "objective_uuid": "9fbca5ba-d841-4e46-9c0c-808cd0e899f9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.12",
+            "objective_text": "Explain the importance of the first sentence (Hook).",
+            "objective_uuid": "2c79b712-a39f-4538-8fbf-8d30702bb891"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.15",
+            "objective_text": "Defend creative choices.",
+            "objective_uuid": "20c0b413-4543-437b-8a1c-3573200b68b5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.9",
+            "objective_text": "Analyze the economy of words (cutting unnecessary parts).",
+            "objective_uuid": "1c877e09-5f1f-484e-bf35-c4edc73ee3a3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.10",
+            "objective_text": "Interpret peer feedback.",
+            "objective_uuid": "a1825775-6fa5-4a8c-8d0e-f53c064d2b44"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.11",
+            "objective_text": "Connect character motivation to plot actions.",
+            "objective_uuid": "b8f2e641-a5ad-477b-9fa3-bc6e32c6f590"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.14",
+            "objective_text": "Evaluate the story against the elements of fiction.",
+            "objective_uuid": "15b9f067-c455-4720-9975-5030c174463e"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.7",
+            "objective_text": "Create a dialogue between two characters.",
+            "objective_uuid": "3323ad9e-52f2-46dd-b8a8-16d647c1ad08"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.13",
+            "objective_text": "Construct a polished short story.",
+            "objective_uuid": "bbf7c6da-114d-4f55-a662-a5c67c75a475"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.5",
+            "sub_subject_name": "Literature by Genre & Form",
+            "topic_id": "ELA.5.7",
+            "topic_name": "Short Story & Novella",
+            "sub_topic_id": "ELA.5.7.4",
+            "sub_topic_name": "Writing the Short Story",
+            "objective_id": "ELA.5.7.4.16",
+            "objective_text": "Synthesize voice, style, and structure.",
+            "objective_uuid": "60ecd861-3f36-4ecb-84a8-42de529c5a5a"
+          }
+        ]
+      }
+    }
+  }
+}

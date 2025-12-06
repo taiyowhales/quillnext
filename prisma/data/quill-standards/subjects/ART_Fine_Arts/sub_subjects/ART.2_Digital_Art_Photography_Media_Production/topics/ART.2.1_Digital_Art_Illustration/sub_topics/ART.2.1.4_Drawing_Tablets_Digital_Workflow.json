@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "ART.2.1.4",
+    "name": "Drawing Tablets & Digital Workflow",
+    "topic_id": "ART.2.1",
+    "topic_name": "Digital Art & Illustration",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Drawing Tablets & Digital Workflow in Digital Art & Illustration (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.2",
+            "objective_text": "Identify the 'Undo' button as a way to fix mistakes.",
+            "objective_uuid": "72746e4e-4d41-4e92-a773-b1fff6497522"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.1",
+            "objective_text": "Use a mouse or finger to draw a line on a screen.",
+            "objective_uuid": "0c9fea98-b89e-4ff2-a225-8bb452425846"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.3",
+            "objective_text": "Save a drawing with a name.",
+            "objective_uuid": "e3f3f87b-ae01-4145-93ef-2b3f3e76276e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.4",
+            "objective_text": "Locate the eraser tool.",
+            "objective_uuid": "144613a0-2b3e-4aaf-804d-81d385754a97"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.5",
+            "objective_text": "Summarize the difference between drawing on paper vs. a screen.",
+            "objective_uuid": "9e133380-3342-44b3-a2c4-bdedffc9ee9e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.6",
+            "objective_text": "Use a stylus to control cursor movement.",
+            "objective_uuid": "8814c5a1-04fa-4fa7-ad45-34de47e745d7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.7",
+            "objective_text": "Explain the concept of 'Layers' (stacking acetate).",
+            "objective_uuid": "af851b24-0b94-4810-940c-87b2993bfbba"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.12",
+            "objective_text": "Explain resolution (DPI) before starting a canvas.",
+            "objective_uuid": "f44993b3-1e01-44a2-bfb2-d7b919d5d5e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.15",
+            "objective_text": "Defend the ergonomic importance of posture and grip.",
+            "objective_uuid": "bdb1c5ae-478e-4387-a038-11451d83b719"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.8",
+            "objective_text": "Organize files into folders.",
+            "objective_uuid": "58dd179a-f8c0-410e-bebb-4f64c629a3ed"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.9",
+            "objective_text": "Analyze the effect of pressure sensitivity on line weight.",
+            "objective_uuid": "72771439-1eda-4c02-9eeb-a5a30ba5bdb8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.10",
+            "objective_text": "Interpret the workspace layout (palettes, tools).",
+            "objective_uuid": "1463dff7-ff74-415f-a3d0-fec2b6606b07"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.11",
+            "objective_text": "Connect keyboard shortcuts to workflow speed.",
+            "objective_uuid": "3fc3a111-ab90-4857-88af-0a7e5681d11e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.14",
+            "objective_text": "Evaluate hardware calibration (color accuracy, parallax).",
+            "objective_uuid": "34415bc9-b591-4535-9c42-946e76cfdef9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.13",
+            "objective_text": "Construct a professional digital workspace customized for efficiency.",
+            "objective_uuid": "3fc0a66b-db93-4d89-a5cb-584a0e087c75"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.4",
+            "sub_topic_name": "Drawing Tablets & Digital Workflow",
+            "objective_id": "ART.2.1.4.16",
+            "objective_text": "Synthesize file management best practices (backups, naming conventions).",
+            "objective_uuid": "7c7fba09-b27d-4e21-a91b-58151ed44f9e"
+          }
+        ]
+      }
+    }
+  }
+}

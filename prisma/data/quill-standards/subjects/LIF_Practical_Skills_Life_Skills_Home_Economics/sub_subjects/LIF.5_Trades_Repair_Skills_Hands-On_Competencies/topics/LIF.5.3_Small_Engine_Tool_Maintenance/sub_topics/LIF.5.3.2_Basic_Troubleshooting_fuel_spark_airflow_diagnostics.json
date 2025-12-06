@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.5.3.2",
+    "name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+    "topic_id": "LIF.5.3",
+    "topic_name": "Small Engine & Tool Maintenance",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.5",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Basic Troubleshooting (fuel, spark, airflow, diagnostics) in Small Engine & Tool Maintenance (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.1",
+            "objective_text": "Identify if it has gas.",
+            "objective_uuid": "80267aa9-8897-4b14-acab-3439fbf1af9a"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.3",
+            "objective_text": "Name the pull cord.",
+            "objective_uuid": "6b856a30-2cec-4c17-a60f-d66e30bcbb80"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.8",
+            "objective_text": "Identify a clogged filter.",
+            "objective_uuid": "a8a8a714-011f-4427-a1d6-64ddecf86c84"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.2",
+            "objective_text": "Recall that if it doesn't start, we check things.",
+            "objective_uuid": "3f70bb09-658d-447d-84fc-971c22e26e4a"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.4",
+            "objective_text": "Observe trying again.",
+            "objective_uuid": "482bda5d-95f1-467c-adf0-caaddc17cacb"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.5",
+            "objective_text": "Summarize the needs: Gas, Air, Spark.",
+            "objective_uuid": "5a8f2960-14f1-45d8-8b17-0f391adbe6f6"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.6",
+            "objective_text": "Explain a flooded engine.",
+            "objective_uuid": "e0c426ca-30e1-4dfd-8050-624147f68ad9"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.7",
+            "objective_text": "Check if the switch is 'On'.",
+            "objective_uuid": "b3bc332b-8daa-4c6f-921a-942e258c00db"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.12",
+            "objective_text": "Explain the choke.",
+            "objective_uuid": "0363da57-e6d2-47de-8cff-137cc35a414d"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.15",
+            "objective_text": "Defend the logical process of elimination.",
+            "objective_uuid": "4482af15-2fc8-4616-8bea-090ca158401b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.9",
+            "objective_text": "Analyze the carburetor's function (mixing air/fuel).",
+            "objective_uuid": "948b902f-458a-408a-83ac-651e2142ff3e"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.10",
+            "objective_text": "Interpret the color of the spark plug.",
+            "objective_uuid": "7dc6fc78-409b-49c4-9e6f-55c24603ece6"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.11",
+            "objective_text": "Connect old gas to gummed-up parts.",
+            "objective_uuid": "b3e0461c-b51b-4ea9-9c14-be6744b60efb"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.14",
+            "objective_text": "Evaluate the cost of repair vs. replace.",
+            "objective_uuid": "19d59c5d-097d-497f-be00-b0a35ab53d0d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.13",
+            "objective_text": "Construct a diagnostic tree for a non-starting engine.",
+            "objective_uuid": "2f10a610-bd22-4407-903c-738f258ce519"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.5",
+            "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+            "topic_id": "LIF.5.3",
+            "topic_name": "Small Engine & Tool Maintenance",
+            "sub_topic_id": "LIF.5.3.2",
+            "sub_topic_name": "Basic Troubleshooting (fuel, spark, airflow, diagnostics)",
+            "objective_id": "LIF.5.3.2.16",
+            "objective_text": "Synthesize systems understanding with problem solving.",
+            "objective_uuid": "f470d54f-36e3-46e9-a159-4b44d0c3d52f"
+          }
+        ]
+      }
+    }
+  }
+}

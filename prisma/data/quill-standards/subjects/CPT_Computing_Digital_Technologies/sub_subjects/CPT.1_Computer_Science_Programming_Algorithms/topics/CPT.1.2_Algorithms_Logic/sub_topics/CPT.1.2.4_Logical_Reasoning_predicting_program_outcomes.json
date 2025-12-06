@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.4",
+    "name": "Logical Reasoning (predicting program outcomes)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Logical Reasoning (predicting program outcomes) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.8",
+            "objective_text": "Identify logic errors.",
+            "objective_uuid": "9ce7c997-c3e1-4875-90f8-a6f9d308741d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.3",
+            "objective_text": "Recall the rule of the game.",
+            "objective_uuid": "aeb7ea2e-582f-4aa1-a924-c3e2ff6c3eb9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 8,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.1",
+            "objective_text": "Guess what happens next in a story.",
+            "objective_uuid": "bd74bf0c-37a2-42c8-aab0-0acafbe5ed20"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.2",
+            "objective_text": "Trace a line with a finger.",
+            "objective_uuid": "f6e7ac53-734b-4c30-bdb4-a34cbbdde401"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.4",
+            "objective_text": "Predict the end.",
+            "objective_uuid": "0492c4b7-41a2-411d-913a-ad2b73432ad6"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.5",
+            "objective_text": "Summarize what a block of code will do before running it.",
+            "objective_uuid": "8efc55e9-ec80-4812-9a88-ceed0ff9c514"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.6",
+            "objective_text": "Explain why a robot hit the wall.",
+            "objective_uuid": "1c01cb3c-b7e8-411c-859f-c389affe4d17"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.7",
+            "objective_text": "Trace variables on paper (Mental Walkthrough).",
+            "objective_uuid": "bca7d944-1954-4ef8-85b0-1dd49cccb370"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.12",
+            "objective_text": "Explain the difference between syntax and logic errors.",
+            "objective_uuid": "4e4683d6-64cb-4cd1-89d6-8d28e7a13c08"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.15",
+            "objective_text": "Defend the predicted output with logic.",
+            "objective_uuid": "220f35bf-e12c-49ea-827a-6adcfe8de217"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.9",
+            "objective_text": "Analyze a trace table.",
+            "objective_uuid": "2a4867d5-93cb-45b0-bcd3-0bf881adf570"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.10",
+            "objective_text": "Interpret the value of variables at each step.",
+            "objective_uuid": "c85cc6c2-a99d-437c-b7a1-43e5055b9d1a"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.11",
+            "objective_text": "Connect logic to bug finding.",
+            "objective_uuid": "4465687e-cd75-4e42-b3b4-4e8d4e0a8a25"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.14",
+            "objective_text": "Evaluate edge cases.",
+            "objective_uuid": "abb6a87d-9c2e-47ab-9f70-5ec0eda83b2f"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.13",
+            "objective_text": "Construct a dry run of a complex algorithm.",
+            "objective_uuid": "ed8e55ea-965a-4b1b-8c54-4ee5c28626c3"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.4",
+            "sub_topic_name": "Logical Reasoning (predicting program outcomes)",
+            "objective_id": "CPT.1.2.4.16",
+            "objective_text": "Synthesize deductive reasoning with code analysis.",
+            "objective_uuid": "a5a53ac2-b4fb-4749-b39e-d71048537b42"
+          }
+        ]
+      }
+    }
+  }
+}

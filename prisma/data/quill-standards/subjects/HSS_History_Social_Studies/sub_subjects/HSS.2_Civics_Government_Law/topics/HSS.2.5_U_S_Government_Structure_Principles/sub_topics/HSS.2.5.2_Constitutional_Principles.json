@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.5.2",
+    "name": "Constitutional Principles",
+    "topic_id": "HSS.2.5",
+    "topic_name": "U.S. Government Structure & Principles",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Constitutional Principles in U.S. Government Structure & Principles (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.67,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.8",
+            "objective_text": "Identify the Amendments (changes/additions).",
+            "objective_uuid": "bf090dce-9591-4c04-9997-b9f2b052a100"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.1",
+            "objective_text": "Identify the Constitution as the supreme rule book.",
+            "objective_uuid": "f87de8b0-c016-4f52-b894-b821d0ebbb37"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.2",
+            "objective_text": "Name 'We the People'.",
+            "objective_uuid": "c7eb7375-6ed5-4ef5-ac74-ff5c9656e2f9"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.3",
+            "objective_text": "Recall that the President has to follow the rules too.",
+            "objective_uuid": "11c914ec-a24e-4a7d-98f3-9ac4c75ef5af"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.4",
+            "objective_text": "Observe the flag as a symbol of our country.",
+            "objective_uuid": "7a6f3c1f-5e31-4449-8cda-391ccda19967"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.5",
+            "objective_text": "Summarize the Preamble.",
+            "objective_uuid": "6a38ae30-6e31-4361-86e9-a1543bfc9f60"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.6",
+            "objective_text": "Explain 'Popular Sovereignty' (people have the power).",
+            "objective_uuid": "e02b9c90-3c19-43ff-9e29-09516cd3e3f5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.12",
+            "objective_text": "Explain the process of ratification.",
+            "objective_uuid": "979b104f-b462-4188-9a36-1557b8cfe76a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.15",
+            "objective_text": "Defend the stability provided by a written constitution.",
+            "objective_uuid": "2eeafbd8-fc2f-44d7-bc1f-2e55badf26b6"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.7",
+            "objective_text": "Compare a Monarchy (King rules) with a Republic (Law rules).",
+            "objective_uuid": "9db79fbe-f13e-49c7-b2d2-00721065091e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.9",
+            "objective_text": "Analyze the structure of the Articles.",
+            "objective_uuid": "df6cea83-78e9-4de3-b613-07240341b769"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.10",
+            "objective_text": "Interpret the 'Supremacy Clause'.",
+            "objective_uuid": "681645d6-bd3b-4eb6-844d-0e4dd2797422"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.11",
+            "objective_text": "Connect the failure of the Articles of Confederation to the Constitution.",
+            "objective_uuid": "b1d44f8a-18e8-49b0-8c32-c2413477ae6f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.14",
+            "objective_text": "Evaluate the elasticity of the 'Necessary and Proper' clause.",
+            "objective_uuid": "c052088e-af94-43b4-8f3d-b4c072ce628a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.13",
+            "objective_text": "Construct an analysis of 'Original Intent' vs. 'Living Constitution'.",
+            "objective_uuid": "3d5faa98-500c-4cee-ac50-ea6d5a70503d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.5",
+            "topic_name": "U.S. Government Structure & Principles",
+            "sub_topic_id": "HSS.2.5.2",
+            "sub_topic_name": "Constitutional Principles",
+            "objective_id": "HSS.2.5.2.16",
+            "objective_text": "Synthesize the influence of Montesquieu on the Founders.",
+            "objective_uuid": "4f18788f-4d10-4873-b70f-b306900f9e75"
+          }
+        ]
+      }
+    }
+  }
+}

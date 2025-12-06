@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.5.1.7",
+    "name": "The Moon",
+    "topic_id": "SCI.5.1",
+    "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.5",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Moon in Astronomy: The Heavens Declare the Glory of God (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.1",
+            "objective_text": "Identify the Moon in the night sky.",
+            "objective_uuid": "a1d131d6-29ea-415c-82cb-d88d24a76071"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.2",
+            "objective_text": "Name the shapes of the Moon (Full, Crescent).",
+            "objective_uuid": "7e819687-9152-43db-b623-9602c04d7637"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.8",
+            "objective_text": "Identify the 'Man in the Moon' (Maria/Seas).",
+            "objective_uuid": "909fe8c7-f4eb-4820-a5a2-de55b2580163"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.3",
+            "objective_text": "Recall that the Moon reflects the Sun's light.",
+            "objective_uuid": "3f36650c-0f8c-4130-9862-db253309ad54"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.4",
+            "objective_text": "Observe craters on the Moon.",
+            "objective_uuid": "599106d9-24df-4036-9fa8-3033845e6efb"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.5",
+            "objective_text": "Summarize the phases of the Moon (Waxing, Waning).",
+            "objective_uuid": "7312f68b-9098-4e20-91f3-8ccfc22cdec1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.6",
+            "objective_text": "Explain how the Moon causes Tides.",
+            "objective_uuid": "7cc89a56-9136-4362-920d-fc30963ea10b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.12",
+            "objective_text": "Explain the formation theories of the Moon.",
+            "objective_uuid": "10d8f8d9-597d-43a4-9b01-a213264fe5e7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.15",
+            "objective_text": "Defend the value of lunar exploration.",
+            "objective_uuid": "bb600fd9-a70f-4694-a774-bca6347e11d7"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.7",
+            "objective_text": "Compare a Lunar Eclipse with a Solar Eclipse.",
+            "objective_uuid": "7d6f012f-f7f3-4186-b0b1-2211053be11a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.9",
+            "objective_text": "Analyze the synchronous rotation (we see one face).",
+            "objective_uuid": "271aa813-f793-48d0-bed1-d53984f58638"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.10",
+            "objective_text": "Interpret the gravity of the Moon vs. Earth.",
+            "objective_uuid": "c5d00786-7330-456d-a18c-d7a615033cd4"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.11",
+            "objective_text": "Connect the Moon to the stability of Earth's tilt.",
+            "objective_uuid": "d45927be-144f-4361-b3d8-6d16e6bfdca3"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.14",
+            "objective_text": "Evaluate the importance of the Moon for habitability.",
+            "objective_uuid": "1985f0c0-0f26-448d-9b18-128b5d692569"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.13",
+            "objective_text": "Construct a model of the Earth-Moon-Sun system.",
+            "objective_uuid": "4da8e7f8-0a65-4e5b-9cf9-89c74d4a0883"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.5",
+            "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+            "topic_id": "SCI.5.1",
+            "topic_name": "Astronomy: The Heavens Declare the Glory of God",
+            "sub_topic_id": "SCI.5.1.7",
+            "sub_topic_name": "The Moon",
+            "objective_id": "SCI.5.1.7.16",
+            "objective_text": "Synthesize the physics of tidal locking.",
+            "objective_uuid": "5150adf9-ae73-4d90-8cec-81fc24aa7d42"
+          }
+        ]
+      }
+    }
+  }
+}

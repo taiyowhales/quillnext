@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.7",
+    "name": "Website Design Principles (UI, UX, Accessibility)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Website Design Principles (UI, UX, Accessibility) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.1",
+            "objective_text": "Identify easy-to-read words.",
+            "objective_uuid": "f783792d-ecb7-408a-a293-576e6d1a4b20"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.2",
+            "objective_text": "Name buttons that are big enough.",
+            "objective_uuid": "8ae8673d-6aa2-4af4-bae9-4382368bff2f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.3",
+            "objective_text": "Recall that colors should look nice.",
+            "objective_uuid": "3caa7077-cb46-4317-a8a5-886152509574"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.4",
+            "objective_text": "Observe a messy page.",
+            "objective_uuid": "93f8f8a8-8f19-4705-a0d7-8a996ef48de8"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.8",
+            "objective_text": "Identify hard-to-read colors (contrast).",
+            "objective_uuid": "b8e765ed-9b73-47dd-95a7-05c3e5e900a7"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.5",
+            "objective_text": "Summarize User Interface (what we see).",
+            "objective_uuid": "e74692a9-f9d1-4ce3-9c92-90b54fdbbdb5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.6",
+            "objective_text": "Explain User Experience (how it feels).",
+            "objective_uuid": "48b50367-830d-4df4-8496-42987c6e1431"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.12",
+            "objective_text": "Explain 'Whitespace'.",
+            "objective_uuid": "a8f0159f-5153-444d-b990-e28b75b1dfa9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.15",
+            "objective_text": "Defend inclusive design principles (WCAG).",
+            "objective_uuid": "5f90ef6e-e1b8-47ee-9c5e-d4490b96deb4"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.9",
+            "objective_text": "Analyze navigation flow.",
+            "objective_uuid": "b6730542-3282-4982-9693-7140935efc94"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.10",
+            "objective_text": "Interpret consistency in design.",
+            "objective_uuid": "bfbcccef-7f23-476a-906c-028272fddd72"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.11",
+            "objective_text": "Connect accessibility (screen readers) to design choices.",
+            "objective_uuid": "7c08baf9-38fb-41ac-bdf6-3344fff7bdf4"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.14",
+            "objective_text": "Evaluate heuristics (Nielsen's usability).",
+            "objective_uuid": "0d8f2b5b-e59d-4815-b01b-d43ebd264833"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.7",
+            "objective_text": "Design a page on paper (wireframe).",
+            "objective_uuid": "d8e298db-f7d4-4992-b849-474dd8f5b4ad"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.13",
+            "objective_text": "Construct a high-fidelity mockup.",
+            "objective_uuid": "38cb2457-3528-4a71-8bda-d61644199214"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.7",
+            "sub_topic_name": "Website Design Principles (UI, UX, Accessibility)",
+            "objective_id": "CPT.6.4.7.16",
+            "objective_text": "Synthesize psychology of design.",
+            "objective_uuid": "15464760-df9e-46b6-be68-0cab1df2591b"
+          }
+        ]
+      }
+    }
+  }
+}

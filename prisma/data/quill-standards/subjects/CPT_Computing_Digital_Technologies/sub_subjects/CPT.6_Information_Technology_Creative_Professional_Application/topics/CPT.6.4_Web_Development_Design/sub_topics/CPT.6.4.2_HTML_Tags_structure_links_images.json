@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.2",
+    "name": "HTML (Tags, structure, links, images)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for HTML (Tags, structure, links, images) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.1",
+            "objective_text": "Identify headings and pictures.",
+            "objective_uuid": "2c9f6bfd-10b9-4757-87af-2d50a18ac0b1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.3",
+            "objective_text": "Recall that code makes the page.",
+            "objective_uuid": "4d0be200-7a86-4ad8-aa02-7350671d038c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.4",
+            "objective_text": "Observe text on a screen.",
+            "objective_uuid": "41670861-1b49-43d5-9ccb-5d7ba8c72ed3"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.8",
+            "objective_text": "Identify an image tag '<img>'.",
+            "objective_uuid": "698b133f-0535-4a84-bac9-67b6e602a598"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.2",
+            "objective_text": "Click a link.",
+            "objective_uuid": "c2fb6361-d9b6-4148-9801-fe7937f2b997"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.5",
+            "objective_text": "Summarize what HTML stands for (HyperText Markup Language).",
+            "objective_uuid": "71e2286a-caed-4379-80ce-64d118f71bc0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.6",
+            "objective_text": "Explain tags like '<p>' and '<h1>'.",
+            "objective_uuid": "5df10323-e02a-403f-b276-d55b500ded2b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.12",
+            "objective_text": "Explain semantic HTML (using '<nav>', '<footer>').",
+            "objective_uuid": "b4a027d4-8af8-4988-9848-dffc26f9bc1e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.15",
+            "objective_text": "Defend semantic markup for accessibility.",
+            "objective_uuid": "cd804aea-584b-4e81-b320-1a44c6ba3d5d"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.9",
+            "objective_text": "Analyze the DOM tree structure (parents/children).",
+            "objective_uuid": "354537e6-946c-4db4-8dc7-2fd119bbbbbb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.10",
+            "objective_text": "Interpret attributes ('href', 'src').",
+            "objective_uuid": "1f76d8a8-ca09-4143-8f66-06a59d9f6c29"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.11",
+            "objective_text": "Connect lists ('<ul>', '<ol>') to content.",
+            "objective_uuid": "b0da6c45-3e9d-4260-a620-247744c52939"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.14",
+            "objective_text": "Evaluate code for validation errors.",
+            "objective_uuid": "e4140fed-f162-41b1-bf6e-bfa2770083aa"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.7",
+            "objective_text": "Create a simple 'Hello World' page.",
+            "objective_uuid": "18919f93-f10b-42b1-91be-5408a5c76054"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.13",
+            "objective_text": "Construct a multi-page site structure.",
+            "objective_uuid": "dbcb0e20-928b-4c40-aad2-a747d1555d0f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.2",
+            "sub_topic_name": "HTML (Tags, structure, links, images)",
+            "objective_id": "CPT.6.4.2.16",
+            "objective_text": "Synthesize meta tags for SEO.",
+            "objective_uuid": "3db5a241-0ca6-4df1-8859-138d70757646"
+          }
+        ]
+      }
+    }
+  }
+}

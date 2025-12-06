@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.1.6",
+    "name": "Secondary Storage (Magnetic, Optical, Solid State)",
+    "topic_id": "CPT.2.1",
+    "topic_name": "Computer Architecture (Hardware)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Secondary Storage (Magnetic, Optical, Solid State) in Computer Architecture (Hardware) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.1",
+            "objective_text": "Identify a USB drive or CD.",
+            "objective_uuid": "37da83f5-5aa7-4553-b449-70496890686e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.4",
+            "objective_text": "Name 'Storage'.",
+            "objective_uuid": "d0b5f029-2748-4199-adcd-bbcec389b62d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.7",
+            "objective_text": "Identify Optical discs (CD/DVD/Blu-ray).",
+            "objective_uuid": "887634b0-8383-428c-b2a0-1622d7360ed4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.3",
+            "objective_text": "Recall that we keep things for later.",
+            "objective_uuid": "a7b233c1-4753-4f59-b585-0f24bf89aa3c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.2",
+            "objective_text": "Save a file.",
+            "objective_uuid": "ac60f3d6-fa06-424f-968c-d00fbeb29fd2"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.5",
+            "objective_text": "Summarize Hard Drive (HDD) vs. Solid State (SSD).",
+            "objective_uuid": "acffdfaf-9d98-4152-95f4-24960431da50"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.6",
+            "objective_text": "Explain why SSDs are faster (no moving parts).",
+            "objective_uuid": "fb0fbfe0-d886-4081-ad70-91f5badc465a"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.12",
+            "objective_text": "Explain how magnetic storage works (polarity).",
+            "objective_uuid": "27b700e6-0d56-440f-a77d-025d8f773bc7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.15",
+            "objective_text": "Defend data redundancy strategies.",
+            "objective_uuid": "242159c8-c09f-405b-ae2e-19d1d8e86fbc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.8",
+            "objective_text": "Compare magnetic tape vs. chips.",
+            "objective_uuid": "2445f045-cf61-4e55-82e5-d76d0b7e7bfe"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.9",
+            "objective_text": "Analyze the cost per gigabyte.",
+            "objective_uuid": "52d261b4-1841-4208-9bb6-bbd523fbc3ec"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.10",
+            "objective_text": "Interpret read/write speeds.",
+            "objective_uuid": "1791f7b0-b078-40a3-b1be-edd9ca8f09b7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.11",
+            "objective_text": "Connect durability to storage type.",
+            "objective_uuid": "8550f952-f7d2-4130-8d7d-07ace330b11e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.14",
+            "objective_text": "Evaluate the lifespan of SSDs (write cycles).",
+            "objective_uuid": "a51bd6b5-4df3-4ede-822f-9af0dbecdc36"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.13",
+            "objective_text": "Construct a storage solution for a server (RAID).",
+            "objective_uuid": "0e23889d-7e9b-4df1-a349-cdb5a054f624"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.6",
+            "sub_topic_name": "Secondary Storage (Magnetic, Optical, Solid State)",
+            "objective_id": "CPT.2.1.6.16",
+            "objective_text": "Synthesize physical storage mechanisms.",
+            "objective_uuid": "c1a9238b-4e79-4883-99f5-3e7c385e89f0"
+          }
+        ]
+      }
+    }
+  }
+}

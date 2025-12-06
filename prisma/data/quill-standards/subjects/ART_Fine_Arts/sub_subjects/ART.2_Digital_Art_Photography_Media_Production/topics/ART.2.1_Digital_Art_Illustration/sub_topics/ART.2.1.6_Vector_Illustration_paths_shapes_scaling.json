@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "ART.2.1.6",
+    "name": "Vector Illustration (paths, shapes, scaling)",
+    "topic_id": "ART.2.1",
+    "topic_name": "Digital Art & Illustration",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.2",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Vector Illustration (paths, shapes, scaling) in Digital Art & Illustration (Fine Arts)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 10,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.1",
+            "objective_text": "Drag and drop shapes (circle, square) to make a picture.",
+            "objective_uuid": "c99d4574-d26c-42c5-9a4a-4fb62f7e74f6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.2",
+            "objective_text": "Fill a shape with color.",
+            "objective_uuid": "8a6f73d0-a2ea-4ed8-8537-01bf013a296a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.3",
+            "objective_text": "Resize a shape to make it big or small.",
+            "objective_uuid": "6467093a-f9b2-4a33-99e1-39d36554ac0f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.4",
+            "objective_text": "Group shapes together.",
+            "objective_uuid": "5bd9a435-dff5-4f0b-a7cc-c9bba13e2cbc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.5",
+            "objective_text": "Summarize why vectors stay smooth when big (math).",
+            "objective_uuid": "afe3ab69-8573-4fb4-bf97-ffde4829fc2d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.6",
+            "objective_text": "Use the Pen Tool to make straight lines.",
+            "objective_uuid": "1faa6378-1bd3-4494-9cc6-a6e01c14e752"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.7",
+            "objective_text": "Explain the difference between a Stroke (outline) and Fill.",
+            "objective_uuid": "5713f9ee-9138-44f9-b591-ea622da4c935"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.8",
+            "objective_text": "Align objects to the center.",
+            "objective_uuid": "8a30b4a1-2cf7-40e4-8d97-1d5218f896d2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.12",
+            "objective_text": "Explain the advantage of Vector for logos.",
+            "objective_uuid": "ca8b1681-9596-4f53-8283-39c8c1564836"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.15",
+            "objective_text": "Defend the scalability of vector graphics for billboards.",
+            "objective_uuid": "7b8b3c44-a3e5-4825-9edb-ef73d2bf0566"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.9",
+            "objective_text": "Analyze Bezier curves and handles.",
+            "objective_uuid": "ec6501fc-a1d3-4c0f-b946-a34c171370f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.10",
+            "objective_text": "Interpret Boolean operations (Unite, Subtract, Intersect).",
+            "objective_uuid": "cf46bd33-239f-4c1a-a89d-ac7baee86faf"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.11",
+            "objective_text": "Connect nodes to close a path.",
+            "objective_uuid": "23bafb34-d4f6-4965-91ce-7e85e0348b7f"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.14",
+            "objective_text": "Evaluate the 'economy of points' (clean paths).",
+            "objective_uuid": "bebfff0e-c770-4bd7-860a-70db3b177f58"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.13",
+            "objective_text": "Construct complex vector artwork using gradients and meshes.",
+            "objective_uuid": "a7c20687-1c24-4e8a-9852-b9f40efe311f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.2",
+            "sub_subject_name": "Digital Art, Photography & Media Production",
+            "topic_id": "ART.2.1",
+            "topic_name": "Digital Art & Illustration",
+            "sub_topic_id": "ART.2.1.6",
+            "sub_topic_name": "Vector Illustration (paths, shapes, scaling)",
+            "objective_id": "ART.2.1.6.16",
+            "objective_text": "Synthesize typography with vector illustration.",
+            "objective_uuid": "b76a4793-f0ec-4ba9-b433-1793d896cd4c"
+          }
+        ]
+      }
+    }
+  }
+}

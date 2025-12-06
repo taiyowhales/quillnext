@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.2.3.1",
+    "name": "Commercial Printing & Die Cutting",
+    "topic_id": "DST.2.3",
+    "topic_name": "Technical Textiles & Papers",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.2",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Commercial Printing & Die Cutting in Technical Textiles & Papers (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.1",
+            "objective_text": "Identify a printer making a picture.",
+            "objective_uuid": "49c7bc7f-8eb4-4d89-9c18-49b9ce4197d5"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.2",
+            "objective_text": "Name a stamp or stencil.",
+            "objective_uuid": "62a8983d-5a1e-4efd-9b3a-978a2e682808"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.7",
+            "objective_text": "Identify registration marks (targets on the corner).",
+            "objective_uuid": "d7e5cb27-2e6c-4d74-9ee2-ccef39a4d2bf"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.3",
+            "objective_text": "Recall that machines cut shapes.",
+            "objective_uuid": "fc4fe02c-9f51-42c0-82e9-aa72233cf72e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.4",
+            "objective_text": "Observe a pop-up book.",
+            "objective_uuid": "1c7b7250-28ea-4431-a394-6d724c8194a3"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.5",
+            "objective_text": "Summarize CMYK (Cyan, Magenta, Yellow, Black).",
+            "objective_uuid": "71a3f223-c534-4f87-9fc8-88d9ab9a21d3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.6",
+            "objective_text": "Explain Die Cutting (like a cookie cutter).",
+            "objective_uuid": "dc4d9a66-17fc-4cbc-b193-2bb9240cecd1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.12",
+            "objective_text": "Explain Flexography.",
+            "objective_uuid": "053dc16f-1012-43d3-8c75-d76c3561bc08"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.15",
+            "objective_text": "Defend the design of a net for die cutting efficiency.",
+            "objective_uuid": "656a8a84-15a8-4d05-b0d2-854cefc7fb59"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.8",
+            "objective_text": "Compare home printing with book printing.",
+            "objective_uuid": "a3a48e36-ddf6-44aa-911a-ebab213bd5dc"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.9",
+            "objective_text": "Analyze Offset Lithography (oil and water don't mix).",
+            "objective_uuid": "dca43bbe-5c69-4c05-80cd-fc989ff844fb"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.10",
+            "objective_text": "Interpret the function of a Crease vs. a Cut line.",
+            "objective_uuid": "711e0a58-c8dc-4b89-8c55-7074b684d83b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.11",
+            "objective_text": "Connect screen printing to mass production.",
+            "objective_uuid": "545da2b4-3479-485f-b3c4-50578a05cbd2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.67,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.13",
+            "objective_text": "Construct a print-ready file with bleed and crop marks.",
+            "objective_uuid": "50b44041-301e-4356-953e-4d50c1e51b92"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.16",
+            "objective_text": "Synthesize graphic design with production processes.",
+            "objective_uuid": "299e9a80-51b1-4e0d-8c28-03f4231a3f7b"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.3",
+            "topic_name": "Technical Textiles & Papers",
+            "sub_topic_id": "DST.2.3.1",
+            "sub_topic_name": "Commercial Printing & Die Cutting",
+            "objective_id": "DST.2.3.1.14",
+            "objective_text": "Evaluate the economics of digital vs. offset printing.",
+            "objective_uuid": "0d66fc43-d031-4fee-92b9-ee4bb28af746"
+          }
+        ]
+      }
+    }
+  }
+}

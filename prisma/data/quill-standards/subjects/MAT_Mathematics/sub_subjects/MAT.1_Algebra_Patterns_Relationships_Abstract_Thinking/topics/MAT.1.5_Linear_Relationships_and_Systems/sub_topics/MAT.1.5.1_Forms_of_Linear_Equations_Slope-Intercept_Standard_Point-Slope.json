@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.5.1",
+    "name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+    "topic_id": "MAT.1.5",
+    "topic_name": "Linear Relationships and Systems",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope) in Linear Relationships and Systems (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.1",
+            "objective_text": "Identify a rule for a pattern.",
+            "objective_uuid": "04a21777-01de-43b3-b808-b1e3fe3dfb44"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.3",
+            "objective_text": "Name the rule (double it).",
+            "objective_uuid": "b43ae17d-a006-4f11-b2f7-3040586fee56"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.8",
+            "objective_text": "Identify linear patterns.",
+            "objective_uuid": "d9868abe-d13d-4f0f-bba2-2c2b8324e50e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.4",
+            "objective_text": "Observe a table of numbers.",
+            "objective_uuid": "e33971e5-5127-451e-9460-85a699fa01b4"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.2",
+            "objective_text": "Recall that input changes to output.",
+            "objective_uuid": "7e709078-757d-460c-8f69-c5496f102104"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.5",
+            "objective_text": "Summarize $y = mx + b$.",
+            "objective_uuid": "74d21a5f-fe81-460d-b2ef-5fffc2a33734"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.6",
+            "objective_text": "Explain what $m$ and $b$ stand for.",
+            "objective_uuid": "8ba9af9c-4230-4f75-b551-4590c83a9172"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.7",
+            "objective_text": "Graph a line from the equation.",
+            "objective_uuid": "31cbb931-f23f-4085-934c-2d61e9f578a2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.12",
+            "objective_text": "Explain converting between forms.",
+            "objective_uuid": "6f29f5f5-df7d-49cb-b78b-4a30027f9f5c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.15",
+            "objective_text": "Defend the linearity of a function.",
+            "objective_uuid": "dcc2a952-d37f-4ec5-8cdd-d631fc715dbb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.9",
+            "objective_text": "Analyze Standard Form ($Ax + By = C$).",
+            "objective_uuid": "f0c1eb42-c180-4e9a-96b4-43b5a47d3602"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.10",
+            "objective_text": "Interpret Point-Slope form.",
+            "objective_uuid": "229e3cf8-e413-4cf2-9573-c2c843df384a"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.11",
+            "objective_text": "Connect manipulating equations to graphing.",
+            "objective_uuid": "d1dff37d-00b5-47f4-b82d-fa11ab0a618d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.14",
+            "objective_text": "Evaluate the utility of each form for specific tasks.",
+            "objective_uuid": "fe29210a-a164-439b-90d6-12c2b4000d9d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.13",
+            "objective_text": "Construct equations given minimal information.",
+            "objective_uuid": "e4cde5fd-5be7-4ddb-953e-e144f75be1bf"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.1",
+            "sub_topic_name": "Forms of Linear Equations (Slope-Intercept, Standard, Point-Slope)",
+            "objective_id": "MAT.1.5.1.16",
+            "objective_text": "Synthesize regression lines.",
+            "objective_uuid": "a558cca9-9ac5-48dc-a8ab-d764c2ac11cd"
+          }
+        ]
+      }
+    }
+  }
+}

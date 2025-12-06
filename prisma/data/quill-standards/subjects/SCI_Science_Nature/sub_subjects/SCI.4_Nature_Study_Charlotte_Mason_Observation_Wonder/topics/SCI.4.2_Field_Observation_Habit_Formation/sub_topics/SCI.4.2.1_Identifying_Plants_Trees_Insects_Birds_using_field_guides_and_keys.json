@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "SCI.4.2.1",
+    "name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+    "topic_id": "SCI.4.2",
+    "topic_name": "Field Observation & Habit Formation",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.4",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Identifying Plants, Trees, Insects, Birds (using field guides and keys) in Field Observation & Habit Formation (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.1",
+            "objective_text": "Name 5–10 common local wildflowers, trees, or birds.",
+            "objective_uuid": "5e960b07-627c-4b30-9b50-6569351ebd71"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.2",
+            "objective_text": "Match real specimens to pictures in a simple guide.",
+            "objective_uuid": "ef6a697b-56de-4b52-b987-44f69232f037"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.5",
+            "objective_text": "Use simple picture keys to identify common species.",
+            "objective_uuid": "0abe5a4c-0fde-42df-bfd3-f98c0ddefd60"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 11,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.3",
+            "objective_text": "Praise God by name for each creature observed.",
+            "objective_uuid": "6067a387-8dab-486c-ad21-359cdfdaafda"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.4",
+            "objective_text": "Press or trace a leaf ethically.",
+            "objective_uuid": "bd3d9446-ee6e-47e2-83e6-0a7fda80b624"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.6",
+            "objective_text": "Learn 20–30 local species by sight and sound.",
+            "objective_uuid": "7fe42016-843d-413f-b01a-bff26b7b3ef5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.7",
+            "objective_text": "Explain how naming reflects Adam’s calling and God’s order.",
+            "objective_uuid": "e2117ff9-0245-4b96-930d-26d589e87129"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.8",
+            "objective_text": "Begin a pressed-plant or feather collection (ethical sources).",
+            "objective_uuid": "3e71267d-1fbb-4758-b115-cc8cc13f830a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.9",
+            "objective_text": "Use dichotomous keys accurately and independently.",
+            "objective_uuid": "aa7f956d-d6a8-49ce-8e7b-6900acb5afa4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.10",
+            "objective_text": "Master 100+ local species across multiple taxa.",
+            "objective_uuid": "8f6d496b-b76f-4dd0-a782-68717d43f62b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.12",
+            "objective_text": "Lead identification walks for younger children.",
+            "objective_uuid": "a46048b2-d324-4116-b104-1a72537e711d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.13",
+            "objective_text": "Master regional flora and fauna using technical keys.",
+            "objective_uuid": "49b27403-9e81-45af-bcd6-0961d42ec9bf"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.14",
+            "objective_text": "Contribute observations to citizen-science platforms with theological reflection.",
+            "objective_uuid": "5959a5c9-a329-4716-ada3-00afbd232881"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.15",
+            "objective_text": "Defend taxonomy as a reflection of the Creator’s mind.",
+            "objective_uuid": "35321898-3e0e-4885-91a7-c893c5c7a388"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.11",
+            "objective_text": "Connect Latin binomials to the orderliness of creation.",
+            "objective_uuid": "679065e5-ecc2-4c76-81a7-2e404d190b42"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 28.0,
+        "objectives": [
+          {
+            "complexity": 28,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.4",
+            "sub_subject_name": "Nature Study (Charlotte Mason Observation & Wonder)",
+            "topic_id": "SCI.4.2",
+            "topic_name": "Field Observation & Habit Formation",
+            "sub_topic_id": "SCI.4.2.1",
+            "sub_topic_name": "Identifying Plants, Trees, Insects, Birds (using field guides and keys)",
+            "objective_id": "SCI.4.2.1.16",
+            "objective_text": "Synthesize field identification with systematic theology of creation.",
+            "objective_uuid": "fda2471e-2ba4-4e07-aaf1-7f82021bc737"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.2.2",
+    "name": "Ethics of AI (bias, hallucinations, alignment)",
+    "topic_id": "CPT.7.2",
+    "topic_name": "Artificial Intelligence & Machine Learning",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ethics of AI (bias, hallucinations, alignment) in Artificial Intelligence & Machine Learning (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.1",
+            "objective_text": "Identify if a robot is being fair.",
+            "objective_uuid": "e419fbff-e1a8-4a92-9153-c6875a69cb1b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.2",
+            "objective_text": "Recall that robots do what people tell them.",
+            "objective_uuid": "18c2a0b3-b717-4cf8-af36-fb590fc60b45"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.3",
+            "objective_text": "Name a mistake a computer made.",
+            "objective_uuid": "e11bf164-cc9f-4129-a2ee-e153c6ea0a90"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.4",
+            "objective_text": "Observe rules for robots.",
+            "objective_uuid": "01beed6b-79b5-4df7-9870-58528822015e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.7",
+            "objective_text": "Identify deepfakes (trick videos).",
+            "objective_uuid": "3468e773-a9b5-4150-9530-57995e1db693"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.5",
+            "objective_text": "Summarize 'Bias' (unfairness in data).",
+            "objective_uuid": "fb057733-f4d0-4300-9c3f-4d317121f3e2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.6",
+            "objective_text": "Explain why we check AI answers.",
+            "objective_uuid": "ac117aa3-f9a7-4021-b58b-ecd96e537b67"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.12",
+            "objective_text": "Explain the Black Box problem (transparency).",
+            "objective_uuid": "07950c87-b833-42d7-8c39-45dad0ad6345"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.15",
+            "objective_text": "Defend the unique value of the Imago Dei against transhumanism.",
+            "objective_uuid": "0233a096-ace6-44c7-b223-61f37a3c6148"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.8",
+            "objective_text": "Compare a human judge with a robot judge.",
+            "objective_uuid": "c1512eba-b55b-45b1-b9b6-994f88fe5ba9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.10",
+            "objective_text": "Interpret the Alignment Problem (making AI want what we want).",
+            "objective_uuid": "f97e6c58-6b2f-4506-9d34-9b8217a5de86"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.11",
+            "objective_text": "Connect automation to job displacement.",
+            "objective_uuid": "ac9837a5-05d2-4052-aca9-bf2be0630858"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.14",
+            "objective_text": "Evaluate the risks of AGI (Artificial General Intelligence).",
+            "objective_uuid": "4ed698f4-dcec-413c-b214-87c4fc056f7a"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.13",
+            "objective_text": "Construct an ethical framework for AI deployment.",
+            "objective_uuid": "e4dae4c8-6111-4831-a2de-5359bc1e7d81"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.9",
+            "objective_text": "Analyze Algorithmic Bias (in hiring or policing).",
+            "objective_uuid": "7bf685d9-e3bb-4db7-8634-9f6c6aec8a57"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.2",
+            "topic_name": "Artificial Intelligence & Machine Learning",
+            "sub_topic_id": "CPT.7.2.2",
+            "sub_topic_name": "Ethics of AI (bias, hallucinations, alignment)",
+            "objective_id": "CPT.7.2.2.16",
+            "objective_text": "Synthesize philosophy of mind with AI capabilities.",
+            "objective_uuid": "32b7be00-da7a-4e6d-89c3-893c1605fa21"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.1.4",
+    "name": "Prompt Engineering for Code",
+    "topic_id": "CPT.7.1",
+    "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Prompt Engineering for Code in AI-Assisted Development (“Vibe Coding”) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.3",
+            "objective_text": "Name a 'Prompt'.",
+            "objective_uuid": "25b5f5cb-3bb9-47b8-a1fe-9a13ea1ad6b1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.8",
+            "objective_text": "Identify ambiguity.",
+            "objective_uuid": "e4e467c8-495f-4170-a3d1-ce37410b03b1"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.2",
+            "objective_text": "Recall that better questions get better answers.",
+            "objective_uuid": "19ea4ef7-31c0-40a8-8066-e0c17f69a474"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.4",
+            "objective_text": "Observe changing the words.",
+            "objective_uuid": "cde7010c-9f02-474d-804d-c1fb1b0f06d0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 6,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.1",
+            "objective_text": "Ask a specific question.",
+            "objective_uuid": "fe79c617-197a-4635-847a-15125f948f44"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.5",
+            "objective_text": "Summarize giving context to the AI.",
+            "objective_uuid": "c0356945-8e61-4d8e-b92c-1e4117e51229"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.6",
+            "objective_text": "Explain Chain of Thought (step-by-step).",
+            "objective_uuid": "429a2923-243c-4787-96fa-ce7a009064af"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.7",
+            "objective_text": "Refine a prompt to fix a bug.",
+            "objective_uuid": "79675681-8fbd-4111-92b6-d68bc61be001"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.12",
+            "objective_text": "Explain the persona pattern.",
+            "objective_uuid": "6651e84f-25b7-45bb-baa7-edbbc1425e14"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.15",
+            "objective_text": "Defend prompt engineering as a technical skill.",
+            "objective_uuid": "f3b82fd9-3fa9-4009-806d-d5b6e5ddecea"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.9",
+            "objective_text": "Analyze few-shot prompting.",
+            "objective_uuid": "e1c96354-fd3a-4d51-b701-eb979dff5623"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.10",
+            "objective_text": "Interpret the AI's reasoning process.",
+            "objective_uuid": "6c8012fa-9e6a-415b-ad5a-4d73761c0816"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.11",
+            "objective_text": "Connect constraint setting to output quality.",
+            "objective_uuid": "a5c4c1cc-88ea-4c39-90fa-555ba61310e0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.14",
+            "objective_text": "Evaluate the efficiency of different prompting strategies.",
+            "objective_uuid": "7dbaa5a9-2bbd-4e86-b884-15cb24cccaf3"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.16",
+            "objective_text": "Synthesize logic design with linguistic precision.",
+            "objective_uuid": "214e719a-0cad-4994-8328-548c249d0229"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 30.0,
+        "objectives": [
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.1",
+            "topic_name": "AI-Assisted Development (“Vibe Coding”)",
+            "sub_topic_id": "CPT.7.1.4",
+            "sub_topic_name": "Prompt Engineering for Code",
+            "objective_id": "CPT.7.1.4.13",
+            "objective_text": "Construct sophisticated prompts for system architecture.",
+            "objective_uuid": "93439c07-77f7-4fa3-9cd7-63945d403e9b"
+          }
+        ]
+      }
+    }
+  }
+}

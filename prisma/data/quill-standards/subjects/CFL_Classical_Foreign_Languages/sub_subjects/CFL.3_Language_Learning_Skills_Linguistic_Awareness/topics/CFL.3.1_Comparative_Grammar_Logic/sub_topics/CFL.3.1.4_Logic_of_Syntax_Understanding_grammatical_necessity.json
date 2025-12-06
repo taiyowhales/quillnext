@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CFL.3.1.4",
+    "name": "Logic of Syntax (Understanding grammatical necessity)",
+    "topic_id": "CFL.3.1",
+    "topic_name": "Comparative Grammar & Logic",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.3",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Logic of Syntax (Understanding grammatical necessity) in Comparative Grammar & Logic (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.1",
+            "objective_text": "Identify a complete thought.",
+            "objective_uuid": "64cb6b13-8f64-42ca-a471-b95aebc3112c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.3",
+            "objective_text": "Name the main idea.",
+            "objective_uuid": "35a18674-6e6b-42ea-9c93-ceb4e2c4f21e"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.7",
+            "objective_text": "Identify the core sentence.",
+            "objective_uuid": "6a146432-e19b-4364-9b2b-e895f9dc083f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.2",
+            "objective_text": "Recall that words need to be in order.",
+            "objective_uuid": "1ad31f48-d5c5-496e-8439-218b2fc95f63"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.4",
+            "objective_text": "Observe punctuation.",
+            "objective_uuid": "c9a82d04-b153-482c-8bf8-3e56990b0e46"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.5",
+            "objective_text": "Summarize Subject and Predicate.",
+            "objective_uuid": "5401e0c7-d382-4310-a5e3-aa51c7ef8d12"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.6",
+            "objective_text": "Explain why 'Blue runs quickly' makes sense but 'Quickly blue runs' is weird.",
+            "objective_uuid": "6d007400-7e76-4de4-b5e8-b28079b4c236"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.12",
+            "objective_text": "Explain ambiguity.",
+            "objective_uuid": "dc2413e0-7072-4aa3-87cd-60f5b0aeb948"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.8",
+            "objective_text": "Compare a statement with a question.",
+            "objective_uuid": "1c345055-ec23-488a-b675-9224e3ed687a"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.9",
+            "objective_text": "Analyze dependent and independent clauses.",
+            "objective_uuid": "b466a02e-d6f5-4e6a-a9f2-dcc9f1fdb6d0"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.10",
+            "objective_text": "Interpret the logic of conjunctions (Therefore, Because, However).",
+            "objective_uuid": "2c70cd24-416e-4af0-bdb2-672cead1e6df"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.11",
+            "objective_text": "Connect grammar rules to logical flow.",
+            "objective_uuid": "9d853ac8-8124-4989-88ac-782dbc687337"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.14",
+            "objective_text": "Evaluate the clarity of syntax.",
+            "objective_uuid": "b6e61560-1b33-4edc-b843-43360c971662"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.15",
+            "objective_text": "Defend grammar as the architecture of thought.",
+            "objective_uuid": "abc3696e-12f0-4477-aa9e-93e9b6e71d6e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.13",
+            "objective_text": "Construct complex logical propositions in sentence form.",
+            "objective_uuid": "70b47d47-643c-412e-ab2c-77cd04955f20"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.3",
+            "sub_subject_name": "Language Learning Skills & Linguistic Awareness",
+            "topic_id": "CFL.3.1",
+            "topic_name": "Comparative Grammar & Logic",
+            "sub_topic_id": "CFL.3.1.4",
+            "sub_topic_name": "Logic of Syntax (Understanding grammatical necessity)",
+            "objective_id": "CFL.3.1.4.16",
+            "objective_text": "Synthesize diagramming with logical analysis.",
+            "objective_uuid": "7c5fe7d8-0c65-411e-86c9-d1f06ea83f41"
+          }
+        ]
+      }
+    }
+  }
+}

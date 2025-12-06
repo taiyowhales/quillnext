@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.3.5",
+    "name": "Word Processing (formatting, styles, citations, collaborative editing)",
+    "topic_id": "CPT.6.3",
+    "topic_name": "Professional Digital Tools",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Word Processing (formatting, styles, citations, collaborative editing) in Professional Digital Tools (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.3",
+            "objective_text": "Recall saving.",
+            "objective_uuid": "346f5b8f-c402-474a-9ac6-e7160101d81c"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.8",
+            "objective_text": "Identify alignment (Center/Left).",
+            "objective_uuid": "e0e28c40-8204-4eab-86f7-9b943876c2bf"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.1",
+            "objective_text": "Type my name.",
+            "objective_uuid": "cca3df1d-60cc-4fe0-bb37-799cdb2ca874"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.2",
+            "objective_text": "Change font size.",
+            "objective_uuid": "101b5684-3c54-41a2-bdec-d2357b44fdb6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.4",
+            "objective_text": "Print a page.",
+            "objective_uuid": "7bb37600-b83d-4687-9c88-d4f16e96d7fa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.5",
+            "objective_text": "Summarize Bold, Italic, Underline.",
+            "objective_uuid": "52f79722-dc26-4e4c-89f3-fc144d86f7fd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.6",
+            "objective_text": "Explain spell check.",
+            "objective_uuid": "8abdc0b5-28a7-491b-bd21-3e768e6f750a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.7",
+            "objective_text": "Insert a picture.",
+            "objective_uuid": "13c52884-7608-4ac9-ae47-b015afff1dff"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.12",
+            "objective_text": "Explain page breaks vs. enter keys.",
+            "objective_uuid": "f42de823-0c6f-4027-8b19-f24cd5b373b0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.15",
+            "objective_text": "Defend the use of templates.",
+            "objective_uuid": "cf1a94ad-33cb-41fc-be1c-d48b62337848"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.9",
+            "objective_text": "Analyze Styles (Heading 1, Normal) for structure.",
+            "objective_uuid": "6ca94b36-a41f-49a3-a671-ebffe7243bd5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.10",
+            "objective_text": "Interpret comments and track changes.",
+            "objective_uuid": "15211479-1d4a-4085-8a01-ac97beec9e89"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.11",
+            "objective_text": "Connect citations to bibliography.",
+            "objective_uuid": "15d56134-a368-4e59-acbe-80ed1cc47c4a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.14",
+            "objective_text": "Evaluate document accessibility.",
+            "objective_uuid": "a8a434e1-347e-4956-976a-049b4c29ae19"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.13",
+            "objective_text": "Construct a professional report with Table of Contents.",
+            "objective_uuid": "22892daf-37eb-43ad-bd7e-2ee85ff4ac7f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.3",
+            "topic_name": "Professional Digital Tools",
+            "sub_topic_id": "CPT.6.3.5",
+            "sub_topic_name": "Word Processing (formatting, styles, citations, collaborative editing)",
+            "objective_id": "CPT.6.3.5.16",
+            "objective_text": "Synthesize collaborative workflows.",
+            "objective_uuid": "e54b630f-70eb-4e7e-918b-f4080bc1c0da"
+          }
+        ]
+      }
+    }
+  }
+}

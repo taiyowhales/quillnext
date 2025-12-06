@@ -1,0 +1,273 @@
+{
+  "topic": {
+    "id": "ELA.9.8",
+    "name": "Socratic Dialogue & Discussion",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.9",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Socratic Dialogue & Discussion in Language Arts & Humanities",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.2",
+            "objective_text": "Listen to the answer before talking again.",
+            "objective_uuid": "689c3c5a-9786-483b-b02f-8358716ae7cf"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.1",
+            "objective_text": "Ask 'Why?' to understand better.",
+            "objective_uuid": "96f5c6a3-d00a-40d8-a954-33f6680b63d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.3",
+            "objective_text": "Take turns in a circle discussion.",
+            "objective_uuid": "beeb7382-b5b4-4428-906e-c2ff99214d5b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.4",
+            "objective_text": "Ask politely for information.",
+            "objective_uuid": "377b60f6-e9b9-4258-9b6c-c447c43ee883"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.5",
+            "objective_text": "Ask open-ended questions (not just Yes/No).",
+            "objective_uuid": "ac846336-0fe4-4885-8a0b-4849f414ab58"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.6",
+            "objective_text": "Explain what someone else said to check understanding.",
+            "objective_uuid": "25b6d77e-d24a-45d9-841c-a558cb7c15bd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.8",
+            "objective_text": "Ask 'What do you mean by that?'",
+            "objective_uuid": "330b6be2-80c3-4151-80fe-8a2ac5f4097d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.12",
+            "objective_text": "Explain the value of admitting 'I don't know'.",
+            "objective_uuid": "19feb09c-36a2-4338-93cd-14b23d6dbaf7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.15",
+            "objective_text": "Defend the pursuit of Truth over the pursuit of winning.",
+            "objective_uuid": "6bf456f0-aa61-4d05-bd2b-cc9b44d5ea7d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.7",
+            "objective_text": "Compare two different answers to the same question.",
+            "objective_uuid": "cbc95287-2c45-40b5-bf48-a78f1a8c89a5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.9",
+            "objective_text": "Analyze assumptions behind a statement.",
+            "objective_uuid": "298eb713-76f3-49b5-8967-22344e4d4525"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.10",
+            "objective_text": "Interpret the Socratic method (teaching by asking).",
+            "objective_uuid": "68eefb0e-59f0-4237-8de9-cd5cd75c4a58"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.11",
+            "objective_text": "Connect questions to discovering truth together.",
+            "objective_uuid": "bd55b107-3351-4475-9c33-360ffc6c6b00"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.14",
+            "objective_text": "Evaluate the definition of terms in a discussion.",
+            "objective_uuid": "a0765759-ca5a-4d3c-b77d-c59163a81e26"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.13",
+            "objective_text": "Construct a line of questioning to expose a contradiction.",
+            "objective_uuid": "a1f721a2-6b39-4ecc-a086-c6b0352ec43e"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.8",
+            "topic_name": "Socratic Dialogue & Discussion",
+            "sub_topic_id": "ELA.9.8.1",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "ELA.9.8.1.16",
+            "objective_text": "Synthesize the dialectic process (Thesis-Antithesis-Synthesis).",
+            "objective_uuid": "21248235-8b91-48e1-a680-b61945da687b"
+          }
+        ]
+      }
+    }
+  }
+}

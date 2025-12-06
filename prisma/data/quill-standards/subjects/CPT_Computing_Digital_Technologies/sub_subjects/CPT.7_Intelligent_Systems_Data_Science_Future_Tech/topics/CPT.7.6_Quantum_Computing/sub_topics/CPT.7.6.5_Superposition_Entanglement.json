@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.6.5",
+    "name": "Superposition & Entanglement",
+    "topic_id": "CPT.7.6",
+    "topic_name": "Quantum Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Superposition & Entanglement in Quantum Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.1",
+            "objective_text": "Identify being in two places at once.",
+            "objective_uuid": "dce62162-d5db-4afb-b0cf-3216ad51c876"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.3",
+            "objective_text": "Name 'Entangled' (linked forever).",
+            "objective_uuid": "c2f4339a-0313-4fe8-9950-de5df0da9d3c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.7",
+            "objective_text": "Identify Einstein's 'Spooky action at a distance'.",
+            "objective_uuid": "532b6d3d-76ee-4164-a8ea-0d34f035fbce"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.2",
+            "objective_text": "Recall spooky connections.",
+            "objective_uuid": "6eb9f802-8145-4845-ac7b-8b2d152f9cb3"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.4",
+            "objective_text": "Observe magic tricks.",
+            "objective_uuid": "13f74a7b-0767-4b77-aa52-be69710ac775"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.5",
+            "objective_text": "Summarize Superposition (spinning coin).",
+            "objective_uuid": "df4e60f1-32f1-4043-965b-c115af0efae4"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.6",
+            "objective_text": "Explain Entanglement (what happens to one happens to the other).",
+            "objective_uuid": "defb88b9-64c4-4000-b7ba-d5bfa335fc0b"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.12",
+            "objective_text": "Explain quantum interference.",
+            "objective_uuid": "4d09597d-a21f-4670-a44e-c66064f7a5e2"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.15",
+            "objective_text": "Defend the non-local nature of quantum mechanics.",
+            "objective_uuid": "9bfe11da-ba5a-46f6-a523-3859c0b16010"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.8",
+            "objective_text": "Compare linked dice.",
+            "objective_uuid": "9e9173e2-9865-43c0-9769-387e65364c90"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.9",
+            "objective_text": "Analyze the collapse of the wave function.",
+            "objective_uuid": "9f326b09-8c4b-400a-b404-f594ff207809"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.10",
+            "objective_text": "Interpret Schrodinger's Cat thought experiment.",
+            "objective_uuid": "e846cfca-414d-41e8-bedb-016b97c9ce9c"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.11",
+            "objective_text": "Connect entanglement to teleportation of information.",
+            "objective_uuid": "c6e84dbf-478f-4585-8483-4f29563cd380"
+          },
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.14",
+            "objective_text": "Evaluate the implications for communication (Quantum Internet).",
+            "objective_uuid": "3abdf93f-5f77-49bb-9734-199f2e80e801"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 33.0,
+        "objectives": [
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.13",
+            "objective_text": "Construct Bell State circuits.",
+            "objective_uuid": "b51cb532-6da4-4811-baa4-638326e3d296"
+          },
+          {
+            "complexity": 36,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.6",
+            "topic_name": "Quantum Computing",
+            "sub_topic_id": "CPT.7.6.5",
+            "sub_topic_name": "Superposition & Entanglement",
+            "objective_id": "CPT.7.6.5.16",
+            "objective_text": "Synthesize physics with information theory.",
+            "objective_uuid": "8a7afd30-fed2-4f4c-9631-16fd95597d03"
+          }
+        ]
+      }
+    }
+  }
+}

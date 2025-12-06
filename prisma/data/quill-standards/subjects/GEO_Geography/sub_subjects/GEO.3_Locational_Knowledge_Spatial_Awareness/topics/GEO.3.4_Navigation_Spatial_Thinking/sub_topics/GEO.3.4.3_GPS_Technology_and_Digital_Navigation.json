@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.4.3",
+    "name": "GPS Technology and Digital Navigation",
+    "topic_id": "GEO.3.4",
+    "topic_name": "Navigation & Spatial Thinking",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for GPS Technology and Digital Navigation in Navigation & Spatial Thinking (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.1",
+            "objective_text": "Identify the blue dot on the phone map.",
+            "objective_uuid": "d6f26489-cc8f-4293-b30c-c604d1f56282"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.2",
+            "objective_text": "Name the satellite in space helping us.",
+            "objective_uuid": "8778ceb7-96de-474e-9c22-a6104819d3af"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.8",
+            "objective_text": "Identify coordinates on a screen.",
+            "objective_uuid": "af51fb51-9300-4859-a94d-564568394b00"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.3",
+            "objective_text": "Recall that GPS speaks directions.",
+            "objective_uuid": "cfe60dee-64e8-4b4b-b97b-23d5953e0f5b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.4",
+            "objective_text": "Observe a Geocache hunt.",
+            "objective_uuid": "b8a312f7-f613-40a6-9736-b5a00d924a37"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.5",
+            "objective_text": "Summarize Global Positioning System.",
+            "objective_uuid": "8e7ba466-2de0-4d5c-9fec-f1743e3ec337"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.6",
+            "objective_text": "Explain triangulation (using 3+ satellites).",
+            "objective_uuid": "1ed5fb2b-f716-42b5-aa74-4272a1479253"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.7",
+            "objective_text": "Use a GPS device to mark a waypoint.",
+            "objective_uuid": "a2aadffb-6be8-475f-a26f-5c57fb2ced47"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.12",
+            "objective_text": "Explain the military origins of GPS.",
+            "objective_uuid": "eab66fd6-4d80-4b79-87ae-d191ff8acc31"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.15",
+            "objective_text": "Defend the use of technology while maintaining backup skills.",
+            "objective_uuid": "dbb36bfb-7258-4980-b8fa-e9550d23aa6c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.9",
+            "objective_text": "Analyze the layers in Google Earth.",
+            "objective_uuid": "5bce155f-fcb7-4429-91d0-575e77c48a9d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.10",
+            "objective_text": "Interpret the accuracy radius.",
+            "objective_uuid": "2037579d-20f4-47bb-a5a7-98256d976123"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.11",
+            "objective_text": "Connect GPS to logistics (delivery trucks).",
+            "objective_uuid": "6c813ab6-a26d-4c39-a11f-55d2b347bb00"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.14",
+            "objective_text": "Evaluate privacy concerns with location tracking.",
+            "objective_uuid": "e14c5bb7-c669-4268-bae5-ce0c6436ef59"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.13",
+            "objective_text": "Construct a Geocache hide.",
+            "objective_uuid": "c81bb940-6c19-4b93-94d7-c05d1374edad"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.4",
+            "topic_name": "Navigation & Spatial Thinking",
+            "sub_topic_id": "GEO.3.4.3",
+            "sub_topic_name": "GPS Technology and Digital Navigation",
+            "objective_id": "GEO.3.4.3.16",
+            "objective_text": "Synthesize physics (relativity adjustments) with daily tech.",
+            "objective_uuid": "a54d3253-9f26-418a-a587-d1bc3bfc2664"
+          }
+        ]
+      }
+    }
+  }
+}

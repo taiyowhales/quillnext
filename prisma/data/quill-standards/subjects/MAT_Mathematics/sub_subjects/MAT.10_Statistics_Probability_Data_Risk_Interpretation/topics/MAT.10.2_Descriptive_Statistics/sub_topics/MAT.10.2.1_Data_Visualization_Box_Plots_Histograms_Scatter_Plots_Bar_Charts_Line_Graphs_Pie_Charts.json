@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.2.1",
+    "name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+    "topic_id": "MAT.10.2",
+    "topic_name": "Descriptive Statistics",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts) in Descriptive Statistics (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.1",
+            "objective_text": "Identify a Bar Chart (towers of blocks).",
+            "objective_uuid": "91e03bba-6027-4810-aab2-ce00487a1858"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.8",
+            "objective_text": "Identify the key or legend.",
+            "objective_uuid": "0bd69b93-ed70-4800-b5b9-81654775a079"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.3",
+            "objective_text": "Recall that taller means more.",
+            "objective_uuid": "5ef63b6a-9484-41c8-b3b3-89c466b4d821"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.4",
+            "objective_text": "Observe a Tally Chart.",
+            "objective_uuid": "6ff9de3b-3f4c-4e84-9e8d-d197ceefa448"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.2",
+            "objective_text": "Use a Pictograph (pictures for numbers).",
+            "objective_uuid": "515c4347-7818-4a0e-9566-3b136d64439b"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.5",
+            "objective_text": "Summarize data using a Line Plot (dots on a line).",
+            "objective_uuid": "52155941-25a9-4bec-a702-63fd65faae99"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.6",
+            "objective_text": "Explain a Line Graph (change over time).",
+            "objective_uuid": "72f0706b-5a66-4faa-98c3-c79964282a7c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.12",
+            "objective_text": "Explain the difference between a Bar Chart and Histogram.",
+            "objective_uuid": "18aeeb81-e085-47e3-a82a-e502b58afd71"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.15",
+            "objective_text": "Defend the choice of graph for the data type.",
+            "objective_uuid": "db90abbf-e4bd-497d-b644-632dda2ff615"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.9",
+            "objective_text": "Analyze a Box-and-Whisker Plot (5-number summary).",
+            "objective_uuid": "a6cd0158-08c6-4435-8586-afb596cc868a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.10",
+            "objective_text": "Interpret a Histogram (frequency ranges).",
+            "objective_uuid": "dde05d56-7ca4-448c-8468-bd7fa7f8e63b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.11",
+            "objective_text": "Connect Scatter Plots to relationships between two variables.",
+            "objective_uuid": "abdec535-323c-402f-a90a-f4fc5bb58658"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.14",
+            "objective_text": "Evaluate the shape of a distribution (skewed left/right, symmetric).",
+            "objective_uuid": "cc551e59-6689-4d75-b345-4045d0d919a3"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.7",
+            "objective_text": "Create a Pie Chart (parts of a whole).",
+            "objective_uuid": "0318ef78-a154-48ce-ba16-49c3820c91e7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.13",
+            "objective_text": "Construct complex visualizations (e.g., stem-and-leaf, cumulative frequency).",
+            "objective_uuid": "4e0c5756-cfc7-4ccf-8132-1025c49ab502"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.2",
+            "topic_name": "Descriptive Statistics",
+            "sub_topic_id": "MAT.10.2.1",
+            "sub_topic_name": "Data Visualization (Box Plots, Histograms, Scatter Plots, Bar Charts, Line Graphs, Pie Charts)",
+            "objective_id": "MAT.10.2.1.16",
+            "objective_text": "Synthesize visual data analysis.",
+            "objective_uuid": "9fa58f7a-4130-40a1-899a-f34257a10307"
+          }
+        ]
+      }
+    }
+  }
+}

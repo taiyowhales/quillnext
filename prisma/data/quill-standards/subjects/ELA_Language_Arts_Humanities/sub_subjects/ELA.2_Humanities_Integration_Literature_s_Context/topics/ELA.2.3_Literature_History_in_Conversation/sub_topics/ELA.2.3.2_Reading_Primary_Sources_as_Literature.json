@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "ELA.2.3.2",
+    "name": "Reading Primary Sources as Literature",
+    "topic_id": "ELA.2.3",
+    "topic_name": "Literature & History in Conversation",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.2",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Reading Primary Sources as Literature in Literature & History in Conversation (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.1",
+            "objective_text": "Identify a letter written by someone long ago.",
+            "objective_uuid": "33fc31eb-262d-48c5-b55d-8f7bd6a34aa3"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.2",
+            "objective_text": "Name who wrote it and who read it.",
+            "objective_uuid": "2e8fa042-aafa-4e0c-9e74-ded4eae36c14"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.8",
+            "objective_text": "Identify the feelings of the writer.",
+            "objective_uuid": "7dafcffb-1ce1-4750-9136-7f4895016f76"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.3",
+            "objective_text": "Recall that old letters tell us secrets about the past.",
+            "objective_uuid": "30ae4034-d0b6-41da-b3a4-bb9445ecd2b2"
+          },
+          {
+            "complexity": 4,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.4",
+            "objective_text": "Listen to a speech from history.",
+            "objective_uuid": "b5d59b10-f1fa-49ed-868d-5969c9bfb037"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.5",
+            "objective_text": "Summarize a diary entry from a historical figure.",
+            "objective_uuid": "3360de9f-9055-45d3-aabc-71702b7c8cdf"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.6",
+            "objective_text": "Explain why old writing sounds different.",
+            "objective_uuid": "e2979868-6396-4c53-86fa-f63b47187157"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.12",
+            "objective_text": "Explain the difference between a primary and secondary source.",
+            "objective_uuid": "54c821be-319b-4054-a92c-f905d0bab042"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.15",
+            "objective_text": "Defend the importance of reading original sources over summaries.",
+            "objective_uuid": "1331e333-40bc-4ac1-8f75-6227952b6a10"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.7",
+            "objective_text": "Compare a letter from the Civil War with a modern email.",
+            "objective_uuid": "33446ae5-c619-47c8-8c85-be3d42bc9050"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.9",
+            "objective_text": "Analyze the rhetorical style of a historical document (e.g., The Gettysburg Address).",
+            "objective_uuid": "b49ba99a-7ad0-4bd6-8c47-f902cd78c447"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.10",
+            "objective_text": "Interpret the tone and purpose of a primary source.",
+            "objective_uuid": "508289c6-c315-485f-9b35-c59e9d1cb547"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.11",
+            "objective_text": "Connect the document to the literature of the same period.",
+            "objective_uuid": "ab358e4f-517e-4e88-9918-aa650487834d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.14",
+            "objective_text": "Evaluate the worldview assumptions in a primary document.",
+            "objective_uuid": "9ac0b458-8a6f-445e-8a2c-f1e1fe2f5896"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.16",
+            "objective_text": "Synthesize the literary voice of an era through its documents.",
+            "objective_uuid": "c148ce13-da65-4b39-8825-6c873072ae4a"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.2",
+            "sub_subject_name": "Humanities Integration (Literature's Context)",
+            "topic_id": "ELA.2.3",
+            "topic_name": "Literature & History in Conversation",
+            "sub_topic_id": "ELA.2.3.2",
+            "sub_topic_name": "Reading Primary Sources as Literature",
+            "objective_id": "ELA.2.3.2.13",
+            "objective_text": "Construct a literary analysis of a non-literary text (e.g., The Magna Carta or The Federalist Papers).",
+            "objective_uuid": "706e19c9-5070-4c8c-92f6-17db51d93223"
+          }
+        ]
+      }
+    }
+  }
+}

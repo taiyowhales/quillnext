@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.1.3",
+    "name": "Heuristics (Strategies for Solving Difficult Problems)",
+    "topic_id": "MAT.7.1",
+    "topic_name": "Logic in Problem Solving",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Heuristics (Strategies for Solving Difficult Problems) in Logic in Problem Solving (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.8",
+            "objective_text": "Identify logical deductions.",
+            "objective_uuid": "9a51e83b-680f-4775-9c92-4ab4e510ea73"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.5,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.3",
+            "objective_text": "Recall trying again.",
+            "objective_uuid": "7471d511-5d44-471a-a306-151906c67fb8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.6",
+            "objective_text": "Explain 'Make a Simpler Problem'.",
+            "objective_uuid": "a5661d24-4450-4782-9444-e4b96e771e06"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.1",
+            "objective_text": "Guess and check.",
+            "objective_uuid": "600521af-fb48-44fa-b932-c92faa5c6899"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.2",
+            "objective_text": "Draw a picture.",
+            "objective_uuid": "241d02bb-63ca-46e5-b203-7c0d4dfb1634"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.4",
+            "objective_text": "Use a pattern.",
+            "objective_uuid": "4cf00153-3aaa-4f0b-8938-41ba4be668d5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.5",
+            "objective_text": "Summarize 'Work Backwards'.",
+            "objective_uuid": "9c80d6ab-af7b-4989-8e14-7d23a503752c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.7",
+            "objective_text": "Make a systematic list.",
+            "objective_uuid": "7286acf5-4ba5-4272-91bb-742f1a652dde"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.12",
+            "objective_text": "Explain generalization.",
+            "objective_uuid": "6d6484b5-f2c3-4546-9dba-c315d68115e3"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.15",
+            "objective_text": "Defend the creative aspect of mathematics.",
+            "objective_uuid": "d879b330-9eb5-45d1-abb0-753a1163d399"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.9",
+            "objective_text": "Analyze Polya's Four Steps (Understand, Plan, Do, Check).",
+            "objective_uuid": "706cff81-fc95-45d5-a017-a6efed26da9a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.10",
+            "objective_text": "Interpret invariance principles.",
+            "objective_uuid": "b0fdf82d-49be-4141-b0c1-e65e5ebc592b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.11",
+            "objective_text": "Connect symmetry to simplifying problems.",
+            "objective_uuid": "a457fd5b-0432-4864-bba3-020591d8c8b4"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.14",
+            "objective_text": "Evaluate the elegance of different solution paths.",
+            "objective_uuid": "ca6fe484-1991-43be-bada-cd8c0b3d8f5b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.13",
+            "objective_text": "Construct a solution using advanced heuristics (analogy).",
+            "objective_uuid": "f0be2c62-b5b0-43a5-a68f-2e64b0b47c5d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.1",
+            "topic_name": "Logic in Problem Solving",
+            "sub_topic_id": "MAT.7.1.3",
+            "sub_topic_name": "Heuristics (Strategies for Solving Difficult Problems)",
+            "objective_id": "MAT.7.1.3.16",
+            "objective_text": "Synthesize perseverance with insight.",
+            "objective_uuid": "8761ae04-557d-4ae5-b11a-64684d688ad6"
+          }
+        ]
+      }
+    }
+  }
+}

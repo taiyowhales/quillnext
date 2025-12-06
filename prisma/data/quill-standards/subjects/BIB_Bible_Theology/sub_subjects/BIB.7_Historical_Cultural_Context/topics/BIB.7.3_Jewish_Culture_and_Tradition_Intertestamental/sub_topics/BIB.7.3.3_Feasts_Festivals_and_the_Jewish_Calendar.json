@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.7.3.3",
+    "name": "Feasts, Festivals, and the Jewish Calendar",
+    "topic_id": "BIB.7.3",
+    "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.7",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Feasts, Festivals, and the Jewish Calendar in Jewish Culture and Tradition (Intertestamental) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.1",
+            "objective_text": "Identify Passover (special dinner).",
+            "objective_uuid": "bc4eb9e1-23ee-4ecb-aab1-8527ac8c5e58"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.2",
+            "objective_text": "Name Hanukkah (lights).",
+            "objective_uuid": "d781f950-181c-404c-a402-95d8ec4b8e17"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.8",
+            "objective_text": "Identify Tabernacles (camping out).",
+            "objective_uuid": "b41c8cb0-db4f-4a82-bb1d-3fbf776cd54f"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.3",
+            "objective_text": "Recall that God gave them holidays to remember Him.",
+            "objective_uuid": "12cbf20d-4317-4a87-af69-fb7da3a68507"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.4",
+            "objective_text": "Observe a Menorah.",
+            "objective_uuid": "c96ea846-7fbf-4707-ab58-2f33218432cb"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.5",
+            "objective_text": "Summarize the Seder meal.",
+            "objective_uuid": "0b946ec7-9f41-49e0-ac34-65a631efe2c6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.6",
+            "objective_text": "Explain Pentecost (Harvest feast).",
+            "objective_uuid": "74f37e8f-f2c0-408b-81b0-e65f2683c93d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.12",
+            "objective_text": "Explain the Day of Atonement (Yom Kippur).",
+            "objective_uuid": "2c1df10b-6bf2-4680-b530-c3ce61fcd404"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.15",
+            "objective_text": "Defend the Typology of the Feasts pointing to Christ.",
+            "objective_uuid": "98fd9f76-0847-4e56-bbac-9b0004c05d4e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.7",
+            "objective_text": "Compare the Sabbath (rest) with a yearly festival.",
+            "objective_uuid": "1894e77c-c680-4a0f-9af9-6555beb27b66"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.9",
+            "objective_text": "Analyze the prophetic meaning of the Feasts.",
+            "objective_uuid": "0266f96e-8cc9-4ecf-aaea-d4af8100d9dd"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.10",
+            "objective_text": "Interpret Jesus as the fulfillment of the Passover.",
+            "objective_uuid": "b9525cf4-5a9f-4304-b950-21200f20f94a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.11",
+            "objective_text": "Connect the outpouring of the Spirit to the Feast of Weeks.",
+            "objective_uuid": "fa3aabeb-f187-4dc7-b722-0056e9bc5da9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.14",
+            "objective_text": "Evaluate the historical context of Hanukkah (Maccabees).",
+            "objective_uuid": "e3f9d6a0-ed5f-46a4-82b6-22da1f1706f2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.13",
+            "objective_text": "Construct a calendar of the Jewish Year.",
+            "objective_uuid": "d578bf89-f8d5-4e20-92e2-7ba98150e42c"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.7",
+            "sub_subject_name": "Historical & Cultural Context",
+            "topic_id": "BIB.7.3",
+            "topic_name": "Jewish Culture and Tradition (Intertestamental)",
+            "sub_topic_id": "BIB.7.3.3",
+            "sub_topic_name": "Feasts, Festivals, and the Jewish Calendar",
+            "objective_id": "BIB.7.3.3.16",
+            "objective_text": "Synthesize the cycle of remembrance in Jewish life.",
+            "objective_uuid": "f9e2244e-d200-4805-a936-248ae5db6e91"
+          }
+        ]
+      }
+    }
+  }
+}

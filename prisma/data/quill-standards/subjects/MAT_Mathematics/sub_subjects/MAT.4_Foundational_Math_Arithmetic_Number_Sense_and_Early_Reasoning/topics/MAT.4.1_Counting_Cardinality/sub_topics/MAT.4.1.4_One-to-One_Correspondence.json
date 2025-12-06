@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.4",
+    "name": "One-to-One Correspondence",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for One-to-One Correspondence in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.4",
+            "objective_text": "Identify if there are enough items for everyone.",
+            "objective_uuid": "0af37aeb-83bf-483c-98cd-5e9554526a55"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.3",
+            "objective_text": "Recall to count each object only once.",
+            "objective_uuid": "880c348f-8f14-43f3-a649-c80b400442fa"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 7,
+        "average_complexity": 5.71,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.7",
+            "objective_text": "Map inputs to outputs in a simple function table.",
+            "objective_uuid": "58d2664c-3889-4b6e-85ab-950e39053124"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.1",
+            "objective_text": "Touch one object for every number word said.",
+            "objective_uuid": "5ec83c7e-ffa8-4826-b3b4-78a5ff2fee8a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.2",
+            "objective_text": "Match items from two groups (e.g., cups to saucers).",
+            "objective_uuid": "97e0cf55-dc7a-444a-bad8-b2c4695b7338"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.5",
+            "objective_text": "Summarize the relationship between two data sets.",
+            "objective_uuid": "eec4e4e9-39c1-42e4-9b0d-13800464c8b6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.6",
+            "objective_text": "Explain how to track counted items in a large group.",
+            "objective_uuid": "6b22a81c-63ef-4fdc-9d6b-4213f617bdb7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.12",
+            "objective_text": "Explain the vertical line test.",
+            "objective_uuid": "919c7bdf-0511-44fe-8e9b-569b5d1f34c1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.15",
+            "objective_text": "Defend the importance of bijections in cryptography.",
+            "objective_uuid": "4ead1b73-dcf0-4803-80c3-03eb63df2ebe"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.8",
+            "objective_text": "Compare equality of groups through matching.",
+            "objective_uuid": "d71efd99-3169-4c50-bced-8f2030e31286"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.9",
+            "objective_text": "Analyze the definition of a function (one output for every input).",
+            "objective_uuid": "b3893804-8df0-4c25-949d-07a0cec4c178"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.10",
+            "objective_text": "Interpret mapping diagrams.",
+            "objective_uuid": "cdfaf8c5-2a5c-46a8-b2a9-94a3e37e6d66"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.11",
+            "objective_text": "Connect one-to-one correspondence to graphing lines.",
+            "objective_uuid": "fa0af890-ae4d-44c4-80a0-42afe8fbe83b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.14",
+            "objective_text": "Evaluate whether a function is injective (one-to-one) or surjective (onto).",
+            "objective_uuid": "67901dcc-d6a5-43bd-bd59-f746aa6fa34a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.13",
+            "objective_text": "Construct a bijection between two sets.",
+            "objective_uuid": "7fa234f8-1cd7-441c-873b-99ff0abc6041"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.4",
+            "sub_topic_name": "One-to-One Correspondence",
+            "objective_id": "MAT.4.1.4.16",
+            "objective_text": "Synthesize inverse functions with one-to-one principles.",
+            "objective_uuid": "ec0c914a-7584-4481-a5a6-469f84ead1c6"
+          }
+        ]
+      }
+    }
+  }
+}

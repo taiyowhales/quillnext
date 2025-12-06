@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.8.2.5",
+    "name": "The Roman World at the Time of Christ",
+    "topic_id": "BIB.8.2",
+    "topic_name": "Prolegomena and Backgrounds (Foundations)",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.8",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Roman World at the Time of Christ in Prolegomena and Backgrounds (Foundations) (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.1",
+            "objective_text": "Identify Roman soldiers by their armor.",
+            "objective_uuid": "25c65e04-4e89-4bdd-8830-0994a280c796"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.2",
+            "objective_text": "Name Caesar as the boss of the Roman Empire.",
+            "objective_uuid": "17d11c6c-b335-4bd5-92f7-46b86ee6055c"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.3",
+            "objective_text": "Recall that Romans built big roads.",
+            "objective_uuid": "30dd86f9-0705-4682-a85f-e66f82f3d1bf"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.4",
+            "objective_text": "Observe a coin that Jesus might have used.",
+            "objective_uuid": "68b6a392-d6f2-45f1-a954-be04782905fc"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.5",
+            "objective_text": "Summarize the Pax Romana (Roman Peace).",
+            "objective_uuid": "7c1f61a9-1f40-4fb5-a8db-486fb7bd55ef"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.6",
+            "objective_text": "Explain why tax collectors were hated.",
+            "objective_uuid": "aea57425-f1de-4c66-9d5e-1a1e17db1214"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.12",
+            "objective_text": "Explain the social hierarchy of the Roman world (citizens vs slaves).",
+            "objective_uuid": "05064993-ffa5-4582-8273-a88972c0a9ca"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.15",
+            "objective_text": "Perform research on the patronage system in Roman society.",
+            "objective_uuid": "c75c7210-9c59-4616-ac99-9497fd64c2c4"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.7",
+            "objective_text": "Compare the Roman governor (Pilate) with the Jewish King (Herod).",
+            "objective_uuid": "0d7111fd-b2ef-4dac-8965-d1f00ceeae1f"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.8",
+            "objective_text": "Apply the concept of common language (Greek) helping missionaries.",
+            "objective_uuid": "46e61de1-949b-4e24-87b0-d20dd3c4c7b4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.9",
+            "objective_text": "Analyze the benefits of Roman infrastructure for the Gospel.",
+            "objective_uuid": "fbe4ac44-64c8-498b-b306-3ad82be312da"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.10",
+            "objective_text": "Interpret the Imperial Cult (worship of Caesar).",
+            "objective_uuid": "ce9a0185-25b8-4e1d-9413-bbee6c99e6ce"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.11",
+            "objective_text": "Connect Roman law and citizenship to Paul's ministry.",
+            "objective_uuid": "2117145d-6e1e-4e5c-9c48-e02d12243d5d"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.14",
+            "objective_text": "Evaluate the conflict between 'Jesus is Lord' and 'Caesar is Lord'.",
+            "objective_uuid": "125b26f7-fbcc-4089-8818-8155326946be"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.13",
+            "objective_text": "Construct a map of the Roman Empire's provinces.",
+            "objective_uuid": "278adceb-e1b4-4fce-8e37-91274dff2ff8"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.2",
+            "topic_name": "Prolegomena and Backgrounds (Foundations)",
+            "sub_topic_id": "BIB.8.2.5",
+            "sub_topic_name": "The Roman World at the Time of Christ",
+            "objective_id": "BIB.8.2.5.16",
+            "objective_text": "Synthesize the political environment of the Gospels and Acts.",
+            "objective_uuid": "d22937c3-b2ec-43fe-af21-04216943adab"
+          }
+        ]
+      }
+    }
+  }
+}

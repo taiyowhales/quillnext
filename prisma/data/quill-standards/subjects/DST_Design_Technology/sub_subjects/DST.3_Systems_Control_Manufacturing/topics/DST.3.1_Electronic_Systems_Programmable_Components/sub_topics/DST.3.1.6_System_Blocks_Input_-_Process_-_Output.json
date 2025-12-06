@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.3.1.6",
+    "name": "System Blocks (Input -> Process -> Output)",
+    "topic_id": "DST.3.1",
+    "topic_name": "Electronic Systems & Programmable Components",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for System Blocks (Input -> Process -> Output) in Electronic Systems & Programmable Components (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.1",
+            "objective_text": "Identify a switch (Input).",
+            "objective_uuid": "5b202a49-c51b-422c-8f94-d494ed5fdd19"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.2",
+            "objective_text": "Name a light bulb (Output).",
+            "objective_uuid": "f07f120a-90a9-40b9-8dd3-1d1ac24c8086"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.7",
+            "objective_text": "Identify examples (Doorbell: Button -> Wires -> Bell).",
+            "objective_uuid": "0d7ba63e-4d54-4f3f-847f-bdb422328c1c"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.3",
+            "objective_text": "Recall that pushing the button makes the light go on.",
+            "objective_uuid": "095caf20-7e19-4b92-b565-52a6b31a7dbf"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.4",
+            "objective_text": "Observe cause and effect.",
+            "objective_uuid": "98541e52-a64f-49ce-b3ae-27fab471381a"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.5",
+            "objective_text": "Summarize the System Diagram (Input -> Process -> Output).",
+            "objective_uuid": "ef5d0081-5e3e-4f24-9b57-69f972e3711e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.6",
+            "objective_text": "Explain that 'Process' is the thinking part.",
+            "objective_uuid": "d2bc1be7-64eb-4b49-83d2-c0e67857f531"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.12",
+            "objective_text": "Explain feedback (like a thermostat).",
+            "objective_uuid": "6a4eca31-9d36-4813-8f31-ccc11da347aa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.15",
+            "objective_text": "Defend the use of negative feedback for error correction.",
+            "objective_uuid": "2ac55c1c-5945-450e-a9cb-9fc1fd1e6470"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.8",
+            "objective_text": "Compare a manual system with an automatic one.",
+            "objective_uuid": "9be45a72-78a9-4cf2-b500-83736dee2408"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.9",
+            "objective_text": "Analyze Open Loop (no feedback) vs. Closed Loop (feedback) systems.",
+            "objective_uuid": "8dde4cdc-b4ff-4712-9469-7c02a5f9b518"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.10",
+            "objective_text": "Interpret the flow of information signals.",
+            "objective_uuid": "a4a73dd0-604e-4417-a2eb-799268480875"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.11",
+            "objective_text": "Connect sensors to inputs and actuators to outputs.",
+            "objective_uuid": "ee8d2523-effa-4b11-9015-676bcc3edddf"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.14",
+            "objective_text": "Evaluate the stability of a control system.",
+            "objective_uuid": "df9c88e8-1980-4318-9d38-1a1d077a6d0d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.13",
+            "objective_text": "Construct a complex system block diagram with multiple feedback loops.",
+            "objective_uuid": "df58c348-c883-48dd-8e4d-6aeeb8cdd72d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.1",
+            "topic_name": "Electronic Systems & Programmable Components",
+            "sub_topic_id": "DST.3.1.6",
+            "sub_topic_name": "System Blocks (Input -> Process -> Output)",
+            "objective_id": "DST.3.1.6.16",
+            "objective_text": "Synthesize systems thinking for problem solving.",
+            "objective_uuid": "369aec31-a177-4de8-b16d-b4d4f893b786"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.4.4.1",
+    "name": "Flooding",
+    "topic_id": "GEO.4.4",
+    "topic_name": "Rivers, Hydrology & Freshwater Systems",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.4",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Flooding in Rivers, Hydrology & Freshwater Systems (Geography)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.1",
+            "objective_text": "Identify a flood as too much water on the land.",
+            "objective_uuid": "d0021755-ffb3-4f0c-87bd-fac9de608209"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.2",
+            "objective_text": "Name rain as a cause of floods.",
+            "objective_uuid": "20f81fed-3210-4952-a179-c7e1b788ef10"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.8",
+            "objective_text": "Identify a dam as a way to control water.",
+            "objective_uuid": "ba0110a8-2517-4c92-b1e9-8e4f135eb8f1"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.3",
+            "objective_text": "Recall that floods can hurt houses.",
+            "objective_uuid": "5472ee90-58a3-4199-87e5-7d9f18275500"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.4",
+            "objective_text": "Observe sandbags used to stop water.",
+            "objective_uuid": "ada21501-645e-48fc-b2d0-87b43acccc28"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.5",
+            "objective_text": "Summarize why rivers overflow their banks.",
+            "objective_uuid": "c81a6230-612b-49bc-a0e1-b6450407c758"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.6",
+            "objective_text": "Explain how trees help stop floods.",
+            "objective_uuid": "3248bee8-1c1c-4a80-9c20-99cc0776f724"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.15",
+            "objective_text": "Defend the concept of 'Integrated Drainage Basin Management'.",
+            "objective_uuid": "6deba626-30bd-4bcc-9ad8-c16808c80917"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.7",
+            "objective_text": "Compare flash floods with slow floods.",
+            "objective_uuid": "0472a094-ccae-47de-a98a-42b70bffaeee"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.9",
+            "objective_text": "Analyze a storm hydrograph (Lag time, Peak discharge).",
+            "objective_uuid": "08d89faf-241f-43ba-9b02-70d7d524fdb2"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.10",
+            "objective_text": "Interpret the human causes of flooding (urbanization, deforestation).",
+            "objective_uuid": "d7e612e8-b5f4-4837-85bd-7d18345fa04a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.11",
+            "objective_text": "Connect geology (permeable vs impermeable rock) to flood risk.",
+            "objective_uuid": "01306c9a-7e8c-4d59-acad-88450b1802f9"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.12",
+            "objective_text": "Explain Hard vs. Soft engineering strategies.",
+            "objective_uuid": "75aee416-ab4e-4ee1-90d8-9733719ecb2c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.14",
+            "objective_text": "Evaluate the cost-benefit of flood defenses.",
+            "objective_uuid": "584e3f27-b4c4-4057-9ac0-284b0174ff39"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.13",
+            "objective_text": "Construct a flood management plan for a specific river.",
+            "objective_uuid": "6b30d517-9129-4163-adcd-1b00e556f986"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.4",
+            "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+            "topic_id": "GEO.4.4",
+            "topic_name": "Rivers, Hydrology & Freshwater Systems",
+            "sub_topic_id": "GEO.4.4.1",
+            "sub_topic_name": "Flooding",
+            "objective_id": "GEO.4.4.1.16",
+            "objective_text": "Synthesize the social and economic impacts of major flood events.",
+            "objective_uuid": "5f143669-0081-4cc7-a0e0-695960d5a713"
+          }
+        ]
+      }
+    }
+  }
+}

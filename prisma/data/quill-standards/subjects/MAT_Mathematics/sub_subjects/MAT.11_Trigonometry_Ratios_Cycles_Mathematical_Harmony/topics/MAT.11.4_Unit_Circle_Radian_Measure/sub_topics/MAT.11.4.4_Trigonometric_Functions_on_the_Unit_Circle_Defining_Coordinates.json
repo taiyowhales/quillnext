@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.4.4",
+    "name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+    "topic_id": "MAT.11.4",
+    "topic_name": "Unit Circle & Radian Measure",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Trigonometric Functions on the Unit Circle (Defining Coordinates) in Unit Circle & Radian Measure (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 10,
+        "average_complexity": 14.2,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.1",
+            "objective_text": "Identify a circle with a cross in it.",
+            "objective_uuid": "aed97972-a99b-4fcd-acf5-02ecddffeaa0"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.8",
+            "objective_text": "Identify the starting point $(1, 0)$.",
+            "objective_uuid": "5430f3f7-2282-46ae-8c5d-3864386a9f29"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.3",
+            "objective_text": "Recall that coordinates tell us where we are.",
+            "objective_uuid": "59c11ad0-ca0c-4f3e-98fe-96a78448f939"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.4",
+            "objective_text": "Observe up/down and left/right.",
+            "objective_uuid": "20417590-03d6-4813-a35c-dbe0f0b8457c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.2",
+            "objective_text": "Move around the circle.",
+            "objective_uuid": "84cdcc6a-d04e-49c0-844b-b3ca5e4669db"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.5",
+            "objective_text": "Summarize the Unit Circle (radius is 1).",
+            "objective_uuid": "19c0a85c-622a-4b64-b5be-b37b3686c05e"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.6",
+            "objective_text": "Explain that $x$ and $y$ change as we go around.",
+            "objective_uuid": "a10e6a93-1d15-4b54-a191-a9c828d2fe84"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.7",
+            "objective_text": "Plot points on a circle.",
+            "objective_uuid": "2f7964cd-58ed-4657-b038-d566d02ee2f7"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.12",
+            "objective_text": "Explain tangent as slope ($y/x$).",
+            "objective_uuid": "81e06e34-181f-4534-824c-c59f6d4938d2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.15",
+            "objective_text": "Defend the circular definition over the triangle definition.",
+            "objective_uuid": "5ea41258-71b2-49bd-858e-aa4b35b1e909"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 19.75,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.9",
+            "objective_text": "Analyze $x = cos(\\theta)$ and $y = sin(\\theta)$.",
+            "objective_uuid": "f8434443-8973-4ce7-a9ee-c8fe09757b76"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.10",
+            "objective_text": "Interpret the signs in each quadrant (ASTC).",
+            "objective_uuid": "0c997bdb-6612-40a4-b7c8-75a550e97be9"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.11",
+            "objective_text": "Connect special triangles to coordinates.",
+            "objective_uuid": "b2d05d96-0074-4123-b713-cb68d7fc3e97"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.14",
+            "objective_text": "Evaluate values for negative and coterminal angles.",
+            "objective_uuid": "b72cbbe7-3d50-4330-bf0a-706e9e1f83e0"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.13",
+            "objective_text": "Construct the entire Unit Circle from memory.",
+            "objective_uuid": "d94cc906-c6fb-453d-99dd-185ace44b8a8"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.4",
+            "topic_name": "Unit Circle & Radian Measure",
+            "sub_topic_id": "MAT.11.4.4",
+            "sub_topic_name": "Trigonometric Functions on the Unit Circle (Defining Coordinates)",
+            "objective_id": "MAT.11.4.4.16",
+            "objective_text": "Synthesize the periodic nature of the functions.",
+            "objective_uuid": "59b9a07f-366e-4c4c-a464-5264883981dc"
+          }
+        ]
+      }
+    }
+  }
+}

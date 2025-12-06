@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.3",
+    "name": "Defensive Programming (Input validation, Error handling)",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Defensive Programming (Input validation, Error handling) in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.1",
+            "objective_text": "Identify checking if the answer is a number.",
+            "objective_uuid": "a0fc6d58-35ec-4012-8b9f-74875f49035b"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.4",
+            "objective_text": "Name an error.",
+            "objective_uuid": "d5d13b3f-febf-4567-95f2-484ee1f208a4"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.8",
+            "objective_text": "Identify unexpected behavior.",
+            "objective_uuid": "2cbca116-7965-493a-a3e1-6da2e2f54ba8"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 6,
+        "average_complexity": 21.17,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.3",
+            "objective_text": "Recall being careful.",
+            "objective_uuid": "e96cd80b-6e4f-4b75-9ecb-ee896c576767"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.7",
+            "objective_text": "Handle a simple error without crashing.",
+            "objective_uuid": "8a26461d-5eee-4d6f-abe4-84ff3bd86302"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.2",
+            "objective_text": "Stop the robot from hitting a wall.",
+            "objective_uuid": "7dc2ee5a-42ce-4391-94d5-80ded819fb65"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.5",
+            "objective_text": "Summarize checking user input.",
+            "objective_uuid": "f1f52c6b-4bea-48ea-9e8e-fe86c26480dc"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.6",
+            "objective_text": "Explain 'Garbage In, Garbage Out'.",
+            "objective_uuid": "c02b7361-6501-4336-b944-cb4e34254e21"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.12",
+            "objective_text": "Explain graceful degradation.",
+            "objective_uuid": "4ca4efaa-8c62-4238-8322-823b9b7dd369"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 5,
+        "average_complexity": 26.6,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.9",
+            "objective_text": "Analyze 'Try... Except' blocks.",
+            "objective_uuid": "31ca33a5-a093-46b8-8fa4-ece9faab4d43"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.10",
+            "objective_text": "Interpret edge cases.",
+            "objective_uuid": "bba6264a-bc40-4ced-911e-cdd26b86c210"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.11",
+            "objective_text": "Connect validation to security.",
+            "objective_uuid": "cd5d3544-7322-4a54-b57b-ebfb9641b37a"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.14",
+            "objective_text": "Evaluate fail-safe mechanisms.",
+            "objective_uuid": "53b9e24b-bd7f-4ff4-81c3-78287c35d9fe"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.15",
+            "objective_text": "Defend the philosophy of 'Never trust the user'.",
+            "objective_uuid": "e285a854-5dfb-4a5b-be16-968958b4408b"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.13",
+            "objective_text": "Construct robust error logging.",
+            "objective_uuid": "ac3dc75a-1550-4fa3-b000-9418c6d93e3b"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.3",
+            "sub_topic_name": "Defensive Programming (Input validation, Error handling)",
+            "objective_id": "CPT.1.1.3.16",
+            "objective_text": "Synthesize assertion testing.",
+            "objective_uuid": "42a32339-666f-4e57-bdb3-1747a7b0a740"
+          }
+        ]
+      }
+    }
+  }
+}

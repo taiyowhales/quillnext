@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.3.3.2",
+    "name": "Inflation and Purchasing Power",
+    "topic_id": "MAT.3.3",
+    "topic_name": "Money, Banking, and Debt",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.3",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Inflation and Purchasing Power in Money, Banking, and Debt (Mathematics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.1",
+            "objective_text": "Identify prices going up.",
+            "objective_uuid": "b0ed6ae1-ed25-4d6f-ae05-48b60bbf3658"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.3",
+            "objective_text": "Name 'expensive'.",
+            "objective_uuid": "5c6c3cdf-e67d-4715-b177-66413e61f1cd"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.7",
+            "objective_text": "Identify the cost of living.",
+            "objective_uuid": "29d6f669-3188-4a96-be31-23de56926efe"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.2",
+            "objective_text": "Recall that a dollar bought more long ago.",
+            "objective_uuid": "f6ef2d26-0763-4f5f-9d69-7e420542fba8"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.4",
+            "objective_text": "Observe old prices.",
+            "objective_uuid": "9d130fa1-e0f1-4dcc-8b9a-bb0630b88c0e"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.5",
+            "objective_text": "Summarize Inflation (money losing value).",
+            "objective_uuid": "127925f1-bad9-488d-8300-62e423293eee"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.6",
+            "objective_text": "Explain why a candy bar costs more now.",
+            "objective_uuid": "63768f44-f59f-4b71-a4d4-9f79f1a3fa0c"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.12",
+            "objective_text": "Explain hyperinflation examples.",
+            "objective_uuid": "a32744f2-fa8c-441c-803d-b458a22565a5"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.15",
+            "objective_text": "Defend hard assets in inflationary times.",
+            "objective_uuid": "c6043b29-efc8-4198-a919-80480d178f18"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.8",
+            "objective_text": "Compare prices from 1950 to today.",
+            "objective_uuid": "d4179316-312a-4d89-8aca-4d6e86ea775b"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.9",
+            "objective_text": "Analyze the CPI (Consumer Price Index).",
+            "objective_uuid": "5127b5c7-7b13-419f-a3c7-33dd2cc78bcd"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.10",
+            "objective_text": "Interpret real vs. nominal income.",
+            "objective_uuid": "4014c18d-f18d-4a49-8edb-49eaeb3c2b23"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.11",
+            "objective_text": "Connect inflation to the need for investing.",
+            "objective_uuid": "ece4d17c-078e-4abe-8743-d9d884b746c2"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.14",
+            "objective_text": "Evaluate the impact of inflation on retirement savings.",
+            "objective_uuid": "c79af8e0-979a-4510-a0b1-da2198a5d996"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.13",
+            "objective_text": "Construct calculations adjusting for inflation.",
+            "objective_uuid": "b3fb8cf4-f733-472e-a264-71db7e59ba47"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.3",
+            "sub_subject_name": "Financial Math & Stewardship (Biblical & Practical Applied Math)",
+            "topic_id": "MAT.3.3",
+            "topic_name": "Money, Banking, and Debt",
+            "sub_topic_id": "MAT.3.3.2",
+            "sub_topic_name": "Inflation and Purchasing Power",
+            "objective_id": "MAT.3.3.2.16",
+            "objective_text": "Synthesize exponential decay of purchasing power.",
+            "objective_uuid": "72a996eb-2f2e-4b6b-9caa-868e0b8c90c5"
+          }
+        ]
+      }
+    }
+  }
+}

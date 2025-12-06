@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.2.3",
+    "name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+    "topic_id": "CPT.6.2",
+    "topic_name": "Multimedia Production",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Digital Graphics (Vector vs Raster/Bitmap images) in Multimedia Production (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.1",
+            "objective_text": "Identify drawing pixels.",
+            "objective_uuid": "3f3de739-fb50-4130-955a-16e2058eb292"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.2",
+            "objective_text": "Name shapes.",
+            "objective_uuid": "3e979b4e-b19d-42c3-a682-1a1b9303c1c0"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.3",
+            "objective_text": "Recall that zooming in makes squares appear.",
+            "objective_uuid": "9b82765a-b9a2-404a-9a65-f9a0bc4495bb"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.8",
+            "objective_text": "Identify file types (JPG vs SVG).",
+            "objective_uuid": "a910f9fc-c1bd-4836-bdce-b732f2be0da3"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.4",
+            "objective_text": "Paint with digital brushes.",
+            "objective_uuid": "67867d54-a6d7-46de-85ce-2f9f8453a118"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.5",
+            "objective_text": "Summarize Raster (photos/pixels) vs. Vector (math/shapes).",
+            "objective_uuid": "a3f655f7-96a6-4214-9ed1-4f1b0b34b395"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.6",
+            "objective_text": "Explain resizing.",
+            "objective_uuid": "244ad1dd-bf29-44b9-a362-b7484a5f7e36"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.12",
+            "objective_text": "Explain transparency (PNG).",
+            "objective_uuid": "af0bf721-1b07-4a00-baf7-5c40096b6a5a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.15",
+            "objective_text": "Defend the choice of format for print vs. web.",
+            "objective_uuid": "a1aede40-d2d4-46c9-b00c-91f618d84569"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.9",
+            "objective_text": "Analyze the scalability of vectors.",
+            "objective_uuid": "205a58de-8f0b-44f0-8561-f450fd3b991d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.10",
+            "objective_text": "Interpret resolution (DPI/PPI).",
+            "objective_uuid": "8b63a161-f14a-4592-828f-eeaf3aa550e1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.11",
+            "objective_text": "Connect anchor points to curve editing.",
+            "objective_uuid": "be7f0891-7f51-485d-a3c1-9ebbfa488860"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.14",
+            "objective_text": "Evaluate compression artifacts.",
+            "objective_uuid": "a7a646c9-b05b-420b-94df-7e4ddeac6702"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.7",
+            "objective_text": "Create a logo using shapes.",
+            "objective_uuid": "9280b7b9-e797-4a2f-9156-1cec6700c302"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.13",
+            "objective_text": "Construct complex vector illustrations.",
+            "objective_uuid": "1448e97a-b2bb-48d4-a292-a9df81fa2d60"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.3",
+            "sub_topic_name": "Digital Graphics (Vector vs Raster/Bitmap images)",
+            "objective_id": "CPT.6.2.3.16",
+            "objective_text": "Synthesize pathfinder operations.",
+            "objective_uuid": "16c9c038-7b48-4b91-8a98-17ea8152f983"
+          }
+        ]
+      }
+    }
+  }
+}

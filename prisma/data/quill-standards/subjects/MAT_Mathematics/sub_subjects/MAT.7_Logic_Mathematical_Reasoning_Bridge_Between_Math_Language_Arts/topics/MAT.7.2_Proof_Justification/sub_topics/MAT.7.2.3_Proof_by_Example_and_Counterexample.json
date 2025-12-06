@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.7.2.3",
+    "name": "Proof by Example and Counterexample",
+    "topic_id": "MAT.7.2",
+    "topic_name": "Proof & Justification",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.7",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Proof by Example and Counterexample in Proof & Justification (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.4",
+            "objective_text": "Name an exception.",
+            "objective_uuid": "86bd91c9-7035-4db6-a7a3-de1e4497727d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.8",
+            "objective_text": "Identify a 'Counterexample'.",
+            "objective_uuid": "6d22afe1-f173-4f41-af61-c707d6ddf0b2"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.3",
+            "objective_text": "Recall that 'All' means everyone.",
+            "objective_uuid": "fe5e8eff-f9eb-4aab-91b5-022d6f8d0ba1"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.1",
+            "objective_text": "Show one example.",
+            "objective_uuid": "8725d053-a201-487f-b1ea-73d928b00275"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.2",
+            "objective_text": "Find one that doesn't fit.",
+            "objective_uuid": "a951c12e-5d7e-45bd-bb9a-f22869190f0a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.5",
+            "objective_text": "Summarize why one bad apple spoils the bunch (disproving 'All').",
+            "objective_uuid": "22e4ba9a-e28a-480e-91a8-fd92129dcf72"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.6",
+            "objective_text": "Explain that showing it works once doesn't mean it always works.",
+            "objective_uuid": "518287d1-77ee-4f16-93a5-518f67f0608b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.7",
+            "objective_text": "Find a number that breaks the rule.",
+            "objective_uuid": "429a747a-f0aa-4817-a0c0-fd932c19ed8b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.12",
+            "objective_text": "Explain falsifiability.",
+            "objective_uuid": "432d5e8c-a786-4bb8-b6fb-bc4fb6ad4f50"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.15",
+            "objective_text": "Defend the concept that 'Examples illustrate, but do not prove'.",
+            "objective_uuid": "1462d467-faca-499a-9245-1fbc6208c17b"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.9",
+            "objective_text": "Analyze the statement 'All primes are odd' (Counterexample: 2).",
+            "objective_uuid": "d8147926-0d45-4fbe-8bbd-c7a817f55e31"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.10",
+            "objective_text": "Interpret the limits of 'Proof by Example'.",
+            "objective_uuid": "c52740a4-e81b-4e77-8416-48a095858dd9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.11",
+            "objective_text": "Connect logic quantifiers to proof.",
+            "objective_uuid": "688ca3c5-c620-4840-a184-0ce989386f44"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.14",
+            "objective_text": "Evaluate the danger of induction without proof.",
+            "objective_uuid": "ada9de75-0a72-4dfa-925d-e4e80a475257"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.13",
+            "objective_text": "Construct a rigorous counterexample to a false theorem.",
+            "objective_uuid": "a5ff0420-2826-4897-9457-94d883fc0204"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.7",
+            "sub_subject_name": "Logic & Mathematical Reasoning (Bridge Between Math & Language Arts)",
+            "topic_id": "MAT.7.2",
+            "topic_name": "Proof & Justification",
+            "sub_topic_id": "MAT.7.2.3",
+            "sub_topic_name": "Proof by Example and Counterexample",
+            "objective_id": "MAT.7.2.3.16",
+            "objective_text": "Synthesize logic with number theory.",
+            "objective_uuid": "742aa0d8-ba81-4a91-8ffd-f70e5a0fd571"
+          }
+        ]
+      }
+    }
+  }
+}

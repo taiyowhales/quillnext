@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "LIF.3.2.6",
+    "name": "Soil Preparation & Testing (pH, nutrients)",
+    "topic_id": "LIF.3.2",
+    "topic_name": "Gardening & Food Production",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.3",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Soil Preparation & Testing (pH, nutrients) in Gardening & Food Production (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.1",
+            "objective_text": "Identify dirt as where plants live.",
+            "objective_uuid": "65f9de5e-04f9-43f5-ab07-a3a55b46e928"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.8",
+            "objective_text": "Identify compost as plant food.",
+            "objective_uuid": "fd341e5d-8de6-4b74-8eb0-88f14e869d6b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 6.33,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.3",
+            "objective_text": "Recall that plants need good soil to grow.",
+            "objective_uuid": "16280085-baab-4de7-85f5-058ab3fbf196"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.4",
+            "objective_text": "Observe worms helping the soil.",
+            "objective_uuid": "143771d5-96b4-41a5-93ce-62d1f703f979"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.7",
+            "objective_text": "Test the pH using a simple kit (acid vs. alkaline).",
+            "objective_uuid": "7d811263-9346-4d01-8545-bca43afcdf76"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.2",
+            "objective_text": "Dig a hole for a seed.",
+            "objective_uuid": "641bf998-4d6a-4ed8-9a9b-cfe879c0a150"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.5",
+            "objective_text": "Summarize the difference between dirt and soil (living).",
+            "objective_uuid": "ea1e6233-19ca-41b2-ba60-a4757428131d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.6",
+            "objective_text": "Explain the components: Sand, Silt, Clay.",
+            "objective_uuid": "66ae0071-397b-48b0-9366-28ebf030bc4b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.12",
+            "objective_text": "Explain the soil food web.",
+            "objective_uuid": "104a653d-6bf3-49f1-bfce-d3c8127c121f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.15",
+            "objective_text": "Defend the biblical principle of letting the land rest (Sabbath year).",
+            "objective_uuid": "a57685c6-a6e3-49da-86fe-313c7027da44"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.9",
+            "objective_text": "Analyze the N-P-K ratio (Nitrogen, Phosphorus, Potassium).",
+            "objective_uuid": "7ec88cff-3e12-48e7-9aec-3a1dee0663ca"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.10",
+            "objective_text": "Interpret a soil test report.",
+            "objective_uuid": "6ff6849e-59c0-431c-90c2-8d18f0617346"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.11",
+            "objective_text": "Connect organic matter to water retention.",
+            "objective_uuid": "2ff54198-a837-451c-bafa-a82b5c5043bf"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.14",
+            "objective_text": "Evaluate the long-term effects of chemical vs. organic fertilizers.",
+            "objective_uuid": "0c8ccde9-1e2e-4e8a-a9f7-e085ff86a4e7"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.13",
+            "objective_text": "Construct a soil amendment plan for a specific crop.",
+            "objective_uuid": "9e8071d8-c45f-43b9-a44e-575e5c3b4f05"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.3",
+            "sub_subject_name": "Homesteading, Agriculture & Sustainable Living",
+            "topic_id": "LIF.3.2",
+            "topic_name": "Gardening & Food Production",
+            "sub_topic_id": "LIF.3.2.6",
+            "sub_topic_name": "Soil Preparation & Testing (pH, nutrients)",
+            "objective_id": "LIF.3.2.6.16",
+            "objective_text": "Synthesize chemistry with biology for soil health.",
+            "objective_uuid": "69066918-9805-46dc-9a7b-540e3566aec6"
+          }
+        ]
+      }
+    }
+  }
+}

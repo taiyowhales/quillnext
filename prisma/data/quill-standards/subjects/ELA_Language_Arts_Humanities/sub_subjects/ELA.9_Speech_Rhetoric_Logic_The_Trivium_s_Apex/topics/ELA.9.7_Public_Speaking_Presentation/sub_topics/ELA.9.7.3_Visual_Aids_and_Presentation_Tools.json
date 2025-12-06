@@ -1,0 +1,268 @@
+{
+  "sub_topic": {
+    "id": "ELA.9.7.3",
+    "name": "Visual Aids and Presentation Tools",
+    "topic_id": "ELA.9.7",
+    "topic_name": "Public Speaking & Presentation",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.9",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Visual Aids and Presentation Tools in Public Speaking & Presentation (Language Arts & Humanities)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 9,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.1",
+            "objective_text": "Hold an object so everyone can see it.",
+            "objective_uuid": "c7e03b63-3a89-4482-a542-4875074e4bde"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.2",
+            "objective_text": "Draw a picture to show the class.",
+            "objective_uuid": "579aa9dc-ea30-4955-b4d5-fd5da180f17b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.3",
+            "objective_text": "Point to parts of a picture while talking.",
+            "objective_uuid": "29c9d795-bb3a-47a3-a0a9-403d1a833e40"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.4",
+            "objective_text": "Use a prop to tell a story.",
+            "objective_uuid": "caf38106-c9f3-4956-bfd4-f1cf709d2de4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.6",
+            "objective_text": "Use a digital slide to show a photo.",
+            "objective_uuid": "7c102bbb-17f9-42f5-a0d3-7eb66faf24ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.7",
+            "objective_text": "Explain a diagram or map to an audience.",
+            "objective_uuid": "a5fa5db0-e4fe-472b-816d-dadb33322c00"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.8",
+            "objective_text": "Avoid reading directly off the poster.",
+            "objective_uuid": "88b5eae8-a664-4bbc-8341-f652de4f1548"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.12",
+            "objective_text": "Explain how to cite sources on a slide.",
+            "objective_uuid": "339a7ef4-33ca-4739-9bee-2772cb945b50"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.15",
+            "objective_text": "Defend the choice of analog vs. digital aids for specific contexts.",
+            "objective_uuid": "4f62f9fe-7228-40c9-a4f6-346e57fdcb54"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.9",
+            "objective_text": "Analyze the 'less is more' rule for slide text.",
+            "objective_uuid": "96bf2e05-ff79-4214-b92a-c9c5600a70e5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.10",
+            "objective_text": "Interpret the impact of color and font choice on readability.",
+            "objective_uuid": "6fe6d9ab-e32c-4049-9938-860ef7b2adb5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.11",
+            "objective_text": "Connect the visual aid to the spoken point (don't distract).",
+            "objective_uuid": "15cb6e42-6f96-439f-9f47-c81bf9c68c8b"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.14",
+            "objective_text": "Evaluate the rhetorical impact of data visualization.",
+            "objective_uuid": "f8308753-622e-4c6e-9188-e16e3de3ac7d"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.5",
+            "objective_text": "Create a poster with clear text and images.",
+            "objective_uuid": "cbd93e19-73e5-4318-854b-f54c761254d2"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.13",
+            "objective_text": "Construct a professional slide deck (e.g., PowerPoint/Keynote).",
+            "objective_uuid": "85bbb82e-7c93-4466-8bc1-aaa0aa8537ff"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.9",
+            "sub_subject_name": "Speech, Rhetoric & Logic (The Trivium's Apex)",
+            "topic_id": "ELA.9.7",
+            "topic_name": "Public Speaking & Presentation",
+            "sub_topic_id": "ELA.9.7.3",
+            "sub_topic_name": "Visual Aids and Presentation Tools",
+            "objective_id": "ELA.9.7.3.16",
+            "objective_text": "Synthesize speech and visuals for a seamless presentation.",
+            "objective_uuid": "8c7f4bed-4f96-4889-9ec6-ef4784ced3ff"
+          }
+        ]
+      }
+    }
+  }
+}

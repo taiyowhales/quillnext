@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.2.7",
+    "name": "World Capitals",
+    "topic_id": "GEO.3.2",
+    "topic_name": "Global Political Mastery",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for World Capitals in Global Political Mastery (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.1",
+            "objective_text": "Name the capital city of my country.",
+            "objective_uuid": "8277f583-5109-4195-ab81-f20a91c0f3e8"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.2",
+            "objective_text": "Identify a capital as the most important city for government.",
+            "objective_uuid": "99e65a89-2ae0-46d9-8b06-61416ec59e71"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.7",
+            "objective_text": "Identify capitals that are not the biggest city (e.g., Ottawa vs. Toronto).",
+            "objective_uuid": "643a7e60-0ccd-48f0-9d16-66c2fa149989"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.3",
+            "objective_text": "Recall that the leader lives in the capital.",
+            "objective_uuid": "3bbf8774-3e00-445d-8048-222747d2dfb6"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.4",
+            "objective_text": "Observe a star symbol on a map for a capital.",
+            "objective_uuid": "c9dfb42e-58b9-4f15-8c52-fa6a538192b6"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.5",
+            "objective_text": "Memorize the capitals of major world powers (e.g., London, Beijing, Moscow).",
+            "objective_uuid": "9844a62e-c8d9-41bb-9d7c-7ebb2a71e3ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.6",
+            "objective_text": "Match 50 countries to their capital cities.",
+            "objective_uuid": "2e04ddfd-2a88-480c-8142-cddea01ff5ca"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.8",
+            "objective_text": "Locate capitals on a map.",
+            "objective_uuid": "f8cdc98d-7095-4fd0-b5be-8d81bd347e25"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.9",
+            "objective_text": "Memorize the capitals of all South American and European nations.",
+            "objective_uuid": "6f188549-e2a5-422b-ac95-a27eef42048a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.12",
+            "objective_text": "Explain the concept of a 'Primate City'.",
+            "objective_uuid": "ec7b2bed-846e-4e54-a991-285c71415978"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.13",
+            "objective_text": "Master the capitals of all 195+ sovereign nations.",
+            "objective_uuid": "0b9c8527-e314-43ce-aaf4-3ea2d24af683"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.15",
+            "objective_text": "Defend the strategic importance of specific capital locations.",
+            "objective_uuid": "049e7440-8491-404e-b039-1f9568c6a542"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.10",
+            "objective_text": "Interpret why capitals are located where they are (defense, trade).",
+            "objective_uuid": "d8b34837-0b47-4fac-923a-f4257311cab8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.11",
+            "objective_text": "Connect the capital city to the country's history.",
+            "objective_uuid": "95ced35c-9db8-45e7-99b3-86d0fbb1f92d"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.14",
+            "objective_text": "Evaluate the decision of countries to move their capitals (e.g., Brazil, Indonesia).",
+            "objective_uuid": "67709486-6696-4a35-b03c-3526b2c39d24"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.2",
+            "topic_name": "Global Political Mastery",
+            "sub_topic_id": "GEO.3.2.7",
+            "sub_topic_name": "World Capitals",
+            "objective_id": "GEO.3.2.7.16",
+            "objective_text": "Synthesize knowledge of capitals with political news.",
+            "objective_uuid": "b391704d-f8aa-4b4e-b32d-728f5bc48c5f"
+          }
+        ]
+      }
+    }
+  }
+}

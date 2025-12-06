@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.1.4",
+    "name": "Plotting Points (ordered pairs) and Quadrants",
+    "topic_id": "MAT.5.1",
+    "topic_name": "Coordinate Geometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Plotting Points (ordered pairs) and Quadrants in Coordinate Geometry (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 8.5,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.1",
+            "objective_text": "Identify a grid map.",
+            "objective_uuid": "64d7bf5e-4b7b-4623-bed8-513c6af06dba"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.8",
+            "objective_text": "Identify the x-axis and y-axis.",
+            "objective_uuid": "96d1cc40-52c6-42e0-8a90-575a74eb6000"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.3",
+            "objective_text": "Recall finding a spot like A-4 (Battleship).",
+            "objective_uuid": "e3d297b5-571a-414c-89a9-8c9a9eceebbc"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.4",
+            "objective_text": "Observe a treasure map.",
+            "objective_uuid": "97e55f38-8ed0-4806-8af7-19e38bca3516"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.2",
+            "objective_text": "Move a game piece 'over' and 'up'.",
+            "objective_uuid": "107ebf39-aafd-4ded-afba-8514952c4a8c"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.5",
+            "objective_text": "Summarize $(x, y)$ coordinates.",
+            "objective_uuid": "58a4de35-07bc-4a47-a5db-13539eeb3dec"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.6",
+            "objective_text": "Explain the Origin $(0,0)$.",
+            "objective_uuid": "9e2697b3-e26a-42f9-af03-f3cd1249f443"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.7",
+            "objective_text": "Plot points in the first quadrant.",
+            "objective_uuid": "3534caf9-d727-4620-af86-ef494fc3370f"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.12",
+            "objective_text": "Explain reflection across axes.",
+            "objective_uuid": "52d149cc-40de-46d1-ac7e-3f352d86e981"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.9",
+            "objective_text": "Analyze all four quadrants (positive/negative).",
+            "objective_uuid": "8264bb3b-0429-4fdb-888d-d178d19f8faf"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.10",
+            "objective_text": "Interpret coordinates to draw a polygon.",
+            "objective_uuid": "7084d166-8284-485c-885a-3c831808867d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.11",
+            "objective_text": "Connect the signs $(-, +)$ to the quadrant location.",
+            "objective_uuid": "7d9e5e9c-3f15-4250-a379-041d58c41eb1"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.15",
+            "objective_text": "Defend the Cartesian system as a bridge between algebra and geometry.",
+            "objective_uuid": "8fcb568c-cf81-427c-bf54-50e1320da56b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.14",
+            "objective_text": "Evaluate polar coordinates $(r, \\theta)$.",
+            "objective_uuid": "92108237-3e13-4153-b0b8-ac2a870dc733"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.13",
+            "objective_text": "Construct points in a 3D coordinate system $(x, y, z)$.",
+            "objective_uuid": "7faa4edc-55bf-4f0e-9b3e-a1d93a69f633"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.1",
+            "topic_name": "Coordinate Geometry",
+            "sub_topic_id": "MAT.5.1.4",
+            "sub_topic_name": "Plotting Points (ordered pairs) and Quadrants",
+            "objective_id": "MAT.5.1.4.16",
+            "objective_text": "Synthesize vector coordinates.",
+            "objective_uuid": "f4935610-7680-414e-b087-5c00fa877089"
+          }
+        ]
+      }
+    }
+  }
+}

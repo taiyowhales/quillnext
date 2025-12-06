@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.2.6",
+    "name": "Searching Algorithms (Linear Search, Binary Search)",
+    "topic_id": "CPT.1.2",
+    "topic_name": "Algorithms & Logic",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Searching Algorithms (Linear Search, Binary Search) in Algorithms & Logic (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.4",
+            "objective_text": "Name 'Searching'.",
+            "objective_uuid": "ea614a33-cd77-48ee-a892-98b79fbf69fc"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.8",
+            "objective_text": "Identify which method is faster.",
+            "objective_uuid": "0a173e80-60ff-47c0-981e-527c55b4273e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.3",
+            "objective_text": "Recall checking everything.",
+            "objective_uuid": "2d2e2301-23bc-4030-9b11-17ace681d06d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.1",
+            "objective_text": "Find a red block in a pile.",
+            "objective_uuid": "45e29ca1-7911-4a19-af13-15f2fec11a93"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.2",
+            "objective_text": "Look through cards one by one.",
+            "objective_uuid": "a3bd5301-9250-4fbf-b36b-892227b0bc91"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.5",
+            "objective_text": "Summarize checking every item (Linear).",
+            "objective_uuid": "1aaacd8f-f244-45f7-9659-2a51c463a780"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.6",
+            "objective_text": "Explain guessing 'Higher or Lower' (Binary).",
+            "objective_uuid": "da9b7f0a-a233-48d0-bcf5-7f5e40e911e4"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.7",
+            "objective_text": "Find a number in a sorted list.",
+            "objective_uuid": "96b12327-d8be-49fa-82f2-6cdf62472d7c"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.12",
+            "objective_text": "Explain the midpoint calculation.",
+            "objective_uuid": "8179cac7-d933-4099-a9e4-8a9f821e8e3f"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 5,
+        "average_complexity": 26.4,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.9",
+            "objective_text": "Analyze why Binary Search requires a sorted list.",
+            "objective_uuid": "5a65dc0a-f515-44fd-9ead-d6cdf10c1d5d"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.10",
+            "objective_text": "Interpret the divide and conquer strategy.",
+            "objective_uuid": "d77a1261-fcac-4475-9495-5334b6a99254"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.11",
+            "objective_text": "Connect list size to search time.",
+            "objective_uuid": "5a776cc2-4be0-4212-82e2-0bb7c41946c4"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.14",
+            "objective_text": "Evaluate the efficiency (Big O) of Linear ($O(n)$) vs Binary ($O(\\log n)$).",
+            "objective_uuid": "e9c6bebf-99ee-448c-bf3d-3b5ff5a54099"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.15",
+            "objective_text": "Defend the choice of algorithm based on data structure.",
+            "objective_uuid": "03d27d47-381c-4bba-9d81-a364efc9021d"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.13",
+            "objective_text": "Construct code for both search algorithms.",
+            "objective_uuid": "316083bb-5471-44eb-beaf-dc4598a70d49"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.2",
+            "topic_name": "Algorithms & Logic",
+            "sub_topic_id": "CPT.1.2.6",
+            "sub_topic_name": "Searching Algorithms (Linear Search, Binary Search)",
+            "objective_id": "CPT.1.2.6.16",
+            "objective_text": "Synthesize recursive implementation of binary search.",
+            "objective_uuid": "4b5bfe30-04e2-4590-b9aa-87cffb18ad79"
+          }
+        ]
+      }
+    }
+  }
+}

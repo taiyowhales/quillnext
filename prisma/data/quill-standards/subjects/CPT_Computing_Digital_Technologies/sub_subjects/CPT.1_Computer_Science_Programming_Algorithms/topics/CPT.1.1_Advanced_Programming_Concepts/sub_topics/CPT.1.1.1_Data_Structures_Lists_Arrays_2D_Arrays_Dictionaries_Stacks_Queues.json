@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.1.1",
+    "name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+    "topic_id": "CPT.1.1",
+    "topic_name": "Advanced Programming Concepts",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues) in Advanced Programming Concepts (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.1",
+            "objective_text": "Identify a list of names.",
+            "objective_uuid": "f93bba3c-a2ac-400f-914f-c56ebddce881"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.4",
+            "objective_text": "Name a collection.",
+            "objective_uuid": "53a442ea-b663-4b43-b8c2-fdcd68937500"
+          },
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.8",
+            "objective_text": "Identify a Dictionary (Key-Value pair).",
+            "objective_uuid": "ee42b180-f241-4e02-8583-80d9d9e975a8"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 7,
+        "average_complexity": 28.57,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.3",
+            "objective_text": "Recall stacking blocks (stack).",
+            "objective_uuid": "c8eb4812-fe47-443d-9012-b9fddaaa30a2"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.2",
+            "objective_text": "Line up toys (queue).",
+            "objective_uuid": "de75feb9-ebaa-468e-ae86-3b8d3c7a38b1"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.5",
+            "objective_text": "Summarize a List (multiple items in one variable).",
+            "objective_uuid": "465a3650-7ab3-4e6f-a6f1-8a07a5172e9b"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.6",
+            "objective_text": "Explain an Index (position number).",
+            "objective_uuid": "7a6af6fe-733c-4099-8c43-47da681abd08"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.7",
+            "objective_text": "Add items to a list.",
+            "objective_uuid": "2d9b27dc-81cd-48e2-b2b5-b6620b075dc3"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.12",
+            "objective_text": "Explain array bounds.",
+            "objective_uuid": "a98a0572-82e5-431f-9045-72c4a9919d68"
+          },
+          {
+            "complexity": 29,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.15",
+            "objective_text": "Defend the choice of data structure.",
+            "objective_uuid": "a4e92cf0-74ae-423d-b11b-f550ebb2d3f6"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 6,
+        "average_complexity": 34.5,
+        "objectives": [
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.9",
+            "objective_text": "Analyze 2D Arrays (grids/tables).",
+            "objective_uuid": "872d3ed7-e966-4fb1-b52b-a9d13b7ed192"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.10",
+            "objective_text": "Interpret LIFO (Stack) vs. FIFO (Queue).",
+            "objective_uuid": "fe189d1b-f4b3-4618-9c4c-f0115f88a191"
+          },
+          {
+            "complexity": 32,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.11",
+            "objective_text": "Connect list iteration to loops.",
+            "objective_uuid": "56394578-b5b1-45ed-b040-cf69417eb1a5"
+          },
+          {
+            "complexity": 35,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.14",
+            "objective_text": "Evaluate time complexity of access vs. search.",
+            "objective_uuid": "d3cde4e8-1b34-4ac6-b407-69c0e29b1171"
+          },
+          {
+            "complexity": 38,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.13",
+            "objective_text": "Construct linked lists or trees (conceptual implementation).",
+            "objective_uuid": "8c875fe2-316a-4a98-bb9c-69e4594ede9e"
+          },
+          {
+            "complexity": 38,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.1",
+            "topic_name": "Advanced Programming Concepts",
+            "sub_topic_id": "CPT.1.1.1",
+            "sub_topic_name": "Data Structures (Lists/Arrays, 2D Arrays, Dictionaries, Stacks, Queues)",
+            "objective_id": "CPT.1.1.1.16",
+            "objective_text": "Synthesize hash maps.",
+            "objective_uuid": "35d9ff9d-7695-46a4-936b-f66cbca664fa"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.1.4",
+    "name": "The Latitude and Longitude Grid System",
+    "topic_id": "GEO.3.1",
+    "topic_name": "Global Orientation",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for The Latitude and Longitude Grid System in Global Orientation (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.1",
+            "objective_text": "Identify the grid on a map.",
+            "objective_uuid": "69892a17-cac1-4ea2-8862-ce638cfca2de"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.2",
+            "objective_text": "Name the Equator (Belt) and Prime Meridian (Tie).",
+            "objective_uuid": "2c0eb01d-9ed0-48ff-9467-000bab5ec316"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.8",
+            "objective_text": "Identify the International Date Line.",
+            "objective_uuid": "cbb28e44-7398-4062-b0df-a8b892af8939"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.5,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.3",
+            "objective_text": "Recall that we use numbers to find places.",
+            "objective_uuid": "df44fcf1-6a40-409b-84b8-e2d32004b00b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.4",
+            "objective_text": "Observe GPS coordinates.",
+            "objective_uuid": "111abcc8-9878-4b73-9613-852607a0f636"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.5",
+            "objective_text": "Summarize Latitude (Ladder/Flat) vs. Longitude (Long/Tall).",
+            "objective_uuid": "5cded505-fdc1-4839-8149-7cd3ee539dfe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.6",
+            "objective_text": "Explain degrees, minutes, and seconds.",
+            "objective_uuid": "b5a94ade-c1bb-41d2-ae5e-2d2a3a747245"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.7",
+            "objective_text": "Locate a city given coordinates.",
+            "objective_uuid": "712136fd-4f35-4ae5-9547-afd1eb67acb4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.12",
+            "objective_text": "Explain Great Circle routes.",
+            "objective_uuid": "d0dc72be-5c8a-4c0d-bac1-10215498e5b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.15",
+            "objective_text": "Defend the necessity of a universal reference system.",
+            "objective_uuid": "e1d2de41-a05e-4dea-9199-bb8412d6c817"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.9",
+            "objective_text": "Analyze the relationship between Longitude and Time Zones.",
+            "objective_uuid": "9124f274-5422-4620-9c86-9e191b769fba"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.10",
+            "objective_text": "Interpret the distance between degrees of latitude (constant) vs. longitude (varies).",
+            "objective_uuid": "6e9e6573-3b82-417a-8de8-2bc43070566a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.11",
+            "objective_text": "Connect navigation (sextant/chronometer) to the grid.",
+            "objective_uuid": "5353efa4-d779-4614-9362-a9d998f8b8c0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.14",
+            "objective_text": "Evaluate the accuracy of GPS.",
+            "objective_uuid": "e012bcaa-ca77-4875-96bd-52f103861226"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.13",
+            "objective_text": "Construct a coordinate system hunt.",
+            "objective_uuid": "cc0ab41c-db38-4bf9-823d-b58ad3e9bacd"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.1",
+            "topic_name": "Global Orientation",
+            "sub_topic_id": "GEO.3.1.4",
+            "sub_topic_name": "The Latitude and Longitude Grid System",
+            "objective_id": "GEO.3.1.4.16",
+            "objective_text": "Synthesize geometry with global positioning.",
+            "objective_uuid": "89a15695-5bd4-45d2-83bd-61a87c59108c"
+          }
+        ]
+      }
+    }
+  }
+}

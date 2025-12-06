@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.3.1.3",
+    "name": "Divided Kingdom and the Prophets",
+    "topic_id": "BIB.3.1",
+    "topic_name": "Chronological Bible Narrative",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.3",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Divided Kingdom and the Prophets in Chronological Bible Narrative (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.1",
+            "objective_text": "Identify Elijah as the prophet who called down fire.",
+            "objective_uuid": "5d0e9feb-05d7-4896-b408-d2ee508dd46f"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.2",
+            "objective_text": "Name Jonah as the prophet who was swallowed by a big fish.",
+            "objective_uuid": "fac54578-a3f8-4dfb-81cc-105678a81aaa"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.3",
+            "objective_text": "Recall that the kingdom split into two parts: North and South.",
+            "objective_uuid": "54856e72-27c1-4e0b-8de0-0e54dbdf3292"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.4",
+            "objective_text": "Observe that bad kings led people away from God.",
+            "objective_uuid": "d16a61ce-e329-4008-9e53-3c94576033e4"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.5",
+            "objective_text": "Summarize the contest on Mount Carmel with the prophets of Baal.",
+            "objective_uuid": "45b1ace3-91a9-4e38-97bd-8e5e81edeb7b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.6",
+            "objective_text": "Explain why the kingdom divided (Rehoboam's foolishness).",
+            "objective_uuid": "d78ffff3-f868-4d54-9cd6-2bdb89dd4259"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.8",
+            "objective_text": "Categorize prophets by who they spoke to (Israel, Judah, or other nations).",
+            "objective_uuid": "e3a72a56-a4d9-495c-b71e-8223235678c0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.12",
+            "objective_text": "Explain the reforms of Hezekiah and Josiah.",
+            "objective_uuid": "5a9fcffd-cbaf-44d1-89f8-2327139d4d93"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.15",
+            "objective_text": "Defend the justice of the Exile based on the warnings of Deuteronomy.",
+            "objective_uuid": "6dc49553-5135-40b8-bdf1-0881d289f690"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.16",
+            "objective_text": "Produce a study on the 'Day of the Lord' theme in the prophets.",
+            "objective_uuid": "41540708-5016-49be-9491-cef1eff631ec"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.7",
+            "objective_text": "Compare the Northern Kingdom (Israel) and the Southern Kingdom (Judah).",
+            "objective_uuid": "fe9dc844-638b-490c-abe1-4d8e48c9d902"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.9",
+            "objective_text": "Analyze the sin of Jeroboam (golden calves) and its lasting effect.",
+            "objective_uuid": "bbd4324c-dd73-4710-9e66-5c21a77be4b7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.10",
+            "objective_text": "Interpret the role of the prophet as a covenant lawyer prosecuting the nation.",
+            "objective_uuid": "3ca0bb03-2afa-4ba9-a79c-2c27ec2d7b47"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.11",
+            "objective_text": "Connect the fall of Samaria (722 BC) to the Assyrian empire.",
+            "objective_uuid": "dce8997f-6493-4577-bc4e-3b333f6ceeea"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.14",
+            "objective_text": "Evaluate the geopolitical situation involving Assyria, Babylon, and Egypt.",
+            "objective_uuid": "516ed29a-511e-4a1c-b843-d816eb54fe2f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.3",
+            "sub_subject_name": "Biblical Survey & Redemptive History",
+            "topic_id": "BIB.3.1",
+            "topic_name": "Chronological Bible Narrative",
+            "sub_topic_id": "BIB.3.1.3",
+            "sub_topic_name": "Divided Kingdom and the Prophets",
+            "objective_id": "BIB.3.1.3.13",
+            "objective_text": "Construct a timeline of the kings and the prophets who ministered to them.",
+            "objective_uuid": "32581ff3-af5c-46f3-9925-43a1606cd0be"
+          }
+        ]
+      }
+    }
+  }
+}

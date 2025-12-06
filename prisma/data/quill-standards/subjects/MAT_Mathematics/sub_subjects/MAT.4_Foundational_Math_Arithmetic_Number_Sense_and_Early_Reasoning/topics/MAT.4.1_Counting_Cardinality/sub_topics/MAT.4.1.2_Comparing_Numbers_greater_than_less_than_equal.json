@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.1.2",
+    "name": "Comparing Numbers (greater than, less than, equal)",
+    "topic_id": "MAT.4.1",
+    "topic_name": "Counting & Cardinality",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Comparing Numbers (greater than, less than, equal) in Counting & Cardinality (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 4,
+        "average_complexity": 1.5,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.1",
+            "objective_text": "Identify which group has more or less.",
+            "objective_uuid": "394fbdd1-34ff-420b-a6bc-3213f1eecd05"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.8",
+            "objective_text": "Identify inequalities on a number line.",
+            "objective_uuid": "09c04475-9bb5-40f7-aa3f-5b0fdd56de89"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.3",
+            "objective_text": "Recall that equal means the same.",
+            "objective_uuid": "68e00fdc-e655-43a7-ac1f-625e02a9075c"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.4",
+            "objective_text": "Observe balance scales.",
+            "objective_uuid": "fde6e5c3-efa2-4a2e-8ecd-166a450b8aaa"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.2",
+            "objective_text": "Use the alligator symbols (<, >).",
+            "objective_uuid": "fa6849f5-86a6-4e49-963d-c197fd7f3f5c"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.5",
+            "objective_text": "Summarize comparisons of multi-digit numbers.",
+            "objective_uuid": "0f11b541-11e9-4a0d-889a-3990b9e08eb0"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.6",
+            "objective_text": "Explain how place value determines size.",
+            "objective_uuid": "7828f410-7b80-43d8-9606-b92c0e7b334e"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.12",
+            "objective_text": "Explain the transitive property of inequality.",
+            "objective_uuid": "cd64e346-8544-4a89-8d8b-4d04f1ed3d17"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.15",
+            "objective_text": "Defend the Law of Trichotomy.",
+            "objective_uuid": "3ef6fc02-bea1-4add-abfb-8a94e82a6972"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.7",
+            "objective_text": "Compare fractions with common denominators.",
+            "objective_uuid": "0609489f-8e44-4cc9-8132-816b9b6b0a39"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.9",
+            "objective_text": "Analyze inequalities involving negative numbers.",
+            "objective_uuid": "876b296d-d15d-4949-8c3d-9b7a9ba34cb3"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.10",
+            "objective_text": "Interpret absolute value in comparisons.",
+            "objective_uuid": "086ee838-2064-43ab-bf97-0adafcd7270f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.11",
+            "objective_text": "Connect inequalities to graphing shaded regions.",
+            "objective_uuid": "66a9b3f8-d34f-4e9f-bba8-e622940db6b9"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 1,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.14",
+            "objective_text": "Evaluate conditional inequalities.",
+            "objective_uuid": "735ae687-1290-482f-ad63-a3731b569a29"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.13",
+            "objective_text": "Construct proofs for inequality theorems.",
+            "objective_uuid": "20d00680-af69-4738-950f-aee4f44c471b"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.1",
+            "topic_name": "Counting & Cardinality",
+            "sub_topic_id": "MAT.4.1.2",
+            "sub_topic_name": "Comparing Numbers (greater than, less than, equal)",
+            "objective_id": "MAT.4.1.2.16",
+            "objective_text": "Synthesize inequalities with optimization problems.",
+            "objective_uuid": "2661634c-17d6-4cc5-acee-5de4166bf5db"
+          }
+        ]
+      }
+    }
+  }
+}

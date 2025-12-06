@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.4.6",
+    "name": "Painting Landscapes, Portraits & Still Life (genre study)",
+    "topic_id": "ART.5.4",
+    "topic_name": "Painting Techniques & Color Theory",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Painting Landscapes, Portraits & Still Life (genre study) in Painting Techniques & Color Theory (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.1",
+            "objective_text": "Identify a picture of outside as a Landscape.",
+            "objective_uuid": "f0b97fa2-c134-455f-9203-e678e80ad5e9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.2",
+            "objective_text": "Identify a picture of a person as a Portrait.",
+            "objective_uuid": "7e902c10-8e84-415a-9089-748c012e80dd"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.3",
+            "objective_text": "Identify a picture of things on a table as a Still Life.",
+            "objective_uuid": "c12a3f83-edd8-48df-8d23-16ea25507cca"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.4",
+            "objective_text": "Paint a simple version of each.",
+            "objective_uuid": "6a2588e7-e415-484b-a693-3737bc49b92e"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.7",
+            "objective_text": "Compose a simple still life setup.",
+            "objective_uuid": "58f00722-d834-4ece-8e19-260ab7a94d3e"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.5",
+            "objective_text": "Summarize the foreground, middle ground, and background in a landscape.",
+            "objective_uuid": "b46433dd-71f7-4c5c-ae8f-d866630680e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.6",
+            "objective_text": "Explain the proportions of the face for a portrait.",
+            "objective_uuid": "af5bb906-3e25-4e3b-9396-62c3e9e5a87e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.12",
+            "objective_text": "Explain the historical hierarchy of genres.",
+            "objective_uuid": "fbb2439f-0258-4af0-a174-88337b819692"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.8",
+            "objective_text": "Compare styles of different famous painters.",
+            "objective_uuid": "48aef82c-055d-4dc2-8ce6-30ccd23db3a3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.9",
+            "objective_text": "Analyze the challenges of each genre.",
+            "objective_uuid": "594d87e7-880f-4407-ac47-0257b4ecb138"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.10",
+            "objective_text": "Interpret the mood of a landscape through color.",
+            "objective_uuid": "09523811-390e-4571-a703-6dda170e9005"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.11",
+            "objective_text": "Connect the gaze of the portrait subject to the viewer.",
+            "objective_uuid": "0aaf13ac-c481-47a7-85cd-105584a23677"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.14",
+            "objective_text": "Evaluate the narrative potential of a still life (Vanitas).",
+            "objective_uuid": "b316625f-af5f-4941-bf95-704da479ba0f"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.15",
+            "objective_text": "Defend the relevance of traditional genres in contemporary art.",
+            "objective_uuid": "a017f9b8-650a-4b64-9a1c-0f06f0518671"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.13",
+            "objective_text": "Construct a cohesive body of work in a chosen genre.",
+            "objective_uuid": "4d33d77c-9c19-46c4-8ab8-d6b36e1e7e78"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.4",
+            "topic_name": "Painting Techniques & Color Theory",
+            "sub_topic_id": "ART.5.4.6",
+            "sub_topic_name": "Painting Landscapes, Portraits & Still Life (genre study)",
+            "objective_id": "ART.5.4.6.16",
+            "objective_text": "Synthesize personal style with genre conventions.",
+            "objective_uuid": "21f9dd80-fa3c-432a-949f-9b4c258fb699"
+          }
+        ]
+      }
+    }
+  }
+}

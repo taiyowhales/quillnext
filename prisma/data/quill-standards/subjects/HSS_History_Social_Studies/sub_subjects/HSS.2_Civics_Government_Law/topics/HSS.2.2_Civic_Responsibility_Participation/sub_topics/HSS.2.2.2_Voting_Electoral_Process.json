@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "HSS.2.2.2",
+    "name": "Voting & Electoral Process",
+    "topic_id": "HSS.2.2",
+    "topic_name": "Civic Responsibility & Participation",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.2",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Voting & Electoral Process in Civic Responsibility & Participation (History & Social Studies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.1",
+            "objective_text": "Identify voting as making a choice.",
+            "objective_uuid": "e18273a1-ebc2-4854-8d5f-dc2e9d6b1c9d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.2",
+            "objective_text": "Name Election Day.",
+            "objective_uuid": "75bf9256-41d1-4d9b-93d4-b54392438cba"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.8",
+            "objective_text": "Identify the requirements to vote.",
+            "objective_uuid": "73e07809-3ef0-4733-b541-afc94aefe825"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.3",
+            "objective_text": "Recall that we choose our leaders.",
+            "objective_uuid": "7eb1bd5b-3f6f-4476-932a-91717e1c8aa9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.4",
+            "objective_text": "Observe an 'I Voted' sticker.",
+            "objective_uuid": "00ea44c3-fa9f-45bd-91bb-24b32654facc"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.5",
+            "objective_text": "Summarize how we elect a President (Electoral College intro).",
+            "objective_uuid": "9c6c67e7-ad3c-4fa3-9a30-30a3c6bcf683"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.6",
+            "objective_text": "Explain why every vote counts.",
+            "objective_uuid": "ca0b152c-cd36-451d-a73c-7298338bd7e1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.12",
+            "objective_text": "Explain the role of the media in elections.",
+            "objective_uuid": "a169d5e6-ec7e-445d-85c2-345cd400f86c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.15",
+            "objective_text": "Defend the responsibility of the informed voter.",
+            "objective_uuid": "b240ad15-91b2-46f2-95d6-0d124fcea90e"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.7",
+            "objective_text": "Compare a Primary election with a General election.",
+            "objective_uuid": "bc9751e1-6a8b-428c-803d-e724910cd22c"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.9",
+            "objective_text": "Analyze the Electoral College (Why we have it).",
+            "objective_uuid": "d1a3b0ac-a243-42e2-b6d6-055ee51a947f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.10",
+            "objective_text": "Interpret a political map (Red/Blue states).",
+            "objective_uuid": "ac3c7c6f-7144-4227-8714-64dec4c4a80e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.11",
+            "objective_text": "Connect the census to representation.",
+            "objective_uuid": "b862740b-64d0-4ad4-b4b9-280c4c466ce8"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.14",
+            "objective_text": "Evaluate the two-party system.",
+            "objective_uuid": "dc16c443-8030-4939-a622-9dada5257a64"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.13",
+            "objective_text": "Construct a campaign strategy for a local office.",
+            "objective_uuid": "de5a0ac0-8256-47c9-a021-6e06c16ab9d4"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.2",
+            "sub_subject_name": "Civics, Government & Law",
+            "topic_id": "HSS.2.2",
+            "topic_name": "Civic Responsibility & Participation",
+            "sub_topic_id": "HSS.2.2.2",
+            "sub_topic_name": "Voting & Electoral Process",
+            "objective_id": "HSS.2.2.2.16",
+            "objective_text": "Synthesize the impact of gerrymandering on representation.",
+            "objective_uuid": "8f3b2532-d2cb-48e6-945d-199cf309cb5d"
+          }
+        ]
+      }
+    }
+  }
+}

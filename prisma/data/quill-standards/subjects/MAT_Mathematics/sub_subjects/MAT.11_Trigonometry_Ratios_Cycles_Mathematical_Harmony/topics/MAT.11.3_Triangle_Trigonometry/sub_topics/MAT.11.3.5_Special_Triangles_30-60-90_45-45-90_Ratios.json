@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.3.5",
+    "name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+    "topic_id": "MAT.11.3",
+    "topic_name": "Triangle Trigonometry",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Special Triangles (30-60-90, 45-45-90 Ratios) in Triangle Trigonometry (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 10,
+        "average_complexity": 13.8,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.1",
+            "objective_text": "Identify a triangle with equal sides (Equilateral).",
+            "objective_uuid": "8469f531-4a02-4437-aa54-60be31cce69a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.4",
+            "objective_text": "Name a 45-degree angle.",
+            "objective_uuid": "f08edb56-438a-42a5-abed-e42051ed727b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.8",
+            "objective_text": "Identify symmetry in an equilateral triangle.",
+            "objective_uuid": "5367badf-1f1a-4856-a868-cfae81eecb62"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.3",
+            "objective_text": "Recall patterns in shapes.",
+            "objective_uuid": "adb58fd2-a279-4f84-a6ca-e1fc01c26508"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.15",
+            "objective_text": "Defend the utility of exact irrational numbers.",
+            "objective_uuid": "9aa23cb9-22c6-4aa2-b206-1ffec209e68d"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.2",
+            "objective_text": "Cut a square in half to make two triangles.",
+            "objective_uuid": "0a32193e-99a5-4bed-bc38-696d45750ee7"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.5",
+            "objective_text": "Summarize that some triangles are special.",
+            "objective_uuid": "7d8686a3-b9b2-459d-90b1-7114fcafe7da"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.6",
+            "objective_text": "Explain an Isosceles Right Triangle.",
+            "objective_uuid": "b1e83c80-1dcc-4616-8461-25f6b12fdd6f"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.7",
+            "objective_text": "Notice that in a 30-60-90, the short side is half the hypotenuse.",
+            "objective_uuid": "cb6a702b-bdc1-490c-9a36-42d46fb5c792"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.12",
+            "objective_text": "Explain deriving these from a square and equilateral triangle.",
+            "objective_uuid": "d76f1698-d232-43be-a61a-f9bb216b3b60"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 19.75,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.9",
+            "objective_text": "Analyze the ratio $1 : 1 : \\sqrt{2}$ for 45-45-90.",
+            "objective_uuid": "a3e27de4-41ec-41e0-930e-91d772b3afd0"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.10",
+            "objective_text": "Interpret the ratio $1 : \\sqrt{3} : 2$ for 30-60-90.",
+            "objective_uuid": "325cffcd-cce3-437a-856b-cdc108be1fcb"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.11",
+            "objective_text": "Connect exact values to the Pythagorean theorem.",
+            "objective_uuid": "7457645b-fb7e-402b-9716-49da78d3d363"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.14",
+            "objective_text": "Evaluate expressions involving special angles.",
+            "objective_uuid": "52275985-1086-4d9d-9cd6-222c2a70243b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.13",
+            "objective_text": "Construct exact trig values without a calculator.",
+            "objective_uuid": "bfdc5972-454b-4613-95c7-ae083bcf0fe2"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.3",
+            "topic_name": "Triangle Trigonometry",
+            "sub_topic_id": "MAT.11.3.5",
+            "sub_topic_name": "Special Triangles (30-60-90, 45-45-90 Ratios)",
+            "objective_id": "MAT.11.3.5.16",
+            "objective_text": "Synthesize special triangles with the Unit Circle.",
+            "objective_uuid": "92b335ec-980d-47cf-9cc5-0baa5c18f392"
+          }
+        ]
+      }
+    }
+  }
+}

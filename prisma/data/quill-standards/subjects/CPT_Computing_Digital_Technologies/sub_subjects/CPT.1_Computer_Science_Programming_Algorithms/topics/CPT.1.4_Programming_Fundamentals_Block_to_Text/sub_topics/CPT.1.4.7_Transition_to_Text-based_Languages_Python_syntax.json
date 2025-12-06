@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.4.7",
+    "name": "Transition to Text-based Languages (Python syntax)",
+    "topic_id": "CPT.1.4",
+    "topic_name": "Programming Fundamentals (Block to Text)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Transition to Text-based Languages (Python syntax) in Programming Fundamentals (Block to Text) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 14.67,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.8",
+            "objective_text": "Identify strings vs. numbers.",
+            "objective_uuid": "bdc4182b-224c-49d5-83a5-19e543079c82"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.1",
+            "objective_text": "Identify typing words.",
+            "objective_uuid": "73f589de-1920-4419-ac71-3b8c42daa68b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.3",
+            "objective_text": "Name Python as a computer language.",
+            "objective_uuid": "36fa5f86-9e91-4b37-a0fd-0ad5aa53a967"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.2",
+            "objective_text": "Recall that spelling matters.",
+            "objective_uuid": "21e7dfad-5b3c-4e84-aaa0-c6feff3c4907"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.4",
+            "objective_text": "Observe code on a screen.",
+            "objective_uuid": "d9b98f67-72ad-427b-aa59-0f42bce017d6"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.5",
+            "objective_text": "Summarize the print function ('print('Hello')').",
+            "objective_uuid": "83e55b98-76e4-4965-b739-6dccf1801c78"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.6",
+            "objective_text": "Explain why punctuation is important (Syntax).",
+            "objective_uuid": "1877d194-820f-4b43-be55-93d9b0d8cb60"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.12",
+            "objective_text": "Explain comments (#).",
+            "objective_uuid": "8e4a01d2-3501-43be-9fdd-c36575ce460b"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.15",
+            "objective_text": "Defend the power of text-based coding.",
+            "objective_uuid": "0f68931b-bc1f-4efc-8728-a5ed96d32216"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.7",
+            "objective_text": "Compare a block with a line of code.",
+            "objective_uuid": "22ffd908-d1cb-4c03-93d8-d6149771f9d6"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.9",
+            "objective_text": "Analyze Python indentation rules.",
+            "objective_uuid": "86cf7f9b-b604-44e1-bcb9-2a410d6c7906"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.10",
+            "objective_text": "Interpret error messages (SyntaxError).",
+            "objective_uuid": "91150e81-ebc2-4b75-b7a3-c761211cf620"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.11",
+            "objective_text": "Connect 'For' loops in blocks to text.",
+            "objective_uuid": "2be2c266-c95a-4b66-8141-004e0a8389a9"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 29.0,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.14",
+            "objective_text": "Evaluate code readability (PEP 8).",
+            "objective_uuid": "5f398472-284f-41cd-954d-68a20d03acc0"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.13",
+            "objective_text": "Construct multi-file Python programs.",
+            "objective_uuid": "95c83d3e-3285-4921-a93b-9cc895a842a7"
+          },
+          {
+            "complexity": 30,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.4",
+            "topic_name": "Programming Fundamentals (Block to Text)",
+            "sub_topic_id": "CPT.1.4.7",
+            "sub_topic_name": "Transition to Text-based Languages (Python syntax)",
+            "objective_id": "CPT.1.4.7.16",
+            "objective_text": "Synthesize libraries and frameworks.",
+            "objective_uuid": "7e5fe29b-47cf-4ee3-81c1-51d6e3a8a81e"
+          }
+        ]
+      }
+    }
+  }
+}

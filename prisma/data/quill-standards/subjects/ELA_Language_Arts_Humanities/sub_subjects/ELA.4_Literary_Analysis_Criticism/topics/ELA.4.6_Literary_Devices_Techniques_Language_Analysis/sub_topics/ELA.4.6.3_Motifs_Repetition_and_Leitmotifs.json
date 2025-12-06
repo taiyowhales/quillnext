@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.4.6.3",
+    "name": "Motifs, Repetition, and Leitmotifs",
+    "topic_id": "ELA.4.6",
+    "topic_name": "Literary Devices & Techniques (Language Analysis)",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.4",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Motifs, Repetition, and Leitmotifs in Literary Devices & Techniques (Language Analysis) (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.1",
+            "objective_text": "Identify things that show up again and again in a story.",
+            "objective_uuid": "951158d4-9968-4cd1-95a6-e59466ee7280"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.2",
+            "objective_text": "Name a repeated phrase (like 'I'll huff and I'll puff').",
+            "objective_uuid": "9d8f7625-a13d-4b83-b0d3-7743691ca33c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.8",
+            "objective_text": "Identify the 'Leitmotif' of a character (a musical theme or phrase).",
+            "objective_uuid": "3e8b47e7-886b-43a4-953f-7394ddad5420"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.3",
+            "objective_text": "Recall that repeating helps us remember.",
+            "objective_uuid": "d0147ac9-3e32-462f-b7ea-bcd2bcade822"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.4",
+            "objective_text": "Observe patterns in colors or objects.",
+            "objective_uuid": "733fec93-6b11-4265-968b-267bb5ecae87"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.5",
+            "objective_text": "Summarize a recurring object (like a ring or a sword).",
+            "objective_uuid": "f2c56647-0fe8-4b99-9977-ce2e879ee203"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.6",
+            "objective_text": "Explain why the author repeats certain words.",
+            "objective_uuid": "1399ee1b-d3e4-4a4a-95ed-7ad7efba7504"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.12",
+            "objective_text": "Explain the unifying effect of motifs.",
+            "objective_uuid": "e72dc5ef-a1c0-41ec-8199-9c31ffed8021"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.15",
+            "objective_text": "Defend the use of Leitmotif for character development.",
+            "objective_uuid": "1709874c-4476-4997-ab0e-8e35daf9d799"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.7",
+            "objective_text": "Compare a Motif (recurring element) with a Theme (message).",
+            "objective_uuid": "fe10c07e-c9ba-4068-b3c8-deda3e4da224"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.9",
+            "objective_text": "Analyze how a motif changes meaning over the course of the book.",
+            "objective_uuid": "c8dc3182-1df9-4a3a-ac64-cf5906ef46ee"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.10",
+            "objective_text": "Interpret the repetition of 'light' and 'dark' imagery.",
+            "objective_uuid": "6e9e763a-d8f2-4971-8c94-7dbfd7573b76"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.11",
+            "objective_text": "Connect recurring symbols to the central conflict.",
+            "objective_uuid": "cc08dcff-c4d8-450a-a977-122bc700851c"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.14",
+            "objective_text": "Evaluate the subtlety vs. heavy-handedness of repetition.",
+            "objective_uuid": "c82f68a8-2198-49a6-b3bb-2ff4ac0a307c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.13",
+            "objective_text": "Construct a tracking of a specific motif through a novel.",
+            "objective_uuid": "f1816d5f-2011-4104-9cbb-b4d77716a681"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.4",
+            "sub_subject_name": "Literary Analysis & Criticism",
+            "topic_id": "ELA.4.6",
+            "topic_name": "Literary Devices & Techniques (Language Analysis)",
+            "sub_topic_id": "ELA.4.6.3",
+            "sub_topic_name": "Motifs, Repetition, and Leitmotifs",
+            "objective_id": "ELA.4.6.3.16",
+            "objective_text": "Synthesize multiple motifs to interpret the author's worldview.",
+            "objective_uuid": "120394a3-997b-42b1-9543-c8574a87f336"
+          }
+        ]
+      }
+    }
+  }
+}

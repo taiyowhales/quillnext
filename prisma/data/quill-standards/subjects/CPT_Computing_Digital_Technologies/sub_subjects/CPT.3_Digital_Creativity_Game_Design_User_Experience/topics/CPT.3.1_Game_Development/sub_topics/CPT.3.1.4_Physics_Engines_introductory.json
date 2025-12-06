@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.3.1.4",
+    "name": "Physics Engines (introductory)",
+    "topic_id": "CPT.3.1",
+    "topic_name": "Game Development",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.3",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Physics Engines (introductory) in Game Development (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.1",
+            "objective_text": "Identify falling down (Gravity).",
+            "objective_uuid": "fd18e41f-c92b-474a-9437-5318dc4f9984"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.8",
+            "objective_text": "Identify friction (sliding vs. stopping).",
+            "objective_uuid": "dd3b83b2-b646-4bf9-9184-6f516fdcd941"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.3",
+            "objective_text": "Recall that things don't float unless we say so.",
+            "objective_uuid": "190e0f2d-58ad-49df-be49-8e4efaa46ad3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.4",
+            "objective_text": "Observe collisions.",
+            "objective_uuid": "f680ebe6-7508-4a0e-bbb2-1a9bab41dc41"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 5,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.2",
+            "objective_text": "Bounce off a wall.",
+            "objective_uuid": "72865919-6793-4eb8-a15b-f07fed749ef9"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.5",
+            "objective_text": "Summarize 'Solid' objects (can't walk through).",
+            "objective_uuid": "61a41dc7-7e54-4872-87c6-f7dfc344b24d"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.6",
+            "objective_text": "Explain why a ball bounces.",
+            "objective_uuid": "43c0a29c-40d3-44b8-992c-ff175462c836"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.7",
+            "objective_text": "Simulate gravity by changing Y position.",
+            "objective_uuid": "f6084a38-9a19-423b-a65e-d789f8849c92"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.15",
+            "objective_text": "Defend the use of middleware physics engines (Box2D/PhysX).",
+            "objective_uuid": "12fbbaff-20cd-4544-9599-6c947720d4d0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.9",
+            "objective_text": "Analyze rigid body dynamics (mass/drag).",
+            "objective_uuid": "89e07f65-9c86-4d7a-810a-95b1cdd9ff4b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.10",
+            "objective_text": "Interpret hitboxes vs. sprite boxes.",
+            "objective_uuid": "bd395598-3a55-4e96-aff4-5362a905d333"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.11",
+            "objective_text": "Connect velocity vectors to movement.",
+            "objective_uuid": "bfb016f5-1518-4863-bd93-244f4cbea8d7"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.14",
+            "objective_text": "Evaluate the trade-off between simulation accuracy and performance.",
+            "objective_uuid": "6512b74b-b70b-4318-9893-45b5e1e90f18"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 23.67,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.12",
+            "objective_text": "Explain collision detection algorithms (AABB).",
+            "objective_uuid": "1e6078af-0d71-4e80-9f5e-6990035672e2"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.13",
+            "objective_text": "Construct a custom physics interaction (raycasting).",
+            "objective_uuid": "c156114d-4897-46d3-a77c-d8b27f21f6d5"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.3",
+            "sub_subject_name": "Digital Creativity, Game Design & User Experience",
+            "topic_id": "CPT.3.1",
+            "topic_name": "Game Development",
+            "sub_topic_id": "CPT.3.1.4",
+            "sub_topic_name": "Physics Engines (introductory)",
+            "objective_id": "CPT.3.1.4.16",
+            "objective_text": "Synthesize particle systems for effects.",
+            "objective_uuid": "435caff1-42f7-4ad8-aa27-e32701bb3ee4"
+          }
+        ]
+      }
+    }
+  }
+}

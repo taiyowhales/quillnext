@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ELA.8.3.3",
+    "name": "Manuscript (Print) Writing",
+    "topic_id": "ELA.8.3",
+    "topic_name": "Handwriting and Penmanship",
+    "subject_id": "ELA",
+    "subject_name": "Language Arts & Humanities",
+    "sub_subject_id": "ELA.8",
+    "sub_subject_name": "Literature by Tradition & Region",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Manuscript (Print) Writing in Handwriting and Penmanship (Language Arts & Humanities)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.8",
+            "objective_text": "Identify reversals (b vs. d).",
+            "objective_uuid": "81c7a402-f827-4c7e-87ee-981beb94e977"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.3",
+            "objective_text": "Recall starting letters at the top.",
+            "objective_uuid": "e44d81c1-b17a-4323-b347-ac9d7d66b4be"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 8,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.1",
+            "objective_text": "Draw straight lines and circles.",
+            "objective_uuid": "097d4955-c2de-4704-85df-8fb644786557"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.2",
+            "objective_text": "Write letters sitting on the line.",
+            "objective_uuid": "6e128777-d271-4ac3-a9a0-583c0bf30a2f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.4",
+            "objective_text": "Space words with a \"finger space\".",
+            "objective_uuid": "6acb14a6-75fb-4eee-994d-d2265746eb7f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.5",
+            "objective_text": "Summarize the difference between capital and lowercase heights.",
+            "objective_uuid": "98377209-abeb-4d00-a710-36cdb6129f8f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.6",
+            "objective_text": "Explain \"tall\" letters vs. \"falling\" letters (g, j, p, q, y).",
+            "objective_uuid": "7b76d952-5a2a-4e69-a1d9-139717bd01f9"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.7",
+            "objective_text": "Write sentences with correct spacing.",
+            "objective_uuid": "2d0f646d-4108-4675-9e19-3ca146fa2a5b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.12",
+            "objective_text": "Explain proper stroke order.",
+            "objective_uuid": "ac580381-c0c2-4682-9ebb-06311fbb66b5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.15",
+            "objective_text": "Defend the clarity of block lettering for forms/labeling.",
+            "objective_uuid": "fae8d975-b4a2-4b78-adfe-47ae84ca0a0c"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.9",
+            "objective_text": "Analyze consistency in letter size.",
+            "objective_uuid": "6feaadaa-feec-4106-9a61-ad45feaf4416"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.10",
+            "objective_text": "Interpret the legibility of text.",
+            "objective_uuid": "317d01b3-d86e-4831-9bf0-8a92678e1571"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.11",
+            "objective_text": "Connect neatness to courtesy for the reader.",
+            "objective_uuid": "f62bf225-9a9b-40b1-b6d7-30f7c5c07cb2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.14",
+            "objective_text": "Evaluate handwriting against a standard model.",
+            "objective_uuid": "09c9ef7a-83ca-44db-ae77-405ef65c9450"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.13",
+            "objective_text": "Construct a handwritten letter.",
+            "objective_uuid": "5c016497-a6e0-4ba2-98db-6811363a368c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "ELA",
+            "subject_name": "Language Arts & Humanities",
+            "sub_subject_id": "ELA.8",
+            "sub_subject_name": "Reading, Phonics & Penmanship (Foundational Literacy)",
+            "topic_id": "ELA.8.3",
+            "topic_name": "Handwriting and Penmanship",
+            "sub_topic_id": "ELA.8.3.3",
+            "sub_topic_name": "Manuscript (Print) Writing",
+            "objective_id": "ELA.8.3.3.16",
+            "objective_text": "Synthesize visual spacing with orthography.",
+            "objective_uuid": "adc0300f-286d-4482-aa41-4bb40e3acdd3"
+          }
+        ]
+      }
+    }
+  }
+}

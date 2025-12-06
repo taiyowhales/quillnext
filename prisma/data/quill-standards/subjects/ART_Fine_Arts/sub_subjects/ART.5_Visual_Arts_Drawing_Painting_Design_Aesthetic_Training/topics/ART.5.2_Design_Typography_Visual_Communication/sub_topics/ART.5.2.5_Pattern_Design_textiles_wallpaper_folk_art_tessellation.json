@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.2.5",
+    "name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+    "topic_id": "ART.5.2",
+    "topic_name": "Design, Typography & Visual Communication",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pattern Design (textiles, wallpaper, folk art, tessellation) in Design, Typography & Visual Communication (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.2",
+            "objective_text": "Identify patterns on clothes.",
+            "objective_uuid": "fcf2192a-80a7-4e44-8d46-e235384de97a"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.4",
+            "objective_text": "Observe patterns in nature.",
+            "objective_uuid": "5d5362d9-2c1d-426d-86c6-96c1cd2e5a62"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.1",
+            "objective_text": "Draw a repeating pattern (ABAB).",
+            "objective_uuid": "9eaca119-3bf4-4aa7-9818-8c3df69fb0b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.3",
+            "objective_text": "Color a checkerboard.",
+            "objective_uuid": "2da50405-d719-4daa-a87f-9b0555d0a260"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.5",
+            "objective_text": "Summarize how to make a tile that connects.",
+            "objective_uuid": "f21b6210-eaf8-442b-b9de-207fcedcae0d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.6",
+            "objective_text": "Explain 'Tessellation' (shapes fitting without gaps).",
+            "objective_uuid": "af7bfc2c-462f-4c20-840c-cff9ea3567a7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.8",
+            "objective_text": "Look at folk art patterns.",
+            "objective_uuid": "1d25dce4-c641-40f8-8832-68e68ca16dc2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.12",
+            "objective_text": "Explain the 'motif'.",
+            "objective_uuid": "bdcd2033-5916-45a0-8c51-0a467fa319e0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.15",
+            "objective_text": "Defend the application of pattern in modern design.",
+            "objective_uuid": "89356f45-daa6-4892-ba1d-f0abb8a0c205"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.9",
+            "objective_text": "Analyze different repeat types (Brick, Half-drop, Mirror).",
+            "objective_uuid": "ac29f112-f80e-4827-804e-a929242df630"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.10",
+            "objective_text": "Interpret the cultural significance of textile patterns (e.g., Kente cloth).",
+            "objective_uuid": "f81e210b-b465-49a4-adc9-5bdd0e1ce90a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.11",
+            "objective_text": "Connect math to pattern design.",
+            "objective_uuid": "cd561c81-2353-437b-b807-77db1a97638c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.14",
+            "objective_text": "Evaluate the flow and rhythm of a surface design.",
+            "objective_uuid": "e053b332-9aaf-4856-b93f-527665542601"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.7",
+            "objective_text": "Create a design for wrapping paper.",
+            "objective_uuid": "16f0770e-617b-41ec-bcc2-37fb4a0d767d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.13",
+            "objective_text": "Construct a seamless repeat pattern digitally or manually.",
+            "objective_uuid": "9bf9646f-a68a-4bcc-aab6-36af25e54fbb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.2",
+            "topic_name": "Design, Typography & Visual Communication",
+            "sub_topic_id": "ART.5.2.5",
+            "sub_topic_name": "Pattern Design (textiles, wallpaper, folk art, tessellation)",
+            "objective_id": "ART.5.2.5.16",
+            "objective_text": "Synthesize motif development with colorways.",
+            "objective_uuid": "5e99b94b-a752-4a9b-9c18-0496f3b97eab"
+          }
+        ]
+      }
+    }
+  }
+}

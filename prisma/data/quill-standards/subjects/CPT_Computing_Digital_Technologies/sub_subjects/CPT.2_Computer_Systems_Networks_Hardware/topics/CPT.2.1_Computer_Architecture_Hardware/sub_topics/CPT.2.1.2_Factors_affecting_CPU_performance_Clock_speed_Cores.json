@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.2.1.2",
+    "name": "Factors affecting CPU performance (Clock speed, Cores)",
+    "topic_id": "CPT.2.1",
+    "topic_name": "Computer Architecture (Hardware)",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.2",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Factors affecting CPU performance (Clock speed, Cores) in Computer Architecture (Hardware) (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.1",
+            "objective_text": "Identify a fast computer vs. a slow one.",
+            "objective_uuid": "e6454dcd-dad7-4114-9140-4350443cc3e5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.3",
+            "objective_text": "Name a 'frozen' screen (too much work).",
+            "objective_uuid": "e287892f-c5c6-4dbe-87e3-1bbc3628b83c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.8",
+            "objective_text": "Identify overheating.",
+            "objective_uuid": "7840d8d4-30e4-4e7d-aa83-cf37e254c8c0"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.2",
+            "objective_text": "Recall that newer computers are usually faster.",
+            "objective_uuid": "965cf104-a0a2-4a76-a5e6-58726c15a7d7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.4",
+            "objective_text": "Observe multitasking.",
+            "objective_uuid": "e0610f15-a68e-4224-bbb6-88cf1e69f27e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.5",
+            "objective_text": "Summarize Clock Speed (how fast it thinks).",
+            "objective_uuid": "eb172399-2fda-43c7-80f4-17b6d940629e"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.6",
+            "objective_text": "Explain Cores (how many brains it has).",
+            "objective_uuid": "cdecbeb7-452b-4bf3-8e8c-d00a5eae80c5"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.12",
+            "objective_text": "Explain overclocking.",
+            "objective_uuid": "459d5275-0ddb-4731-ac28-14072cba7588"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.15",
+            "objective_text": "Defend the move towards parallel processing.",
+            "objective_uuid": "82016719-6be5-4f88-b6c1-42a8474db926"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.7",
+            "objective_text": "Compare a single worker to a team.",
+            "objective_uuid": "3909e201-0af8-4445-bada-baea4313b0f7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.9",
+            "objective_text": "Analyze the trade-off between speed and heat.",
+            "objective_uuid": "b3dd66a4-5a87-4233-87f5-9801e95a2866"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.10",
+            "objective_text": "Interpret multi-core processing.",
+            "objective_uuid": "284e6bdc-c9a5-4efe-92da-906864f08e25"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.11",
+            "objective_text": "Connect RAM size to preventing bottlenecks.",
+            "objective_uuid": "1546157f-2015-464a-b7ae-1a6bb88917c4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.14",
+            "objective_text": "Evaluate Moore's Law (historical limits).",
+            "objective_uuid": "019a0ed1-b65f-4a79-9354-4c5ceabad5c5"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.13",
+            "objective_text": "Construct a benchmark comparison.",
+            "objective_uuid": "910cb7e1-08b3-4530-8f2d-e3b565cd2313"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.2",
+            "sub_subject_name": "Computer Systems, Networks & Hardware",
+            "topic_id": "CPT.2.1",
+            "topic_name": "Computer Architecture (Hardware)",
+            "sub_topic_id": "CPT.2.1.2",
+            "sub_topic_name": "Factors affecting CPU performance (Clock speed, Cores)",
+            "objective_id": "CPT.2.1.2.16",
+            "objective_text": "Synthesize thermal throttling.",
+            "objective_uuid": "70c49b4b-2852-47bc-9cec-7ae8bbe5c23a"
+          }
+        ]
+      }
+    }
+  }
+}

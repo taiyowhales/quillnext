@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.3.4",
+    "name": "Plagiarism and Academic Integrity",
+    "topic_id": "CPT.4.3",
+    "topic_name": "Information Literacy",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Plagiarism and Academic Integrity in Information Literacy (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.1",
+            "objective_text": "Identify doing my own work.",
+            "objective_uuid": "ee64501f-28f2-4e17-854a-62ef17cbce28"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.2",
+            "objective_text": "Recall that copying a friend is cheating.",
+            "objective_uuid": "1df0bf2b-7ed7-4f99-bebf-6a0e3406f6a1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.3",
+            "objective_text": "Name honesty.",
+            "objective_uuid": "9e998e84-b09d-49e9-ab05-cdb8ca7de38d"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.4",
+            "objective_text": "Observe a teacher checking work.",
+            "objective_uuid": "3b50b554-30dd-419e-a0b2-1357e6569aa1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.8",
+            "objective_text": "Identify a bibliography.",
+            "objective_uuid": "92f6271e-8e42-4c2c-b27b-cb1f26e481d8"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.5",
+            "objective_text": "Summarize citing a source.",
+            "objective_uuid": "82ecabf4-c4b9-43cf-b81d-8977e882bbd6"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.6",
+            "objective_text": "Explain why we use quotation marks.",
+            "objective_uuid": "4a29a4af-7762-416d-99d1-1c7b8d3bb657"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.7",
+            "objective_text": "Paraphrase a sentence (write in own words).",
+            "objective_uuid": "67174296-e8fd-4ac4-928c-6118ce0432d2"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.12",
+            "objective_text": "Explain self-plagiarism.",
+            "objective_uuid": "a6ec8321-9854-415c-9920-dd637c237f4d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.15",
+            "objective_text": "Defend the value of original thought.",
+            "objective_uuid": "2a019a71-d5f3-4df6-8b1a-c5597efbb606"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.9",
+            "objective_text": "Analyze the consequences of academic dishonesty.",
+            "objective_uuid": "974f2d63-dbec-4902-a2b5-c586aad025d9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.10",
+            "objective_text": "Interpret Turnitin reports.",
+            "objective_uuid": "596bb1af-40de-4549-9f3d-ac39adaa41c9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.11",
+            "objective_text": "Connect integrity to character.",
+            "objective_uuid": "4c1e15f6-e1d6-40cb-baec-581591d9be18"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.14",
+            "objective_text": "Evaluate the line between collaboration and collusion.",
+            "objective_uuid": "a772a032-f0dd-497d-8807-270bc4edfa74"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.13",
+            "objective_text": "Construct proper citations (MLA/APA).",
+            "objective_uuid": "00bd1dc8-86a1-4c55-9779-b1a50574b001"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.3",
+            "topic_name": "Information Literacy",
+            "sub_topic_id": "CPT.4.3.4",
+            "sub_topic_name": "Plagiarism and Academic Integrity",
+            "objective_id": "CPT.4.3.4.16",
+            "objective_text": "Synthesize research ethics.",
+            "objective_uuid": "30ac1391-7ce7-4ece-8653-1b9123bc7ada"
+          }
+        ]
+      }
+    }
+  }
+}

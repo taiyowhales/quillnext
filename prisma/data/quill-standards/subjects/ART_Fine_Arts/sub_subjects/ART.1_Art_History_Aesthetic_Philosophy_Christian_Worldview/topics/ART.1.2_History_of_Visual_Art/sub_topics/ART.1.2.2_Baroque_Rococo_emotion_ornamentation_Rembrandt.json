@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "ART.1.2.2",
+    "name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+    "topic_id": "ART.1.2",
+    "topic_name": "History of Visual Art",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.1",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Baroque & Rococo (emotion, ornamentation, Rembrandt) in History of Visual Art (Fine Arts)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.1",
+            "objective_text": "Identify art that looks like a theater play (dramatic).",
+            "objective_uuid": "4c381dcf-c500-43c4-bb51-97547959e091"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.2",
+            "objective_text": "Name a painting with very dark shadows and bright lights.",
+            "objective_uuid": "ffde4134-0d55-45c7-8f4b-ab3ccf6f632a"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.8",
+            "objective_text": "Identify the Palace of Versailles.",
+            "objective_uuid": "a6dc6c06-d9d0-4611-b314-fc1a844f4811"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.3",
+            "objective_text": "Recall that Kings lived in very fancy palaces (Versailles).",
+            "objective_uuid": "8ff8dd11-8d98-4ac5-a6da-502cf0eb7b9e"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.4",
+            "objective_text": "Observe swirling lines.",
+            "objective_uuid": "afa13155-077e-4c4b-849d-8c34c54b66e0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.5",
+            "objective_text": "Summarize the drama and motion of Baroque art.",
+            "objective_uuid": "b77d9915-bc4b-4d90-9080-534bdadbc5e8"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.6",
+            "objective_text": "Explain how Rembrandt painted light.",
+            "objective_uuid": "f580f836-7e42-4020-98d0-0a3ab4b0efd8"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.12",
+            "objective_text": "Explain the excess of Rococo.",
+            "objective_uuid": "910e00ac-f246-4c76-b51d-91ca98498926"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.15",
+            "objective_text": "Defend the emotional power of the Baroque aesthetic.",
+            "objective_uuid": "598a5c3b-2965-47a5-83c5-49a2f164c2cd"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 3,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.9",
+            "objective_text": "Analyze the use of Tenebrism (extreme contrast) by Caravaggio.",
+            "objective_uuid": "266c7cbb-cd53-4740-bb4f-a6728d93b70e"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.10",
+            "objective_text": "Interpret the Counter-Reformation's use of art to awe.",
+            "objective_uuid": "67c03e70-33f7-4682-9cd5-92f65aae30e9"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.11",
+            "objective_text": "Connect the Dutch Golden Age to Protestant values (everyday life).",
+            "objective_uuid": "98af5545-6f3c-43f6-a0d7-98d3899bf042"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 4,
+        "average_complexity": 24.75,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.14",
+            "objective_text": "Evaluate the psychological depth of Rembrandt's self-portraits.",
+            "objective_uuid": "6d4cbd50-3236-46e3-ad68-6f16bc3dc11f"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.7",
+            "objective_text": "Compare the calm Renaissance with the busy Baroque.",
+            "objective_uuid": "0e8c7c49-0a33-4bad-acff-2db827204b28"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.13",
+            "objective_text": "Construct a comparison of Catholic Baroque (Bernini) vs. Protestant Baroque (Rembrandt).",
+            "objective_uuid": "16f97ea2-4a4e-4165-b7ca-f5f915e737f7"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.1",
+            "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+            "topic_id": "ART.1.2",
+            "topic_name": "History of Visual Art",
+            "sub_topic_id": "ART.1.2.2",
+            "sub_topic_name": "Baroque & Rococo (emotion, ornamentation, Rembrandt)",
+            "objective_id": "ART.1.2.2.16",
+            "objective_text": "Synthesize the political power projected through Rococo ornamentation.",
+            "objective_uuid": "22ed7789-e6b6-41de-b0ff-8d2be2e6d976"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "DST.2.4.4",
+    "name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+    "topic_id": "DST.2.4",
+    "topic_name": "Timbers & Boards",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.2",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Manufactured Boards (MDF, plywood, chipboard - composition and uses) in Timbers & Boards (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.1",
+            "objective_text": "Identify wood that is made of sawdust or layers.",
+            "objective_uuid": "300cb9d4-842a-44b7-9dbe-c10d7adf6b51"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.2",
+            "objective_text": "Name Plywood (wood sandwich).",
+            "objective_uuid": "33a4e82c-9d31-4ff5-935e-4e1e4441dd5d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.8",
+            "objective_text": "Identify Chipboard (bits of wood glued together).",
+            "objective_uuid": "0a1b3800-ad1e-4de0-8084-ef2a3d701c1e"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.3",
+            "objective_text": "Recall that we shouldn't get some wood wet.",
+            "objective_uuid": "3ecf9f58-c73c-4c29-8868-ff8cd0261d49"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.4",
+            "objective_text": "Observe furniture made of smooth wood (MDF).",
+            "objective_uuid": "029c02be-1711-4c11-a235-66dcfe1b9a52"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.5",
+            "objective_text": "Summarize how Plywood is made (layers glued at right angles).",
+            "objective_uuid": "166a0372-d4aa-45d2-8981-2b3b8b6e1c0d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.6",
+            "objective_text": "Explain what MDF stands for (Medium Density Fibreboard).",
+            "objective_uuid": "4d1d3098-5b4a-48c7-bbf6-cd17654de42a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.12",
+            "objective_text": "Explain veneers and laminates.",
+            "objective_uuid": "72949cef-bad7-4e8f-922a-a9c027361b5a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.15",
+            "objective_text": "Defend the use of manufactured boards for mass production.",
+            "objective_uuid": "c69241c1-bb1d-4614-b18f-1b6041c0c31a"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.7",
+            "objective_text": "Compare natural wood with man-made boards.",
+            "objective_uuid": "efdb3530-7768-4d51-bc2b-e6df69aa9fb2"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.9",
+            "objective_text": "Analyze the stability of manufactured boards (no warping).",
+            "objective_uuid": "de0f1a6a-4d40-4cd3-982c-58a6951090e3"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.10",
+            "objective_text": "Interpret the issue of toxicity in glues (formaldehyde).",
+            "objective_uuid": "f623169a-cf1f-4fd3-91c7-ab52bb41af83"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.11",
+            "objective_text": "Connect board size to standard sheet dimensions.",
+            "objective_uuid": "3c5b12e7-ca7c-4864-98ac-bfe85fa0f727"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.14",
+            "objective_text": "Evaluate the environmental impact of adhesives in boards.",
+            "objective_uuid": "83cb99cc-1e00-42d0-86a1-800cbdf42d7b"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.13",
+            "objective_text": "Construct a furniture design using board materials efficiently.",
+            "objective_uuid": "31f34232-192a-457f-96ed-44f4c0bd4c24"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.2",
+            "sub_subject_name": "Material Science & Application",
+            "topic_id": "DST.2.4",
+            "topic_name": "Timbers & Boards",
+            "sub_topic_id": "DST.2.4.4",
+            "sub_topic_name": "Manufactured Boards (MDF, plywood, chipboard - composition and uses)",
+            "objective_id": "DST.2.4.4.16",
+            "objective_text": "Synthesize cost-benefit analysis of solid timber vs. board.",
+            "objective_uuid": "3f12e61f-11e0-49dd-b4a6-e2a404afed65"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.3.1",
+    "name": "Analyzing Results & Peer Review",
+    "topic_id": "SCI.6.3",
+    "topic_name": "Scientific Method & Thinking",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Analyzing Results & Peer Review in Scientific Method & Thinking (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.8",
+            "objective_text": "Identify why results might be different.",
+            "objective_uuid": "00fc0e3f-bec0-4988-b97e-360afd9cb2c1"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.3",
+            "objective_text": "Listen to what my friends found.",
+            "objective_uuid": "58b9b6b1-0016-4907-a96d-8239968e3881"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.1",
+            "objective_text": "Decide if my guess was right.",
+            "objective_uuid": "aa6a2f68-29ea-41f5-bc71-05b6ec1e97d5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.2",
+            "objective_text": "Tell others what I found.",
+            "objective_uuid": "afeae2d1-a075-4221-8cdd-184850adfb6d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.4",
+            "objective_text": "Ask 'Did we get the same answer?'",
+            "objective_uuid": "3ef36a6b-581c-4e63-b4a8-6e0f94970c3f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.5",
+            "objective_text": "Summarize what the data tells us.",
+            "objective_uuid": "9c0a4b5b-119c-41e8-b32e-7f9cd8c51b2a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.6",
+            "objective_text": "Explain if the hypothesis was supported or rejected.",
+            "objective_uuid": "d5b272b8-3e78-4042-bbdc-470ff14e3ffe"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.12",
+            "objective_text": "Explain the importance of Peer Review (scientists checking each other).",
+            "objective_uuid": "9d8cb02f-2e2c-4bbd-b5ad-1f1c6e903955"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.15",
+            "objective_text": "Defend a conclusion using statistical evidence.",
+            "objective_uuid": "012634c8-3c19-4379-acf6-984df3261404"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.7",
+            "objective_text": "Compare my results with another group's results.",
+            "objective_uuid": "7e4d7aeb-6cb9-456a-933c-31d224583fec"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.9",
+            "objective_text": "Analyze the sources of error in the experiment.",
+            "objective_uuid": "600444ca-dcf3-4968-a8fc-6cc2364dbd48"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.10",
+            "objective_text": "Interpret the relationship between variables (direct/inverse).",
+            "objective_uuid": "7faf5eb3-e9c6-4afd-877a-3068ff882550"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.11",
+            "objective_text": "Connect the conclusion back to the original question.",
+            "objective_uuid": "126b1afb-e25e-40ea-8a6e-f9f3e0e9be24"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.14",
+            "objective_text": "Evaluate the validity of a scientific claim based on methodology.",
+            "objective_uuid": "121af0ef-2264-44c7-8d1e-230a673754c2"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.13",
+            "objective_text": "Construct a formal lab report (Abstract, Method, Data, Conclusion).",
+            "objective_uuid": "550a93bc-3b0d-46f7-8e6b-2ff77e5895bb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.1",
+            "sub_topic_name": "Analyzing Results & Peer Review",
+            "objective_id": "SCI.6.3.1.16",
+            "objective_text": "Synthesize the collaborative nature of the scientific community.",
+            "objective_uuid": "196581fb-14fa-46a4-a709-09b7dc1c3fa6"
+          }
+        ]
+      }
+    }
+  }
+}

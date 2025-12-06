@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.10.1.2",
+    "name": "Design of Experiments and Observational Studies",
+    "topic_id": "MAT.10.1",
+    "topic_name": "Data Collection & Interpretation",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.10",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Design of Experiments and Observational Studies in Data Collection & Interpretation (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.4",
+            "objective_text": "Name 'Experiment'.",
+            "objective_uuid": "6a30323b-09b3-4ae1-812f-abf43d988acc"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.8",
+            "objective_text": "Identify the Control (normal).",
+            "objective_uuid": "2021d5b7-5b4c-4534-9803-62efcea35809"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.3",
+            "objective_text": "Recall a fair test.",
+            "objective_uuid": "2c3d5b6a-d468-4aaf-a7f2-a3bbef78ff9f"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.1",
+            "objective_text": "Try two different ways to grow a seed.",
+            "objective_uuid": "b9d62c3c-df3a-4767-ba4d-8dede372a488"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.2",
+            "objective_text": "Watch what happens.",
+            "objective_uuid": "78073a22-bb5a-4b7c-8557-5f23b65279d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.5",
+            "objective_text": "Summarize an Experiment (changing one thing).",
+            "objective_uuid": "aa5e17cc-ddc1-4b30-9d38-24074eb7df5c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.6",
+            "objective_text": "Explain Observation (just watching).",
+            "objective_uuid": "2e5dd23a-d3b2-4dc8-a215-16a6636b931d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.7",
+            "objective_text": "Keep a record of growth.",
+            "objective_uuid": "ae9c290b-4da5-4a03-8a98-7a476a9c57a5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.12",
+            "objective_text": "Explain blinding (single/double).",
+            "objective_uuid": "bda3809b-dc96-4dea-be37-03b10037d452"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.15",
+            "objective_text": "Defend the causal inference from experiments vs. observations.",
+            "objective_uuid": "11b91051-b51d-4905-9b4e-0df6ce4d3f6f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.9",
+            "objective_text": "Analyze the Treatment Group vs. Control Group.",
+            "objective_uuid": "db549013-fdf2-4040-9eab-d7b450f3b342"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.10",
+            "objective_text": "Interpret the Placebo Effect.",
+            "objective_uuid": "a7352985-82ee-4446-b55b-647b96ff4dd8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.11",
+            "objective_text": "Connect variables (Independent/Dependent).",
+            "objective_uuid": "1be5e42a-fa92-48c4-a0a1-711218e00773"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.14",
+            "objective_text": "Evaluate the presence of confounding variables.",
+            "objective_uuid": "5f9d7dbb-70eb-4fe7-b4a0-f29fd5147b7e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.13",
+            "objective_text": "Construct a randomized controlled trial design.",
+            "objective_uuid": "f00de9c8-5d19-4e7d-a113-22e4919cb524"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.10",
+            "sub_subject_name": "Statistics & Probability (Data, Risk & Interpretation)",
+            "topic_id": "MAT.10.1",
+            "topic_name": "Data Collection & Interpretation",
+            "sub_topic_id": "MAT.10.1.2",
+            "sub_topic_name": "Design of Experiments and Observational Studies",
+            "objective_id": "MAT.10.1.2.16",
+            "objective_text": "Synthesize scientific method with statistical design.",
+            "objective_uuid": "c6590570-8561-4759-9c3c-1451d5e3c49f"
+          }
+        ]
+      }
+    }
+  }
+}

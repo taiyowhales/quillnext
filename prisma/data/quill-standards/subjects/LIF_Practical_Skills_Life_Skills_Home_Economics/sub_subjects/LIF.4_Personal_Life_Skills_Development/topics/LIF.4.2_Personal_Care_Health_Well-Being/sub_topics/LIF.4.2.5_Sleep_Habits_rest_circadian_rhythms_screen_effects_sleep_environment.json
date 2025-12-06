@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.2.5",
+    "name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+    "topic_id": "LIF.4.2",
+    "topic_name": "Personal Care, Health & Well-Being",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sleep Habits (rest, circadian rhythms, screen effects, sleep environment) in Personal Care, Health & Well-Being (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.1",
+            "objective_text": "Identify bedtime.",
+            "objective_uuid": "49cedf08-fc96-468a-aa43-c5afb28ab46d"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.2",
+            "objective_text": "Name things that help us sleep (darkness, quiet).",
+            "objective_uuid": "9aa8c599-508a-4cb9-9b69-5228abeb988b"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.7",
+            "objective_text": "Identify the feeling of being well-rested.",
+            "objective_uuid": "c39c41b9-7f8a-4001-b5df-2c2ae644d259"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.3",
+            "objective_text": "Recall that we grow when we sleep.",
+            "objective_uuid": "9e368a13-fb59-4e27-8898-404c4338de1b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.4",
+            "objective_text": "Observe feeling grumpy when tired.",
+            "objective_uuid": "0fda4c78-8256-40e6-92e1-7fc327d413c9"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.5",
+            "objective_text": "Summarize a good bedtime routine.",
+            "objective_uuid": "2e838bf4-27b6-4ddb-8a1f-c6c618024a69"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.6",
+            "objective_text": "Explain why screens wake up our brains (blue light).",
+            "objective_uuid": "9c9c086b-e950-491d-b741-ac86d491649f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.12",
+            "objective_text": "Explain REM and deep sleep cycles.",
+            "objective_uuid": "337c5cc4-edde-4058-9ffb-bcacce410835"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.15",
+            "objective_text": "Defend sleep as a spiritual act of trust.",
+            "objective_uuid": "d830bbf3-d31f-4809-851c-513fa611c5a0"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.8",
+            "objective_text": "Compare a good night's sleep with a bad one.",
+            "objective_uuid": "dbc5c064-ee9b-437e-a3c4-f28d1e2bfe54"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.9",
+            "objective_text": "Analyze the circadian rhythm.",
+            "objective_uuid": "3ef95a9e-faed-4334-bed3-47885d1369c6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.10",
+            "objective_text": "Interpret the consequences of sleep deprivation on learning.",
+            "objective_uuid": "34e83c22-2470-4e56-b533-ba457e87f0b6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.11",
+            "objective_text": "Connect caffeine to sleep disruption.",
+            "objective_uuid": "81ef7dc2-e2ea-4e2f-8498-56d38a266eda"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.14",
+            "objective_text": "Evaluate the impact of 'social jetlag' (staying up late weekends).",
+            "objective_uuid": "9d4424fe-b20f-4a97-9a0d-64f5b391fced"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.13",
+            "objective_text": "Construct a sleep hygiene plan.",
+            "objective_uuid": "8ac8cb39-16b6-47ff-8d5b-b7a36fc8dfd7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.5",
+            "sub_topic_name": "Sleep Habits (rest, circadian rhythms, screen effects, sleep environment)",
+            "objective_id": "LIF.4.2.5.16",
+            "objective_text": "Synthesize environmental design for optimal rest.",
+            "objective_uuid": "4940dd6c-fbeb-4c8a-ab0b-ac77a468662f"
+          }
+        ]
+      }
+    }
+  }
+}

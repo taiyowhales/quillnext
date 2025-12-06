@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CFL.4.4.3",
+    "name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+    "topic_id": "CFL.4.4",
+    "topic_name": "Latin Syntax & Composition",
+    "subject_id": "CFL",
+    "subject_name": "Classical & Foreign Languages",
+    "sub_subject_id": "CFL.4",
+    "sub_subject_name": "Biblical Hebrew (Language of the Old Testament)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Parsing & Diagramming Sentences (Identifying grammatical function) in Latin Syntax & Composition (Classical & Foreign Languages)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.1",
+            "objective_text": "Identify the Subject and Verb.",
+            "objective_uuid": "5da4d7cc-3f45-4eee-85c5-55c1b6f8b1df"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.8",
+            "objective_text": "Identify the Direct Object.",
+            "objective_uuid": "c7183e96-8576-4a07-bf49-1eeac5859ab9"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.3",
+            "objective_text": "Recall that endings must match.",
+            "objective_uuid": "b1075c69-d159-4160-90b7-516af288425a"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.7",
+            "objective_text": "Diagram a simple Subject-Verb-Object sentence.",
+            "objective_uuid": "aca16ef3-e9a0-416b-b6fc-f28ba4f405e4"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 5,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.2",
+            "objective_text": "Circle the endings.",
+            "objective_uuid": "009e8b20-a34f-40e2-a122-13cc81359322"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.4",
+            "objective_text": "Draw a line from adjective to noun.",
+            "objective_uuid": "6d09d163-433d-47a3-8e3c-1fe6f22a45de"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.5",
+            "objective_text": "Summarize Parsing (Case, Number, Gender).",
+            "objective_uuid": "0b0e553c-4285-46e2-9d50-b7b6b00d65b5"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.6",
+            "objective_text": "Explain agreement.",
+            "objective_uuid": "327a506c-c872-4ab5-a471-92ce7d330326"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.12",
+            "objective_text": "Explain the 'Kernel' of the sentence.",
+            "objective_uuid": "98c3d302-5b98-4231-9460-7e0389cee3d5"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 21.75,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.9",
+            "objective_text": "Analyze complex sentences with prepositional phrases.",
+            "objective_uuid": "e510e201-548b-4311-b6c8-2dba772fc7a2"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.10",
+            "objective_text": "Interpret the role of each word before translating.",
+            "objective_uuid": "9ac7731d-a0de-4995-beda-e343e235ee7d"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.11",
+            "objective_text": "Connect diagramming to logic.",
+            "objective_uuid": "5476cdc1-95a4-4245-8ab4-1b39ff5ff5b1"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.14",
+            "objective_text": "Evaluate the dependencies of clauses.",
+            "objective_uuid": "4e87ba22-9f27-4dab-8b15-a6ea6e898a7f"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 27.5,
+        "objectives": [
+          {
+            "complexity": 27,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.13",
+            "objective_text": "Construct a full grammatical analysis of a paragraph.",
+            "objective_uuid": "75095382-0c17-41c0-9dc3-4301747481c6"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.15",
+            "objective_text": "Defend translation choices based on syntax.",
+            "objective_uuid": "8cf44c6e-f72c-43d5-a93e-1ad18ed25de5"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 37.0,
+        "objectives": [
+          {
+            "complexity": 37,
+            "subject_id": "CFL",
+            "subject_name": "Classical & Foreign Languages",
+            "sub_subject_id": "CFL.4",
+            "sub_subject_name": "Latin (Classical Language for Grammar, Logic & Western Literature)",
+            "topic_id": "CFL.4.4",
+            "topic_name": "Latin Syntax & Composition",
+            "sub_topic_id": "CFL.4.4.3",
+            "sub_topic_name": "Parsing & Diagramming Sentences (Identifying grammatical function)",
+            "objective_id": "CFL.4.4.3.16",
+            "objective_text": "Synthesize sentence trees with translation.",
+            "objective_uuid": "ae6fdacf-ad17-48cd-aee3-6f373c1bb0b4"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.4.6",
+    "name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+    "topic_id": "ART.4.4",
+    "topic_name": "Music Performance & Technique",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sight-Reading & Sight-Singing (Fluency, Solfege) in Music Performance & Technique (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.3",
+            "objective_text": "Identify notation on the board.",
+            "objective_uuid": "5fc369b9-a95c-4b0f-b008-1656cbe93b53"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.8",
+            "objective_text": "Identify patterns in the music.",
+            "objective_uuid": "c4cd5f1d-c495-44db-9a62-2b0c17ca8299"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.1",
+            "objective_text": "Read simple rhythm cards.",
+            "objective_uuid": "99cd91cf-dde7-47a3-9c59-fe94ce035680"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.6",
+            "objective_text": "Sight-sing a simple melody using Solfege.",
+            "objective_uuid": "79f636f5-f0c9-437e-bef5-e9b21788e5b2"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.7",
+            "objective_text": "Play a simple 4-measure phrase at sight.",
+            "objective_uuid": "8d9f3d76-3b40-4c6b-9952-75bb2833bbc2"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.2",
+            "objective_text": "Sing Solfege hand signs (Do, Re, Mi).",
+            "objective_uuid": "bbfcc08b-108b-476e-b160-1354ce807085"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.4",
+            "objective_text": "Follow the notes with a finger.",
+            "objective_uuid": "6be21241-7dc7-46e7-8e0a-7d94ea62cded"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.5",
+            "objective_text": "Summarize the 'reading ahead' strategy.",
+            "objective_uuid": "90af6c9b-4ffc-4726-9220-5517d3ef03a5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.12",
+            "objective_text": "Explain the value of sight-reading literacy.",
+            "objective_uuid": "fe9a0351-3af4-4977-b4f0-3a96cafe58b6"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.9",
+            "objective_text": "Analyze key and time signature before starting.",
+            "objective_uuid": "3726b11f-53ed-409d-89e4-ba8b52d6a539"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.10",
+            "objective_text": "Interpret intervals at sight.",
+            "objective_uuid": "7cf9d01c-bd65-4ecf-abdf-06d0f6abca1f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.11",
+            "objective_text": "Connect audiating the pitch to singing it.",
+            "objective_uuid": "de638078-3c0d-4c8f-804a-d8f7e4e0875b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.15",
+            "objective_text": "Defend musical literacy as a stewardship of talent.",
+            "objective_uuid": "9c93d455-799e-487b-b2f2-13b8644ce3a2"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.14",
+            "objective_text": "Evaluate sight-reading errors to self-correct.",
+            "objective_uuid": "ed08898d-e8db-4ccd-8209-839e00dd4943"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.13",
+            "objective_text": "Construct a performance of unseen music with accuracy.",
+            "objective_uuid": "42250c82-b337-4da3-99e3-4a5b3768141a"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.4",
+            "topic_name": "Music Performance & Technique",
+            "sub_topic_id": "ART.4.4.6",
+            "sub_topic_name": "Sight-Reading & Sight-Singing (Fluency, Solfege)",
+            "objective_id": "ART.4.4.6.16",
+            "objective_text": "Synthesize rhythm and pitch processing in real-time.",
+            "objective_uuid": "e531c82b-c5f6-499f-8a3f-fb2f4f2b77d3"
+          }
+        ]
+      }
+    }
+  }
+}

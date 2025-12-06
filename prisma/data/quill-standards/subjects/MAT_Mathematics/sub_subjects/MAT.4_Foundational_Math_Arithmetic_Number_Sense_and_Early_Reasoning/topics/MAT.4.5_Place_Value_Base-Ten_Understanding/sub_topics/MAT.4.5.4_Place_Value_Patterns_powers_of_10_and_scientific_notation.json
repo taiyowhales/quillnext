@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.4.5.4",
+    "name": "Place Value Patterns (powers of 10 and scientific notation)",
+    "topic_id": "MAT.4.5",
+    "topic_name": "Place Value & Base-Ten Understanding",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.4",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Place Value Patterns (powers of 10 and scientific notation) in Place Value & Base-Ten Understanding (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.33,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.1",
+            "objective_text": "Identify 10, 100, 1000.",
+            "objective_uuid": "d55d1b6b-b128-4f12-b752-560a440e1543"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.8",
+            "objective_text": "Identify powers of 10.",
+            "objective_uuid": "f7423515-f3aa-4ea8-8570-89c02e579151"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.4",
+            "objective_text": "Observe counting by tens.",
+            "objective_uuid": "b2eed521-5f4d-4f74-945d-a646276df35a"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.3",
+            "objective_text": "Recall that adding a zero makes it bigger.",
+            "objective_uuid": "b38dd428-9b7c-47cf-bbd8-9187ab22d033"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.2",
+            "objective_text": "Count zeros.",
+            "objective_uuid": "821a4478-1f5d-4029-b2f7-c6d9827e753f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.5",
+            "objective_text": "Summarize the pattern: x10 moves a digit left.",
+            "objective_uuid": "45b1e232-c3dd-4a33-9004-c71d18ec3436"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.6",
+            "objective_text": "Explain dividing by 10 moves a digit right.",
+            "objective_uuid": "e020d05e-ddd4-4878-8693-0ef733409536"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.12",
+            "objective_text": "Explain negative exponents ($10^{-1}$).",
+            "objective_uuid": "704327ae-1035-4305-82e9-627eea84ccde"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.15",
+            "objective_text": "Defend the utility of logarithmic scales.",
+            "objective_uuid": "55625acb-6554-4465-8a04-1bd529047299"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 1,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.10",
+            "objective_text": "Interpret Scientific Notation for large numbers.",
+            "objective_uuid": "88205092-1534-4b72-aa06-f2395fad5ce8"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.7",
+            "objective_text": "Calculate $10 \\times 10$.",
+            "objective_uuid": "a197c2d3-f3ac-4267-bf1a-0d9d186731eb"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.9",
+            "objective_text": "Analyze exponents to represent powers of 10.",
+            "objective_uuid": "bfbd13f6-96cb-48f6-b838-cddeeba02e03"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.11",
+            "objective_text": "Connect scientific notation to science class.",
+            "objective_uuid": "7a60bb7f-5651-40ff-90f7-c1396f98a67a"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.14",
+            "objective_text": "Evaluate orders of magnitude.",
+            "objective_uuid": "90dba9c0-b305-4ef2-a7ab-9212f5286f98"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.13",
+            "objective_text": "Construct calculations using scientific notation.",
+            "objective_uuid": "beb0cc3e-d573-4561-b398-7724283652f4"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.4",
+            "sub_subject_name": "Foundational Math & Arithmetic (Number Sense and Early Reasoning)",
+            "topic_id": "MAT.4.5",
+            "topic_name": "Place Value & Base-Ten Understanding",
+            "sub_topic_id": "MAT.4.5.4",
+            "sub_topic_name": "Place Value Patterns (powers of 10 and scientific notation)",
+            "objective_id": "MAT.4.5.4.16",
+            "objective_text": "Synthesize exponential growth patterns.",
+            "objective_uuid": "c5b3c1fc-2acd-4c9b-a951-749e70621eda"
+          }
+        ]
+      }
+    }
+  }
+}

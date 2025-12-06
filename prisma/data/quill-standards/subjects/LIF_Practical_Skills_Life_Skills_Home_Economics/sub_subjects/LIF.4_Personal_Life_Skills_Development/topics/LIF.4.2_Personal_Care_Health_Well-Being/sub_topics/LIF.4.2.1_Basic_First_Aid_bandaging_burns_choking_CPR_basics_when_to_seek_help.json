@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.2.1",
+    "name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+    "topic_id": "LIF.4.2",
+    "topic_name": "Personal Care, Health & Well-Being",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help) in Personal Care, Health & Well-Being (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 1.0,
+        "objectives": [
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.1",
+            "objective_text": "Identify a cut or scrape.",
+            "objective_uuid": "3f367cc5-4534-4460-8a6f-47efe8bffb49"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.3",
+            "objective_text": "Name a band-aid.",
+            "objective_uuid": "d81318d3-1761-4d76-90f1-65cc413c340e"
+          },
+          {
+            "complexity": 1,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.8",
+            "objective_text": "Identify a burn and run cool water on it.",
+            "objective_uuid": "cea9efbf-610e-4655-b103-ea509e60c6c4"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 4.0,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.4",
+            "objective_text": "Recall 9-1-1 for big emergencies.",
+            "objective_uuid": "bed0b291-73e6-40a3-8f77-6c4bb649bb75"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.2",
+            "objective_text": "Get an adult for help.",
+            "objective_uuid": "8219540f-ed10-4c4f-9d9f-9c01e8c1f913"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.5",
+            "objective_text": "Summarize how to clean a wound.",
+            "objective_uuid": "11e11163-79fe-4ba7-ba79-d5a72f88d802"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.6",
+            "objective_text": "Explain the universal sign for choking.",
+            "objective_uuid": "9b880ad0-d4a6-4697-8542-66632ddcf78c"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.12",
+            "objective_text": "Explain when to call emergency services vs. urgent care.",
+            "objective_uuid": "4370770e-556a-4f75-ac1f-d880eb9c2693"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.15",
+            "objective_text": "Defend the moral duty to assist.",
+            "objective_uuid": "3618afb6-6ccb-400d-a14b-504a82eb2a14"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.7",
+            "objective_text": "Apply pressure to a bleeding wound.",
+            "objective_uuid": "741b6657-b469-430d-a827-b0203172db04"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.9",
+            "objective_text": "Analyze the Heimlich maneuver.",
+            "objective_uuid": "208e9b5a-06bf-42ed-83c6-552be1c3ba30"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.10",
+            "objective_text": "Interpret signs of shock.",
+            "objective_uuid": "5e6d13a2-69fc-49d6-9329-0266ba732d75"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.11",
+            "objective_text": "Connect compression-only CPR to saving lives.",
+            "objective_uuid": "41509d83-7c2b-4e47-a7e7-863c52de09bf"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.14",
+            "objective_text": "Evaluate a first aid scenario (triage).",
+            "objective_uuid": "d2eca97c-24c4-47fe-8516-bd03d731d86f"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.13",
+            "objective_text": "Construct a response plan for a medical emergency.",
+            "objective_uuid": "0a196a19-95da-4877-8e27-c6faab860f86"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.2",
+            "topic_name": "Personal Care, Health & Well-Being",
+            "sub_topic_id": "LIF.4.2.1",
+            "sub_topic_name": "Basic First Aid (bandaging, burns, choking, CPR basics, when to seek help)",
+            "objective_id": "LIF.4.2.1.16",
+            "objective_text": "Synthesize certification-level First Aid/CPR knowledge.",
+            "objective_uuid": "1588b427-d30e-42e4-9e31-28c9adec7bf6"
+          }
+        ]
+      }
+    }
+  }
+}

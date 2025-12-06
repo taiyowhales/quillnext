@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.3.3.3",
+    "name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+    "topic_id": "DST.3.3",
+    "topic_name": "Mechanical Systems",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.3",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Gears & Pulleys (velocity ratio, torque, compound gears) in Mechanical Systems (Design & Technology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.1",
+            "objective_text": "Identify gears on a bicycle.",
+            "objective_uuid": "46102db0-037e-404a-8635-20e982dc4bdc"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.2",
+            "objective_text": "Name the teeth on the wheel.",
+            "objective_uuid": "ffb86c04-78b5-4e28-9f2b-f2ba498bec38"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.7",
+            "objective_text": "Identify a pulley (rope on a wheel).",
+            "objective_uuid": "8effb64c-b66d-4116-8f50-125fecefee33"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.3",
+            "objective_text": "Recall that gears help us go fast or up hills.",
+            "objective_uuid": "2828783e-c60a-4086-8c90-bebe560fd344"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.4",
+            "objective_text": "Observe gears turning together.",
+            "objective_uuid": "f3240540-10d2-48c0-9a2f-3f68a49c2ced"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.5",
+            "objective_text": "Summarize that big gears turn slowly, small gears turn fast.",
+            "objective_uuid": "a8ff704f-76a1-4c49-a6dd-834256f66296"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.6",
+            "objective_text": "Explain that gears turn in opposite directions.",
+            "objective_uuid": "e6db4e30-879a-4636-b814-f594ad6f59eb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.12",
+            "objective_text": "Explain belt drives vs. gear drives.",
+            "objective_uuid": "171f0cae-8803-4e30-930f-0f8d524e600a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.15",
+            "objective_text": "Defend the choice of gear type (spur, bevel, worm).",
+            "objective_uuid": "fa8b13b6-ad0a-4ca1-bab8-d9e6cfe4b111"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.8",
+            "objective_text": "Compare a chain drive (bike) with a gear mesh.",
+            "objective_uuid": "39312fc9-786b-4a43-993e-38827320c67d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.9",
+            "objective_text": "Analyze Gear Ratio (Teeth on Driven / Teeth on Driver).",
+            "objective_uuid": "da699550-5542-4803-8a7b-3d9d6e61b035"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.10",
+            "objective_text": "Interpret the trade-off: Speed vs. Torque.",
+            "objective_uuid": "a08ed0d2-d90e-4db0-9491-f849297105c5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.11",
+            "objective_text": "Connect the idler gear to direction change.",
+            "objective_uuid": "04fb6115-aded-47c7-8287-95615709aef1"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.14",
+            "objective_text": "Evaluate the efficiency loss due to friction.",
+            "objective_uuid": "854b67d3-262d-4505-8a88-7037ce02e352"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.13",
+            "objective_text": "Construct a Compound Gear train calculation.",
+            "objective_uuid": "4e10b2aa-9fcf-486b-9b74-6c28a19c69ac"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.3",
+            "sub_subject_name": "Systems, Control & Manufacturing",
+            "topic_id": "DST.3.3",
+            "topic_name": "Mechanical Systems",
+            "sub_topic_id": "DST.3.3.3",
+            "sub_topic_name": "Gears & Pulleys (velocity ratio, torque, compound gears)",
+            "objective_id": "DST.3.3.3.16",
+            "objective_text": "Synthesize transmission design for variable output.",
+            "objective_uuid": "2220998e-3d22-417e-bd56-3df7a24e0289"
+          }
+        ]
+      }
+    }
+  }
+}

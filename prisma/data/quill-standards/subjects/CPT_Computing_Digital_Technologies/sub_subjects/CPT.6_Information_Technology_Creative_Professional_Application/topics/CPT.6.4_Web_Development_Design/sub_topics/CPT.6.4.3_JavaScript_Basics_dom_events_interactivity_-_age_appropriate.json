@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.4.3",
+    "name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+    "topic_id": "CPT.6.4",
+    "topic_name": "Web Development & Design",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for JavaScript Basics (dom, events, interactivity - age appropriate) in Web Development & Design (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.1",
+            "objective_text": "Identify a button that does something.",
+            "objective_uuid": "e5206a1d-8272-45e0-9c0d-2f98921fd91f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.2",
+            "objective_text": "Recall that pages can change.",
+            "objective_uuid": "19570177-f4bc-4c6a-a3cf-9f951ce7243b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.3",
+            "objective_text": "Name 'Click'.",
+            "objective_uuid": "7ca37f39-1e78-4b19-973e-d9c6444a0e96"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.4",
+            "objective_text": "Observe a pop-up.",
+            "objective_uuid": "ff083e3e-587e-407f-a6e3-43b51dc72690"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.8",
+            "objective_text": "Identify a script tag.",
+            "objective_uuid": "b45fc428-b8d7-49d9-bef6-2ebc4ec81073"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.5",
+            "objective_text": "Summarize how scripts make pages move.",
+            "objective_uuid": "6d572178-38e7-4148-ba2c-40268b57c712"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.6",
+            "objective_text": "Explain an 'alert()' box.",
+            "objective_uuid": "3e5dd4e8-96ce-4b91-afd7-dd4d95efb69a"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.7",
+            "objective_text": "Change the text on a button click.",
+            "objective_uuid": "2b8cb972-8404-4df4-9379-ab9a3a49f7b8"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.12",
+            "objective_text": "Explain form validation (intro).",
+            "objective_uuid": "61871b51-2275-42ac-a46d-54c07c2edef0"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.15",
+            "objective_text": "Defend clean code practices in JS.",
+            "objective_uuid": "6ceea8e8-4c50-449f-9f6b-48d7d7a0f8a8"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 10.0,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.9",
+            "objective_text": "Analyze DOM manipulation ('getElementById').",
+            "objective_uuid": "0466d406-d949-4b80-8d13-fbaf4e8e597a"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.10",
+            "objective_text": "Interpret event listeners.",
+            "objective_uuid": "9edb094c-c742-4dc7-b5c5-3832c48cf929"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.11",
+            "objective_text": "Connect variables to page elements.",
+            "objective_uuid": "734b440d-952b-48df-8e06-4bbf0ff7f7cd"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.14",
+            "objective_text": "Evaluate the performance impact of scripts.",
+            "objective_uuid": "6453e223-13b0-4370-bf23-f82e20960691"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.13",
+            "objective_text": "Construct interactive web applications.",
+            "objective_uuid": "4cea1599-557c-4039-8f19-b83d1c76fa41"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.4",
+            "topic_name": "Web Development & Design",
+            "sub_topic_id": "CPT.6.4.3",
+            "sub_topic_name": "JavaScript Basics (dom, events, interactivity - age appropriate)",
+            "objective_id": "CPT.6.4.3.16",
+            "objective_text": "Synthesize asynchronous fetch requests (API).",
+            "objective_uuid": "37325536-f725-4335-b4ba-480a670e7616"
+          }
+        ]
+      }
+    }
+  }
+}

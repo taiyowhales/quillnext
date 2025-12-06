@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "BIB.8.5.2",
+    "name": "Kingdom Teachings and Parables",
+    "topic_id": "BIB.8.5",
+    "topic_name": "The Gospels and the Life of Christ",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.8",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Kingdom Teachings and Parables in The Gospels and the Life of Christ (Bible & Theology)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.1",
+            "objective_text": "Identify a story Jesus told (Parable).",
+            "objective_uuid": "6b17b50f-2b33-4bc7-aef2-e5c49eb5f6e9"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.2",
+            "objective_text": "Name the Good Samaritan.",
+            "objective_uuid": "6d14e3a0-5bc6-4465-b08f-d86250b084a6"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.8",
+            "objective_text": "Identify the Golden Rule.",
+            "objective_uuid": "a5d833f1-c638-4bff-91fd-b5c6b3beb22b"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.3",
+            "objective_text": "Recall the Prodigal Son coming home.",
+            "objective_uuid": "e3b42015-a412-4a5d-8c35-42034494a10b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.4",
+            "objective_text": "Observe that Jesus taught about God's Kingdom.",
+            "objective_uuid": "1761bdeb-0f4a-431c-8281-891bc0eb4757"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.5",
+            "objective_text": "Summarize the Sermon on the Mount (Beatitudes).",
+            "objective_uuid": "09d0f5bd-5bc3-41e9-86bd-40fd329c5844"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.6",
+            "objective_text": "Explain the Parable of the Sower (soils = hearts).",
+            "objective_uuid": "14016207-5ea5-4fed-879f-cdd1e26d4efa"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.12",
+            "objective_text": "Explain the cost of discipleship.",
+            "objective_uuid": "f9274769-050b-4f1f-ba0d-289a4d7a0406"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.15",
+            "objective_text": "Defend Jesus' authority to interpret the Law.",
+            "objective_uuid": "e0864261-f9fc-44c2-b5d8-d61e0ddd8620"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.7",
+            "objective_text": "Compare the wise builder (rock) and foolish builder (sand).",
+            "objective_uuid": "8a0bf878-b1b1-4a5c-8a0b-0dd7f138cec8"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.9",
+            "objective_text": "Analyze the nature of the Kingdom (upside-down kingdom).",
+            "objective_uuid": "4c806a28-3458-4082-814b-7342aab912ae"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.10",
+            "objective_text": "Interpret the Lord's Prayer.",
+            "objective_uuid": "2e12180f-09f6-4688-855f-145ffdc1d437"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.11",
+            "objective_text": "Connect the parables to the hardening of hearts (Mark 4).",
+            "objective_uuid": "b42e8e43-1f21-409b-aed1-a941f02fd1da"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.14",
+            "objective_text": "Evaluate the radical nature of loving enemies.",
+            "objective_uuid": "2b51de74-4e7e-4c64-aa2b-f1fadba7c2bc"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.13",
+            "objective_text": "Construct an essay on the ethics of the Kingdom.",
+            "objective_uuid": "71509469-5a68-4184-8b62-0f1010dc2eb6"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.8",
+            "sub_subject_name": "New Testament Studies: Life and Doctrine in Christ",
+            "topic_id": "BIB.8.5",
+            "topic_name": "The Gospels and the Life of Christ",
+            "sub_topic_id": "BIB.8.5.2",
+            "sub_topic_name": "Kingdom Teachings and Parables",
+            "objective_id": "BIB.8.5.2.16",
+            "objective_text": "Synthesize the 'already/not yet' aspect of the Kingdom teachings.",
+            "objective_uuid": "88a9c997-18a3-4cc6-a1c3-9ce0101f68d0"
+          }
+        ]
+      }
+    }
+  }
+}

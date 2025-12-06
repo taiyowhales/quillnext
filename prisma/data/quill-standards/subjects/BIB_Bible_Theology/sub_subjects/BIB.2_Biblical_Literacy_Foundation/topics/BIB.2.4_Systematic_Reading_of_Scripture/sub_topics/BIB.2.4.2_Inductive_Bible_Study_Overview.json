@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "BIB.2.4.2",
+    "name": "Inductive Bible Study Overview",
+    "topic_id": "BIB.2.4",
+    "topic_name": "Systematic Reading of Scripture",
+    "subject_id": "BIB",
+    "subject_name": "Bible & Theology",
+    "sub_subject_id": "BIB.2",
+    "sub_subject_name": "Hermeneutics (The Art of Interpretation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Inductive Bible Study Overview in Systematic Reading of Scripture (Bible & Theology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.3",
+            "objective_text": "Identify the main person in the story.",
+            "objective_uuid": "e4b0e1f4-335a-4c48-b33e-a3d473cf055f"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.1",
+            "objective_text": "Observe what is happening in a picture of a Bible story.",
+            "objective_uuid": "a9033b4c-c8f3-4f24-b2c4-06be46cb5340"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.4",
+            "objective_text": "Retell what happened in the beginning, middle, and end.",
+            "objective_uuid": "e7eddce3-e9f7-4507-b776-071dc9400b9d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.2",
+            "objective_text": "Ask 'Who?', 'What?', and 'Where?' questions about a story.",
+            "objective_uuid": "9e45f728-5fd6-4474-81f2-03b8d2c7eb7d"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.5",
+            "objective_text": "Summarize the three steps: Observation, Interpretation, Application.",
+            "objective_uuid": "c14e26af-0b37-49aa-a971-60c2bdb88e14"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.7",
+            "objective_text": "Explain why we must look at what the text says before what it means.",
+            "objective_uuid": "c4e38277-b4f8-4e93-8550-e6b5fcae07ad"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.12",
+            "objective_text": "Explain the danger of jumping to application without proper observation.",
+            "objective_uuid": "e95f57de-a5a1-4b43-b9f9-66bb86a8e7be"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.15",
+            "objective_text": "Perform independent research on historical background to aid observation.",
+            "objective_uuid": "479b3493-e046-4ce7-ad2c-d2416cc4054a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.16",
+            "objective_text": "Produce a teaching outline based on the inductive study of a passage.",
+            "objective_uuid": "d6068c61-2f47-4b57-bac9-33cf63a2dabf"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.6",
+            "objective_text": "Apply specific color codes to mark key words in a printed text.",
+            "objective_uuid": "cd066b2d-72d8-450b-a6f9-8af9085d9d48"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.8",
+            "objective_text": "Compare the characters in a story to understand their choices.",
+            "objective_uuid": "57656e9a-e583-4ad9-88fb-28b0e86fd776"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.9",
+            "objective_text": "Analyze a paragraph by circling key words, listing facts, and noting contrasts.",
+            "objective_uuid": "a62d8534-9e24-4580-b315-ef604d213f5d"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.10",
+            "objective_text": "Interpret the meaning of a passage based only on the observations made.",
+            "objective_uuid": "7107a704-b54a-442f-865b-6a1ba3c43e51"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.11",
+            "objective_text": "Connect the interpretation to a specific, actionable application.",
+            "objective_uuid": "ef126f8e-048d-40a5-af9b-17d7dd260c7c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.14",
+            "objective_text": "Evaluate different commentaries to check personal interpretation.",
+            "objective_uuid": "8163bc0d-f0c3-4a26-bfc1-b9d49016f784"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "BIB",
+            "subject_name": "Bible & Theology",
+            "sub_subject_id": "BIB.2",
+            "sub_subject_name": "Biblical Literacy & Foundation",
+            "topic_id": "BIB.2.4",
+            "topic_name": "Systematic Reading of Scripture",
+            "sub_topic_id": "BIB.2.4.2",
+            "sub_topic_name": "Inductive Bible Study Overview",
+            "objective_id": "BIB.2.4.2.13",
+            "objective_text": "Construct a full inductive study of a New Testament epistle (Observation, Interpretation, Application).",
+            "objective_uuid": "2ebfbc24-86cc-448f-a878-c91276ed8cad"
+          }
+        ]
+      }
+    }
+  }
+}

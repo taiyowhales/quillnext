@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.3.4",
+    "name": "Databases (SQL vs NoSQL, tables vs documents)",
+    "topic_id": "CPT.7.3",
+    "topic_name": "Big Data & Data Science",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Databases (SQL vs NoSQL, tables vs documents) in Big Data & Data Science (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 6.17,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.1",
+            "objective_text": "Identify a list of names and phone numbers.",
+            "objective_uuid": "d6924187-2218-4c8a-8cb0-31b137daa02a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.2",
+            "objective_text": "Recall looking up information.",
+            "objective_uuid": "154ec619-e031-4fce-912a-7f35d4a04c64"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.3",
+            "objective_text": "Name an address book.",
+            "objective_uuid": "e1b95a4f-60fb-4262-bdd7-4f13dfc9e2db"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.4",
+            "objective_text": "Observe sorting cards.",
+            "objective_uuid": "ce1f3629-a830-4b81-980b-31629c7a69db"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.7",
+            "objective_text": "Identify a Unique ID (Key).",
+            "objective_uuid": "80ecc107-a5fb-4994-be0f-bfca555a9e06"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.12",
+            "objective_text": "Explain Primary and Foreign Keys.",
+            "objective_uuid": "bbef3b85-e351-47ee-b83d-45f3ffc24eb8"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.5",
+            "objective_text": "Summarize a Table (Rows and Columns).",
+            "objective_uuid": "952accec-9ac5-4d16-b9a5-96f8bd7eef9c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.6",
+            "objective_text": "Explain a Query (asking the database a question).",
+            "objective_uuid": "f2beac6c-dba3-4b31-93af-989161bf434d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.15",
+            "objective_text": "Defend data normalization (reducing redundancy).",
+            "objective_uuid": "e1d5dd62-01fb-4b05-8e8c-adcaebc360a3"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.8",
+            "objective_text": "Compare a filing cabinet with a database.",
+            "objective_uuid": "26379b68-f618-4d70-931d-f8633703859c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.9",
+            "objective_text": "Analyze Relational Databases (SQL - Tables).",
+            "objective_uuid": "eba46e3d-2702-4b1e-be94-aa4c00c78216"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.10",
+            "objective_text": "Interpret Non-Relational Databases (NoSQL - Documents).",
+            "objective_uuid": "f29dfb39-599f-4815-9b09-7dd2422e3514"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.11",
+            "objective_text": "Connect schema (rules) to data integrity.",
+            "objective_uuid": "7acf0221-6b56-454d-935d-294709e0a1a1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 15.5,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.14",
+            "objective_text": "Evaluate the use case for SQL vs NoSQL.",
+            "objective_uuid": "7a901d77-be99-4c1e-85a8-6f5bf0b0dbd2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.13",
+            "objective_text": "Construct basic SQL queries (SELECT, FROM, WHERE).",
+            "objective_uuid": "06f3cad9-4499-4af7-8129-5500d4f37415"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.3",
+            "topic_name": "Big Data & Data Science",
+            "sub_topic_id": "CPT.7.3.4",
+            "sub_topic_name": "Databases (SQL vs NoSQL, tables vs documents)",
+            "objective_id": "CPT.7.3.4.16",
+            "objective_text": "Synthesize ACID properties (Atomicity, Consistency, Isolation, Durability).",
+            "objective_uuid": "6adac919-adf2-4e87-84ea-fc055b95d0f9"
+          }
+        ]
+      }
+    }
+  }
+}

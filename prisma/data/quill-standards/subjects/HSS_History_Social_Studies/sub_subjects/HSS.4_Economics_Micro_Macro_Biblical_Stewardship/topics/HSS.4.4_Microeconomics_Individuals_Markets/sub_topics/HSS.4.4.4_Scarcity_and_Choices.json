@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "HSS.4.4.4",
+    "name": "Scarcity and Choices",
+    "topic_id": "HSS.4.4",
+    "topic_name": "Microeconomics: Individuals & Markets",
+    "subject_id": "HSS",
+    "subject_name": "History & Social Studies",
+    "sub_subject_id": "HSS.4",
+    "sub_subject_name": "Early Modern World (1500–1800)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Scarcity and Choices in Microeconomics: Individuals & Markets (History & Social Studies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.1",
+            "objective_text": "Identify that we can't have everything we want.",
+            "objective_uuid": "af5fd32a-9011-449a-8de6-d5cf234d7f4e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.2",
+            "objective_text": "Name a 'Need' (food) vs. a 'Want' (toy).",
+            "objective_uuid": "1e138e8a-4263-42b4-809f-f32305b8ab21"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.8",
+            "objective_text": "Identify 'Opportunity Cost' (what you give up to get something).",
+            "objective_uuid": "f1490c8d-2251-4496-90ec-50adb3f6dd98"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.3",
+            "objective_text": "Recall that we have to make choices.",
+            "objective_uuid": "c1c4ae15-9db8-4e4b-bbb2-ab568690decc"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.4",
+            "objective_text": "Observe that money runs out if we spend it all.",
+            "objective_uuid": "3bd6279d-a47c-414f-9159-ffa6d95faa5c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 4,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.5",
+            "objective_text": "Summarize the problem: Unlimited wants, limited resources.",
+            "objective_uuid": "ab38d44f-7ede-49d5-8e14-7ae3eea0a6c1"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.6",
+            "objective_text": "Explain why we have to trade to get things.",
+            "objective_uuid": "8cff2fa7-b838-4fcf-98f0-5bcb90ebf5c7"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.12",
+            "objective_text": "Explain the four factors of production (Land, Labor, Capital, Entrepreneurship).",
+            "objective_uuid": "25444f6d-7bb6-4114-97fd-42296bb5f5d8"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.15",
+            "objective_text": "Defend the efficiency of markets in handling scarcity.",
+            "objective_uuid": "32f21c42-8886-46a6-88a9-c19d8a24f424"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.7",
+            "objective_text": "Compare saving for later with spending now.",
+            "objective_uuid": "34fa1d93-624f-4305-a269-bf4b040049e7"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.9",
+            "objective_text": "Analyze the concept of 'TINSTAAFL' (There Is No Such Thing As A Free Lunch).",
+            "objective_uuid": "af1f77f7-627c-4cb3-a985-a1fe5e0e99ce"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.10",
+            "objective_text": "Interpret decision-making using cost-benefit analysis.",
+            "objective_uuid": "c3d45e36-72de-4bee-9b7b-6f8ae379ee3d"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.11",
+            "objective_text": "Connect scarcity to the need for economics.",
+            "objective_uuid": "cd170ab5-a927-4638-bc15-6fe77cefcd54"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.14",
+            "objective_text": "Evaluate the ethical implications of resource allocation.",
+            "objective_uuid": "e6d4edb7-55f3-4f75-8190-cf152a80f204"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.13",
+            "objective_text": "Construct a production possibilities frontier curve.",
+            "objective_uuid": "7f4d583f-29dc-4b46-9863-854daa8e359c"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "HSS",
+            "subject_name": "History & Social Studies",
+            "sub_subject_id": "HSS.4",
+            "sub_subject_name": "Economics (Micro, Macro & Biblical Stewardship)",
+            "topic_id": "HSS.4.4",
+            "topic_name": "Microeconomics: Individuals & Markets",
+            "sub_topic_id": "HSS.4.4.4",
+            "sub_topic_name": "Scarcity and Choices",
+            "objective_id": "HSS.4.4.4.16",
+            "objective_text": "Synthesize the relationship between scarcity and value.",
+            "objective_uuid": "aef303f9-e109-4708-bdb2-9138c37e819b"
+          }
+        ]
+      }
+    }
+  }
+}

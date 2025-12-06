@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.3.2",
+    "name": "Asking Good Questions",
+    "topic_id": "SCI.6.3",
+    "topic_name": "Scientific Method & Thinking",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Asking Good Questions in Scientific Method & Thinking (Science & Nature)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.4",
+            "objective_text": "Recall that scientists are curious.",
+            "objective_uuid": "87fe03af-d139-4e67-ac93-9c520c89a47d"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.1",
+            "objective_text": "Ask 'Why?' about things in nature.",
+            "objective_uuid": "2b1d4787-6a5e-4e46-861e-a901250add07"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.2",
+            "objective_text": "Wonder what will happen if we change something.",
+            "objective_uuid": "ab1a5f43-9a0d-4b42-bf92-6e5348019dcd"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.3",
+            "objective_text": "Choose a question we can answer by looking or testing.",
+            "objective_uuid": "e066b833-fcda-46a1-9522-b98c0891aa62"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.5",
+            "objective_text": "Formulate a question that can be tested (Testable Question).",
+            "objective_uuid": "cd2933cb-96c9-4739-81f4-3fd23d874af9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.6",
+            "objective_text": "Distinguish between a question about facts vs. opinions.",
+            "objective_uuid": "268faeae-9719-454a-8c8f-146b57fa20dc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.7",
+            "objective_text": "Predict the answer (Hypothesis) using 'I think... because...'.",
+            "objective_uuid": "dcbc8b7a-43b7-4b4f-995d-ffdeee3a773d"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.8",
+            "objective_text": "Explain why we need to ask clear questions.",
+            "objective_uuid": "bda0b0c3-5cdb-4105-a400-95617bbe587b"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.15",
+            "objective_text": "Defend the necessity of operational definitions in research questions.",
+            "objective_uuid": "4dba2683-171b-40b7-87c2-974d7d0b6efb"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.9",
+            "objective_text": "Analyze a problem to identify the variables involved.",
+            "objective_uuid": "5092ad42-669a-48e3-8cb7-4fe2041bf644"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.12",
+            "objective_text": "Connect the research question to existing knowledge.",
+            "objective_uuid": "1556a79f-a90d-480d-b2c6-fb163d78280d"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.11",
+            "objective_text": "Critique a question that is too vague to be tested.",
+            "objective_uuid": "01f42cf9-006c-4a9a-b0bd-0301d1937685"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.14",
+            "objective_text": "Evaluate the falsifiability of a hypothesis (Popper).",
+            "objective_uuid": "41554574-5e6a-4e74-96c4-20acd2e8d198"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 3,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.10",
+            "objective_text": "Construct a Null Hypothesis (no change) and an Alternative Hypothesis.",
+            "objective_uuid": "167b0493-9794-466d-ac5f-f43e09e2f3dc"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.13",
+            "objective_text": "Construct a complex research proposal based on a gap in literature.",
+            "objective_uuid": "faeb090a-64a5-45d2-91f9-091cf2293a5d"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.3",
+            "topic_name": "Scientific Method & Thinking",
+            "sub_topic_id": "SCI.6.3.2",
+            "sub_topic_name": "Asking Good Questions",
+            "objective_id": "SCI.6.3.2.16",
+            "objective_text": "Synthesize multiple observations to form a novel hypothesis.",
+            "objective_uuid": "05dc47ed-15c5-46cb-8686-e5f3972a34f2"
+          }
+        ]
+      }
+    }
+  }
+}

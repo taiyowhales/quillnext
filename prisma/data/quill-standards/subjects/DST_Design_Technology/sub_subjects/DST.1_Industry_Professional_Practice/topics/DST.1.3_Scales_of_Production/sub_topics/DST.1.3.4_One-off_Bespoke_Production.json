@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "DST.1.3.4",
+    "name": "One-off / Bespoke Production",
+    "topic_id": "DST.1.3",
+    "topic_name": "Scales of Production",
+    "subject_id": "DST",
+    "subject_name": "Design & Technology",
+    "sub_subject_id": "DST.1",
+    "sub_subject_name": "The Engineering Design Process (Iterative Innovation)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for One-off / Bespoke Production in Scales of Production (Design & Technology)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.1",
+            "objective_text": "Identify a handmade gift.",
+            "objective_uuid": "36f77e1a-7582-4ed3-9d68-8bedb89e48a4"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.2",
+            "objective_text": "Name a person who makes things one at a time (tailor/baker).",
+            "objective_uuid": "0051c833-ad52-4120-8f4b-b7c804e6b905"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.8",
+            "objective_text": "Identify a prototype as a one-off.",
+            "objective_uuid": "d6233711-1b67-4bab-a264-ec504f423680"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.3",
+            "objective_text": "Recall that making things by hand takes time.",
+            "objective_uuid": "5e866399-b09a-4a74-aa09-5ed5874f1f2a"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.4",
+            "objective_text": "Observe that no two handmade things are exactly the same.",
+            "objective_uuid": "bb2eddeb-ab19-4064-9f6c-5c128717a98b"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.5",
+            "objective_text": "Summarize 'Bespoke' (made specially for one person).",
+            "objective_uuid": "5a46d987-8e89-4fc1-bd39-8f07ff87dad1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.6",
+            "objective_text": "Explain why a custom suit costs more than a store-bought one.",
+            "objective_uuid": "a744e5f0-f5fa-489d-8917-cd0deac550b5"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.12",
+            "objective_text": "Explain the role of the artisan.",
+            "objective_uuid": "7f480b40-7582-4dbc-ab4b-3c29d7c9f76f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.15",
+            "objective_text": "Defend the high unit cost based on skilled labor.",
+            "objective_uuid": "e8ddc2bf-3fc6-477e-8203-d3be6849a0cc"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.7",
+            "objective_text": "Compare a painting with a printed poster.",
+            "objective_uuid": "a2c8d346-4d4d-407a-b816-eb97f43f90f7"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.9",
+            "objective_text": "Analyze the labor intensity of one-off production.",
+            "objective_uuid": "7ad208d4-68d9-4a1f-a396-4147465bbdbe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.10",
+            "objective_text": "Interpret the value of unique craft in a mass market.",
+            "objective_uuid": "b55c52a8-af83-4fbe-b68a-15e394281783"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.11",
+            "objective_text": "Connect architectural models to one-off production.",
+            "objective_uuid": "05005205-542d-4f0c-a652-243d505deffa"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.14",
+            "objective_text": "Evaluate the niche market for luxury goods.",
+            "objective_uuid": "d0e79c42-c804-405b-90eb-294dffe0dffa"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.13",
+            "objective_text": "Construct a cost analysis for a bespoke commission.",
+            "objective_uuid": "4da3d9bc-28d6-4a61-82f5-7c2a48be48d1"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "DST",
+            "subject_name": "Design & Technology",
+            "sub_subject_id": "DST.1",
+            "sub_subject_name": "Industry & Professional Practice",
+            "topic_id": "DST.1.3",
+            "topic_name": "Scales of Production",
+            "sub_topic_id": "DST.1.3.4",
+            "sub_topic_name": "One-off / Bespoke Production",
+            "objective_id": "DST.1.3.4.16",
+            "objective_text": "Synthesize the relationship between customization and production time.",
+            "objective_uuid": "27a780e2-215e-4587-9521-cd5411bc5fc7"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.4.1.1",
+    "name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+    "topic_id": "CPT.4.1",
+    "topic_name": "Cyber Security",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.4",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Attack Methods (Brute force, DDoS, SQL Injection) in Cyber Security (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.1",
+            "objective_text": "Identify guessing a secret code.",
+            "objective_uuid": "a5a39572-b428-4c99-9422-60e90b8bdd6f"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.2",
+            "objective_text": "Recall that trying every number takes a long time.",
+            "objective_uuid": "b181400f-fa42-43bb-b42e-97d14818a729"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.3",
+            "objective_text": "Name blocking a door (too many people).",
+            "objective_uuid": "91b1a150-e5f1-4f76-8d56-f5bef696f604"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.4",
+            "objective_text": "Observe a busy website.",
+            "objective_uuid": "3b08daf6-5f63-4b09-b473-a7b6a010ba9b"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.7",
+            "objective_text": "Identify a botnet (zombie computers).",
+            "objective_uuid": "6c64e6f9-9954-4d8d-94f6-99c62b43838d"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.5",
+            "objective_text": "Summarize Brute Force (guessing every password).",
+            "objective_uuid": "e0545510-2a2d-45f8-b284-e272eefa61ec"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.6",
+            "objective_text": "Explain Denial of Service (overloading the server).",
+            "objective_uuid": "038626d6-4545-4775-9670-8d5e1cbeeefc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.12",
+            "objective_text": "Explain Cross-Site Scripting (XSS).",
+            "objective_uuid": "8c68c7ef-b23b-4e36-9fb7-4ef2c6a23acb"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.15",
+            "objective_text": "Defend the principle of least privilege.",
+            "objective_uuid": "fdf28dc6-bfb6-4630-96a0-ff088dc8eeb9"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.8",
+            "objective_text": "Compare a lock pick with a key.",
+            "objective_uuid": "500d7e4e-2869-4e29-aeac-e69ba92ca9b9"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.9",
+            "objective_text": "Analyze SQL Injection (tricking the database).",
+            "objective_uuid": "5482971f-2be2-4cc7-9bde-82a0ddd91105"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.10",
+            "objective_text": "Interpret Man-in-the-Middle attacks.",
+            "objective_uuid": "b69ecb4d-a3da-43a4-8013-217e10117040"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.11",
+            "objective_text": "Connect unpatched software to vulnerabilities.",
+            "objective_uuid": "b6d00027-29b8-4ddb-b08d-5ea281682312"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.14",
+            "objective_text": "Evaluate the OWASP Top 10.",
+            "objective_uuid": "a11c5e1b-2fc1-47d2-8499-367da881a6c3"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.13",
+            "objective_text": "Construct a defense strategy against common attacks.",
+            "objective_uuid": "9360c084-c272-4018-83e6-193386a31fda"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.4",
+            "sub_subject_name": "Digital Literacy, Safety & Ethics",
+            "topic_id": "CPT.4.1",
+            "topic_name": "Cyber Security",
+            "sub_topic_id": "CPT.4.1.1",
+            "sub_topic_name": "Attack Methods (Brute force, DDoS, SQL Injection)",
+            "objective_id": "CPT.4.1.1.16",
+            "objective_text": "Synthesize ethical hacking concepts.",
+            "objective_uuid": "e040db2c-a017-4a7c-864a-9ddba6be345b"
+          }
+        ]
+      }
+    }
+  }
+}

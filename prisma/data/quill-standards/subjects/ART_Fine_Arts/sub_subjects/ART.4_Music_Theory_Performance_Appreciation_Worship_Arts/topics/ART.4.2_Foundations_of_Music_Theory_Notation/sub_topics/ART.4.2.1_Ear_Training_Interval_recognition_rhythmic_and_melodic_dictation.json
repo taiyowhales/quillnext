@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.4.2.1",
+    "name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+    "topic_id": "ART.4.2",
+    "topic_name": "Foundations of Music Theory & Notation",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.4",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Ear Training (Interval recognition, rhythmic and melodic dictation) in Foundations of Music Theory & Notation (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 2.33,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.1",
+            "objective_text": "Identify if a melody goes up or down.",
+            "objective_uuid": "704521d3-5223-4797-981d-4a6edf258f3a"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.8",
+            "objective_text": "Identify the difference between a step and a leap.",
+            "objective_uuid": "13d1b900-e461-48a5-a0d2-9a73e64b53f1"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.3",
+            "objective_text": "Recall a simple tune.",
+            "objective_uuid": "ff698fd4-4846-434f-98fd-180690d43360"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 5.5,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.4",
+            "objective_text": "Observe if a note is the same or different.",
+            "objective_uuid": "7c772626-d5b4-44e6-9b6c-88671f956f34"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.6",
+            "objective_text": "Write down a simple 4-beat rhythm heard.",
+            "objective_uuid": "9cc2d9ce-4622-4cd6-a97c-693f8015da81"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.2",
+            "objective_text": "Clap back a short rhythm.",
+            "objective_uuid": "83f756a8-47ac-445c-ad80-353aa22880bc"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.5",
+            "objective_text": "Summarize the sound of a Major vs. Minor chord.",
+            "objective_uuid": "cd3ee7ef-0b3c-4ecd-bdb3-dfcdcecd22db"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.7",
+            "objective_text": "Sing back a short melodic phrase.",
+            "objective_uuid": "05d52e83-79fb-4aa8-89f9-7624aaf8c776"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.12",
+            "objective_text": "Explain the difference between hearing and listening.",
+            "objective_uuid": "c6a44352-5d94-42d3-9ca7-1a3a646724cc"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.15",
+            "objective_text": "Defend the necessity of aural skills for musicianship.",
+            "objective_uuid": "401be42f-a756-4dc4-a729-122e3f6adc88"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.9",
+            "objective_text": "Analyze intervals by ear (Perfect 4th, Perfect 5th, Octave).",
+            "objective_uuid": "141e3ace-b7f3-4404-a213-1a1e7b128468"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.10",
+            "objective_text": "Interpret a melodic dictation of 2-4 measures.",
+            "objective_uuid": "42563159-a0be-4fa3-abc4-f3b3de892468"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.11",
+            "objective_text": "Connect the sound of a chord progression to its numerals.",
+            "objective_uuid": "c6007985-c223-4f40-ab3f-ea2d2552e772"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.14",
+            "objective_text": "Evaluate the quality of chords (diminished/augmented) by ear.",
+            "objective_uuid": "7861f938-37c3-47f3-938e-a6f83570e6bf"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.13",
+            "objective_text": "Construct a transcription of a recorded melody.",
+            "objective_uuid": "bfcef78a-44f6-4f49-bb44-34f34da7096c"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.4",
+            "sub_subject_name": "Music (Theory, Performance, Appreciation & Worship Arts)",
+            "topic_id": "ART.4.2",
+            "topic_name": "Foundations of Music Theory & Notation",
+            "sub_topic_id": "ART.4.2.1",
+            "sub_topic_name": "Ear Training (Interval recognition, rhythmic and melodic dictation)",
+            "objective_id": "ART.4.2.1.16",
+            "objective_text": "Synthesize inner hearing (audiation) with sight-reading.",
+            "objective_uuid": "6df423ea-7580-43ab-af03-76c02f12e116"
+          }
+        ]
+      }
+    }
+  }
+}

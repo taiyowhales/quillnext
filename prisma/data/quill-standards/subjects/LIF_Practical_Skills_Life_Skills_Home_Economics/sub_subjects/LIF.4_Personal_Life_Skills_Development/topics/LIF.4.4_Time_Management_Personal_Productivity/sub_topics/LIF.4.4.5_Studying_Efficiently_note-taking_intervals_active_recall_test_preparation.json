@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "LIF.4.4.5",
+    "name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+    "topic_id": "LIF.4.4",
+    "topic_name": "Time Management & Personal Productivity",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.4",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Studying Efficiently (note-taking, intervals, active recall, test preparation) in Time Management & Personal Productivity (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.8",
+            "objective_text": "Identify a good place to study.",
+            "objective_uuid": "6caa42ee-a3f2-4e5c-be82-dd82d1141ed7"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 3,
+        "average_complexity": 6.33,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.1",
+            "objective_text": "Listen to the teacher.",
+            "objective_uuid": "c173c879-64f6-4383-b73d-869385c0d0f1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.3",
+            "objective_text": "Recall that quiet helps us think.",
+            "objective_uuid": "d3ec5f21-a1ba-4718-a73e-d4c9a8b49c10"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.7",
+            "objective_text": "Take simple notes during a lesson.",
+            "objective_uuid": "818329c4-e22a-4f40-a828-0a4ec44f899f"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.2",
+            "objective_text": "Draw a picture to remember a story.",
+            "objective_uuid": "7c2fae90-c2f7-4fad-a1e7-4aebd3b5e76e"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.4",
+            "objective_text": "Practice writing words.",
+            "objective_uuid": "26a45602-d2ef-4e89-8e52-2ef920d22ca1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.5",
+            "objective_text": "Summarize what was read in a chapter.",
+            "objective_uuid": "8b54d2bc-1c4f-4521-9eeb-ba173ecf3c6a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.6",
+            "objective_text": "Explain how flashcards help memory.",
+            "objective_uuid": "f8f3a336-79c2-45c2-ad7f-9530c6e46c4c"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.12",
+            "objective_text": "Explain Spaced Repetition.",
+            "objective_uuid": "56e2406d-3522-41fe-938b-4d4cfb9c683f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.15",
+            "objective_text": "Defend the integrity of academic honesty.",
+            "objective_uuid": "64fb6e74-974c-48b0-a43a-7d475148f3a8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.9",
+            "objective_text": "Analyze the Pomodoro Technique (intervals).",
+            "objective_uuid": "a982a7a8-1dda-48de-bda4-c55b6f63d01b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.10",
+            "objective_text": "Interpret different note-taking styles (Cornell, Mind Map).",
+            "objective_uuid": "36d8c959-67c8-4f38-9345-8e338344813f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.11",
+            "objective_text": "Connect 'Active Recall' (testing yourself) to retention.",
+            "objective_uuid": "02097838-8ec9-43c8-92d3-2f3de809fd48"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.14",
+            "objective_text": "Evaluate personal learning style strengths/weaknesses.",
+            "objective_uuid": "eb322f82-0632-4a6d-b3fc-74c110bd3766"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.13",
+            "objective_text": "Construct a comprehensive study guide from raw notes.",
+            "objective_uuid": "888b8159-8c8d-4bbd-aee0-8cd5e1000478"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.4",
+            "sub_subject_name": "Personal Life Skills & Development",
+            "topic_id": "LIF.4.4",
+            "topic_name": "Time Management & Personal Productivity",
+            "sub_topic_id": "LIF.4.4.5",
+            "sub_topic_name": "Studying Efficiently (note-taking, intervals, active recall, test preparation)",
+            "objective_id": "LIF.4.4.5.16",
+            "objective_text": "Synthesize deep work principles for cognitive endurance.",
+            "objective_uuid": "0bc56417-d82d-4978-9064-475406b409f4"
+          }
+        ]
+      }
+    }
+  }
+}

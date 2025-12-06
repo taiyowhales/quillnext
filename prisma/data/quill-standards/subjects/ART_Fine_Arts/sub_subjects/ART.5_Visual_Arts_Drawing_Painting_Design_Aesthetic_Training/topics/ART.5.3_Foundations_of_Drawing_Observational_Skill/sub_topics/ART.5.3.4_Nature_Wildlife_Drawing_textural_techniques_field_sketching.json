@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.3.4",
+    "name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+    "topic_id": "ART.5.3",
+    "topic_name": "Foundations of Drawing & Observational Skill",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Nature & Wildlife Drawing (textural techniques, field sketching) in Foundations of Drawing & Observational Skill (Fine Arts)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.1",
+            "objective_text": "Identify patterns on animals (stripes, spots).",
+            "objective_uuid": "123876d5-b788-4828-afa8-974b0c62fbc8"
+          },
+          {
+            "complexity": 2,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.4",
+            "objective_text": "Name the colors seen in nature.",
+            "objective_uuid": "7a094af9-141c-4ab4-8d76-38d40213d7ac"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 5.0,
+        "objectives": [
+          {
+            "complexity": 5,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.3",
+            "objective_text": "Observe the texture of fur or bark.",
+            "objective_uuid": "f00acd2e-dc1f-4a97-994e-2aedcf63bb21"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 6,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.2",
+            "objective_text": "Draw a leaf or flower from outside.",
+            "objective_uuid": "c3e89905-6ec8-42f1-8f6f-2383ac5e02f0"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.5",
+            "objective_text": "Summarize the shape of a specific animal.",
+            "objective_uuid": "ee75f346-cd4c-448c-bc6e-3670aa5349d4"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.6",
+            "objective_text": "Use different strokes for fur, feathers, and scales.",
+            "objective_uuid": "cc3d681a-9aa5-4271-b843-b6cfd67c529e"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.7",
+            "objective_text": "Sketch a plant showing its parts.",
+            "objective_uuid": "bafb3858-bef1-40f7-98d0-e564fd2b9c1a"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.12",
+            "objective_text": "Explain how light reveals texture.",
+            "objective_uuid": "f0c19586-f4b0-4fa5-bf1e-46d5a391abe1"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.15",
+            "objective_text": "Defend the value of 'plein air' sketching.",
+            "objective_uuid": "e919c5fc-5ab5-497a-8f1a-166716dc9f8e"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.8",
+            "objective_text": "Compare drawing from life vs. drawing from a photo.",
+            "objective_uuid": "4a84ca24-dadf-4113-9612-ded1613fcfef"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.9",
+            "objective_text": "Analyze the underlying anatomy of animals.",
+            "objective_uuid": "c79821dd-cc18-4303-bc61-6adb6161f9fb"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.10",
+            "objective_text": "Interpret textures using stippling, hatching, and scumbling.",
+            "objective_uuid": "2d85363c-88d1-43e3-825a-9d38d4a55c5e"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.11",
+            "objective_text": "Connect field sketching to scientific observation.",
+            "objective_uuid": "3657aa4e-e80d-4403-aebd-97872b49ddbb"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.14",
+            "objective_text": "Evaluate the accuracy of textural representation.",
+            "objective_uuid": "167cb087-bbd0-4265-9e78-0ea6eb2c609a"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.13",
+            "objective_text": "Construct a detailed botanical or zoological illustration.",
+            "objective_uuid": "99a71304-36ed-4a2b-95cf-0db597312798"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.3",
+            "topic_name": "Foundations of Drawing & Observational Skill",
+            "sub_topic_id": "ART.5.3.4",
+            "sub_topic_name": "Nature & Wildlife Drawing (textural techniques, field sketching)",
+            "objective_id": "ART.5.3.4.16",
+            "objective_text": "Synthesize observation with artistic composition in nature journaling.",
+            "objective_uuid": "bab88463-f41e-49ca-94fc-f78c277050fc"
+          }
+        ]
+      }
+    }
+  }
+}

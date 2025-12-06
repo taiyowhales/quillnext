@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.8.3.3",
+    "name": "Converting Between Bases",
+    "topic_id": "MAT.8.3",
+    "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.8",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Converting Between Bases in Place Value in Other Bases (Discrete Math Foundations) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.1",
+            "objective_text": "Identify trading coins (5 pennies = 1 nickel).",
+            "objective_uuid": "f8fd598c-2155-40cf-8219-895c06d81010"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 4.5,
+        "objectives": [
+          {
+            "complexity": 4,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.4",
+            "objective_text": "Observe different ways to write numbers.",
+            "objective_uuid": "317f4935-13b5-4e1b-8704-8b73878e6f81"
+          },
+          {
+            "complexity": 5,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.3",
+            "objective_text": "Recall that the amount stays the same.",
+            "objective_uuid": "5bfdc237-7f3e-45c7-bfba-e5ac96b567a5"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.2",
+            "objective_text": "Regroup blocks into different sizes.",
+            "objective_uuid": "db5838f5-038f-40b0-a908-d0597fd38540"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.5",
+            "objective_text": "Summarize the place value columns for different bases.",
+            "objective_uuid": "8eeb66c3-2354-4a39-837f-75ee379f45ec"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.6",
+            "objective_text": "Explain how to divide to convert to a base.",
+            "objective_uuid": "d33e312c-aa1f-4288-baa2-0cf061f7eca0"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.7",
+            "objective_text": "Convert Base 10 to Base 5.",
+            "objective_uuid": "d17623fe-d075-4819-aa41-f0c9d8f9e37b"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.8",
+            "objective_text": "Check work by converting back.",
+            "objective_uuid": "d98afd4f-1bd4-4125-b66a-db262a94d453"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.12",
+            "objective_text": "Explain why Base 10 is arbitrary.",
+            "objective_uuid": "662d8c5c-ae59-4eb7-9529-80b663da2c0f"
+          },
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.15",
+            "objective_text": "Defend the invariance of the number's value.",
+            "objective_uuid": "4938c345-c3a6-4890-9a52-f06fe31f4794"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 2,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.10",
+            "objective_text": "Interpret polynomial expansion in different bases.",
+            "objective_uuid": "3f3547a9-28d7-4bf1-9bb5-c739a4d0edd8"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.11",
+            "objective_text": "Connect fractional bases to decimals.",
+            "objective_uuid": "03b75ede-e577-4536-b71b-be9dca910f50"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.14",
+            "objective_text": "Evaluate operations carried out in non-decimal bases.",
+            "objective_uuid": "cbe3e28f-2f90-4bcc-b5ca-326d9e13bb9a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.9",
+            "objective_text": "Analyze the algorithm for base conversion (successive division).",
+            "objective_uuid": "c45ceffa-a486-4f85-981c-849c7331ccc1"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.16",
+            "objective_text": "Synthesize programming functions for conversion.",
+            "objective_uuid": "c4ff2666-a24b-4458-941e-5fe6b1c17847"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.8",
+            "sub_subject_name": "Number Theory (Structure, Patterns, and the Beauty of Order)",
+            "topic_id": "MAT.8.3",
+            "topic_name": "Place Value in Other Bases (Discrete Math Foundations)",
+            "sub_topic_id": "MAT.8.3.3",
+            "sub_topic_name": "Converting Between Bases",
+            "objective_id": "MAT.8.3.3.13",
+            "objective_text": "Construct a general algorithm for base conversion.",
+            "objective_uuid": "0f29b2df-a670-46cb-a180-7fa1c1b457ad"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.1.3.3",
+    "name": "Decomposition (breaking down complex problems)",
+    "topic_id": "CPT.1.3",
+    "topic_name": "Computational Thinking",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.1",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Decomposition (breaking down complex problems) in Computational Thinking (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.8",
+            "objective_text": "Identify the main parts of a story (beginning, middle, end).",
+            "objective_uuid": "3e488138-1ac0-4306-b6ee-ebe636a9bcd2"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.2",
+            "objective_text": "Identify the parts of a toy (wheels, body).",
+            "objective_uuid": "6799ab16-2f4d-4b33-a3e5-90845ae7d1e5"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.3",
+            "objective_text": "Recall the order of getting dressed.",
+            "objective_uuid": "114bdc5f-540c-4f8e-81b9-bfd0cd04b2cb"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.4",
+            "objective_text": "List the ingredients needed for a sandwich.",
+            "objective_uuid": "c6c4cf23-1250-4354-baa7-5ad033e34a87"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 6,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.1",
+            "objective_text": "Break a daily task (like brushing teeth) into small steps.",
+            "objective_uuid": "628da9b6-74b9-4a82-b625-95885c121515"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.5",
+            "objective_text": "Summarize the steps to solve a math word problem.",
+            "objective_uuid": "8d8623d6-fdb1-4250-92cd-a64ad618f865"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.6",
+            "objective_text": "Explain how to break a big project into smaller jobs.",
+            "objective_uuid": "4e664b92-6694-414a-acfa-6bb4cbfe9de0"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.7",
+            "objective_text": "Decompose a game into rules, players, and goals.",
+            "objective_uuid": "accc8699-ae6d-4535-96a9-588c95399b24"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.12",
+            "objective_text": "Explain how solving small parts solves the whole.",
+            "objective_uuid": "eb9222fd-f620-4a7b-93c9-c876c4a7b83d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.15",
+            "objective_text": "Defend the efficiency of divide-and-conquer strategies.",
+            "objective_uuid": "f4880b24-c02e-4bf3-8b73-c5e09a82740d"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.9",
+            "objective_text": "Analyze a complex problem to identify sub-problems.",
+            "objective_uuid": "bb649bf1-e6c0-4d1a-bebb-4715b1a0eab5"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.10",
+            "objective_text": "Interpret a top-down design approach.",
+            "objective_uuid": "1353eb8d-928d-41b3-956c-4db22460b8c5"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.11",
+            "objective_text": "Connect decomposition to modular programming.",
+            "objective_uuid": "2f71865f-d6cb-4a2f-9a91-8859d98fc4b6"
+          },
+          {
+            "complexity": 28,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.14",
+            "objective_text": "Evaluate the independence of decomposed modules.",
+            "objective_uuid": "e05aefdc-b75f-43a6-9006-9ae322ead415"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 2,
+        "average_complexity": 31.0,
+        "objectives": [
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.13",
+            "objective_text": "Construct a project breakdown structure for a software application.",
+            "objective_uuid": "7ef5ef18-db41-4af4-81fe-77a9ffca6c2d"
+          },
+          {
+            "complexity": 31,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.1",
+            "sub_subject_name": "Computer Science: Programming & Algorithms",
+            "topic_id": "CPT.1.3",
+            "topic_name": "Computational Thinking",
+            "sub_topic_id": "CPT.1.3.3",
+            "sub_topic_name": "Decomposition (breaking down complex problems)",
+            "objective_id": "CPT.1.3.3.16",
+            "objective_text": "Synthesize component integration after decomposition.",
+            "objective_uuid": "74ff8959-d1a9-4595-b162-10dbe6ff067d"
+          }
+        ]
+      }
+    }
+  }
+}

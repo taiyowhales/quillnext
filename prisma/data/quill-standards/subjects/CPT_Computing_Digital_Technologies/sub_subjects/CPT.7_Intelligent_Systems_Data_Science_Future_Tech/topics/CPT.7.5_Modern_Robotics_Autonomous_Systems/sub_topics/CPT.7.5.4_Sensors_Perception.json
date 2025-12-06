@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.7.5.4",
+    "name": "Sensors & Perception",
+    "topic_id": "CPT.7.5",
+    "topic_name": "Modern Robotics & Autonomous Systems",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.7",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Sensors & Perception in Modern Robotics & Autonomous Systems (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 5,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.1",
+            "objective_text": "Identify robot eyes and ears.",
+            "objective_uuid": "7cc8e09e-774d-4b91-9bd4-49077815de19"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.2",
+            "objective_text": "Recall that robots feel walls.",
+            "objective_uuid": "f1a4b7b1-6975-4657-81b8-97426bbb8c93"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.3",
+            "objective_text": "Name a sensor.",
+            "objective_uuid": "2611ef6c-6197-4de7-881b-a92076ded374"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.4",
+            "objective_text": "Observe a Roomba bumping.",
+            "objective_uuid": "20909c60-0b13-40bc-8f26-604342353dd4"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.8",
+            "objective_text": "Identify cameras as sensors.",
+            "objective_uuid": "47910897-9010-4692-9a63-bdeb3e9795f2"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.5",
+            "objective_text": "Summarize Ultrasonic (sound distance) sensors.",
+            "objective_uuid": "3f92deaf-34a1-4081-bba2-14663e9d87f7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.6",
+            "objective_text": "Explain Lidar (laser radar).",
+            "objective_uuid": "c20399a8-105d-4bf3-a7b4-5a2504ac0358"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.7",
+            "objective_text": "Use a light sensor to turn on a motor.",
+            "objective_uuid": "3c7b6cbc-a0f5-49ed-9701-aa58d808d70a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.12",
+            "objective_text": "Explain proprioception (internal sensors).",
+            "objective_uuid": "66f9366a-c10b-4a7d-b557-47fbd33ec8b9"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.15",
+            "objective_text": "Defend the complexity of robotic perception.",
+            "objective_uuid": "fe5c7db6-6d79-4974-b5b6-218f3b0245f0"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.9",
+            "objective_text": "Analyze Sensor Fusion (combining data).",
+            "objective_uuid": "6bd85cdb-6879-43fc-8365-95bd31e7ffbe"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.10",
+            "objective_text": "Interpret point clouds from Lidar.",
+            "objective_uuid": "5eb649dc-1b72-471d-9041-09f186f5ff8d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.11",
+            "objective_text": "Connect perception to decision making.",
+            "objective_uuid": "5d7a43c9-7fd5-4d2a-8c66-3cef56f56bab"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.14",
+            "objective_text": "Evaluate the accuracy and noise of sensors.",
+            "objective_uuid": "3befc041-2295-4b30-884d-7cfdd00a6afe"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.13",
+            "objective_text": "Construct a sensor interface circuit.",
+            "objective_uuid": "b907b3f5-aad0-4f7d-a0d7-c0980804b243"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.7",
+            "sub_subject_name": "Intelligent Systems, Data Science & Future Tech",
+            "topic_id": "CPT.7.5",
+            "topic_name": "Modern Robotics & Autonomous Systems",
+            "sub_topic_id": "CPT.7.5.4",
+            "sub_topic_name": "Sensors & Perception",
+            "objective_id": "CPT.7.5.4.16",
+            "objective_text": "Synthesize signal processing with hardware.",
+            "objective_uuid": "03d0a161-0042-4231-bd5a-551b59edfb79"
+          }
+        ]
+      }
+    }
+  }
+}

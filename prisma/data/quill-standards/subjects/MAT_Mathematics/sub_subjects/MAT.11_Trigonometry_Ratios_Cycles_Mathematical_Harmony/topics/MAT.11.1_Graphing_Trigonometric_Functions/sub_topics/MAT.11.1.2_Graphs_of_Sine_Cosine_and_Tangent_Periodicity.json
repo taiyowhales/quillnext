@@ -1,0 +1,261 @@
+{
+  "sub_topic": {
+    "id": "MAT.11.1.2",
+    "name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+    "topic_id": "MAT.11.1",
+    "topic_name": "Graphing Trigonometric Functions",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.11",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Graphs of Sine, Cosine, and Tangent (Periodicity) in Graphing Trigonometric Functions (Mathematics)",
+    "grade_levels": {
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 13,
+        "average_complexity": 14.69,
+        "objectives": [
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.1",
+            "objective_text": "Identify a wavy line.",
+            "objective_uuid": "5752c99f-aae5-4457-a762-55bd5b68c29b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.2",
+            "objective_text": "Name a repeating pattern.",
+            "objective_uuid": "97a95e91-cea6-4274-b313-688e5b64fddb"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.8",
+            "objective_text": "Identify the top (peak) and bottom (trough).",
+            "objective_uuid": "813b3c11-f6b9-4165-814c-88d23cb1db87"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.3",
+            "objective_text": "Recall that waves go up and down.",
+            "objective_uuid": "27affb51-e931-4674-bc57-387804fe4031"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.4",
+            "objective_text": "Observe sound waves.",
+            "objective_uuid": "98092bf7-d384-473f-bd02-4ec435dffc59"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.7",
+            "objective_text": "Draw a simple wave.",
+            "objective_uuid": "5392eeaf-a7ad-41ab-996e-617214f83e44"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.5",
+            "objective_text": "Summarize that a circle unrolled makes a wave.",
+            "objective_uuid": "69d36184-4a8c-48d4-aa48-7f1b405411e0"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.6",
+            "objective_text": "Explain that the pattern repeats forever.",
+            "objective_uuid": "e172cfdf-c1ee-4478-a468-fad6b000c5a2"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.12",
+            "objective_text": "Explain 'Period' (length of one cycle).",
+            "objective_uuid": "a3df3ada-7d27-4cf1-9d78-499ad2266717"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.15",
+            "objective_text": "Defend the continuity or discontinuity of the graphs.",
+            "objective_uuid": "429a1dc4-2625-4040-bd3f-c001c0ae577d"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.9",
+            "objective_text": "Analyze the Sine wave (starts at 0) vs. Cosine (starts at 1).",
+            "objective_uuid": "02524262-c5e2-4bc5-a517-b13b548c8a03"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.10",
+            "objective_text": "Interpret the Tangent graph (asymptotes).",
+            "objective_uuid": "dc48a136-0a2c-424c-8cd4-5331a303243a"
+          },
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.11",
+            "objective_text": "Connect the Unit Circle y-values to the Sine graph.",
+            "objective_uuid": "457f7457-c7c3-4066-96d2-fd1c94263276"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.14",
+            "objective_text": "Evaluate domain and range restrictions.",
+            "objective_uuid": "e4917606-eb1f-416f-bb0c-670eab1a357c"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.13",
+            "objective_text": "Construct graphs of Reciprocal functions (Secant, Cosecant).",
+            "objective_uuid": "a2ba1cc4-bfb0-431b-ad9f-14b46e317be0"
+          },
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.11",
+            "sub_subject_name": "Trigonometry (Ratios, Cycles & Mathematical Harmony)",
+            "topic_id": "MAT.11.1",
+            "topic_name": "Graphing Trigonometric Functions",
+            "sub_topic_id": "MAT.11.1.2",
+            "sub_topic_name": "Graphs of Sine, Cosine, and Tangent (Periodicity)",
+            "objective_id": "MAT.11.1.2.16",
+            "objective_text": "Synthesize limits with trigonometric graphs.",
+            "objective_uuid": "d11e90eb-441f-4889-b3eb-f185dd46f44f"
+          }
+        ]
+      }
+    }
+  }
+}

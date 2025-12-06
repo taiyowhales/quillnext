@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "CPT.6.2.6",
+    "name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+    "topic_id": "CPT.6.2",
+    "topic_name": "Multimedia Production",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.6",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Video Editing (Sequencing, transitions, overlays, rendering) in Multimedia Production (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 4,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.2",
+            "objective_text": "Identify the start and finish.",
+            "objective_uuid": "7e2a7fca-b532-4a89-b7d4-ca057376d2ec"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.3",
+            "objective_text": "Recall watching a movie.",
+            "objective_uuid": "749d7a88-b2c7-4272-b8de-770d8aa7e0be"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.4",
+            "objective_text": "Name a title.",
+            "objective_uuid": "6c7e879e-d334-4577-bc3e-806e64125ea1"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.8",
+            "objective_text": "Identify a transition (wipe/fade).",
+            "objective_uuid": "26a49009-b98e-4668-967b-d796ecc4ea97"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 6,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.1",
+            "objective_text": "Put video clips in order.",
+            "objective_uuid": "df275478-d0e7-4341-a19c-c533500c0e92"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.5",
+            "objective_text": "Summarize a Timeline.",
+            "objective_uuid": "b4fb7d84-a4e7-40c8-8cb9-608b9d1b8663"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.6",
+            "objective_text": "Explain a 'Cut' (switch scenes).",
+            "objective_uuid": "96f6fdc5-8d46-443d-baf6-76592fd90c33"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.7",
+            "objective_text": "Add text over video.",
+            "objective_uuid": "2c3d0adf-d901-4571-8e84-e18e637eab20"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.12",
+            "objective_text": "Explain the Green Screen (Chroma Key) effect.",
+            "objective_uuid": "cac59843-8f21-43db-afd1-3f27cbea59ae"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.15",
+            "objective_text": "Defend the 'invisible cut'.",
+            "objective_uuid": "a387e747-f4b6-4220-939a-fd6809e086e4"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.9",
+            "objective_text": "Analyze the rhythm of an edit.",
+            "objective_uuid": "efc4c9e9-1e0c-4b07-afaa-ab007a376de5"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.10",
+            "objective_text": "Interpret B-roll usage.",
+            "objective_uuid": "6e9b68cc-9c9a-4303-b98f-555d1250c94e"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.11",
+            "objective_text": "Connect audio syncing to video.",
+            "objective_uuid": "808c6ac8-709e-47e9-986e-3e1d27daf8f8"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.14",
+            "objective_text": "Evaluate rendering settings (codecs/bitrate).",
+            "objective_uuid": "ae6786d2-caad-416f-b634-e3f71d3ef466"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.13",
+            "objective_text": "Construct a narrative video sequence.",
+            "objective_uuid": "81eb6728-99d4-4e26-863f-e3d0a0bd59db"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.6",
+            "sub_subject_name": "Information Technology: Creative & Professional Application",
+            "topic_id": "CPT.6.2",
+            "topic_name": "Multimedia Production",
+            "sub_topic_id": "CPT.6.2.6",
+            "sub_topic_name": "Video Editing (Sequencing, transitions, overlays, rendering)",
+            "objective_id": "CPT.6.2.6.16",
+            "objective_text": "Synthesize color grading with editing.",
+            "objective_uuid": "9917f111-a71a-46f3-a644-8ded496758c6"
+          }
+        ]
+      }
+    }
+  }
+}

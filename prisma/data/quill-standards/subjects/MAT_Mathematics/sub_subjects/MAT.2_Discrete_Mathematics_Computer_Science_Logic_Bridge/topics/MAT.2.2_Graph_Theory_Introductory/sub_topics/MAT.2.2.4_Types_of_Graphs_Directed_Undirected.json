@@ -1,0 +1,296 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.2.4",
+    "name": "Types of Graphs (Directed, Undirected)",
+    "topic_id": "MAT.2.2",
+    "topic_name": "Graph Theory (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Types of Graphs (Directed, Undirected) in Graph Theory (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.1",
+            "objective_text": "Identify a one-way street.",
+            "objective_uuid": "5f6bfe25-e1ba-4758-a592-6ca67a31181c"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.2",
+            "objective_text": "Name a two-way street.",
+            "objective_uuid": "d5c471a7-dcac-42da-abcf-a375440faaab"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.8",
+            "objective_text": "Identify a cycle (loop).",
+            "objective_uuid": "4df0dd5c-9277-4a48-bf65-2493798f7535"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.3",
+            "objective_text": "Recall arrows show direction.",
+            "objective_uuid": "1601bc4b-833c-469a-865b-79cc7ddf2bd7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.4",
+            "objective_text": "Observe flow.",
+            "objective_uuid": "2a45f6ea-1d21-4046-85b5-1ad760d06ba0"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 1,
+        "average_complexity": 8.0,
+        "objectives": [
+          {
+            "complexity": 8,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.6",
+            "objective_text": "Explain a 'Weighted' graph (numbers on the lines).",
+            "objective_uuid": "17af2374-824d-4426-b990-6d8a0fd52e70"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.5",
+            "objective_text": "Summarize Directed (arrows) vs. Undirected (lines).",
+            "objective_uuid": "0b2848ca-09bc-4d53-9abc-1f10066855ac"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.7",
+            "objective_text": "Follow a path on a directed graph.",
+            "objective_uuid": "202bf181-3afc-4bf6-b17f-ea827a4456d1"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.12",
+            "objective_text": "Explain bipartite graphs.",
+            "objective_uuid": "439fe90b-2cf9-441f-ac7c-d750daeaeee7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.15",
+            "objective_text": "Defend the use of DAGs (Directed Acyclic Graphs) in scheduling.",
+            "objective_uuid": "6d2ebc03-0ee3-4bf5-9640-9b1a0e206ba6"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.9",
+            "objective_text": "Analyze trees (graphs with no cycles).",
+            "objective_uuid": "615d9030-650f-4e67-a6ce-9a97d836088f"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.10",
+            "objective_text": "Interpret a flowchart as a directed graph.",
+            "objective_uuid": "5b565317-fd6a-4031-ae7e-9d3d6d45e60c"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.11",
+            "objective_text": "Connect genealogy to trees.",
+            "objective_uuid": "77374271-363a-4c09-ae50-ab56380930b1"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.14",
+            "objective_text": "Evaluate topological sorting.",
+            "objective_uuid": "57d8749a-d885-4632-a458-24e9b7b4b23a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.13",
+            "objective_text": "Construct a state-machine diagram.",
+            "objective_uuid": "3044a473-e0fa-47ca-a7d6-078ad8b0dc0d"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 25.0,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.4",
+            "sub_topic_name": "Types of Graphs (Directed, Undirected)",
+            "objective_id": "MAT.2.2.4.16",
+            "objective_text": "Synthesize computer science data structures.",
+            "objective_uuid": "a79e2a4c-f2c0-427c-886b-d1fac89ec09b"
+          }
+        ]
+      }
+    }
+  }
+}

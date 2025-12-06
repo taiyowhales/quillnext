@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.2.2",
+    "name": "Euler Paths and Hamilton Cycles",
+    "topic_id": "MAT.2.2",
+    "topic_name": "Graph Theory (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Euler Paths and Hamilton Cycles in Graph Theory (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.8",
+            "objective_text": "Identify odd and even vertices.",
+            "objective_uuid": "ebc63479-9fe0-480c-91ea-2635fe2b2c1d"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.3",
+            "objective_text": "Recall solving a maze.",
+            "objective_uuid": "38a088da-a1e8-401e-9a2d-b973fff31030"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.4",
+            "objective_text": "Observe puzzles.",
+            "objective_uuid": "06f90e6b-84d9-4673-a27e-50dfb35811d3"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 7,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.1",
+            "objective_text": "Trace a shape without lifting the pencil.",
+            "objective_uuid": "f862c868-3b6b-4264-bf50-be1a5a4f63e4"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.2",
+            "objective_text": "Try not to cross a line.",
+            "objective_uuid": "8f3ac98b-b641-449c-9f25-c5c8a3a47d59"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.5",
+            "objective_text": "Summarize the Seven Bridges of Königsberg problem.",
+            "objective_uuid": "420778e5-3d29-4007-8225-69235f5cdbd7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.6",
+            "objective_text": "Explain an Euler Path (visit every edge once).",
+            "objective_uuid": "989820f7-26bc-4670-8854-4d7d6ebcf930"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.7",
+            "objective_text": "Try to draw the 'envelope' shape without lifting pen.",
+            "objective_uuid": "dfd932c4-cc2f-4ff6-9de9-1d07195cff93"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.12",
+            "objective_text": "Explain why some graphs are impossible to trace.",
+            "objective_uuid": "66a40f57-9b6a-44d4-bb0c-b30a76ec70ff"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.15",
+            "objective_text": "Defend the historical significance of Euler's solution.",
+            "objective_uuid": "c007d2b9-04c3-4546-8937-ddf3364c7c3f"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 3,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.9",
+            "objective_text": "Analyze Euler's Theorem (based on vertex degree).",
+            "objective_uuid": "19d51343-ecb9-446a-aa2e-be46a58c52ae"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.10",
+            "objective_text": "Interpret a Hamilton Cycle (visit every vertex once).",
+            "objective_uuid": "91cac269-2f98-4686-86b9-2698cbf76794"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.11",
+            "objective_text": "Connect the Traveling Salesman Problem to Hamilton cycles.",
+            "objective_uuid": "fa829d78-4a4e-4eaa-9a74-b500e1dc378c"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.14",
+            "objective_text": "Evaluate the complexity of finding Hamilton cycles (NP-complete).",
+            "objective_uuid": "4aedfd31-b8cb-46de-b8af-d24dc2c19d49"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.16",
+            "objective_text": "Synthesize topology with graph theory.",
+            "objective_uuid": "93928f05-cb0f-427b-af03-1725ccbaca12"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.2",
+            "sub_topic_name": "Euler Paths and Hamilton Cycles",
+            "objective_id": "MAT.2.2.2.13",
+            "objective_text": "Construct algorithms to find Eulerian circuits.",
+            "objective_uuid": "29b5b241-965b-4966-8dd2-881496ec6508"
+          }
+        ]
+      }
+    }
+  }
+}

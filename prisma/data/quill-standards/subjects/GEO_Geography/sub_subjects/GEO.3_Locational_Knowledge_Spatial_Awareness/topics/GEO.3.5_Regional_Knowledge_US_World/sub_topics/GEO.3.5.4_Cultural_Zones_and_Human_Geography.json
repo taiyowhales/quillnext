@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "GEO.3.5.4",
+    "name": "Cultural Zones and Human Geography",
+    "topic_id": "GEO.3.5",
+    "topic_name": "Regional Knowledge (US & World)",
+    "subject_id": "GEO",
+    "subject_name": "Geography",
+    "sub_subject_id": "GEO.3",
+    "sub_subject_name": "Physical Geography (Earth Systems & Processes)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Cultural Zones and Human Geography in Regional Knowledge (US & World) (Geography)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 3,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.1",
+            "objective_text": "Identify where people speak Spanish.",
+            "objective_uuid": "5d2408f4-7e67-4da2-be45-93acd31e7703"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.2",
+            "objective_text": "Name the Muslim World.",
+            "objective_uuid": "5167cc0f-00e6-4659-beb3-9abdee93a0a2"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.7",
+            "objective_text": "Identify the Slavic region.",
+            "objective_uuid": "66d4926c-84bc-4bb7-85be-a6666ab30414"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.3",
+            "objective_text": "Recall that culture travels.",
+            "objective_uuid": "1b65d58a-0854-4ec6-aff9-db5b23a1bf91"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.4",
+            "objective_text": "Observe chopsticks vs. forks.",
+            "objective_uuid": "9c34a59f-90f5-4c9a-bb76-692e8720d5da"
+          }
+        ]
+      },
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.5",
+            "objective_text": "Summarize the Francophone world.",
+            "objective_uuid": "979b4cbd-7350-4af7-b3dc-203da548748a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.6",
+            "objective_text": "Explain the concept of the 'Arab World'.",
+            "objective_uuid": "773100bf-2d70-461b-91d3-440e84372d9f"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.12",
+            "objective_text": "Explain the Commonwealth of Nations.",
+            "objective_uuid": "0c62baa7-a396-4ab5-a37a-54816de4b8bc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.15",
+            "objective_text": "Defend the value of cultural distinctives.",
+            "objective_uuid": "9c75e6d4-5da0-4e5f-8100-eb9a2c07e8e9"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.8",
+            "objective_text": "Compare Scandinavian culture with Mediterranean.",
+            "objective_uuid": "59867e9b-de11-4ec6-a98a-4c38bcae240d"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.9",
+            "objective_text": "Analyze the cultural complexity of the Balkans.",
+            "objective_uuid": "117acc9c-21ce-4328-a20f-f75fe5ddbc03"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.10",
+            "objective_text": "Interpret the religious map of the world (10/40 Window).",
+            "objective_uuid": "ee1002d8-c1d2-4a15-bb21-24e02dc471ba"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.11",
+            "objective_text": "Connect language families to migration.",
+            "objective_uuid": "c519c103-dd14-49be-9a5c-d10a15f69340"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.14",
+            "objective_text": "Evaluate the concept of 'Western Civilization'.",
+            "objective_uuid": "31b0a0b8-00a1-49d1-8d3f-97c189f902da"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.13",
+            "objective_text": "Construct a cultural analysis of Southeast Asia.",
+            "objective_uuid": "549c6617-4641-4c87-9488-eec729de7bdb"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "GEO",
+            "subject_name": "Geography",
+            "sub_subject_id": "GEO.3",
+            "sub_subject_name": "Locational Knowledge & Spatial Awareness",
+            "topic_id": "GEO.3.5",
+            "topic_name": "Regional Knowledge (US & World)",
+            "sub_topic_id": "GEO.3.5.4",
+            "sub_topic_name": "Cultural Zones and Human Geography",
+            "objective_id": "GEO.3.5.4.16",
+            "objective_text": "Synthesize anthropology with regional geography.",
+            "objective_uuid": "5c8f1d90-aec6-4c5d-890c-d84a88abe514"
+          }
+        ]
+      }
+    }
+  }
+}

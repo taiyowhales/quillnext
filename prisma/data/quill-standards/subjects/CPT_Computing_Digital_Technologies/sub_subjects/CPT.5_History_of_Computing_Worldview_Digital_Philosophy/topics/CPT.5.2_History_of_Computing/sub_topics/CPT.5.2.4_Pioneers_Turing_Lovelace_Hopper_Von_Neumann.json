@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "CPT.5.2.4",
+    "name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+    "topic_id": "CPT.5.2",
+    "topic_name": "History of Computing",
+    "subject_id": "CPT",
+    "subject_name": "Computing & Digital Technologies",
+    "sub_subject_id": "CPT.5",
+    "sub_subject_name": "Computer Science: Programming & Algorithms",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Pioneers (Turing, Lovelace, Hopper, Von Neumann) in History of Computing (Computing & Digital Technologies)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 11.0,
+        "objectives": [
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.1",
+            "objective_text": "Identify Ada Lovelace (first programmer).",
+            "objective_uuid": "433d5a1b-cc76-4c01-9ab3-2c86fb6fabc4"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.2",
+            "objective_text": "Name Alan Turing (code breaker).",
+            "objective_uuid": "0bdccc15-ecff-47f5-be13-171b03717527"
+          },
+          {
+            "complexity": 11,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.7",
+            "objective_text": "Identify Von Neumann (designed the brain).",
+            "objective_uuid": "4635b988-4568-4632-97b5-661a231b0ca2"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 14.0,
+        "objectives": [
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.3",
+            "objective_text": "Recall that people invent computers.",
+            "objective_uuid": "c36ae44d-0cd5-4eae-8b5f-97b064c4234e"
+          },
+          {
+            "complexity": 14,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.4",
+            "objective_text": "Observe a picture of Grace Hopper.",
+            "objective_uuid": "94f795ac-757b-4149-ae4a-fc20959cdd4b"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.5",
+            "objective_text": "Summarize how Turing helped win the war (Enigma).",
+            "objective_uuid": "0d6df129-1956-44b2-b31d-8ea07a28b85d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.6",
+            "objective_text": "Explain the term 'Bug' (Grace Hopper found a moth).",
+            "objective_uuid": "81d35ec5-e23c-420f-8172-65d887fffb2d"
+          },
+          {
+            "complexity": 17,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.15",
+            "objective_text": "Defend the collaborative nature of innovation.",
+            "objective_uuid": "e320faaf-ca95-474d-a246-083c71775a42"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.8",
+            "objective_text": "Compare a coder with an inventor.",
+            "objective_uuid": "86791e1a-0fc5-4030-8db7-056daa486b88"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.9",
+            "objective_text": "Analyze the Turing Test concept.",
+            "objective_uuid": "a45f14c8-359f-403b-b0bc-1984640e99a1"
+          },
+          {
+            "complexity": 20,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.10",
+            "objective_text": "Interpret the significance of the compiler (Hopper).",
+            "objective_uuid": "8e920d78-c5e9-43c7-b1b0-9971c6dab5b9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 23,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.14",
+            "objective_text": "Evaluate the ethical dilemmas faced by Turing.",
+            "objective_uuid": "09be4737-b52f-4a4a-b9ea-dd487eb53f3b"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 4,
+        "average_complexity": 25.75,
+        "objectives": [
+          {
+            "complexity": 25,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.12",
+            "objective_text": "Explain the first algorithm (Lovelace).",
+            "objective_uuid": "c0d7cf94-c79e-4120-b6b2-5f7bdb589ac2"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.11",
+            "objective_text": "Connect Von Neumann architecture to modern PCs.",
+            "objective_uuid": "e6429c20-5b58-43a1-9c4b-81ec82e05891"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.13",
+            "objective_text": "Construct biographies of key figures.",
+            "objective_uuid": "1b7e96fd-6ee2-4180-963c-4bf8264c49ce"
+          },
+          {
+            "complexity": 26,
+            "subject_id": "CPT",
+            "subject_name": "Computing & Digital Technologies",
+            "sub_subject_id": "CPT.5",
+            "sub_subject_name": "History of Computing, Worldview & Digital Philosophy",
+            "topic_id": "CPT.5.2",
+            "topic_name": "History of Computing",
+            "sub_topic_id": "CPT.5.2.4",
+            "sub_topic_name": "Pioneers (Turing, Lovelace, Hopper, Von Neumann)",
+            "objective_id": "CPT.5.2.4.16",
+            "objective_text": "Synthesize historical impact with technical legacy.",
+            "objective_uuid": "2ae7b7fd-85a2-43c1-9635-124bafd69d1b"
+          }
+        ]
+      }
+    }
+  }
+}

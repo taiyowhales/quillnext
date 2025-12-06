@@ -1,0 +1,303 @@
+{
+  "sub_topic": {
+    "id": "MAT.2.2.1",
+    "name": "Applications in Networks and Scheduling",
+    "topic_id": "MAT.2.2",
+    "topic_name": "Graph Theory (Introductory)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.2",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Applications in Networks and Scheduling in Graph Theory (Introductory) (Mathematics)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.1",
+            "objective_text": "Identify connecting cities with roads.",
+            "objective_uuid": "2a494928-3260-4f14-9a2f-d39f7a518d30"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.8",
+            "objective_text": "Identify a 'Spanning Tree' (connecting everyone efficiently).",
+            "objective_uuid": "afee3642-e81b-4750-8d1b-812fb29e3129"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.3",
+            "objective_text": "Recall finding the shortest way.",
+            "objective_uuid": "fc51ac9a-4738-4cbf-8a05-554c3dd62902"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.4",
+            "objective_text": "Observe the internet connecting computers.",
+            "objective_uuid": "485a8144-6b9e-4056-ab89-dbaaeeb3e0bf"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 5,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.2",
+            "objective_text": "Plan a route.",
+            "objective_uuid": "7f4771b2-610b-49e8-b1dd-b98ce434d169"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.5",
+            "objective_text": "Summarize the 'Shortest Path'.",
+            "objective_uuid": "60e93ca3-943b-42e5-b944-b895ff6b5fe8"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.6",
+            "objective_text": "Explain how GPS finds a route.",
+            "objective_uuid": "e14207a3-4e37-4bb0-974d-b8b598ef3399"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.7",
+            "objective_text": "Schedule classes so they don't overlap (coloring problem).",
+            "objective_uuid": "66edbb68-1ea6-441a-b8c8-7e6fd03e56d0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.12",
+            "objective_text": "Explain network flow.",
+            "objective_uuid": "737fed03-6a24-4671-83c5-32bd4e1355b8"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.10",
+            "objective_text": "Interpret Critical Path Analysis in project management.",
+            "objective_uuid": "62da41d1-ce5d-45e5-8df7-d34e1047735a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.11",
+            "objective_text": "Connect graph coloring to map making (4 Color Theorem).",
+            "objective_uuid": "f96044b8-8dcc-4bc9-946d-bd9eff26e0fc"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.14",
+            "objective_text": "Evaluate the robustness of a network.",
+            "objective_uuid": "d14c4527-320f-459e-adf8-21b02d4a1ca0"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 1,
+        "average_complexity": 17.0,
+        "objectives": [
+          {
+            "complexity": 17,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.15",
+            "objective_text": "Defend the use of graph algorithms in social media analysis.",
+            "objective_uuid": "fe106cd6-0b26-41fd-8be5-855aea0783d0"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.13",
+            "objective_text": "Construct a network model for a logistics problem.",
+            "objective_uuid": "4b104aa6-c7f1-4a57-82dd-06f65e090243"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 1,
+        "average_complexity": 20.0,
+        "objectives": [
+          {
+            "complexity": 20,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.9",
+            "objective_text": "Analyze Dijkstra's Algorithm (conceptually).",
+            "objective_uuid": "4cacf6e1-3c45-40cd-bd84-dd4a2649ee99"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 1,
+        "average_complexity": 26.0,
+        "objectives": [
+          {
+            "complexity": 26,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.2",
+            "sub_subject_name": "Discrete Mathematics (Computer Science & Logic Bridge)",
+            "topic_id": "MAT.2.2",
+            "topic_name": "Graph Theory (Introductory)",
+            "sub_topic_id": "MAT.2.2.1",
+            "sub_topic_name": "Applications in Networks and Scheduling",
+            "objective_id": "MAT.2.2.1.16",
+            "objective_text": "Synthesize algorithmic thinking with real-world constraints.",
+            "objective_uuid": "f0d324ef-d979-41b6-a15e-62d14bb6413e"
+          }
+        ]
+      }
+    }
+  }
+}

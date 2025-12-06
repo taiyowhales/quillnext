@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "MAT.1.5.3",
+    "name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+    "topic_id": "MAT.1.5",
+    "topic_name": "Linear Relationships and Systems",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.1",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Systems of Linear Equations (Substitution, Elimination, Graphing) in Linear Relationships and Systems (Mathematics)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.1",
+            "objective_text": "Identify where two lines cross.",
+            "objective_uuid": "b27b348c-c26d-426f-aca6-1c30f65836f2"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.3",
+            "objective_text": "Name the meeting point.",
+            "objective_uuid": "a33d8dc4-06ba-4ac7-9a12-ae230de62bc5"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.8",
+            "objective_text": "Identify the intersection on a graph.",
+            "objective_uuid": "31edfbd5-c1f7-46e9-b8a8-7daf41218d1f"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.2",
+            "objective_text": "Recall that the crossing spot is special.",
+            "objective_uuid": "f53696c7-2a96-4d0e-8eeb-f160b4344131"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.4",
+            "objective_text": "Observe intersection.",
+            "objective_uuid": "b05863d6-e34b-479e-8344-7341a70ba7a5"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.5",
+            "objective_text": "Summarize that two rules can be true at once.",
+            "objective_uuid": "46be6ea0-cf64-4841-b487-2ac13b0bae20"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.6",
+            "objective_text": "Explain finding a number that works for both.",
+            "objective_uuid": "d3354488-e1d9-4e79-8aff-17dcb1d5909a"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.7",
+            "objective_text": "Guess and check a solution.",
+            "objective_uuid": "765996e8-801a-4f0a-81cd-c88212b23842"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.12",
+            "objective_text": "Explain coincident lines (Infinite Solutions).",
+            "objective_uuid": "5afea632-75e2-45f3-8312-4020c8375a58"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.15",
+            "objective_text": "Defend the method choice based on the system structure.",
+            "objective_uuid": "83bcec40-c76f-4306-817f-0f237ec51333"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 3,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.9",
+            "objective_text": "Analyze the Substitution Method.",
+            "objective_uuid": "51a790c5-ad97-4abc-affc-0323da061d8c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.10",
+            "objective_text": "Interpret the Elimination Method (adding equations).",
+            "objective_uuid": "2cdb2ef0-eca2-4dd1-9e67-774062a214b7"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.11",
+            "objective_text": "Connect parallel lines to 'No Solution'.",
+            "objective_uuid": "1e518a91-c2ee-4127-89bb-3703ba0d6c78"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.14",
+            "objective_text": "Evaluate the efficiency of Gaussian Elimination.",
+            "objective_uuid": "c6166175-b674-4e04-a726-8b45a1dddf90"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.13",
+            "objective_text": "Construct models for real-world mixture problems.",
+            "objective_uuid": "8175db94-1734-464d-9658-635d07e7e487"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.1",
+            "sub_subject_name": "Algebra (Patterns, Relationships & Abstract Thinking)",
+            "topic_id": "MAT.1.5",
+            "topic_name": "Linear Relationships and Systems",
+            "sub_topic_id": "MAT.1.5.3",
+            "sub_topic_name": "Systems of Linear Equations (Substitution, Elimination, Graphing)",
+            "objective_id": "MAT.1.5.3.16",
+            "objective_text": "Synthesize matrix determinants (Cramer's Rule).",
+            "objective_uuid": "67dec547-c5ae-47f5-91c8-33685da2a7ab"
+          }
+        ]
+      }
+    }
+  }
+}

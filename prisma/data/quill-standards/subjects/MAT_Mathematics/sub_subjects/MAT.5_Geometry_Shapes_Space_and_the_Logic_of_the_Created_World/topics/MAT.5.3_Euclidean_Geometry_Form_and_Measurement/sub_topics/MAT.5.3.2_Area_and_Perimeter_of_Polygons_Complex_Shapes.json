@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.3.2",
+    "name": "Area and Perimeter of Polygons (Complex Shapes)",
+    "topic_id": "MAT.5.3",
+    "topic_name": "Euclidean Geometry (Form and Measurement)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Area and Perimeter of Polygons (Complex Shapes) in Euclidean Geometry (Form and Measurement) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 3,
+        "average_complexity": 7.0,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.1",
+            "objective_text": "Identify the outside edge (Perimeter).",
+            "objective_uuid": "648bd7b4-51c4-44ee-a6c7-71a729fc46e6"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.2",
+            "objective_text": "Identify the inside space (Area).",
+            "objective_uuid": "dac9236e-e60e-4786-bee9-9be2c3121c81"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.8",
+            "objective_text": "Identify square units.",
+            "objective_uuid": "5e7c697a-dc22-4119-8323-b408fbc98b33"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 7,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.3",
+            "objective_text": "Walk around a rug.",
+            "objective_uuid": "f3c7cdaf-d5be-45ed-bf28-93728d333dad"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.4",
+            "objective_text": "Count tiles to find area.",
+            "objective_uuid": "ea087810-6710-420e-98de-347cd32d4df3"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.5",
+            "objective_text": "Summarize $Area = Length \\times Width$.",
+            "objective_uuid": "900109e9-3e9c-485d-a41f-9388a664fb30"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.6",
+            "objective_text": "Explain that perimeter adds all sides.",
+            "objective_uuid": "1b84a31f-36d7-452f-a76b-108a3e23478a"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.7",
+            "objective_text": "Break an L-shape into two rectangles.",
+            "objective_uuid": "e1d02aa9-2891-421a-b981-e79e746f3ddb"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.12",
+            "objective_text": "Explain the effect of scaling on area (squared).",
+            "objective_uuid": "3fb9262c-0737-45b0-a217-dc5e5f24b5d9"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.15",
+            "objective_text": "Defend the limit definition of area (approaching curve).",
+            "objective_uuid": "58da060b-aa7b-4877-9279-9988dea5f8cc"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.9",
+            "objective_text": "Analyze formulas for triangles ($1/2 bh$) and trapezoids.",
+            "objective_uuid": "02b56e8f-a46f-44d7-8525-9a546273725b"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.10",
+            "objective_text": "Interpret the area of a parallelogram.",
+            "objective_uuid": "8ab6c76d-b5a9-4af0-b008-eda2b2352b36"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.11",
+            "objective_text": "Connect decomposition to finding area of composite shapes.",
+            "objective_uuid": "a5baaaae-4d6a-4f2f-a03d-48a05b2f1a4c"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.14",
+            "objective_text": "Evaluate Heron's Formula.",
+            "objective_uuid": "a47f719c-8d6f-4145-b377-88e5319b5b96"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.13",
+            "objective_text": "Construct the area formula for regular polygons using apothem.",
+            "objective_uuid": "90aa550e-ec96-41c2-af5f-7a2f1e77de0a"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.2",
+            "sub_topic_name": "Area and Perimeter of Polygons (Complex Shapes)",
+            "objective_id": "MAT.5.3.2.16",
+            "objective_text": "Synthesize integration for area under a curve (intro).",
+            "objective_uuid": "bbab65d4-023b-4a7a-b17c-cfabb65809e7"
+          }
+        ]
+      }
+    }
+  }
+}

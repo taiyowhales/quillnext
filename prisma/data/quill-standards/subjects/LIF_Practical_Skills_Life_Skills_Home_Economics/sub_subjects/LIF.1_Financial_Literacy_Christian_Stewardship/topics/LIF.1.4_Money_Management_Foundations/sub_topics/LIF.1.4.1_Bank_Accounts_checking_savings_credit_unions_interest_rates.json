@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "LIF.1.4.1",
+    "name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+    "topic_id": "LIF.1.4",
+    "topic_name": "Money Management Foundations",
+    "subject_id": "LIF",
+    "subject_name": "Practical Skills, Life Skills & Home Economics",
+    "sub_subject_id": "LIF.1",
+    "sub_subject_name": "Trades, Repair Skills & Hands-On Competencies",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Bank Accounts (checking, savings, credit unions, interest rates) in Money Management Foundations (Practical Skills, Life Skills & Home Economics)",
+    "grade_levels": {
+      "Grade 4": {
+        "grade_number": 4,
+        "objective_count": 3,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.1",
+            "objective_text": "Identify a bank as a safe place for money.",
+            "objective_uuid": "77be075b-9b1f-4388-981a-21acaf0f1606"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.2",
+            "objective_text": "Name a bank card.",
+            "objective_uuid": "ab4f4c32-7e88-4c59-bbbc-4b08ca0120c7"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.7",
+            "objective_text": "Identify an ATM.",
+            "objective_uuid": "8d07c4ec-f4a1-4dc3-bfc8-23206eecbd18"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 2,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.3",
+            "objective_text": "Recall that the bank keeps money until we need it.",
+            "objective_uuid": "b81f6fe7-5cf2-44d9-8fee-9ba4b86530fa"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.4",
+            "objective_text": "Observe a drive-through teller.",
+            "objective_uuid": "a6b92d11-4bab-4f05-9d08-a273ae4911d9"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.5",
+            "objective_text": "Summarize the difference between Checking (spending) and Savings (holding).",
+            "objective_uuid": "2bf4bcbd-f45a-4577-9bd6-2a6d992913c1"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.6",
+            "objective_text": "Explain how to write a check.",
+            "objective_uuid": "beeecd35-a836-43d6-9eac-f68797220c5c"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.12",
+            "objective_text": "Explain the difference between a Bank and a Credit Union.",
+            "objective_uuid": "82cb0ebf-ba02-4021-9ac5-0fb7d76a026b"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.15",
+            "objective_text": "Defend the security of FDIC insurance.",
+            "objective_uuid": "d3e538b7-5b88-4074-912b-ba3e6917a7ff"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 4,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.8",
+            "objective_text": "Compare keeping money under the mattress vs. in a bank.",
+            "objective_uuid": "6b06537e-d76a-4e78-ada9-7053692d214b"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.9",
+            "objective_text": "Analyze how banks make money (lending).",
+            "objective_uuid": "add195e5-2d28-4c2f-bd0b-e46a43855f7f"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.10",
+            "objective_text": "Interpret an interest rate (APY).",
+            "objective_uuid": "9bccbdc0-975d-4105-a203-e7b89f64edf8"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.11",
+            "objective_text": "Connect overdraft fees to poor management.",
+            "objective_uuid": "05df8d20-1d03-49b5-9185-abf4a137d671"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 3,
+        "average_complexity": 23.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.14",
+            "objective_text": "Evaluate the fees associated with different accounts.",
+            "objective_uuid": "1852fc1c-6f4c-41cd-a1a6-c2e71e418537"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.13",
+            "objective_text": "Construct a plan to open and manage a checking account.",
+            "objective_uuid": "09285d91-0a34-48ea-9f9e-6a3d19400e20"
+          },
+          {
+            "complexity": 24,
+            "subject_id": "LIF",
+            "subject_name": "Practical Skills, Life Skills & Home Economics",
+            "sub_subject_id": "LIF.1",
+            "sub_subject_name": "Financial Literacy & Christian Stewardship",
+            "topic_id": "LIF.1.4",
+            "topic_name": "Money Management Foundations",
+            "sub_topic_id": "LIF.1.4.1",
+            "sub_topic_name": "Bank Accounts (checking, savings, credit unions, interest rates)",
+            "objective_id": "LIF.1.4.1.16",
+            "objective_text": "Synthesize digital banking tools with checkbook balancing.",
+            "objective_uuid": "9278fe3f-8f0a-453f-a16a-5ff9fd1da176"
+          }
+        ]
+      }
+    }
+  }
+}

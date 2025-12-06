@@ -1,0 +1,275 @@
+{
+  "sub_topic": {
+    "id": "MAT.5.3.3",
+    "name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+    "topic_id": "MAT.5.3",
+    "topic_name": "Euclidean Geometry (Form and Measurement)",
+    "subject_id": "MAT",
+    "subject_name": "Mathematics",
+    "sub_subject_id": "MAT.5",
+    "sub_subject_name": "Pre-Calculus & Calculus (Advanced Mathematical Ideas)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Circles (radius, diameter, circumference, area, arcs, sectors) in Euclidean Geometry (Form and Measurement) (Mathematics)",
+    "grade_levels": {
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 5,
+        "average_complexity": 8.2,
+        "objectives": [
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.1",
+            "objective_text": "Identify a round shape.",
+            "objective_uuid": "5e95b372-689b-4e13-8e9e-2decc6c62662"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.2",
+            "objective_text": "Name the center point.",
+            "objective_uuid": "dc48ce0d-b2d0-493d-a1de-9f3fe3e45faa"
+          },
+          {
+            "complexity": 7,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.8",
+            "objective_text": "Identify a chord.",
+            "objective_uuid": "147690a7-6814-4c97-879f-f2f2141456e5"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.3",
+            "objective_text": "Recall that all edges are the same distance from the middle.",
+            "objective_uuid": "e731af47-af26-42a9-9a18-b76dc751fe5b"
+          },
+          {
+            "complexity": 10,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.4",
+            "objective_text": "Observe a wheel.",
+            "objective_uuid": "3ea52698-f2ad-4a81-9a24-7119f160db47"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 5,
+        "average_complexity": 13.0,
+        "objectives": [
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.5",
+            "objective_text": "Summarize Radius (half) and Diameter (across).",
+            "objective_uuid": "369a4d99-8e27-4921-aea1-2ba711d355f7"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.6",
+            "objective_text": "Explain Circumference (perimeter of a circle).",
+            "objective_uuid": "941f7341-9404-4d8e-b974-1f4e21a2dd4e"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.7",
+            "objective_text": "Measure a circular object.",
+            "objective_uuid": "fa6cdb48-37df-4f06-99cc-87f1cd2ed43d"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.12",
+            "objective_text": "Explain sectors (pizza slices).",
+            "objective_uuid": "a4fe32a7-9589-49de-b21d-2a5dde0753e5"
+          },
+          {
+            "complexity": 13,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.15",
+            "objective_text": "Defend the properties of inscribed angles.",
+            "objective_uuid": "32af4eba-2d59-4b36-abc8-802434515829"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 3,
+        "average_complexity": 16.0,
+        "objectives": [
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.9",
+            "objective_text": "Analyze the formulas $C = \\pi d$ and $A = \\pi r^2$.",
+            "objective_uuid": "e14128a3-f21c-4935-800e-60e352aec600"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.10",
+            "objective_text": "Interpret Pi ($\\pi$) as a ratio.",
+            "objective_uuid": "85a6ff8e-e2eb-48fa-ae1f-1636699d4fa9"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.11",
+            "objective_text": "Connect arcs to parts of the circumference.",
+            "objective_uuid": "9674b0b2-1948-4e42-b9f4-a7cc07797b03"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 19.0,
+        "objectives": [
+          {
+            "complexity": 19,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.14",
+            "objective_text": "Evaluate the equation of a circle $(x-h)^2 + (y-k)^2 = r^2$.",
+            "objective_uuid": "5aec33c7-3575-4714-9839-b6c8152beaa9"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 22.0,
+        "objectives": [
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.13",
+            "objective_text": "Construct tangent lines and secants.",
+            "objective_uuid": "3dc0451b-984d-4ac6-acc8-e6ae5ea5e53d"
+          },
+          {
+            "complexity": 22,
+            "subject_id": "MAT",
+            "subject_name": "Mathematics",
+            "sub_subject_id": "MAT.5",
+            "sub_subject_name": "Geometry (Shapes, Space, and the Logic of the Created World)",
+            "topic_id": "MAT.5.3",
+            "topic_name": "Euclidean Geometry (Form and Measurement)",
+            "sub_topic_id": "MAT.5.3.3",
+            "sub_topic_name": "Circles (radius, diameter, circumference, area, arcs, sectors)",
+            "objective_id": "MAT.5.3.3.16",
+            "objective_text": "Synthesize radian measure with arc length.",
+            "objective_uuid": "8777a7ee-68ad-4b48-be1e-ddf245360cbd"
+          }
+        ]
+      }
+    }
+  }
+}

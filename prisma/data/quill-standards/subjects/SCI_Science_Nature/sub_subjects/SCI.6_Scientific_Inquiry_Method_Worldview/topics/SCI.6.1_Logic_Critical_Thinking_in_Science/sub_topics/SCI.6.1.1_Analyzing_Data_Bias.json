@@ -1,0 +1,289 @@
+{
+  "sub_topic": {
+    "id": "SCI.6.1.1",
+    "name": "Analyzing Data & Bias",
+    "topic_id": "SCI.6.1",
+    "topic_name": "Logic & Critical Thinking in Science",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.6",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Analyzing Data & Bias in Logic & Critical Thinking in Science (Science & Nature)",
+    "grade_levels": {
+      "Kindergarten": {
+        "grade_number": 0,
+        "objective_count": 1,
+        "average_complexity": 2.0,
+        "objectives": [
+          {
+            "complexity": 2,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.2",
+            "objective_text": "Name numbers found in a test.",
+            "objective_uuid": "6cf39e5e-05e8-4ab7-b157-e9b492705cc1"
+          }
+        ]
+      },
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 2,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.1",
+            "objective_text": "Identify a chart.",
+            "objective_uuid": "c5ecdb48-f070-4ecd-8968-90d3b4543b32"
+          },
+          {
+            "complexity": 3,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.8",
+            "objective_text": "Identify outliers.",
+            "objective_uuid": "927ea7a2-6802-46c0-80a8-c40195266ffd"
+          }
+        ]
+      },
+      "Grade 2": {
+        "grade_number": 2,
+        "objective_count": 2,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.3",
+            "objective_text": "Recall that we must tell the truth about what happened.",
+            "objective_uuid": "836c5984-21c7-4a8c-9b54-f96a444eccf7"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.4",
+            "objective_text": "Observe that people can make mistakes.",
+            "objective_uuid": "f0d3ce6a-024d-40ef-a3e8-604858c80b1b"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 4,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.5",
+            "objective_text": "Summarize why we repeat experiments.",
+            "objective_uuid": "24ed6ff8-5399-412f-9db4-e6d332562146"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.6",
+            "objective_text": "Explain \"Bias\" (wanting a certain answer).",
+            "objective_uuid": "ad7dcafa-65d4-43ed-8ded-5a6ec99b7711"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.12",
+            "objective_text": "Explain \"Cherry Picking\" data.",
+            "objective_uuid": "e1d6b7a2-0c09-4a7b-ba6f-baaa3835fc1a"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.15",
+            "objective_text": "Defend the necessity of honesty in reporting.",
+            "objective_uuid": "ed7924de-cd9d-42b9-8f57-d5c0e1e25db7"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.7",
+            "objective_text": "Compare a fair test with an unfair test.",
+            "objective_uuid": "6a4a3931-8f29-4093-bdbd-c3930ea2617b"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.9",
+            "objective_text": "Analyze correlation vs. causation.",
+            "objective_uuid": "6d739ebe-9a4e-49d1-9c10-dfae8b3c59c1"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.10",
+            "objective_text": "Interpret error bars and uncertainty.",
+            "objective_uuid": "17bea109-9bcd-408f-bd31-2795156cf077"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.11",
+            "objective_text": "Connect funding sources to potential bias.",
+            "objective_uuid": "d360d291-8f1c-434e-8916-99d929148e7e"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.14",
+            "objective_text": "Evaluate sample size and selection.",
+            "objective_uuid": "53d412d4-1a46-40c2-8474-bd0fbc53bf4e"
+          }
+        ]
+      },
+      "Grade 10": {
+        "grade_number": 10,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.13",
+            "objective_text": "Construct a critique of a scientific paper's methodology.",
+            "objective_uuid": "d768acc1-b74f-4062-b26e-39ed7c2ede50"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.6",
+            "sub_subject_name": "Scientific Inquiry, Method & Worldview",
+            "topic_id": "SCI.6.1",
+            "topic_name": "Logic & Critical Thinking in Science",
+            "sub_topic_id": "SCI.6.1.1",
+            "sub_topic_name": "Analyzing Data & Bias",
+            "objective_id": "SCI.6.1.1.16",
+            "objective_text": "Synthesize statistical literacy with scientific literacy.",
+            "objective_uuid": "72d0d6c4-0cdb-45c7-85b2-1ee3f7c86c94"
+          }
+        ]
+      }
+    }
+  }
+}

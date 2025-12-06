@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "SCI.2.1.1",
+    "name": "Conservation & Stewardship",
+    "topic_id": "SCI.2.1",
+    "topic_name": "Environmental Science & Resources",
+    "subject_id": "SCI",
+    "subject_name": "Science & Nature",
+    "sub_subject_id": "SCI.2",
+    "sub_subject_name": "Physical Sciences (Matter, Energy, and the Laws of the Created World)",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Conservation & Stewardship in Environmental Science & Resources (Science & Nature)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 3,
+        "average_complexity": 6.0,
+        "objectives": [
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.1",
+            "objective_text": "Identify ways to save water and electricity at home.",
+            "objective_uuid": "740f8fb3-fb89-4888-8770-e4b880821c86"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.2",
+            "objective_text": "Name the job of a \"Steward\" (taking care of things).",
+            "objective_uuid": "0ad310eb-207c-4cbd-b7e9-b331468aba82"
+          },
+          {
+            "complexity": 6,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.8",
+            "objective_text": "Identify endangered species and habitat loss.",
+            "objective_uuid": "94f7c80f-896b-4c34-9bff-1a6fd8754104"
+          }
+        ]
+      },
+      "Grade 3": {
+        "grade_number": 3,
+        "objective_count": 2,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.3",
+            "objective_text": "Recall that God wants us to keep the earth clean.",
+            "objective_uuid": "84459300-7e51-4058-9e47-b06faba3f2be"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.4",
+            "objective_text": "Observe the difference between a clean park and a messy one.",
+            "objective_uuid": "97caf5a2-c553-4e57-b3f1-474d16aef260"
+          }
+        ]
+      },
+      "Grade 6": {
+        "grade_number": 6,
+        "objective_count": 4,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.5",
+            "objective_text": "Summarize the concept of \"Sustainability\" (using without using up).",
+            "objective_uuid": "30b27005-a899-43aa-8fbd-6c42769e6c47"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.6",
+            "objective_text": "Explain the \"Tragedy of the Commons\" (introductory).",
+            "objective_uuid": "0945a7c1-a234-4506-96cd-8191bd5ba637"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.12",
+            "objective_text": "Explain the concept of a carbon footprint.",
+            "objective_uuid": "d2e9b041-c77f-4cef-a390-413d14ae00f6"
+          },
+          {
+            "complexity": 12,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.15",
+            "objective_text": "Defend the moral obligation of environmental care.",
+            "objective_uuid": "9b59d4e8-2d99-45ef-8c5f-7a091a1f2c64"
+          }
+        ]
+      },
+      "Grade 8": {
+        "grade_number": 8,
+        "objective_count": 4,
+        "average_complexity": 15.0,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.7",
+            "objective_text": "Compare preservation (no touch) with conservation (wise use).",
+            "objective_uuid": "fc587756-60fb-45b6-8dd2-93e0d49b81da"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.9",
+            "objective_text": "Analyze the impact of human population on natural resources.",
+            "objective_uuid": "6adcef5d-970b-4fab-b3a6-3cf34fda7281"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.10",
+            "objective_text": "Interpret the biblical Dominion Mandate as servant-leadership.",
+            "objective_uuid": "dc300a1f-c888-453e-9b23-6154ad7f902e"
+          },
+          {
+            "complexity": 15,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.11",
+            "objective_text": "Connect resource management to love for neighbor (future generations).",
+            "objective_uuid": "e4ffcc22-f484-4f2a-9e09-7ac02d06765a"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 1,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.14",
+            "objective_text": "Evaluate the economic vs. ecological trade-offs in conservation.",
+            "objective_uuid": "01e87b63-1eeb-49d0-b7cf-b4042219fc6a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 21.0,
+        "objectives": [
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.13",
+            "objective_text": "Construct a resource management plan for a local area.",
+            "objective_uuid": "f96f18b5-4517-425b-a51d-61c631179594"
+          },
+          {
+            "complexity": 21,
+            "subject_id": "SCI",
+            "subject_name": "Science & Nature",
+            "sub_subject_id": "SCI.2",
+            "sub_subject_name": "Earth & Environmental Sciences (The Earth God Formed)",
+            "topic_id": "SCI.2.1",
+            "topic_name": "Environmental Science & Resources",
+            "sub_topic_id": "SCI.2.1.1",
+            "sub_topic_name": "Conservation & Stewardship",
+            "objective_id": "SCI.2.1.1.16",
+            "objective_text": "Synthesize theology with ecology.",
+            "objective_uuid": "7e41f24d-81c8-4c3f-8d78-862547fe7a24"
+          }
+        ]
+      }
+    }
+  }
+}

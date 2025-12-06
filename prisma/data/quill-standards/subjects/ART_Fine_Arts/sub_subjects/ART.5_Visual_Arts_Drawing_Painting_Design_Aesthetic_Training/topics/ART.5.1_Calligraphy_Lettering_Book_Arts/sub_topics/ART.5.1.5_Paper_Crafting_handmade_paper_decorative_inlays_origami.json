@@ -1,0 +1,282 @@
+{
+  "sub_topic": {
+    "id": "ART.5.1.5",
+    "name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+    "topic_id": "ART.5.1",
+    "topic_name": "Calligraphy, Lettering & Book Arts",
+    "subject_id": "ART",
+    "subject_name": "Fine Arts",
+    "sub_subject_id": "ART.5",
+    "sub_subject_name": "Art History, Aesthetic Philosophy & Christian Worldview",
+    "total_objectives": 16,
+    "description": "13-year academic progression (K-12) for Paper Crafting (handmade paper, decorative inlays, origami) in Calligraphy, Lettering & Book Arts (Fine Arts)",
+    "grade_levels": {
+      "Grade 1": {
+        "grade_number": 1,
+        "objective_count": 1,
+        "average_complexity": 3.0,
+        "objectives": [
+          {
+            "complexity": 3,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.3",
+            "objective_text": "Identify texture in paper.",
+            "objective_uuid": "6f0b3674-d32d-4675-8771-0cc7818bf756"
+          }
+        ]
+      },
+      "Grade 5": {
+        "grade_number": 5,
+        "objective_count": 8,
+        "average_complexity": 9.0,
+        "objectives": [
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.1",
+            "objective_text": "Fold a paper boat or hat.",
+            "objective_uuid": "eca8d5ee-4e70-4b8c-b1f5-d2b466411b50"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.2",
+            "objective_text": "Cut paper snowflakes.",
+            "objective_uuid": "d4634413-6658-4b65-8a1f-310143269a69"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.4",
+            "objective_text": "Glue paper shapes.",
+            "objective_uuid": "cd79d405-45e7-493e-a1a4-4d1409dfddcc"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.5",
+            "objective_text": "Summarize how paper is made from pulp.",
+            "objective_uuid": "91b5ecbc-5919-480d-abd0-21d7ac64fe94"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.6",
+            "objective_text": "Fold a paper crane (Origami).",
+            "objective_uuid": "85600601-bbf3-44dd-9503-2f3d12b0ef03"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.8",
+            "objective_text": "Recycle paper to make new sheets.",
+            "objective_uuid": "61160450-c968-4d40-b747-7da1f0bcd479"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.12",
+            "objective_text": "Explain Quilling.",
+            "objective_uuid": "5529d0a5-6df7-4c7c-ae8b-5773e39bb1d0"
+          },
+          {
+            "complexity": 9,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.15",
+            "objective_text": "Defend paper as a sculptural medium.",
+            "objective_uuid": "14c564ad-d84d-4aa9-9492-5242f6e6c022"
+          }
+        ]
+      },
+      "Grade 7": {
+        "grade_number": 7,
+        "objective_count": 1,
+        "average_complexity": 12.0,
+        "objectives": [
+          {
+            "complexity": 12,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.11",
+            "objective_text": "Connect paper making to history.",
+            "objective_uuid": "b53b05f1-f002-47aa-98d4-9f0eb71ea0ba"
+          }
+        ]
+      },
+      "Grade 9": {
+        "grade_number": 9,
+        "objective_count": 3,
+        "average_complexity": 15.67,
+        "objectives": [
+          {
+            "complexity": 15,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.14",
+            "objective_text": "Evaluate the tension and structural strength of paper.",
+            "objective_uuid": "011e5af0-9223-4e71-8256-88509bfd0bcd"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.7",
+            "objective_text": "Create a simple pop-up card.",
+            "objective_uuid": "50e666f3-639e-423c-a851-800d2e92e969"
+          },
+          {
+            "complexity": 16,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.9",
+            "objective_text": "Analyze the geometry of folding.",
+            "objective_uuid": "f4f67c7f-247f-483c-baf4-ce7ad5f6880a"
+          }
+        ]
+      },
+      "Grade 11": {
+        "grade_number": 11,
+        "objective_count": 2,
+        "average_complexity": 18.0,
+        "objectives": [
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.10",
+            "objective_text": "Interpret the engineering of a pop-up mechanism.",
+            "objective_uuid": "bd48ace6-2870-4a05-84c8-c1765cee5da7"
+          },
+          {
+            "complexity": 18,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.16",
+            "objective_text": "Synthesize precision cutting and folding.",
+            "objective_uuid": "3742667f-4849-4022-9b2f-de28e50ec23e"
+          }
+        ]
+      },
+      "Grade 12": {
+        "grade_number": 12,
+        "objective_count": 1,
+        "average_complexity": 24.0,
+        "objectives": [
+          {
+            "complexity": 24,
+            "subject_id": "ART",
+            "subject_name": "Fine Arts",
+            "sub_subject_id": "ART.5",
+            "sub_subject_name": "Visual Arts (Drawing, Painting, Design & Aesthetic Training)",
+            "topic_id": "ART.5.1",
+            "topic_name": "Calligraphy, Lettering & Book Arts",
+            "sub_topic_id": "ART.5.1.5",
+            "sub_topic_name": "Paper Crafting (handmade paper, decorative inlays, origami)",
+            "objective_id": "ART.5.1.5.13",
+            "objective_text": "Construct complex paper architecture.",
+            "objective_uuid": "b477b059-930f-4610-a2f8-c9a1e6809fae"
+          }
+        ]
+      }
+    }
+  }
+}
