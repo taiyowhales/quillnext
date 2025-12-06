@@ -5,6 +5,11 @@ const nextConfig = {
       bodySizeLimit: '2mb',
     },
   },
+  // Transpile Prisma Client to handle TypeScript files in node_modules
+  transpilePackages: [
+    '@prisma/client',
+    '.prisma/client',
+  ],
   images: {
     remotePatterns: [
       {

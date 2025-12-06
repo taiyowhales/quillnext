@@ -55,7 +55,7 @@ export async function calculateCoursePacing(
   const endDate = classroom.schoolYearEndDate;
 
   // Get planned holidays
-  const plannedOffDays = classroom.holidays.map((h) => h.holidayDate);
+  const plannedOffDays = classroom.holidays.map((h: { holidayDate: Date }) => h.holidayDate);
 
   return calculatePacingFromSchedule(
     {

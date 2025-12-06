@@ -20,6 +20,7 @@
     "@auth/prisma-adapter": "^2.11.1",
     "@hookform/resolvers": "^5.2.2",
     "@phosphor-icons/react": "^2.1.10",
+    "@prisma/adapter-pg": "^7.1.0",
     "@prisma/client": "^7.1.0",
     "@prisma/extension-accelerate": "^3.0.1",
     "@radix-ui/react-slot": "^1.1.0",
@@ -36,6 +37,7 @@
     "next": "^16.0.7",
     "next-auth": "^5.0.0-beta.30",
     "nuqs": "^2.8.3",
+    "pg": "^8.16.3",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-hook-form": "^7.68.0",
@@ -47,6 +49,7 @@
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
+    "@types/pg": "^8.15.6",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.15.0",
