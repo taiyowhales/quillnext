@@ -221,48 +221,75 @@ async function main() {
     // 2. Load Sequenced Standards (updates gradeLevel, complexity, sortOrder)
     console.log("📊 Loading sequenced standards...");
     const sequencedPaths = [
-      path.join(process.cwd(), "quill-standards", "academic_standards_sequenced.json"),
       path.join(process.cwd(), "prisma", "data", "quill-standards", "academic_standards_sequenced.json"),
+      path.join(process.cwd(), "quill-standards", "academic_standards_sequenced.json"),
     ];
     const sequencedPath = sequencedPaths.find((p) => fs.existsSync(p));
 
-    if (fs.existsSync(sequencedPath)) {
+    if (sequencedPath && fs.existsSync(sequencedPath)) {
       const sequencedRaw = fs.readFileSync(sequencedPath, "utf-8");
       const sequenced = JSON.parse(sequencedRaw) as {
-        objectives?: Array<{
-          objectiveId?: string;
-          code?: string;
-          gradeLevel?: number;
-          complexity?: number;
-          sortOrder?: number;
-        }>;
+        curriculum_sequence?: {
+          grade_levels?: Record<string, {
+            grade_number?: number;
+            subjects?: Record<string, {
+              objectives?: Array<{
+                objective_id?: string;
+                objective_uuid?: string;
+                grade?: number;
+                complexity?: number;
+              }>;
+            }>;
+          }>;
+        };
       };
 
-      if (sequenced.objectives) {
-        for (const seqObj of sequenced.objectives) {
-          if (seqObj.code) {
-            await prisma.objective.updateMany({
-              where: { code: seqObj.code },
-              data: {
-                gradeLevel: seqObj.gradeLevel ?? null,
-                complexity: seqObj.complexity ?? null,
-                sortOrder: seqObj.sortOrder ?? 0,
-              },
-            });
+      let updatedCount = 0;
+      
+      if (sequenced.curriculum_sequence?.grade_levels) {
+        // Iterate through all grade levels
+        for (const gradeLevelData of Object.values(sequenced.curriculum_sequence.grade_levels)) {
+          if (gradeLevelData.subjects) {
+            // Iterate through all subjects in this grade level
+            for (const subjectData of Object.values(gradeLevelData.subjects)) {
+              if (subjectData.objectives) {
+                // Update each objective
+                for (const seqObj of subjectData.objectives) {
+                  if (seqObj.objective_id) {
+                    const result = await prisma.objective.updateMany({
+                      where: { code: seqObj.objective_id },
+                      data: {
+                        gradeLevel: seqObj.grade ?? null,
+                        complexity: seqObj.complexity ?? null,
+                      },
+                    });
+                    updatedCount += result.count;
+                  }
+                }
+              }
+            }
           }
         }
-        console.log(`  ✓ Updated ${sequenced.objectives.length} objectives with sequencing data`);
+        console.log(`  ✓ Updated ${updatedCount} objectives with sequencing data`);
+      } else {
+        console.warn("⚠️  Sequenced data structure not recognized. Skipping sequencing.");
       }
     } else {
       console.warn("⚠️  academic_standards_sequenced.json not found. Skipping sequencing.");
+      console.warn("   Tried:", sequencedPaths);
     }
 
     // 3. Load Content Types (The "Glue" - ResourceKind)
     console.log("🔗 Loading generator content types...");
-    const yamlPath = path.join(process.cwd(), "GENERATOR_CONTENT_TYPES.YAML");
+    const yamlPaths = [
+      path.join(process.cwd(), "prisma", "data", "GENERATOR_CONTENT_TYPES.YAML"),
+      path.join(process.cwd(), "GENERATOR_CONTENT_TYPES.YAML"),
+    ];
+    const yamlPath = yamlPaths.find((p) => fs.existsSync(p));
 
-    if (!fs.existsSync(yamlPath)) {
+    if (!yamlPath || !fs.existsSync(yamlPath)) {
       console.warn("⚠️  GENERATOR_CONTENT_TYPES.YAML not found. Skipping ResourceKind seeding.");
+      console.warn("   Tried:", yamlPaths);
     } else {
       const yamlRaw = fs.readFileSync(yamlPath, "utf-8");
       const contentTypes = yaml.load(yamlRaw) as Record<
