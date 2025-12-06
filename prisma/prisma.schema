@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------
 
 generator client {
-  provider = "prisma-client" // New standard in Prisma 7 (Rust-free, ESM-first)
+  provider = "prisma-client" // Prisma 7 standard (Rust-free, ESM-first)
   output   = "../node_modules/.prisma/client" // Standard output path
 }
 
