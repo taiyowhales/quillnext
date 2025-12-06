@@ -3,16 +3,11 @@
  * 
  * Connection URLs are now configured here instead of in schema.prisma
  * This file is used by Prisma Migrate and other CLI tools
- * 
- * Note: This file is excluded from TypeScript compilation
  */
 
-// @ts-nocheck
-const config = {
+module.exports = {
   datasource: {
     url: process.env.DATABASE_URL, // Used for migrations
   },
 };
-
-module.exports = config;
 

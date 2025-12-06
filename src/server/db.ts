@@ -62,7 +62,17 @@ function createPrismaClient() {
         log: ["error"],
       } as any);
     }
-    const pool = new Pool({ connectionString: databaseUrl });
+    // Handle SSL configuration for Railway pgvector template
+    // Use 'prefer' mode which tries SSL but falls back to non-SSL if server doesn't support it
+    let connectionString = databaseUrl;
+    
+    // If connection string doesn't specify sslmode, add prefer mode
+    if (!connectionString.includes("sslmode=")) {
+      const separator = connectionString.includes("?") ? "&" : "?";
+      connectionString = `${connectionString}${separator}sslmode=prefer`;
+    }
+    
+    const pool = new Pool({ connectionString });
     const adapter = new PrismaPg(pool);
     return new PrismaClient({
       adapter,

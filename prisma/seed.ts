@@ -1,9 +1,29 @@
+import "dotenv/config";
 import { PrismaClient } from "@prisma/client";
+import { Pool } from "pg";
+import { PrismaPg } from "@prisma/adapter-pg";
 import fs from "fs";
 import path from "path";
 import yaml from "js-yaml";
 
-const prisma = new PrismaClient();
+// Create a direct Prisma client for seeding (without Accelerate extension)
+// This avoids Accelerate communication issues during bulk seeding operations
+const createPrismaClient = () => {
+  const databaseUrl = process.env.DIRECT_DATABASE_URL || process.env.DATABASE_URL;
+  
+  if (!databaseUrl) {
+    throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
+  }
+  
+  // Use direct connection for seeding (no Accelerate extension)
+  const pool = new Pool({ connectionString: databaseUrl });
+  const adapter = new PrismaPg(pool);
+  return new PrismaClient({
+    adapter,
+  });
+};
+
+const prisma = createPrismaClient();
 
 /**
  * Database Seeding Script
@@ -65,32 +85,37 @@ async function main() {
 
       if (standards.subjects) {
         for (const subject of standards.subjects) {
+          // Map JSON "id" to database "code" (e.g., "ART" -> code)
+          const subjectCode = subject.id || subject.code;
+          
           // Upsert Subject
           const dbSubject = await prisma.subject.upsert({
-            where: { code: subject.code },
+            where: { code: subjectCode },
             update: {
               name: subject.name,
               description: subject.description,
             },
             create: {
-              code: subject.code,
+              code: subjectCode,
               name: subject.name,
               description: subject.description,
-              uuid: subject.id,
+              uuid: subject.uuid,
               sortOrder: 0, // Will be updated from sequenced data
             },
           });
 
           console.log(`  ✓ Subject: ${subject.name}`);
 
-          // Process Strands
-          if (subject.strands) {
-            for (const strand of subject.strands) {
+          // Process SubSubjects (JSON calls them "sub_subjects", schema calls them "strands")
+          if (subject.sub_subjects) {
+            for (const strand of subject.sub_subjects) {
+              const strandCode = strand.id || strand.code;
+              
               const dbStrand = await prisma.strand.upsert({
                 where: {
                   subjectId_code: {
                     subjectId: dbSubject.id,
-                    code: strand.code,
+                    code: strandCode,
                   },
                 },
                 update: {
@@ -99,10 +124,11 @@ async function main() {
                 },
                 create: {
                   subjectId: dbSubject.id,
-                  code: strand.code,
+                  code: strandCode,
+                  shortCode: strand.short_code,
                   name: strand.name,
                   description: strand.description,
-                  uuid: strand.id,
+                  uuid: strand.uuid,
                   sortOrder: 0,
                 },
               });
@@ -110,11 +136,13 @@ async function main() {
               // Process Topics
               if (strand.topics) {
                 for (const topic of strand.topics) {
+                  const topicCode = topic.id || topic.code;
+                  
                   const dbTopic = await prisma.topic.upsert({
                     where: {
                       strandId_code: {
                         strandId: dbStrand.id,
-                        code: topic.code,
+                        code: topicCode,
                       },
                     },
                     update: {
@@ -123,10 +151,11 @@ async function main() {
                     },
                     create: {
                       strandId: dbStrand.id,
-                      code: topic.code,
+                      code: topicCode,
+                      shortCode: topic.short_code,
                       name: topic.name,
                       description: topic.description,
-                      uuid: topic.id,
+                      uuid: topic.uuid,
                       sortOrder: 0,
                     },
                   });
@@ -134,11 +163,13 @@ async function main() {
                   // Process Subtopics
                   if (topic.sub_topics) {
                     for (const subtopic of topic.sub_topics) {
+                      const subtopicCode = subtopic.id || subtopic.code;
+                      
                       const dbSubtopic = await prisma.subtopic.upsert({
                         where: {
                           topicId_code: {
                             topicId: dbTopic.id,
-                            code: subtopic.code,
+                            code: subtopicCode,
                           },
                         },
                         update: {
@@ -147,10 +178,11 @@ async function main() {
                         },
                         create: {
                           topicId: dbTopic.id,
-                          code: subtopic.code,
+                          code: subtopicCode,
+                          shortCode: subtopic.short_code,
                           name: subtopic.name,
                           description: subtopic.description,
-                          uuid: subtopic.id,
+                          uuid: subtopic.uuid,
                           sortOrder: 0,
                         },
                       });
@@ -158,16 +190,19 @@ async function main() {
                       // Process Objectives
                       if (subtopic.objectives) {
                         for (const objective of subtopic.objectives) {
+                          const objectiveCode = objective.id || objective.code;
+                          
                           await prisma.objective.upsert({
-                            where: { code: objective.code },
+                            where: { code: objectiveCode },
                             update: {
                               text: objective.text,
                             },
                             create: {
                               subtopicId: dbSubtopic.id,
-                              code: objective.code,
+                              code: objectiveCode,
+                              shortCode: objective.short_code,
                               text: objective.text,
-                              uuid: objective.id,
+                              uuid: objective.uuid,
                               sortOrder: 0, // Will be updated from sequenced data
                             },
                           });
