@@ -3,8 +3,8 @@
 // -----------------------------------------------------------------------
 
 generator client {
-  provider = "prisma-client" // Prisma 7 standard (Rust-free, ESM-first)
-  output   = "../node_modules/.prisma/client" // Standard output path
+  provider = "prisma-client-js" // Use JS generator for Next.js 16/Railway compatibility
+  // Using default output path for better compatibility
 }
 
 datasource db {
