@@ -1,12 +1,12 @@
 # QuillNext
 
-Curriculum generation platform built with Next.js, tRPC, Prisma, and Tailwind CSS v4.
+AI-powered curriculum generation platform built with Next.js 16 App Router, Prisma, and Tailwind CSS v4.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js 20.9+ (Active LTS: Node.js 24 recommended)
+- Node.js ≥ 24 (Active LTS recommended)
 - PostgreSQL database
 - npm or yarn
 
@@ -50,24 +50,50 @@ Open [http://localhost:3000](http://localhost:3000) to see the app.
 ## Project Structure
 
 - `src/app/` - Next.js App Router pages and layouts
-- `src/components/` - React components
-- `src/server/api/` - tRPC API routers
-- `src/lib/` - Utility functions and shared code
+- `src/components/` - React components (Server Components by default)
+- `src/server/` - Server-side code (actions, database client)
+- `src/lib/` - Utility functions, schemas, and shared code
 - `src/types/` - TypeScript type definitions
 - `prisma/` - Prisma schema and migrations
 - `quill-standards/` - Academic standards data
 
 ## Tech Stack
 
-- **Framework:** Next.js 16 (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS v4
-- **Database:** PostgreSQL with Prisma ORM
-- **API:** tRPC
-- **AI Models:** Gemini 3 Pro, Gemini 2.5 Pro, Flash, Flash-Lite (intelligent task-based selection)
-- **Authentication:** Auth.js (NextAuth.js v5)
-- **Forms:** React Hook Form + Zod
+### Core
+- **Framework:** Next.js 16 (App Router, Turbopack)
+- **Language:** TypeScript 5.9 (strict mode)
+- **Runtime:** Node.js ≥ 24
+
+### Database & ORM
+- **Database:** PostgreSQL
+- **ORM:** Prisma v7
+- **Connection:** Prisma Accelerate (optional)
+- **Authentication:** Auth.js / NextAuth v5
+
+### Data Layer
+- **Server Actions:** Primary data mutation pattern (see `src/server/actions/README.md`)
+- **Validation:** Zod
+
+### UI & Styling
+- **Styling:** Tailwind CSS v4.1
+- **Components:** Radix UI (via shadcn)
 - **Icons:** Phosphor Icons
+- **Animations:** Framer Motion
+
+### State Management
+- **URL State:** Nuqs (source of truth)
+- **Page State:** React Server Components (default)
+
+### Forms & Validation
+- **Forms:** React Hook Form
+- **Schema Validation:** Zod
+
+### Content & Features
+- **AI:** Vercel AI SDK
+  - Models: Gemini 2.0 Flash, Gemini 1.5 Pro
+- **Rich Text:** Tiptap
+- **Maps:** Leaflet + React Leaflet
+- **Drag & Drop:** dnd-kit
 
 ## Development
 

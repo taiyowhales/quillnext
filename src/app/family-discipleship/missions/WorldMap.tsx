@@ -1,0 +1,109 @@
+'use client';
+
+import React, { useEffect, useState, useMemo } from 'react';
+import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+import { mapCountryToOperationWorld, findOperationWorldData, createOperationWorldLookup } from './utils/countryMapping';
+
+interface WorldMapProps {
+    stats: any;
+    onCountrySelect: (countryData: any) => void;
+}
+
+const GeoJSONStyle = {
+    fillColor: '#3b82f6',
+    weight: 1, // Thinner lines
+    opacity: 0.2, // More transparent outlines
+    color: 'white',
+    dashArray: '', // Solid lines (no dashes)
+    fillOpacity: 0.3
+};
+
+const HoverStyle = {
+    weight: 2,
+    color: '#666',
+    dashArray: '',
+    fillOpacity: 0.5
+};
+
+export default function WorldMap({ stats, onCountrySelect }: WorldMapProps) {
+    const [geoJsonData, setGeoJsonData] = useState<any>(null);
+    const [isLoading, setIsLoading] = useState(true);
+
+    const operationWorldLookup = useMemo(() => {
+        if (!stats?.countries) return {};
+        return createOperationWorldLookup(stats.countries);
+    }, [stats]);
+
+    useEffect(() => {
+        // Fetch a reliable public GeoJSON of the world
+        fetch('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson')
+            .then(res => res.json())
+            .then(data => {
+                setGeoJsonData(data);
+                setIsLoading(false);
+            })
+            .catch(err => {
+                console.error("Failed to load map data", err);
+                setIsLoading(false);
+            });
+    }, []);
+
+    const onEachFeature = (feature: any, layer: any) => {
+        const countryId = feature.id || feature.properties?.name || feature.properties?.sovereignt;
+        const name = feature.properties?.name || feature.id;
+
+        layer.on({
+            mouseover: (e: any) => {
+                const layer = e.target;
+                layer.setStyle(HoverStyle);
+                layer.bringToFront();
+            },
+            mouseout: (e: any) => {
+                const layer = e.target;
+                layer.setStyle(GeoJSONStyle);
+            },
+            click: () => {
+                // Determine country name and lookup data
+                const foundData = findOperationWorldData(countryId, operationWorldLookup) ||
+                    findOperationWorldData(name, operationWorldLookup);
+
+                if (foundData) {
+                    onCountrySelect({
+                        country: foundData.country,
+                        data: foundData.data,
+                        url: foundData.url
+                    });
+                } else {
+                    // Fallback if data not found, still select it so user sees name
+                    onCountrySelect({
+                        country: name || "Unknown",
+                        data: {},
+                        url: undefined
+                    });
+                }
+            }
+        });
+    };
+
+    if (isLoading) {
+        return <div className="h-full w-full flex items-center justify-center bg-gray-100 rounded-lg">Loading Map...</div>;
+    }
+
+    return (
+        <MapContainer center={[20, 0]} zoom={2} style={{ height: '100%', width: '100%', borderRadius: '0.5rem' }}>
+            {/* Base layer with labels (under shapes) */}
+            <TileLayer
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+                url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+            />
+            {geoJsonData && (
+                <GeoJSON
+                    data={geoJsonData}
+                    style={GeoJSONStyle}
+                    onEachFeature={onEachFeature}
+                />
+            )}
+        </MapContainer>
+    );
+}

@@ -1,0 +1,44 @@
+
+import React from 'react';
+import { getUnreachedOfTheDayAction, getOperationWorldStats } from './actions';
+import { UnreachedOfTheDay } from './UnreachedOfTheDay';
+import { CountryInfoCard } from './CountryInfoCard';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import MissionsClient from './MissionsClient';
+
+export default async function MissionsPage() {
+    const unreachedData = await getUnreachedOfTheDayAction();
+    const worldStats = await getOperationWorldStats();
+
+    return (
+        <div className="container mx-auto p-6 space-y-8">
+            <div className="space-y-2">
+                <h1 className="text-3xl font-bold text-qc-primary">Missions & Global Prayer</h1>
+                <p className="text-muted-foreground">
+                    "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession." (Psalm 2:8)
+                </p>
+            </div>
+
+            {/* Featured Unreached Group */}
+            <section>
+                <h2 className="text-xl font-semibold mb-4">Unreached People Group of the Day</h2>
+                <UnreachedOfTheDay data={unreachedData} />
+            </section>
+
+            {/* Operation World Explorer */}
+            <section>
+                <div className="mb-4">
+                    <h2 className="text-xl font-semibold">Operation World Explorer</h2>
+                    <p className="text-sm text-muted-foreground">Explore prayer needs for every nation.</p>
+                </div>
+
+                <Card>
+                    <CardContent className="p-0">
+                        <MissionsClient stats={worldStats} />
+                    </CardContent>
+                </Card>
+            </section>
+        </div>
+    );
+}

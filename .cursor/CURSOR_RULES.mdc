@@ -108,6 +108,7 @@ We do **not** use `tailwind.config.js`. Design tokens are defined in `app/global
   * **Migrations:** Use `prisma migrate`. Never manually hack the DB.
   * **Access:** Rely on Prisma. Avoid raw SQL unless strictly necessary (and then parameterize).
   * **Efficiency:** Use `include` and `select` to prevent over-fetching.
+  * **📖 Academic Spine:** See `.cursor/CURRICULUM_INTEGRATION_GUIDE.mdc` for Academic Spine data structure, seeding strategy, and curriculum integration patterns.
 
 ### 4\. tRPC v11 & API
 
@@ -167,6 +168,7 @@ We do **not** use `tailwind.config.js`. Design tokens are defined in `app/global
   * **Usage:** Use `getModelForTask(AITaskType)` for automatic selection
   * **Embeddings:** OpenAI `text-embedding-3-small` (1536 dimensions)
   * **Reference:** [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
+  * **📖 Detailed Strategy:** See `.cursor/GEMINI_STRATEGY.mdc` for complete model selection guidelines, cost optimization, and task-based routing
 
 ## 📚 Canonical Documentation Reference
 
@@ -183,6 +185,21 @@ We do **not** use `tailwind.config.js`. Design tokens are defined in `app/global
   * [TanStack Query](https://tanstack.com/query/latest)
   * [Nuqs](https://nuqs.47ng.com)
   * [React Email](https://react.email/docs)
+
+## 📖 Project-Specific Documentation
+
+**Essential Reading for Understanding This Codebase:**
+
+  * **`.cursor/CURRICULUM_INTEGRATION_GUIDE.mdc`** - Academic Spine architecture, curriculum data flow, and "No Blank Canvases" philosophy. **Required reading** before working on curriculum features, generators, or course builder.
+  
+  * **`.cursor/FEATURES_OVERVIEW.mdc`** - Complete feature specifications, user flows, and implementation details for all major features (Family Blueprint, Student Assessment, Living Library, Generators, Course Builder, Grading).
+  
+  * **`.cursor/GEMINI_STRATEGY.mdc`** - AI model selection strategy, task-based model routing, cost optimization, and Gemini API configuration. **Required reading** before implementing any AI features.
+
+**When to Reference:**
+- **CURRICULUM_INTEGRATION_GUIDE**: When working with Academic Spine data, ResourceKinds, generators, or course building
+- **FEATURES_OVERVIEW**: When implementing new features or understanding existing feature requirements
+- **GEMINI_STRATEGY**: When adding AI functionality, selecting models, or optimizing AI costs
 
 ## 📦 Package Versions (December 2025)
 

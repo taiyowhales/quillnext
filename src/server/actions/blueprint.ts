@@ -23,7 +23,7 @@ import bcrypt from "bcryptjs";
  * Creates/updates classroom and instructors
  */
 export async function saveClassroomStep(
-  organizationId: string,
+  organizationId: string | null,
   userId: string,
   data: z.infer<typeof classroomStepSchema>,
 ) {
@@ -34,9 +34,31 @@ export async function saveClassroomStep(
 
   // Use transaction to ensure consistency
   const result = await db.$transaction(async (tx: Parameters<Parameters<typeof db.$transaction>[0]>[0]) => {
+    let activeOrgId = organizationId;
+
+    // If no organization exists, create one
+    if (!activeOrgId) {
+      const lastName = validated.instructors[0]?.lastName || "Family";
+      const orgName = `${lastName} Family`;
+
+      const newOrg = await tx.organization.create({
+        data: {
+          name: orgName,
+          type: "PARENT_INSTRUCTOR",
+        },
+      });
+      activeOrgId = newOrg.id;
+
+      // Link user to new organization
+      await tx.user.update({
+        where: { id: userId },
+        data: { organizationId: activeOrgId },
+      });
+    }
+
     // Find existing classroom or create new one
     let classroom = await tx.classroom.findFirst({
-      where: { organizationId },
+      where: { organizationId: activeOrgId },
       orderBy: { createdAt: "desc" },
     });
 
@@ -51,13 +73,14 @@ export async function saveClassroomStep(
           educationalPhilosophyOther: validated.educationalPhilosophyOther,
           faithBackground: validated.faithBackground,
           faithBackgroundOther: validated.faithBackgroundOther,
+          academicGoals: validated.academicGoals || [],
         },
       });
     } else {
       // Create new classroom
       classroom = await tx.classroom.create({
         data: {
-          organizationId,
+          organizationId: activeOrgId,
           createdByUserId: userId,
           name: validated.name,
           description: validated.description,
@@ -65,6 +88,7 @@ export async function saveClassroomStep(
           educationalPhilosophyOther: validated.educationalPhilosophyOther,
           faithBackground: validated.faithBackground,
           faithBackgroundOther: validated.faithBackgroundOther,
+          academicGoals: validated.academicGoals || [],
           // Default schedule dates (will be updated in schedule step)
           schoolYearStartDate: new Date(),
           schoolYearEndDate: new Date(),
@@ -107,7 +131,7 @@ export async function saveClassroomStep(
       });
     }
 
-    return { classroom, instructors };
+    return { classroom, instructors, organizationId: activeOrgId };
   });
 
   revalidatePath("/onboarding");
@@ -193,8 +217,9 @@ export async function saveScheduleStep(
 
 /**
  * Save Environment step (Step 3)
- * Stores environment preferences (may be stored in a separate table or JSON)
- * For now, we'll store in a JSON field on the classroom
+ * Stores environment preferences in a JSON field
+ * Note: Requires adding `environmentPreferences Json?` field to Classroom model
+ * For now, we'll use a workaround by storing in description or create a separate table
  */
 export async function saveEnvironmentStep(
   organizationId: string,
@@ -211,11 +236,26 @@ export async function saveEnvironmentStep(
     throw new Error("Classroom not found. Please complete Step 1 first.");
   }
 
-  // Store environment data as JSON (or create a separate model)
-  // For MVP, we'll add this to a JSON field if you add it to the schema
-  // For now, this is a placeholder that you can extend
+  // Store environment data in the proper JSON field
+  const environmentData = {
+    philosophyPreferences: validated.philosophyPreferences || [],
+    resourceTypes: validated.resourceTypes || [],
+    goals: validated.goals || [],
+    deviceTypes: validated.deviceTypes || [],
+    challenges: validated.challenges || [],
+    faithBackground: validated.faithBackground || null,
+  };
+
+  // Update classroom with environment preferences
+  await db.classroom.update({
+    where: { id: classroom.id },
+    data: {
+      environmentPreferences: environmentData,
+    },
+  });
 
   revalidatePath("/onboarding");
+  revalidatePath("/blueprint");
   return { success: true, message: "Environment preferences saved" };
 }
 
@@ -223,7 +263,11 @@ export async function saveEnvironmentStep(
  * Get current blueprint progress
  * Used to restore wizard state
  */
-export async function getBlueprintProgress(organizationId: string) {
+export async function getBlueprintProgress(organizationId: string | null) {
+  if (!organizationId) {
+    return { step: 1, data: null };
+  }
+
   const classroom = await db.classroom.findFirst({
     where: { organizationId },
     include: {
@@ -239,10 +283,11 @@ export async function getBlueprintProgress(organizationId: string) {
 
   // Determine which step is complete
   const hasSchedule =
-    classroom.schoolYearStartDate && classroom.schoolYearEndDate && classroom.schoolDaysOfWeek;
+    classroom.schoolYearStartDate && classroom.schoolYearEndDate;
 
+  // If schedule is done, we are effectively done with the wizard (Step 3 removed)
   return {
-    step: hasSchedule ? 3 : 2,
+    step: hasSchedule ? 3 : 2, // 3 means "Done" in this context since we only have 2 steps
     data: classroom,
   };
 }

@@ -1,0 +1,31 @@
+import { auth } from "@/auth";
+import { db } from "@/server/db";
+
+/**
+ * Get current user's organization ID
+ * Throws if user is not authenticated
+ */
+// Allow passing session to avoid re-fetching
+export async function getCurrentUserOrg(existingSession?: any) {
+  const session = existingSession || await auth();
+
+  if (!session?.user?.id) {
+    console.error("getCurrentUserOrg: No user ID in session", session);
+    throw new Error("User not authenticated");
+  }
+
+  const user = await db.user.findUnique({
+    where: { id: session.user.id },
+    select: { id: true, organizationId: true },
+  });
+
+  if (!user) {
+    throw new Error("User not found");
+  }
+
+  return {
+    userId: user.id,
+    organizationId: user.organizationId,
+  };
+}
+

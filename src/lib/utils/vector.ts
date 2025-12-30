@@ -1,8 +1,6 @@
 import { db } from "@/server/db";
-import { openai } from "@ai-sdk/openai";
 import { embed } from "ai";
-// Note: Using OpenAI embeddings for now as they're well-established
-// TODO: Switch to Gemini embeddings when fully supported in Vercel AI SDK
+import { embeddingModel } from "@/lib/ai/config";
 
 /**
  * Semantic search for books using pgvector
@@ -11,7 +9,7 @@ import { embed } from "ai";
 export async function searchBooks(query: string, limit = 5) {
   // 1. Generate embedding for user query
   const { embedding: queryEmbedding } = await embed({
-    model: openai.embedding("text-embedding-3-small"),
+    model: embeddingModel,
     value: query,
   });
 
@@ -50,7 +48,7 @@ export async function searchBooks(query: string, limit = 5) {
 export async function generateBookEmbedding(bookId: string, text: string) {
   // Generate embedding
   const { embedding } = await embed({
-    model: openai.embedding("text-embedding-3-small"),
+    model: embeddingModel,
     value: text,
   });
 
@@ -96,5 +94,59 @@ export async function findSimilarBooks(bookId: string, limit = 5) {
   `;
 
   return books;
+}
+
+/**
+ * Link to video_resources table search
+ */
+export async function searchVideos(query: string, limit = 5) {
+  const { embedding: queryEmbedding } = await embed({
+    model: embeddingModel,
+    value: query,
+  });
+
+  const vectorQuery = `[${queryEmbedding.join(",")}]`;
+
+  const videos = await db.$queryRaw<
+    Array<{
+      id: string;
+      title: string | null;
+      extractedSummary: string | null;
+      similarity: number;
+    }>
+  >`
+    SELECT 
+      id, 
+      title, 
+      extracted_summary as "extractedSummary",
+      1 - (embedding <=> ${vectorQuery}::vector) as similarity
+    FROM "video_resources"
+    WHERE embedding IS NOT NULL
+      AND 1 - (embedding <=> ${vectorQuery}::vector) > 0.5
+    ORDER BY similarity DESC
+    LIMIT ${limit};
+  `;
+
+  return videos;
+}
+
+/**
+ * Generate embedding for a video (summary + key points)
+ */
+export async function generateVideoEmbedding(videoId: string, text: string) {
+  const { embedding } = await embed({
+    model: embeddingModel,
+    value: text,
+  });
+
+  const vectorString = `[${embedding.join(",")}]`;
+
+  await db.$executeRaw`
+    UPDATE "video_resources"
+    SET embedding = ${vectorString}::vector
+    WHERE id = ${videoId};
+  `;
+
+  return embedding;
 }
 

@@ -1,0 +1,199 @@
+'use server';
+
+import { auth } from "@/auth";
+import { db } from "@/server/db";
+import { revalidatePath } from "next/cache";
+import { Prisma } from "@prisma/client";
+import { createPrayerJournalSchema } from "@/lib/schemas/actions";
+import { z } from "zod";
+
+export type PrayerEntryInput = {
+    title: string;
+    content: string;
+    date: Date;
+    tags: string[];
+    isPrivate: boolean;
+    category?: string | null; // Allow null for optional fields
+    studentId?: string;
+    answerNotes?: string | null;
+    answeredAt?: Date | null;
+};
+
+// Define a type that matches the Prisma return type but is safe for client consumption
+export type PrayerEntry = {
+    id: string;
+    userId: string;
+    studentId: string | null;
+    title: string;
+    content: string;
+    date: Date;
+    tags: string[];
+    isPrivate: boolean;
+    type: string;
+    category: string | null;
+    status: string;
+    answeredAt: Date | null;
+    answerNotes: string | null;
+    createdAt: Date;
+    updatedAt: Date;
+    student?: {
+        firstName: string;
+        lastName: string | null;
+    } | null;
+};
+
+export async function getPrayerEntries(studentId?: string): Promise<PrayerEntry[]> {
+    const session = await auth();
+    if (!session?.user?.id) return [];
+
+    const where: Prisma.PrayerJournalEntryWhereInput = {
+        userId: session.user.id,
+        ...(studentId ? { studentId } : {}),
+    };
+
+    const entries = await db.prayerJournalEntry.findMany({
+        where,
+        orderBy: { date: 'desc' },
+        include: {
+            student: {
+                select: {
+                    firstName: true,
+                    lastName: true,
+                }
+            }
+        }
+    });
+
+    return entries;
+}
+
+export async function createPrayerEntry(rawData: unknown) {
+    // Validate input
+    const data = createPrayerJournalSchema.parse(rawData);
+
+    const session = await auth();
+    if (!session?.user?.id) throw new Error("Not authenticated");
+
+    await db.prayerJournalEntry.create({
+        data: {
+            userId: session.user.id,
+            studentId: data.studentId,
+            title: data.title,
+            content: data.content,
+            date: new Date(), // Use current date
+            tags: [], // Default empty
+            isPrivate: false, // Default
+            category: data.prayerType,
+            // Defaults
+            type: 'entry',
+            status: 'ongoing',
+        },
+    });
+
+    revalidatePath('/family-discipleship/prayer');
+}
+
+const updatePrayerSchema = z.object({
+    id: z.string().uuid(),
+    title: z.string().min(1).max(200),
+    content: z.string().max(10000),
+    answerNotes: z.string().max(2000).optional().nullable(),
+    answeredAt: z.string().or(z.date()).optional().nullable(),
+});
+
+export async function updatePrayerEntry(rawData: unknown) {
+    const data = updatePrayerSchema.parse(rawData);
+
+    const session = await auth();
+    if (!session?.user?.id) throw new Error("Not authenticated");
+
+    // Verify ownership
+    const existing = await db.prayerJournalEntry.findUnique({
+        where: { id: data.id },
+    });
+
+    if (!existing) {
+        throw new Error("Prayer entry not found");
+    }
+
+    if (existing.userId !== session.user.id) {
+        throw new Error("Unauthorized - entry belongs to different user");
+    }
+
+    await db.prayerJournalEntry.update({
+        where: { id: data.id },
+        data: {
+            title: data.title,
+            content: data.content,
+            answerNotes: data.answerNotes,
+            answeredAt: data.answeredAt ? new Date(data.answeredAt) : null,
+            status: data.answeredAt ? 'answered' : 'ongoing',
+        },
+    });
+
+    revalidatePath('/family-discipleship/prayer');
+}
+
+const deletePrayerSchema = z.object({
+    id: z.string().uuid(),
+});
+
+export async function deletePrayerEntry(rawData: unknown) {
+    const data = deletePrayerSchema.parse(rawData);
+
+    const session = await auth();
+    if (!session?.user?.id) throw new Error("Not authenticated");
+
+    // Verify ownership
+    const existing = await db.prayerJournalEntry.findUnique({
+        where: { id: data.id },
+    });
+
+    if (!existing) {
+        throw new Error("Prayer entry not found");
+    }
+
+    if (existing.userId !== session.user.id) {
+        throw new Error("Unauthorized - entry belongs to different user");
+    }
+
+    await db.prayerJournalEntry.delete({
+        where: { id: data.id },
+    });
+
+    revalidatePath('/family-discipleship/prayer');
+}
+
+export async function togglePrayerAnswered(id: string, date?: Date) {
+    const session = await auth();
+    if (!session?.user?.id) throw new Error("Unauthorized");
+
+    const existing = await db.prayerJournalEntry.findUnique({
+        where: { id },
+    });
+
+    if (!existing || existing.userId !== session.user.id) {
+        throw new Error("Unauthorized or not found");
+    }
+
+    const isAnswered = !!existing.answeredAt;
+
+    await db.prayerJournalEntry.update({
+        where: { id },
+        data: {
+            answeredAt: isAnswered ? null : (date || new Date()),
+            status: isAnswered ? 'ongoing' : 'answered',
+        },
+    });
+
+    revalidatePath('/family-discipleship/prayer');
+}
+
+export async function getPrayerCategories() {
+    // In the future this could fetch from DB if we allow custom categories
+    // For now we can return static or fetch from the PrayerCategory model if populated
+    const categories = await db.prayerCategory.findMany({
+        orderBy: { name: 'asc' }
+    });
+    return categories;
+}

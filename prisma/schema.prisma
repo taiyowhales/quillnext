@@ -1,0 +1,1239 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  extensions = [vector]
+}
+
+model Organization {
+  id             String                @id @default(uuid())
+  type           OrganizationType
+  name           String
+  createdAt      DateTime              @default(now()) @map("created_at")
+  updatedAt      DateTime              @updatedAt @map("updated_at")
+  books          Book[]
+  classrooms     Classroom[]
+  courses        Course[]
+  resources      Resource[]
+  students       Student[]
+  users          User[]
+  articles       Article[]
+  documents      DocumentResource[]
+  videoResources VideoResource[]
+  scheduleItems  StudentScheduleItem[]
+  customEvents   CustomEvent[]
+  transcripts    Transcript[]
+
+  @@map("organizations")
+}
+
+model Transcript {
+  id             String       @id @default(uuid())
+  studentId      String       @map("student_id")
+  organizationId String       @map("organization_id")
+  name           String
+  data           Json         // Stores the full TranscriptData object
+  isOfficial     Boolean      @default(false) @map("is_official")
+  createdAt      DateTime     @default(now()) @map("created_at")
+  updatedAt      DateTime     @updatedAt @map("updated_at")
+
+  student        Student      @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  organization   Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+
+  @@map("transcripts")
+}
+
+model User {
+  id                    String                 @id @default(uuid())
+  name                  String?                @map("full_name")
+  email                 String?                @unique
+  emailVerified         DateTime?              @map("email_verified")
+  image                 String?
+  role                  UserRole               @default(PARENT)
+  organizationId        String?                @map("account_id")
+  createdAt             DateTime               @default(now()) @map("created_at")
+  updatedAt             DateTime               @updatedAt @map("updated_at")
+  accounts              Account[]
+  createdActivities     Activity[]             @relation("CreatedActivities")
+  gradedAttempts        AssessmentAttempt[]    @relation("GradedAttempts")
+  createdAssessments    Assessment[]           @relation("CreatedAssessments")
+  addedBooks            Book[]                 @relation("AddedBooks")
+  instructorProfiles    ClassroomInstructor[]
+  createdClassrooms     Classroom[]            @relation("CreatedClassrooms")
+  createdCourses        Course[]               @relation("CreatedCourses")
+  assignedResources     ResourceAssignment[]   @relation("AssignedResources")
+  createdResources      Resource[]             @relation("CreatedResources")
+  sessions              Session[]
+  organization          Organization?          @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  addedVideos           VideoResource[]        @relation("AddedVideos")
+  addedArticles         Article[]              @relation("AddedArticles")
+  addedDocuments        DocumentResource[]     @relation("AddedDocuments")
+  gratitudeEntries      GratitudeJournal[]     @relation("UserGratitude")
+  devotionalReflections DevotionalReflection[] @relation("UserDevotionalReflections")
+  churchNotes           LocalChurchNotes[]     @relation("UserChurchNotes")
+  prayerEntries         PrayerJournalEntry[]   @relation("UserPrayerEntries")
+  bibleMemoryVerses     BibleMemory[]          @relation("UserMemoryVerses")
+
+  @@map("users")
+}
+
+model Account {
+  id                String  @id @default(uuid())
+  userId            String  @map("user_id")
+  type              String
+  provider          String
+  providerAccountId String  @map("provider_account_id")
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@map("accounts")
+}
+
+model Session {
+  id           String   @id @default(uuid())
+  sessionToken String   @unique @map("session_token")
+  userId       String   @map("user_id")
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("sessions")
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+  @@map("verification_tokens")
+}
+
+model Classroom {
+  id                         String                @id @default(uuid())
+  organizationId             String                @map("account_id")
+  name                       String
+  description                String?
+  createdByUserId            String                @map("created_by_user_id")
+  educationalPhilosophy      EducationalPhilosophy
+  educationalPhilosophyOther String?               @map("educational_philosophy_other")
+  faithBackground            FaithBackground
+  faithBackgroundOther       String?               @map("faith_background_other")
+  schoolYearStartDate        DateTime              @map("school_year_start_date") @db.Date
+  schoolYearEndDate          DateTime              @map("school_year_end_date") @db.Date
+  schoolDaysOfWeek           Json?                 @map("school_days_of_week")
+  dailyStartTime             DateTime?             @map("daily_start_time") @db.Time(6)
+  dailyEndTime               DateTime?             @map("daily_end_time") @db.Time(6)
+  createdAt                  DateTime              @default(now()) @map("created_at")
+  updatedAt                  DateTime              @updatedAt @map("updated_at")
+  environmentPreferences     Json?                 @map("environment_preferences")
+  dailyTimesVary             Boolean               @default(false) @map("daily_times_vary")
+  daysPerWeek                Int?                  @map("days_per_week")
+  hoursPerDay                Int?                  @map("hours_per_day")
+  isYearRound                Boolean               @default(false) @map("is_year_round")
+  academicGoals              String[]              @map("academic_goals")
+  holidays                   ClassroomHoliday[]
+  instructors                ClassroomInstructor[]
+  students                   ClassroomStudent[]
+  organization               Organization?         @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  createdByUser              User                  @relation("CreatedClassrooms", fields: [createdByUserId], references: [id])
+
+  @@map("classrooms")
+}
+
+model ClassroomInstructor {
+  id            String         @id @default(uuid())
+  classroomId   String         @map("classroom_id")
+  userId        String         @map("user_id")
+  firstName     String         @map("first_name")
+  lastName      String?        @map("last_name")
+  sex           Sex?
+  email         String
+  instructorPin String         @map("instructor_pin")
+  role          InstructorRole
+  createdAt     DateTime       @default(now()) @map("created_at")
+  updatedAt     DateTime       @updatedAt @map("updated_at")
+  classroom     Classroom      @relation(fields: [classroomId], references: [id], onDelete: Cascade)
+  user          User           @relation(fields: [userId], references: [id])
+
+  @@unique([classroomId, userId])
+  @@map("classroom_instructors")
+}
+
+model ClassroomHoliday {
+  id          String    @id @default(uuid())
+  classroomId String    @map("classroom_id")
+  holidayDate DateTime  @map("holiday_date") @db.Date
+  name        String
+  isAllDay    Boolean   @default(true) @map("is_all_day")
+  startTime   DateTime? @map("start_time") @db.Time(6)
+  endTime     DateTime? @map("end_time") @db.Time(6)
+  createdAt   DateTime  @default(now()) @map("created_at")
+  classroom   Classroom @relation(fields: [classroomId], references: [id], onDelete: Cascade)
+
+  @@unique([classroomId, holidayDate, name])
+  @@map("classroom_holidays")
+}
+
+model Student {
+  id                    String                     @id @default(uuid())
+  organizationId        String                     @map("account_id")
+  firstName             String                     @map("first_name")
+  lastName              String?                    @map("last_name")
+  preferredName         String?                    @map("preferred_name")
+  birthdate             DateTime                   @db.Date
+  sex                   Sex?
+  currentGrade          String                     @map("current_grade")
+  createdAt             DateTime                   @default(now()) @map("created_at")
+  updatedAt             DateTime                   @updatedAt @map("updated_at")
+  support_intensity     String?
+  support_labels        String[]
+  support_profile       Json?
+  learningDifficulties  String?                    @map("learning_difficulties") // e.g., "Dyslexia, ADHD"
+  avatarConfig          Json?                      @map("avatar_config")
+  activityProgress      ActivityProgress[]
+  assessmentAttempts    AssessmentAttempt[]
+  generatedMaterials    BookGeneratedMaterial[]
+  classroomEnrollments  ClassroomStudent[]
+  courseProgress        CourseProgress[]
+  courseEnrollments     CourseStudent[]
+  learnerProfile        LearnerProfile?
+  personalizedResources Resource[]
+  resourceAssignments   ResourceAssignment[]
+  organization          Organization               @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  prayerJournalEntries  PrayerJournalEntry[]       @relation("StudentPrayerEntries")
+  bibleMemoryVerses     BibleMemory[]              @relation("StudentMemoryVerses")
+  scheduleItems         StudentScheduleItem[]
+  customEvents          CustomEvent[]
+  catechismProgress     StudentCatechismProgress[]
+  bibleMemoryFolders    BibleMemoryFolder[]
+  transcripts           Transcript[]
+
+  @@map("students")
+}
+
+model ClassroomStudent {
+  classroomId String    @map("classroom_id")
+  studentId   String    @map("student_id")
+  role        String?
+  notes       String?
+  enrolledAt  DateTime  @default(now()) @map("enrolled_at")
+  createdAt   DateTime  @default(now()) @map("created_at")
+  classroom   Classroom @relation(fields: [classroomId], references: [id], onDelete: Cascade)
+  student     Student   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@id([classroomId, studentId])
+  @@map("classroom_students")
+}
+
+model LearnerProfile {
+  id                        String    @id @default(uuid())
+  studentId                 String    @unique @map("student_id")
+  completedAt               DateTime? @map("completed_at")
+  personalityData           Json?     @map("personality_data")
+  learningStyleData         Json?     @map("learning_style_data")
+  interestsData             Json?     @map("interests_data")
+  rawQuestionnaireResponses Json?     @map("raw_questionnaire_responses")
+  questionnaireVersion      String?   @map("questionnaire_version")
+  createdAt                 DateTime  @default(now()) @map("created_at")
+  updatedAt                 DateTime  @updatedAt @map("updated_at")
+  student                   Student   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@map("learner_profiles")
+}
+
+model Subject {
+  id             String             @id @default(uuid())
+  code           String             @unique
+  name           String
+  description    String?
+  uuid           String?            @unique
+  sortOrder      Int                @map("sort_order")
+  createdAt      DateTime           @default(now()) @map("created_at")
+  updatedAt      DateTime           @updatedAt @map("updated_at")
+  books          Book[]
+  courses        Course[]
+  resourceKinds  ResourceKind[]
+  strands        Strand[]
+  articles       Article[]
+  documents      DocumentResource[]
+  videoResources VideoResource[]
+
+  @@map("subjects")
+}
+
+model Strand {
+  id             String             @id @default(uuid())
+  subjectId      String             @map("subject_id")
+  code           String
+  shortCode      String?            @map("short_code")
+  name           String
+  description    String?
+  uuid           String?            @unique
+  sortOrder      Int                @map("sort_order")
+  createdAt      DateTime           @default(now()) @map("created_at")
+  updatedAt      DateTime           @updatedAt @map("updated_at")
+  books          Book[]
+  courses        Course[]
+  resourceKinds  ResourceKind[]
+  subject        Subject            @relation(fields: [subjectId], references: [id])
+  topics         Topic[]
+  articles       Article[]
+  documents      DocumentResource[]
+  videoResources VideoResource[]
+
+  @@unique([subjectId, code])
+  @@map("strands")
+}
+
+model Topic {
+  id           String        @id @default(uuid())
+  strandId     String        @map("strand_id")
+  code         String
+  shortCode    String?       @map("short_code")
+  name         String
+  description  String?
+  uuid         String?       @unique
+  sortOrder    Int           @map("sort_order")
+  createdAt    DateTime      @default(now()) @map("created_at")
+  updatedAt    DateTime      @updatedAt @map("updated_at")
+  courseBlocks CourseBlock[]
+  subtopics    Subtopic[]
+  strand       Strand        @relation(fields: [strandId], references: [id])
+
+  @@unique([strandId, code])
+  @@map("topics")
+}
+
+model Subtopic {
+  id           String        @id @default(uuid())
+  topicId      String        @map("topic_id")
+  code         String
+  shortCode    String?       @map("short_code")
+  name         String
+  description  String?
+  uuid         String?       @unique
+  sortOrder    Int           @map("sort_order")
+  createdAt    DateTime      @default(now()) @map("created_at")
+  updatedAt    DateTime      @updatedAt @map("updated_at")
+  courseBlocks CourseBlock[]
+  objectives   Objective[]
+  topic        Topic         @relation(fields: [topicId], references: [id])
+
+  @@unique([topicId, code])
+  @@map("subtopics")
+}
+
+model Objective {
+  id                 String              @id @default(uuid())
+  subtopicId         String              @map("subtopic_id")
+  code               String              @unique
+  shortCode          String?             @map("short_code")
+  text               String
+  uuid               String?             @unique
+  complexity         Int?
+  gradeLevel         Int?
+  sortOrder          Int                 @map("sort_order")
+  createdAt          DateTime            @default(now()) @map("created_at")
+  updatedAt          DateTime            @updatedAt @map("updated_at")
+  activityObjectives ActivityObjective[]
+  subtopic           Subtopic            @relation(fields: [subtopicId], references: [id])
+
+  @@map("objectives")
+}
+
+model GradeBand {
+  id        String   @id @default(uuid())
+  code      String   @unique
+  name      String
+  minGrade  Int      @map("min_grade")
+  maxGrade  Int      @map("max_grade")
+  createdAt DateTime @default(now()) @map("created_at")
+  courses   Course[]
+
+  @@map("grade_bands")
+}
+
+model Course {
+  id                  String               @id @default(uuid())
+  organizationId      String               @map("account_id")
+  createdByUserId     String               @map("created_by_user_id")
+  subjectId           String               @map("subject_id")
+  strandId            String?              @map("strand_id")
+  gradeBandId         String?              @map("grade_band_id")
+  title               String
+  description         String?
+  createdAt           DateTime             @default(now()) @map("created_at")
+  updatedAt           DateTime             @updatedAt @map("updated_at")
+  assessments         Assessment[]
+  blocks              CourseBlock[]
+  courseProgress      CourseProgress[]
+  students            CourseStudent[]
+  organization        Organization         @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  createdByUser       User                 @relation("CreatedCourses", fields: [createdByUserId], references: [id])
+  gradeBand           GradeBand?           @relation(fields: [gradeBandId], references: [id])
+  strand              Strand?              @relation(fields: [strandId], references: [id])
+  subject             Subject              @relation(fields: [subjectId], references: [id])
+  resourceAssignments ResourceAssignment[]
+
+  @@map("courses")
+}
+
+model CourseStudent {
+  courseId    String              @map("course_id")
+  studentId   String              @map("student_id")
+  status      CourseStudentStatus
+  enrolledAt  DateTime            @default(now()) @map("enrolled_at")
+  completedAt DateTime?           @map("completed_at")
+  createdAt   DateTime            @default(now()) @map("created_at")
+  course      Course              @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  student     Student             @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@id([courseId, studentId])
+  @@index([studentId])
+  @@map("course_students")
+}
+
+model CourseBlock {
+  id                  String                @id @default(uuid())
+  courseId            String                @map("course_id")
+  parentBlockId       String?               @map("parent_block_id")
+  kind                CourseBlockKind
+  title               String
+  description         String?
+  position            Int
+  topicId             String?               @map("topic_id")
+  subtopicId          String?               @map("subtopic_id")
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+  bookChapterId       String?               @map("book_chapter_id")
+  bookId              String?               @map("book_id")
+  activities          Activity[]
+  assessments         Assessment[]
+  book                Book?                 @relation(fields: [bookId], references: [id])
+  videoId             String?               @map("video_id")
+  video               VideoResource?        @relation(fields: [videoId], references: [id])
+  course              Course                @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  parentBlock         CourseBlock?          @relation("BlockHierarchy", fields: [parentBlockId], references: [id])
+  childBlocks         CourseBlock[]         @relation("BlockHierarchy")
+  subtopic            Subtopic?             @relation(fields: [subtopicId], references: [id])
+  topic               Topic?                @relation(fields: [topicId], references: [id])
+  activeInProgress    CourseProgress[]
+  resourceAssignments ResourceAssignment[]
+  scheduleItems       StudentScheduleItem[]
+
+  articleId           String?               @map("article_id")
+  article             Article?              @relation(fields: [articleId], references: [id])
+  documentId          String?               @map("document_id")
+  document            DocumentResource?     @relation(fields: [documentId], references: [id])
+  resourceId          String?               @map("resource_id")
+  resource            Resource?             @relation(fields: [resourceId], references: [id])
+
+  @@map("course_blocks")
+}
+
+model Activity {
+  id                  String                @id @default(uuid())
+  courseBlockId       String                @map("course_block_id")
+  createdByUserId     String                @map("created_by_user_id")
+  title               String
+  description         String?
+  estimatedMinutes    Int?                  @map("estimated_minutes")
+  activityType        ActivityType
+  position            Int
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+  courseBlock         CourseBlock           @relation(fields: [courseBlockId], references: [id], onDelete: Cascade)
+  createdByUser       User                  @relation("CreatedActivities", fields: [createdByUserId], references: [id])
+  objectives          ActivityObjective[]
+  progressRecords     ActivityProgress[]
+  resourceAssignments ResourceAssignment[]
+  scheduleItems       StudentScheduleItem[]
+
+  @@map("activities")
+}
+
+model ActivityObjective {
+  activityId  String    @map("activity_id")
+  objectiveId String    @map("objective_id")
+  isPrimary   Boolean   @default(false) @map("is_primary")
+  createdAt   DateTime  @default(now()) @map("created_at")
+  activity    Activity  @relation(fields: [activityId], references: [id], onDelete: Cascade)
+  objective   Objective @relation(fields: [objectiveId], references: [id], onDelete: Cascade)
+
+  @@id([activityId, objectiveId])
+  @@map("activity_objectives")
+}
+
+model Assessment {
+  id                  String               @id @default(uuid())
+  courseId            String               @map("course_id")
+  scopeKind           AssessmentScopeKind  @map("scope_kind")
+  courseBlockId       String?              @map("scope_block_id")
+  assessmentType      AssessmentType       @map("assessment_type")
+  title               String
+  description         String?
+  totalPoints         Decimal?             @map("total_points")
+  timeLimitMinutes    Int?                 @map("time_limit_minutes")
+  createdByUserId     String               @map("created_by_user_id")
+  createdAt           DateTime             @default(now()) @map("created_at")
+  updatedAt           DateTime             @updatedAt @map("updated_at")
+  attempts            AssessmentAttempt[]
+  items               AssessmentItem[]
+  course              Course               @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  createdByUser       User                 @relation("CreatedAssessments", fields: [createdByUserId], references: [id])
+  courseBlock         CourseBlock?         @relation(fields: [courseBlockId], references: [id])
+  resourceAssignments ResourceAssignment[]
+
+  @@map("assessments")
+}
+
+model AssessmentItem {
+  id            String                   @id @default(uuid())
+  assessmentId  String                   @map("assessment_id")
+  itemType      AssessmentItemType       @map("item_type")
+  questionText  String                   @map("question_text")
+  questionData  Json?                    @map("question_data")
+  correctAnswer Json?                    @map("correct_answer")
+  points        Decimal
+  position      Int
+  createdAt     DateTime                 @default(now()) @map("created_at")
+  updatedAt     DateTime                 @updatedAt @map("updated_at")
+  responses     AssessmentItemResponse[]
+  assessment    Assessment               @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+
+  @@map("assessment_items")
+}
+
+model ResourceKind {
+  id                 String                  @id @default(uuid())
+  code               String                  @unique
+  label              String
+  description        String?
+  strandId           String?                 @map("strand_id")
+  subjectId          String?                 @map("subject_id")
+  isSpecialized      Boolean                 @default(false) @map("is_specialized")
+  requiresVision     Boolean                 @default(false) @map("requires_vision")
+  contentType        ResourceContentType     @map("content_type")
+  createdAt          DateTime                @default(now()) @map("created_at")
+  updatedAt          DateTime                @updatedAt @map("updated_at")
+  generatedMaterials BookGeneratedMaterial[]
+  strand             Strand?                 @relation(fields: [strandId], references: [id])
+  subject            Subject?                @relation(fields: [subjectId], references: [id])
+  resources          Resource[]
+
+  @@map("resource_kinds")
+}
+
+model Book {
+  id                 String                  @id @default(uuid())
+  organizationId     String                  @map("account_id")
+  addedByUserId      String                  @map("added_by_user_id")
+  externalSource     ExternalSource          @map("external_source")
+  externalId         String?                 @map("external_id")
+  isbn               String?
+  title              String
+  authors            Json?
+  publisher          String?
+  publishedDate      String?                 @map("published_date")
+  description        String?
+  coverUrl           String?                 @map("cover_url")
+  pageCount          Int?                    @map("page_count")
+  subjectId          String                  @map("subject_id")
+  strandId           String?                 @map("strand_id")
+  extractionStatus   ExtractionStatus        @default(NOT_EXTRACTED) @map("extraction_status")
+  extractedAt        DateTime?               @map("extracted_at")
+  tableOfContents    Json?                   @map("table_of_contents")
+  summary            String?
+  embedding          Unsupported("vector")?
+  createdAt          DateTime                @default(now()) @map("created_at")
+  updatedAt          DateTime                @updatedAt @map("updated_at")
+  generatedMaterials BookGeneratedMaterial[]
+  organization       Organization            @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  addedByUser        User                    @relation("AddedBooks", fields: [addedByUserId], references: [id])
+  strand             Strand?                 @relation(fields: [strandId], references: [id])
+  subject            Subject                 @relation(fields: [subjectId], references: [id])
+  courseBlocks       CourseBlock[]
+  resources          Resource[]
+
+  @@map("books")
+}
+
+model BookGeneratedMaterial {
+  id                    String       @id @default(uuid())
+  bookId                String       @map("book_id")
+  resourceKindId        String       @map("resource_kind_id")
+  resourceId            String       @map("resource_id")
+  generatedForStudentId String?      @map("generated_for_student_id")
+  generatedAt           DateTime     @default(now()) @map("generated_at")
+  createdAt             DateTime     @default(now()) @map("created_at")
+  book                  Book         @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  student               Student?     @relation(fields: [generatedForStudentId], references: [id])
+  resource              Resource     @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  resourceKind          ResourceKind @relation(fields: [resourceKindId], references: [id])
+
+  @@map("book_generated_materials")
+}
+
+model VideoResource {
+  id                  String                 @id @default(uuid())
+  organizationId      String                 @map("account_id")
+  addedByUserId       String                 @map("added_by_user_id")
+  youtubeUrl          String                 @map("youtube_url")
+  youtubeVideoId      String                 @unique @map("youtube_video_id")
+  title               String?
+  description         String?
+  thumbnailUrl        String?                @map("thumbnail_url")
+  durationSeconds     Int?                   @map("duration_seconds")
+  channelName         String?                @map("channel_name")
+  subjectId           String?                @map("subject_id")
+  strandId            String?                @map("strand_id")
+  extractionStatus    ExtractionStatus       @default(NOT_EXTRACTED) @map("extraction_status")
+  extractedAt         DateTime?              @map("extracted_at")
+  extractedTranscript String?                @map("extracted_transcript")
+  extractedSummary    String?                @map("extracted_summary")
+  extractedKeyPoints  Json?                  @map("extracted_key_points")
+  createdAt           DateTime               @default(now()) @map("created_at")
+  updatedAt           DateTime               @updatedAt @map("updated_at")
+  embedding           Unsupported("vector")?
+  resources           Resource[]
+  organization        Organization           @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  addedByUser         User                   @relation("AddedVideos", fields: [addedByUserId], references: [id])
+  strand              Strand?                @relation(fields: [strandId], references: [id])
+  subject             Subject?               @relation(fields: [subjectId], references: [id])
+  courseBlocks        CourseBlock[]
+
+  @@map("video_resources")
+}
+
+model Resource {
+  id                      String                  @id @default(uuid())
+  organizationId          String                  @map("account_id")
+  createdByUserId         String                  @map("created_by_user_id")
+  resourceKindId          String                  @map("resource_kind_id")
+  title                   String
+  description             String?
+  storageType             ResourceStorageType     @map("storage_type")
+  content                 Json?
+  metadata                Json?
+  generatedForStudentId   String?                 @map("generated_for_student_id")
+  generatedFromBookId     String?                 @map("generated_from_book_id")
+  generatedFromVideoId    String?                 @map("generated_from_video_id")
+  generatedFromArticleId  String?                 @map("generated_from_article_id")
+  generatedFromDocumentId String?                 @map("generated_from_document_id")
+  generationContext       Json?                   @map("generation_context")
+  createdAt               DateTime                @default(now()) @map("created_at")
+  updatedAt               DateTime                @updatedAt @map("updated_at")
+  generatedMaterials      BookGeneratedMaterial[]
+  assignments             ResourceAssignment[]
+  organization            Organization            @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  createdByUser           User                    @relation("CreatedResources", fields: [createdByUserId], references: [id])
+  student                 Student?                @relation(fields: [generatedForStudentId], references: [id])
+  book                    Book?                   @relation(fields: [generatedFromBookId], references: [id])
+  video                   VideoResource?          @relation(fields: [generatedFromVideoId], references: [id])
+  article                 Article?                @relation(fields: [generatedFromArticleId], references: [id])
+  document                DocumentResource?       @relation(fields: [generatedFromDocumentId], references: [id])
+  resourceKind            ResourceKind            @relation(fields: [resourceKindId], references: [id])
+  courseBlocks            CourseBlock[]
+
+  @@map("resources")
+}
+
+model ResourceAssignment {
+  id               String           @id @default(uuid())
+  resourceId       String           @map("resource_id")
+  assignedByUserId String           @map("assigned_by_user_id")
+  notes            String?
+  courseId         String?          @map("course_id")
+  courseBlockId    String?          @map("course_block_id")
+  activityId       String?          @map("activity_id")
+  assessmentId     String?          @map("assessment_id")
+  status           AssignmentStatus @default(ASSIGNED)
+  dueDate          DateTime?        @map("due_date")
+  completedAt      DateTime?        @map("completed_at")
+
+  createdAt      DateTime     @default(now()) @map("created_at")
+  activity       Activity?    @relation(fields: [activityId], references: [id])
+  assessment     Assessment?  @relation(fields: [assessmentId], references: [id])
+  assignedByUser User         @relation("AssignedResources", fields: [assignedByUserId], references: [id])
+  courseBlock    CourseBlock? @relation(fields: [courseBlockId], references: [id])
+  course         Course?      @relation(fields: [courseId], references: [id])
+  resource       Resource     @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  studentId      String?      @map("student_id")
+  student        Student?     @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([courseId])
+  @@index([resourceId])
+  @@index([studentId])
+  @@index([assessmentId])
+  @@index([activityId])
+  @@map("resource_assignments")
+}
+
+model ActivityProgress {
+  id               String         @id @default(uuid())
+  activityId       String         @map("activity_id")
+  studentId        String         @map("student_id")
+  status           ActivityStatus
+  startedAt        DateTime?      @map("started_at")
+  completedAt      DateTime?      @map("completed_at")
+  timeSpentMinutes Int?           @map("time_spent_minutes")
+  notes            String?
+  createdAt        DateTime       @default(now()) @map("created_at")
+  updatedAt        DateTime       @updatedAt @map("updated_at")
+  activity         Activity       @relation(fields: [activityId], references: [id], onDelete: Cascade)
+  student          Student        @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([activityId, studentId])
+  @@index([studentId])
+  @@map("activity_progress")
+}
+
+model AssessmentAttempt {
+  id            String                   @id @default(uuid())
+  assessmentId  String                   @map("assessment_id")
+  studentId     String                   @map("student_id")
+  status        AttemptStatus
+  startedAt     DateTime                 @default(now()) @map("started_at")
+  submittedAt   DateTime?                @map("submitted_at")
+  completedAt   DateTime?                @map("completed_at")
+  scorePoints   Decimal?                 @map("score_points")
+  maxPoints     Decimal?                 @map("max_points")
+  letterGrade   String?                  @map("letter_grade")
+  graderUserId  String?                  @map("grader_user_id")
+  gradingMethod GradingMethod?           @map("grading_method")
+  feedback      String?
+  createdAt     DateTime                 @default(now()) @map("created_at")
+  updatedAt     DateTime                 @updatedAt @map("updated_at")
+  assessment    Assessment               @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  graderUser    User?                    @relation("GradedAttempts", fields: [graderUserId], references: [id])
+  student       Student                  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  itemResponses AssessmentItemResponse[]
+
+  @@index([assessmentId])
+  @@index([studentId])
+  @@map("assessment_attempts")
+}
+
+model AssessmentItemResponse {
+  id             String            @id @default(uuid())
+  attemptId      String            @map("attempt_id")
+  itemId         String            @map("item_id")
+  responseData   Json              @map("response_data")
+  pointsEarned   Decimal?          @map("points_earned")
+  pointsPossible Decimal           @map("points_possible")
+  isCorrect      Boolean?          @map("is_correct")
+  feedback       String?
+  gradedAt       DateTime?         @map("graded_at")
+  createdAt      DateTime          @default(now()) @map("created_at")
+  updatedAt      DateTime          @updatedAt @map("updated_at")
+  attempt        AssessmentAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  item           AssessmentItem    @relation(fields: [itemId], references: [id], onDelete: Cascade)
+
+  @@unique([attemptId, itemId])
+  @@index([itemId])
+  @@map("assessment_item_responses")
+}
+
+model CourseProgress {
+  id                          String       @id @default(uuid())
+  courseId                    String       @map("course_id")
+  studentId                   String       @map("student_id")
+  overallCompletionPercentage Decimal?     @map("overall_completion_percentage")
+  currentBlockId              String?      @map("current_block_id")
+  lastActivityAt              DateTime?    @map("last_activity_at")
+  createdAt                   DateTime     @default(now()) @map("created_at")
+  updatedAt                   DateTime     @updatedAt @map("updated_at")
+  course                      Course       @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  currentBlock                CourseBlock? @relation(fields: [currentBlockId], references: [id])
+  student                     Student      @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([courseId, studentId])
+  @@map("course_progress")
+}
+
+enum OrganizationType {
+  PARENT_INSTRUCTOR
+  MICROSCHOOL_COOP
+  CHURCH_PRIVATE_SCHOOL
+}
+
+enum UserRole {
+  OWNER
+  TEACHER
+  ADMIN
+  PARENT
+}
+
+enum EducationalPhilosophy {
+  TRADITIONAL_SCHOOL_AT_HOME
+  VIRTUAL_ONLINE
+  CLASSICAL
+  CHARLOTTE_MASON
+  UNIT_STUDIES
+  MONTESSORI
+  UNSCHOOLING
+  WALDORF
+  ECLECTIC
+  THOMAS_JEFFERSON_EDUCATION
+  ROADSCHOOLING
+  WORLDSCHOOLING
+  GAMESCHOOLING
+  REGGIO_EMILIA
+  WILD_AND_FREE
+  PROJECT_BASED_LEARNING
+  OTHER
+}
+
+enum FaithBackground {
+  ROMAN_CATHOLIC
+  EASTERN_CATHOLIC
+  EASTERN_ORTHODOX
+  GREEK_ORTHODOX
+  RUSSIAN_ORTHODOX
+  OTHER_ORTHODOX
+  PROTESTANT
+  ADVENTIST
+  ANABAPTIST
+  ANGLICAN_EPISCOPAL
+  BAPTIST
+  CHURCH_OF_CHRIST
+  LUTHERAN
+  METHODIST_WESLEYAN
+  NONDENOMINATIONAL
+  PENTECOSTAL_CHARISMATIC
+  PRESBYTERIAN_REFORMED
+  OTHER_PROTESTANT
+  OTHER
+}
+
+enum Sex {
+  MALE
+  FEMALE
+  OTHER
+  PREFER_NOT_TO_SAY
+}
+
+enum InstructorRole {
+  PRIMARY
+  ASSISTANT
+  OBSERVER
+}
+
+enum CourseStudentStatus {
+  ACTIVE
+  COMPLETED
+  DROPPED
+  PENDING
+}
+
+enum CourseBlockKind {
+  UNIT
+  MODULE
+  SECTION
+  CHAPTER
+  LESSON
+}
+
+enum ActivityType {
+  READING
+  WRITING
+  DISCUSSION
+  PROJECT
+  LAB
+  WORKSHEET
+  OTHER
+}
+
+enum AssessmentScopeKind {
+  LESSON
+  UNIT
+  MODULE
+  SECTION
+  CHAPTER
+  COURSE
+}
+
+enum AssessmentType {
+  QUIZ
+  TEST
+  FINAL_EXAM
+}
+
+enum AssessmentItemType {
+  MULTIPLE_CHOICE
+  TRUE_FALSE
+  SHORT_ANSWER
+  ESSAY
+  MATCHING
+  FILL_IN_BLANK
+}
+
+enum ResourceContentType {
+  WORKSHEET
+  TEMPLATE
+  PROMPT
+  GUIDE
+  QUIZ
+  RUBRIC
+  OTHER
+}
+
+enum ExternalSource {
+  GOOGLE_BOOKS
+  OPEN_LIBRARY
+  MANUAL
+}
+
+enum ExtractionStatus {
+  NOT_EXTRACTED
+  EXTRACTING
+  EXTRACTED
+  FAILED
+}
+
+enum ResourceStorageType {
+  TEXT
+  MARKDOWN
+  HTML
+  JSON
+  PDF_URL
+  DOCX_URL
+}
+
+enum ActivityStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  COMPLETED
+  SKIPPED
+}
+
+enum AttemptStatus {
+  IN_PROGRESS
+  SUBMITTED
+  GRADED
+  ABANDONED
+}
+
+enum GradingMethod {
+  AUTO
+  AI_ASSISTED
+  MANUAL
+}
+
+enum AssignmentStatus {
+  ASSIGNED
+  IN_PROGRESS
+  COMPLETED
+  OVERDUE
+  SKIPPED
+}
+
+model Article {
+  id               String           @id @default(uuid())
+  organizationId   String           @map("account_id")
+  addedByUserId    String           @map("added_by_user_id")
+  url              String
+  title            String
+  description      String?
+  imageUrl         String?          @map("image_url")
+  content          String? // Extracted markdown content
+  subjectId        String?          @map("subject_id")
+  strandId         String?          @map("strand_id")
+  extractionStatus ExtractionStatus @default(NOT_EXTRACTED) @map("extraction_status")
+  extractedAt      DateTime?        @map("extracted_at")
+  createdAt        DateTime         @default(now()) @map("created_at")
+  updatedAt        DateTime         @updatedAt @map("updated_at")
+  organization     Organization     @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  addedByUser      User             @relation("AddedArticles", fields: [addedByUserId], references: [id])
+  strand           Strand?          @relation(fields: [strandId], references: [id])
+  subject          Subject?         @relation(fields: [subjectId], references: [id])
+  resources        Resource[]
+  courseBlocks     CourseBlock[]
+
+  @@map("articles")
+}
+
+model DocumentResource {
+  id             String       @id @default(uuid())
+  organizationId String       @map("account_id")
+  addedByUserId  String       @map("added_by_user_id")
+  fileName       String       @map("file_name")
+  fileType       String       @map("file_type") // pdf, txt, md
+  fileSize       Int          @map("file_size")
+  extractedText  String?      @map("extracted_text")
+  subjectId      String?      @map("subject_id")
+  strandId       String?      @map("strand_id")
+  createdAt      DateTime     @default(now()) @map("created_at")
+  updatedAt      DateTime     @updatedAt @map("updated_at")
+  organization   Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  addedByUser    User         @relation("AddedDocuments", fields: [addedByUserId], references: [id])
+  strand         Strand?      @relation(fields: [strandId], references: [id])
+  subject        Subject?     @relation(fields: [subjectId], references: [id])
+  resources      Resource[]
+  courseBlocks   CourseBlock[]
+
+  @@map("document_resources")
+}
+
+// --- FAMILY DISCIPLESHIP SUITE ---
+
+model Devotional {
+  id       String @id @default(uuid())
+  month    Int
+  day      Int
+  time     String
+  keyverse String
+  body     String @db.Text
+
+  @@unique([month, day, time])
+  @@index([month, day])
+  @@map("devotionals")
+}
+
+model GratitudeJournal {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  date      DateTime @db.Date
+  content   String   @db.Text
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  user      User     @relation("UserGratitude", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId, date])
+  @@map("gratitude_entries")
+}
+
+model DevotionalReflection {
+  id           String   @id @default(uuid())
+  userId       String   @map("user_id")
+  date         DateTime @db.Date
+  timeOfDay    String   @map("time_of_day")
+  whoGodIs     String?  @map("who_god_is") @db.Text
+  godsActivity String?  @map("gods_activity") @db.Text
+  whoIAm       String?  @map("who_i_am") @db.Text
+  response     String?  @db.Text
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+  user         User     @relation("UserDevotionalReflections", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date, timeOfDay])
+  @@index([userId])
+  @@index([date])
+  @@map("devotional_reflections")
+}
+
+model LocalChurchNotes {
+  id                   String   @id @default(uuid())
+  userId               String   @map("user_id")
+  date                 DateTime @db.Date
+  preacher             String?
+  mainPassage          String?  @map("main_passage")
+  keyReferences        String?  @map("key_references")
+  mainPoints           String[] @default([]) @map("main_points")
+  applications         String?  @db.Text
+  oneThing             String?  @map("one_thing") @db.Text
+  servingIdeas         String?  @map("serving_ideas") @db.Text
+  generosityReflection String?  @map("generosity_reflection") @db.Text
+  communityPlan        String?  @map("community_plan") @db.Text
+  songs                Json?
+  createdAt            DateTime @default(now()) @map("created_at")
+  updatedAt            DateTime @updatedAt @map("updated_at")
+  user                 User     @relation("UserChurchNotes", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId])
+  @@index([date])
+  @@map("local_church_notes")
+}
+
+model PrayerJournalEntry {
+  id          String    @id @default(uuid())
+  userId      String    @map("user_id")
+  studentId   String?   @map("student_id")
+  title       String
+  content     String    @db.Text
+  date        DateTime  @db.Date
+  tags        String[]  @default([])
+  isPrivate   Boolean   @default(false) @map("is_private")
+  type        String    @default("entry")
+  category    String?
+  status      String    @default("ongoing")
+  answeredAt  DateTime? @map("answered_at")
+  answerNotes String?   @map("answer_notes") @db.Text
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  user    User     @relation("UserPrayerEntries", fields: [userId], references: [id], onDelete: Cascade)
+  student Student? @relation("StudentPrayerEntries", fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([userId])
+  @@index([date])
+  @@index([status])
+  @@map("prayer_entries")
+}
+
+model PrayerCategory {
+  id          String   @id @default(uuid())
+  name        String   @unique
+  description String?
+  color       String?
+  icon        String?
+  isDefault   Boolean  @default(false) @map("is_default")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@index([name])
+  @@map("prayer_categories")
+}
+
+model BibleMemory {
+  id        String  @id @default(uuid())
+  userId    String? @map("user_id")
+  studentId String? @map("student_id")
+  reference String
+  text      String? @db.Text
+  isDefault Boolean @default(false) @map("is_default")
+  order     Int     @default(0)
+
+  // Progress Tracking
+  currentStep     Int       @default(0) @map("current_step") // 0=Not Started, 1-8=Steps
+  masteredAt      DateTime? @map("mastered_at")
+  lastPracticedAt DateTime? @map("last_practiced_at")
+  lastRefreshedAt DateTime? @map("last_refreshed_at")
+
+  folderId String?            @map("folder_id")
+  folder   BibleMemoryFolder? @relation(fields: [folderId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  student Student? @relation("StudentMemoryVerses", fields: [studentId], references: [id], onDelete: Cascade)
+  user    User?    @relation("UserMemoryVerses", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([userId])
+  @@index([folderId])
+  @@index([reference])
+  @@map("bible_memory")
+}
+
+model BibleMemoryFolder {
+  id        String @id @default(uuid())
+  studentId String @map("student_id")
+  name      String
+
+  verses BibleMemory[]
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@map("bible_memory_folder")
+}
+
+model StudentScheduleItem {
+  id             String @id @default(uuid())
+  organizationId String @map("account_id") // For multi-tenant security
+  studentId      String @map("student_id")
+
+  // What is being scheduled? (Polymorphic-ish association)
+  courseBlockId String? @map("course_block_id") // Usually a Lesson or Chapter
+  activityId    String? @map("activity_id") // Granular activity (optional)
+
+  // When?
+  date      DateTime  @db.Date
+  startTime DateTime? @map("start_time") @db.Time(6)
+  endTime   DateTime? @map("end_time") @db.Time(6)
+
+  // Lifecycle
+  status      ScheduleItemStatus @default(PENDING)
+  completedAt DateTime?          @map("completed_at")
+
+  // Ordering/Metadata
+  sequenceOrder Int     @default(0) @map("sequence_order") // Order within the day
+  isLocked      Boolean @default(false) @map("is_locked") // If true, "Reshuffle" should skip moving this
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  organization Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  student      Student      @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  courseBlock  CourseBlock? @relation(fields: [courseBlockId], references: [id])
+  activity     Activity?    @relation(fields: [activityId], references: [id])
+
+  @@index([organizationId])
+  @@index([studentId, date])
+  @@map("student_schedule_items")
+}
+
+model CustomEvent {
+  id             String @id @default(uuid())
+  organizationId String @map("account_id")
+
+  // Who is this for?
+  studentId String? @map("student_id")
+
+  title       String
+  description String?
+  location    String?
+
+  // Timing
+  date      DateTime  @db.Date
+  startTime DateTime? @map("start_time") @db.Time(6)
+  endTime   DateTime? @map("end_time") @db.Time(6)
+  isAllDay  Boolean   @default(false) @map("is_all_day")
+
+  // Recurrence (Basic support for now)
+  recurrenceRule String? @map("recurrence_rule") // iCal RRULE format
+  parentEventId  String? @map("parent_event_id") // For recurring instances
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  organization Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  student      Student?     @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([organizationId])
+  @@index([studentId, date])
+  @@map("custom_events")
+}
+
+enum ScheduleItemStatus {
+  PENDING
+  IN_PROGRESS
+  COMPLETED
+  SKIPPED
+  MISSED
+}
+
+model StudentCatechismProgress {
+  id                   String   @id @default(uuid())
+  studentId            String   @map("student_id")
+  catechismId          String   @map("catechism_id")
+  currentQuestionIndex Int      @default(0) @map("current_question_index")
+  lastStudiedAt        DateTime @default(now()) @map("last_studied_at")
+  masteredQuestions    Json?    @map("mastered_questions")
+  createdAt            DateTime @default(now()) @map("created_at")
+  updatedAt            DateTime @updatedAt @map("updated_at")
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, catechismId])
+  @@map("student_catechism_progress")
+}

@@ -46,6 +46,9 @@ export const studentProfileCacheStrategy = {
   ttl: CacheTTL.LONG, // 5 minutes
 } as const;
 
+
+import { unstable_cache } from "next/cache";
+
 /**
  * Example usage:
  * 
@@ -54,8 +57,21 @@ export const studentProfileCacheStrategy = {
  * import { academicSpineCacheStrategy } from "@/lib/utils/prisma-cache";
  * 
  * const subjects = await db.subject.findMany({
- *   cacheStrategy: academicSpineCacheStrategy,
+ *   cacheStrategy: academicSpineCacheStrategy, // Prisma Accelerate (if enabled)
  * });
  * ```
  */
+
+/**
+ * Wrapper for Next.js unstable_cache
+ * Use this when Prisma Accelerate is disabled or for arbitrary async operations
+ */
+export function cacheQuery<T, Args extends any[]>(
+  fn: (...args: Args) => Promise<T>,
+  keyParts: string[],
+  options: { revalidate?: number; tags?: string[] } = {}
+) {
+  return unstable_cache(fn, keyParts, options);
+}
+
 

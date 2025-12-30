@@ -3,7 +3,10 @@
 import { streamUI } from "@ai-sdk/rsc";
 import { getModelForTaskWithVideoCheck, AITaskType } from "@/lib/ai/config";
 import { z } from "zod";
-import { buildCompletePrompt } from "@/lib/utils/prompt-builder";
+import { buildMasterPrompt } from "@/lib/utils/prompt-builder";
+import { getCurrentUserOrg } from "@/lib/auth-helpers";
+import { getMasterContext } from "@/lib/context/master-context";
+import { db } from "@/server/db";
 
 /**
  * Generative UI Server Action
@@ -18,25 +21,67 @@ export async function generateLearningTool(
     studentId?: string;
     objectiveId?: string;
     organizationId: string;
+    courseId?: string;
+    courseBlockId?: string;
+    bookId?: string;
+    videoId?: string;
+    articleId?: string;
+    documentId?: string;
+    resourceKindId?: string;
   },
 ) {
-  const { toolType, userPrompt, studentId, objectiveId, organizationId } = params;
+  const {
+    toolType,
+    userPrompt,
+    studentId,
+    objectiveId,
+    organizationId,
+    courseId,
+    courseBlockId,
+    bookId,
+    videoId,
+    articleId,
+    documentId,
+    resourceKindId,
+  } = params;
 
-  // Build context-aware prompt
-  const fullPrompt = await buildCompletePrompt({
+  // Get user ID for saving resources
+  const { userId } = await getCurrentUserOrg();
+
+  // Get master context for lineage tracking
+  const masterContext = await getMasterContext({
+    organizationId,
+    studentId,
+    objectiveId,
+    courseId,
+    courseBlockId,
+    bookId,
+    videoId,
+    articleId,
+    documentId,
+  });
+
+  // Build context-aware prompt using Master Context with all available params
+  const fullPrompt = await buildMasterPrompt({
     objectiveId,
     studentId,
     organizationId,
+    courseId,
+    courseBlockId,
+    bookId,
+    videoId,
+    articleId,
+    documentId,
     userInstruction: userPrompt,
   });
 
   // Determine task type based on toolType
   const taskType = getTaskTypeFromToolType(toolType);
-  
+
   // Check if user prompt contains YouTube URLs (requires Gemini 3 Pro)
   // Automatically upgrade to Gemini 3 Pro if videos are detected
   const model = getModelForTaskWithVideoCheck(taskType, userPrompt);
-  
+
   // Stream UI with tools
   const result = await streamUI({
     model,
@@ -69,8 +114,31 @@ export async function generateLearningTool(
             </div>
           );
 
-          // 2. (Optional) Save to DB here
-          // await saveQuizToDatabase(quizData);
+          // 2. Save to DB with lineage tracking
+          if (resourceKindId) {
+            try {
+              await db.resource.create({
+                data: {
+                  organizationId,
+                  createdByUserId: userId,
+                  resourceKindId,
+                  title: quizData.title,
+                  description: `Quiz with ${quizData.questions.length} questions`,
+                  storageType: "JSON",
+                  content: quizData,
+                  generatedForStudentId: studentId || null,
+                  generatedFromBookId: bookId || null,
+                  generatedFromVideoId: videoId || null,
+                  generatedFromArticleId: articleId || null,
+                  generatedFromDocumentId: documentId || null,
+                  generationContext: masterContext as any,
+                },
+              });
+            } catch (error) {
+              console.error("Failed to save resource:", error);
+              // Don't fail the generation if saving fails
+            }
+          }
 
           // 3. Yield the final interactive component
           // Note: QuizCard would be a client component
@@ -123,6 +191,31 @@ export async function generateLearningTool(
               <span className="font-body text-qc-text-muted">Creating worksheet...</span>
             </div>
           );
+
+          // Save to DB with lineage tracking
+          if (resourceKindId) {
+            try {
+              await db.resource.create({
+                data: {
+                  organizationId,
+                  createdByUserId: userId,
+                  resourceKindId,
+                  title: worksheetData.title,
+                  description: worksheetData.instructions,
+                  storageType: "JSON",
+                  content: worksheetData,
+                  generatedForStudentId: studentId || null,
+                  generatedFromBookId: bookId || null,
+                  generatedFromVideoId: videoId || null,
+                  generatedFromArticleId: articleId || null,
+                  generatedFromDocumentId: documentId || null,
+                  generationContext: masterContext as any,
+                },
+              });
+            } catch (error) {
+              console.error("Failed to save resource:", error);
+            }
+          }
 
           return (
             <div className="rounded-qc-lg bg-white p-6 shadow-[0_10px_30px_rgba(10,8,6,0.12)] border border-qc-border-subtle/50">

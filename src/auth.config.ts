@@ -2,7 +2,7 @@ import type { NextAuthConfig } from "next-auth";
 
 /**
  * Edge-safe Auth.js configuration
- * This file is used by Middleware and must be edge-compatible
+ * This file is used by Proxy and must be edge-compatible
  */
 export const authConfig = {
   providers: [], // Providers added in auth.ts
