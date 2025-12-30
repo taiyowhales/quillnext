@@ -18,24 +18,45 @@ export const classroomSchema = z.object({
   instructors: z.array(instructorSchema).min(1, "At least one instructor is required"),
   instructorPin: z.string().regex(/^\d{4}$/, "PIN must be exactly 4 digits"),
   educationalPhilosophy: z.enum([
-    "TRADITIONAL",
+    "TRADITIONAL_SCHOOL_AT_HOME",
+    "VIRTUAL_ONLINE",
     "CLASSICAL",
     "CHARLOTTE_MASON",
     "UNIT_STUDIES",
-    "ONLINE_VIRTUAL",
-    "UNSCHOOL",
     "MONTESSORI",
+    "UNSCHOOLING",
+    "WALDORF",
+    "ECLECTIC",
+    "THOMAS_JEFFERSON_EDUCATION",
+    "ROADSCHOOLING",
+    "WORLDSCHOOLING",
+    "GAMESCHOOLING",
+    "REGGIO_EMILIA",
+    "WILD_AND_FREE",
+    "PROJECT_BASED_LEARNING",
     "OTHER",
   ]),
   educationalPhilosophyOther: z.string().optional(),
-  academicGoals: z.string().optional(),
+  academicGoals: z.array(z.string()).max(3, "Please select up to 3 goals").optional(),
   faithBackground: z.enum([
+    "ROMAN_CATHOLIC",
+    "EASTERN_CATHOLIC",
+    "EASTERN_ORTHODOX",
+    "GREEK_ORTHODOX",
+    "RUSSIAN_ORTHODOX",
+    "OTHER_ORTHODOX",
     "PROTESTANT",
-    "CATHOLIC",
-    "ORTHODOX",
-    "NON_DENOMINATIONAL",
-    "INTERFAITH",
-    "SECULAR",
+    "ADVENTIST",
+    "ANABAPTIST",
+    "ANGLICAN_EPISCOPAL",
+    "BAPTIST",
+    "CHURCH_OF_CHRIST",
+    "LUTHERAN",
+    "METHODIST_WESLEYAN",
+    "NONDENOMINATIONAL",
+    "PENTECOSTAL_CHARISMATIC",
+    "PRESBYTERIAN_REFORMED",
+    "OTHER_PROTESTANT",
     "OTHER",
   ]),
   faithBackgroundOther: z.string().optional(),
@@ -44,11 +65,16 @@ export const classroomSchema = z.object({
 export const scheduleSchema = z.object({
   schoolYearStartDate: z.date(),
   schoolYearEndDate: z.date(),
-  schoolDaysOfWeek: z.array(z.number().int().min(0).max(6)).min(1), // 0=Sunday, 1=Monday, etc.
-  daysPerWeek: z.number().int().min(1).max(7).optional(), // For "varies week by week"
-  dailyStartTime: z.string().regex(/^\d{2}:\d{2}$/).optional(), // HH:MM format
-  dailyEndTime: z.string().regex(/^\d{2}:\d{2}$/).optional(),
-  dailyTimesVary: z.boolean().default(false),
+  isYearRound: z.boolean().optional(),
+
+  // Logic: Either schoolDaysOfWeek OR daysPerWeek must be present depending on UI state
+  schoolDaysOfWeek: z.array(z.number().int().min(0).max(6)).optional(),
+  daysPerWeek: z.number().int().min(1).max(7).optional(),
+
+  dailyTimesVary: z.boolean().optional(),
+  dailyStartTime: z.string().optional(),
+  dailyEndTime: z.string().optional(),
+  hoursPerDay: z.number().int().min(1).max(24).optional(),
   breaks: z
     .array(
       z.object({
@@ -77,8 +103,8 @@ export const familyBlueprintSchema = z.object({
   classroom: classroomSchema,
   // Step 2: Schedule
   schedule: scheduleSchema,
-  // Step 3: Environment
-  environment: environmentSchema,
+  // Step 3: Environment (Optional/Removed from wizard)
+  environment: environmentSchema.optional(),
 });
 
 export type Instructor = z.infer<typeof instructorSchema>;

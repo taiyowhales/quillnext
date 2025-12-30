@@ -1,0 +1,92 @@
+"use server";
+
+import { db } from "@/server/db";
+
+export async function getStudentAssignments(studentId: string) {
+    if (!studentId) {
+        throw new Error("Student ID is required");
+    }
+
+    // Removed defensive try/catch - let errors bubble up
+    // Converted include to select for precise field selection
+    const assignments = await db.resourceAssignment.findMany({
+        where: { studentId },
+        select: {
+            id: true,
+            studentId: true,
+            createdAt: true,
+            status: true,
+            dueDate: true,
+            completedAt: true,
+            courseId: true,
+            activityId: true,
+            resource: {
+                select: {
+                    id: true,
+                    title: true,
+                    resourceKind: {
+                        select: {
+                            id: true,
+                            label: true,
+                            code: true,
+                        },
+                    },
+                },
+            },
+            course: {
+                select: {
+                    id: true,
+                    title: true,
+                },
+            },
+            activity: {
+                select: {
+                    id: true,
+                    title: true,
+                    activityType: true,
+                },
+            },
+
+        },
+        orderBy: { createdAt: "desc" },
+        take: 50, // Explicit bound to prevent unbounded queries
+    });
+
+    const courseEnrollments = await db.courseStudent.findMany({
+        where: { studentId },
+        select: {
+            courseId: true,
+            studentId: true,
+            enrolledAt: true,
+            status: true,
+            course: {
+                select: {
+                    id: true,
+                    title: true,
+                    subject: {
+                        select: {
+                            id: true,
+                            name: true,
+                            code: true,
+                        },
+                    },
+                },
+            },
+        },
+        orderBy: { enrolledAt: "desc" },
+        take: 20, // Explicit bound
+    });
+
+    return { assignments, courseEnrollments };
+}
+
+export async function saveStudentAvatarConfig(studentId: string, config: any) {
+    // Removed defensive try/catch - let errors bubble up
+    // If student doesn't exist or update fails, throw explicitly
+    await db.student.update({
+        where: { id: studentId },
+        data: { avatarConfig: config },
+    });
+
+    return { success: true };
+}

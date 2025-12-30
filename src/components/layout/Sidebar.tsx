@@ -1,0 +1,145 @@
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { cn } from "@/lib/utils";
+import {
+    House,
+    Users,
+    BookOpen,
+    Heart,
+    Student,
+    ChalkboardTeacher,
+    Gear,
+    X,
+    List,
+    Lightbulb
+} from "@phosphor-icons/react";
+import Image from "next/image";
+import { Button } from "@/components/ui/button";
+import { useState } from "react";
+
+const NAV_ITEMS = [
+    { href: "/", label: "Dashboard", icon: House },
+    { href: "/students", label: "Students", icon: Student },
+    { href: "/courses", label: "Courses", icon: ChalkboardTeacher },
+    { href: "/living-library", label: "Living Library", icon: BookOpen },
+    { href: "/thinkling", label: "Thinkling Chat", icon: Lightbulb },
+    { href: "/family-discipleship", label: "Discipleship", icon: Heart },
+];
+
+import { CommandPalette } from "@/components/layout/CommandPalette";
+import { CreationDrawer } from "@/components/layout/CreationDrawer";
+
+import { UserNav } from "@/components/navigation/UserNav";
+import { ProfileSettingsDialog } from "@/components/navigation/ProfileSettingsDialog";
+import { User } from "next-auth";
+
+interface SidebarProps {
+    user?: User;
+}
+
+export function Sidebar({ user }: SidebarProps) {
+    const pathname = usePathname();
+    const [mobileOpen, setMobileOpen] = useState(false);
+    const [showSettings, setShowSettings] = useState(false);
+
+    return (
+        <>
+            {/* Mobile Trigger */}
+            <div className="lg:hidden fixed top-4 left-4 z-50">
+                <Button variant="outline" size="icon" onClick={() => setMobileOpen(!mobileOpen)} className="bg-white/90 backdrop-blur shadow-sm">
+                    {mobileOpen ? <X /> : <List />}
+                </Button>
+            </div>
+
+            {/* Desktop Sidebar & Mobile Drawer */}
+            <aside className={cn(
+                "fixed inset-y-0 left-0 z-40 w-64 bg-qc-parchment border-r border-qc-border-subtle transform transition-transform duration-300 ease-in-out lg:translate-x-0",
+                mobileOpen ? "translate-x-0" : "-translate-x-full"
+            )}>
+                <div className="h-full flex flex-col">
+                    {/* Logo Area */}
+                    <div className="flex items-center px-4 py-4 border-b border-qc-border-subtle/50">
+                        <Link href="/" className="flex items-center gap-2 w-full">
+                            <Image
+                                src="/assets/branding/Quill-and-Compass.png"
+                                alt="Quill & Compass"
+                                width={220}
+                                height={60}
+                                className="w-full h-auto object-contain"
+                            />
+                        </Link>
+                    </div>
+
+                    {/* Command Palette */}
+                    <div className="p-4 pb-0">
+                        <CommandPalette />
+                    </div>
+
+                    {/* Nav Items */}
+                    <nav className="flex-1 px-4 py-4 space-y-1 overflow-y-auto">
+                        {NAV_ITEMS.map((item) => {
+                            const Icon = item.icon;
+                            const isActive = pathname === item.href || (item.href !== "/" && pathname.startsWith(item.href));
+
+                            return (
+                                <Link
+                                    key={item.href}
+                                    href={item.href}
+                                    onClick={() => setMobileOpen(false)}
+                                    className={cn(
+                                        "flex items-center gap-3 px-3 py-2.5 rounded-qc-md text-sm font-medium transition-colors",
+                                        isActive
+                                            ? "bg-qc-primary/10 text-qc-primary"
+                                            : "text-qc-text-muted hover:bg-qc-primary/5 hover:text-qc-charcoal"
+                                    )}
+                                >
+                                    <Icon className={cn("w-5 h-5", isActive ? "weight-fill" : "")} weight={isActive ? "fill" : "regular"} />
+                                    {item.label}
+                                </Link>
+                            );
+                        })}
+                    </nav>
+
+                    {/* Footer Area */}
+                    <div className="border-t border-qc-border-subtle/50 p-4 space-y-4">
+                        <CreationDrawer />
+
+                        <button
+                            onClick={() => user && setShowSettings(true)}
+                            className="w-full flex items-center gap-3 px-3 py-2.5 rounded-qc-md text-sm font-medium text-qc-text-muted hover:bg-qc-primary/5 hover:text-qc-charcoal transition-colors text-left"
+                            disabled={!user}
+                        >
+                            <Gear className="w-5 h-5" />
+                            Settings
+                        </button>
+
+                        {user && (
+                            <>
+                                <div className="pt-2 border-t border-qc-border-subtle/30">
+                                    <div className="flex items-center gap-3 px-2">
+                                        <UserNav user={user} />
+                                        <div className="flex flex-col overflow-hidden">
+                                            <span className="text-sm font-medium truncate text-qc-charcoal">{user.name}</span>
+                                            <span className="text-xs text-qc-text-muted truncate">{user.email}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <ProfileSettingsDialog user={user} open={showSettings} onOpenChange={setShowSettings} />
+                            </>
+                        )}
+                    </div>
+                </div>
+            </aside>
+
+            {/* Mobile Overlay */}
+            {mobileOpen && (
+                <div
+                    className="fixed inset-0 z-30 bg-black/20 lg:hidden backdrop-blur-sm"
+                    onClick={() => setMobileOpen(false)}
+                />
+            )}
+        </>
+    );
+}

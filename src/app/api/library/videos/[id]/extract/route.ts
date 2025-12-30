@@ -1,0 +1,66 @@
+import { NextRequest, NextResponse } from "next/server";
+import { auth } from "@/auth";
+import { getCurrentUserOrg } from "@/lib/auth-helpers";
+import { db } from "@/server/db";
+import { extractVideoContent } from "@/lib/ai/video-processing";
+
+export async function POST(
+  request: NextRequest,
+  { params }: { params: Promise<{ id: string }> },
+) {
+  const { id } = await params;
+  const session = await auth();
+  if (!session?.user) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const { organizationId } = await getCurrentUserOrg();
+
+  const video = await db.videoResource.findUnique({
+    where: { id },
+  });
+
+  if (!video || video.organizationId !== organizationId) {
+    return NextResponse.json({ error: "Video not found" }, { status: 404 });
+  }
+
+  // Update status to extracting
+  await db.videoResource.update({
+    where: { id },
+    data: { extractionStatus: "EXTRACTING" },
+  });
+
+  try {
+    // Extract video content using Gemini 3 Pro
+    const extracted = await extractVideoContent(video.youtubeUrl);
+
+    // Update video with extracted content
+    await db.videoResource.update({
+      where: { id },
+      data: {
+        extractionStatus: "EXTRACTED",
+        extractedAt: new Date(),
+        extractedSummary: extracted.summary,
+        extractedKeyPoints: extracted.keyPoints,
+        // Note: Transcript extraction would require additional processing
+        // For now, we store the summary and key points
+      },
+    });
+
+    return NextResponse.json({ success: true, extracted });
+  } catch (error) {
+    console.error("Video extraction error:", error);
+
+    // Update status to failed
+    await db.videoResource.update({
+      where: { id },
+      data: { extractionStatus: "FAILED" },
+    });
+
+    return NextResponse.json(
+      { error: "Failed to extract video content" },
+      { status: 500 },
+    );
+  }
+}
+

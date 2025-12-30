@@ -10,11 +10,11 @@ import yaml from "js-yaml";
 // This avoids Accelerate communication issues during bulk seeding operations
 const createPrismaClient = () => {
   const databaseUrl = process.env.DIRECT_DATABASE_URL || process.env.DATABASE_URL;
-  
+
   if (!databaseUrl) {
     throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
   }
-  
+
   // Use direct connection for seeding (no Accelerate extension)
   const pool = new Pool({ connectionString: databaseUrl });
   const adapter = new PrismaPg(pool);
@@ -42,9 +42,9 @@ async function main() {
       path.join(process.cwd(), "quill-standards", "academic_standards_master.json"),
       path.join(process.cwd(), "prisma", "data", "quill-standards", "academic_standards_master.json"),
     ];
-    
+
     const standardsPath = possiblePaths.find((p) => fs.existsSync(p));
-    
+
     if (!standardsPath) {
       console.warn("⚠️  academic_standards_master.json not found in any expected location. Skipping standards seeding.");
       console.warn("   Tried:", possiblePaths);
@@ -56,26 +56,35 @@ async function main() {
           code: string;
           name: string;
           description?: string;
-          strands?: Array<{
+          uuid?: string;
+          sub_subjects?: Array<{
             id?: string;
             code: string;
             name: string;
             description?: string;
+            short_code?: string;
+            uuid?: string;
             topics?: Array<{
               id?: string;
               code: string;
               name: string;
               description?: string;
+              short_code?: string;
+              uuid?: string;
               sub_topics?: Array<{
                 id?: string;
                 code: string;
                 name: string;
                 description?: string;
+                short_code?: string;
+                uuid?: string;
                 objectives?: Array<{
                   id?: string;
                   code: string;
                   text: string;
+                  short_code?: string;
                   description?: string;
+                  uuid?: string;
                 }>;
               }>;
             }>;
@@ -87,7 +96,7 @@ async function main() {
         for (const subject of standards.subjects) {
           // Map JSON "id" to database "code" (e.g., "ART" -> code)
           const subjectCode = subject.id || subject.code;
-          
+
           // Upsert Subject
           const dbSubject = await prisma.subject.upsert({
             where: { code: subjectCode },
@@ -110,7 +119,7 @@ async function main() {
           if (subject.sub_subjects) {
             for (const strand of subject.sub_subjects) {
               const strandCode = strand.id || strand.code;
-              
+
               const dbStrand = await prisma.strand.upsert({
                 where: {
                   subjectId_code: {
@@ -137,7 +146,7 @@ async function main() {
               if (strand.topics) {
                 for (const topic of strand.topics) {
                   const topicCode = topic.id || topic.code;
-                  
+
                   const dbTopic = await prisma.topic.upsert({
                     where: {
                       strandId_code: {
@@ -164,7 +173,7 @@ async function main() {
                   if (topic.sub_topics) {
                     for (const subtopic of topic.sub_topics) {
                       const subtopicCode = subtopic.id || subtopic.code;
-                      
+
                       const dbSubtopic = await prisma.subtopic.upsert({
                         where: {
                           topicId_code: {
@@ -191,7 +200,7 @@ async function main() {
                       if (subtopic.objectives) {
                         for (const objective of subtopic.objectives) {
                           const objectiveCode = objective.id || objective.code;
-                          
+
                           await prisma.objective.upsert({
                             where: { code: objectiveCode },
                             update: {
@@ -245,7 +254,7 @@ async function main() {
       };
 
       let updatedCount = 0;
-      
+
       if (sequenced.curriculum_sequence?.grade_levels) {
         // Iterate through all grade levels
         for (const gradeLevelData of Object.values(sequenced.curriculum_sequence.grade_levels)) {
@@ -306,46 +315,83 @@ async function main() {
 
       let resourceKindCount = 0;
 
-      for (const [strandCode, config] of Object.entries(contentTypes)) {
-        // Find the strand by code (format: "BIB.1", "ELA.2", etc.)
-        const strand = await prisma.strand.findFirst({
-          where: { code: strandCode },
-        });
+      for (const [level1Key, level1Value] of Object.entries(contentTypes)) {
+        // level1Key could be a Subject Name ("Bible & Theology") or Strand Code ("BIB.1")
+        // level1Value is Record<string, string[]> -> { Subcategory: ["Item 1", "Item 2"] }
 
-        if (strand && config.generators) {
-          for (const gen of config.generators) {
-            // Map YAML type to ResourceContentType enum
-            const contentTypeMap: Record<string, "WORKSHEET" | "TEMPLATE" | "PROMPT" | "GUIDE" | "QUIZ" | "RUBRIC" | "LESSON_PLAN" | "OTHER"> =
-              {
-                worksheet: "WORKSHEET",
-                template: "TEMPLATE",
-                prompt: "PROMPT",
-                guide: "GUIDE",
-                quiz: "QUIZ",
-                rubric: "RUBRIC",
-                "lesson-plan": "LESSON_PLAN",
-              };
+        // Attempt to resolve to a Strand or Subject
+        let strandId: string | null = null;
+        let subjectId: string | null = null;
 
-            const contentType = contentTypeMap[gen.type?.toLowerCase() || ""] || "OTHER";
+        // 1. Try as Strand Code
+        const strand = await prisma.strand.findFirst({ where: { code: level1Key } });
+        if (strand) {
+          strandId = strand.id;
+          subjectId = strand.subjectId; // Optional: denormalize subjectId? Schema has subjectId on ResourceKind.
+        } else {
+          // 2. Try as Subject Name (since Level 1 keys in YAML are often Subject Names)
+          const subject = await prisma.subject.findFirst({ where: { name: level1Key } });
+          if (subject) {
+            subjectId = subject.id;
+          }
+        }
 
-            await prisma.resourceKind.upsert({
-              where: { code: gen.id },
-              update: {
-                label: gen.label,
-                description: gen.description,
-                contentType,
-              },
-              create: {
-                code: gen.id,
-                label: gen.label,
-                description: gen.description,
-                contentType,
-                strandId: strand.id,
-                isSpecialized: true, // These are strand-specific
-              },
-            });
+        // If "Universal Tools & Templates", we leave strandId/subjectId as null (Global)
 
-            resourceKindCount++;
+        if (level1Value && typeof level1Value === 'object') {
+          for (const [subCategory, items] of Object.entries(level1Value as Record<string, string[]>)) {
+            if (Array.isArray(items)) {
+              for (const itemLabel of items) {
+                // Generate a stable code/id from the label
+                const code = itemLabel
+                  .toLowerCase()
+                  .replace(/[^a-z0-9]+/g, "-")
+                  .replace(/(^-|-$)/g, "");
+
+                // Determine Content Type based on keywords
+                let contentType: "WORKSHEET" | "TEMPLATE" | "PROMPT" | "GUIDE" | "QUIZ" | "RUBRIC" | "OTHER" = "OTHER";
+                const labelLower = itemLabel.toLowerCase();
+                if (labelLower.includes("worksheet") || labelLower.includes("sheet")) contentType = "WORKSHEET";
+                else if (labelLower.includes("template") || labelLower.includes("plan") || labelLower.includes("outline")) contentType = "TEMPLATE";
+                else if (labelLower.includes("prompt") || labelLower.includes("starter")) contentType = "PROMPT";
+                else if (labelLower.includes("guide") || labelLower.includes("summary") || labelLower.includes("analysis")) contentType = "GUIDE";
+                else if (labelLower.includes("quiz") || labelLower.includes("test")) contentType = "QUIZ";
+                else if (labelLower.includes("rubric")) contentType = "RUBRIC";
+
+                // Determine Vision Requirement
+                const visualKeywords = [
+                  "Visual", "Diagram", "Map", "Chart", "Sketching", "Drawing",
+                  "Art", "Picture", "Image", "Photo", "Video", "Film",
+                  "Observation", "Identification", "Labeling", "Timeline", "Graph"
+                ];
+                const requiresVision = visualKeywords.some(k => itemLabel.includes(k));
+
+                await prisma.resourceKind.upsert({
+                  where: { code },
+                  update: {
+                    label: itemLabel,
+                    description: `Generate a ${itemLabel} for ${subCategory}`,
+                    contentType,
+                    requiresVision,
+                    // Don't overwrite strandId/subjectId on update if it might have been manually set?
+                    // Actually, if we are re-seeding, we enforce the structure.
+                    strandId,
+                    subjectId,
+                  },
+                  create: {
+                    code,
+                    label: itemLabel,
+                    description: `Generate a ${itemLabel} for ${subCategory}`,
+                    contentType,
+                    strandId,
+                    subjectId,
+                    isSpecialized: !!(strandId || subjectId), // Specialized if attached to a domain
+                    requiresVision,
+                  },
+                });
+                resourceKindCount++;
+              }
+            }
           }
         }
       }

@@ -1,4 +1,6 @@
 import { db } from "@/server/db";
+import { getMasterContext, type MasterContextParams } from "@/lib/context/master-context";
+import { serializeMasterContext, type SerializationOptions } from "@/lib/context/context-serializer";
 
 // -----------------------------------------------------------------------
 // Academic Spine Context Injection
@@ -172,7 +174,7 @@ export async function buildFamilyContextPrompt(
   });
 
   const orgWithClassrooms = organization as unknown as { classrooms?: Array<{ educationalPhilosophy: string | null; educationalPhilosophyOther: string | null; faithBackground: string | null; faithBackgroundOther: string | null }> };
-  
+
   if (!organization || !orgWithClassrooms.classrooms || orgWithClassrooms.classrooms.length === 0) {
     return basePrompt; // No classroom data
   }
@@ -198,6 +200,7 @@ Please ensure all content aligns with the family's educational philosophy and re
 /**
  * Combined prompt builder with all context
  * This is the main function to use for AI generation
+ * @deprecated Use buildMasterPrompt() instead for better context integration
  */
 export async function buildCompletePrompt(
   params: {
@@ -223,6 +226,68 @@ export async function buildCompletePrompt(
   prompt = await buildFamilyContextPrompt(params.organizationId, prompt);
 
   return prompt;
+}
+
+/**
+ * Build master prompt using Master Context Service
+ * This is the new recommended function for AI generation
+ * Aggregates all context sources (family, student, academic, library, schedule)
+ */
+export async function buildMasterPrompt(
+  params: {
+    objectiveId?: string;
+    studentId?: string;
+    organizationId: string;
+    courseId?: string;
+    courseBlockId?: string;
+    bookId?: string;
+    videoId?: string;
+    articleId?: string;
+    documentId?: string;
+    userInstruction: string;
+  },
+  options?: SerializationOptions,
+): Promise<string> {
+  // Build master context
+  const contextParams: MasterContextParams = {
+    organizationId: params.organizationId,
+    studentId: params.studentId,
+    objectiveId: params.objectiveId,
+    courseId: params.courseId,
+    courseBlockId: params.courseBlockId,
+    bookId: params.bookId,
+    videoId: params.videoId,
+    articleId: params.articleId,
+    documentId: params.documentId,
+  };
+
+  const masterContext = await getMasterContext(contextParams);
+
+  // Serialize context to prompt string
+  const contextString = serializeMasterContext(masterContext, {
+    maxTokens: options?.maxTokens || 2000,
+    includeDetails: options?.includeDetails !== false,
+    prioritize: options?.prioritize || ["academic", "student", "family", "library", "schedule"],
+    modelType: options?.modelType || "flash",
+  });
+
+  // Combine with user instruction
+  return `
+You are an expert educator creating personalized educational content.
+
+${contextString}
+
+TASK:
+${params.userInstruction}
+
+Please create content that:
+- Directly addresses the learning objective (if provided)
+- Is personalized to the student's learning style and preferences (if student context available)
+- Aligns with the family's educational philosophy and faith background
+- Uses relevant resources from the library when appropriate
+- Respects the schedule and pacing constraints
+- Is engaging, pedagogically sound, and age-appropriate
+`.trim();
 }
 
 // Helper function

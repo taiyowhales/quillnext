@@ -1,25 +1,17 @@
 import { google } from "@ai-sdk/google";
 
-/**
- * AI Model Configuration
- * Multi-model setup with intelligent task-based selection
- * 
- * Models:
- * - Gemini 3 Pro: Most advanced reasoning, complex tasks, YouTube video processing ($2/$12 per 1M tokens)
- *   ⚠️ ONLY MODEL that can process YouTube videos - required for Course Builder with video links
- * - Gemini 2.5 Pro: Complex reasoning, multi-step tasks ($1.25/$10 per 1M tokens)
- * - Gemini 2.5 Flash: Fast, moderate complexity ($0.30/$2.50 per 1M tokens)
- * - Gemini 2.5 Flash-Lite: Fastest, simple tasks ($0.10/$0.40 per 1M tokens)
- * 
- * Reference: https://ai.google.dev/gemini-api/docs
- */
+// Shim for API Key: AI SDK expects GOOGLE_GENERATIVE_AI_API_KEY, but user has GEMINI_API_KEY
+if (!process.env.GOOGLE_GENERATIVE_AI_API_KEY && process.env.GEMINI_API_KEY) {
+  process.env.GOOGLE_GENERATIVE_AI_API_KEY = process.env.GEMINI_API_KEY;
+}
 
 // Model instances
 export const models = {
-  pro3: google("gemini-3-pro-preview"), // Gemini 3 Pro - Most advanced
-  pro: google("gemini-2.5-pro"), // Gemini 2.5 Pro
-  flash: google("gemini-2.5-flash"), // Gemini 2.5 Flash
-  flashLite: google("gemini-2.5-flash-lite"), // Gemini 2.5 Flash-Lite
+  pro3: google("gemini-3-pro-preview"),
+  pro: google("gemini-2.5-pro"),
+  flash: google("gemini-2.5-flash"),
+  flashLite: google("gemini-2.5-flash-lite"),
+  imagen: google("imagen-3.0-generate-001"), // Imagen 3 for image generation
 } as const;
 
 /**
@@ -43,7 +35,7 @@ export enum AITaskType {
   COURSE_STRUCTURE_DESIGN = "course_structure_design",
   VIDEO_PROCESSING = "video_processing", // YouTube video analysis - REQUIRES Gemini 3 Pro
   VIDEO_BASED_CONTENT = "video_based_content", // Content generation from videos
-  
+
   // Medium complexity - Use Flash
   GENERATIVE_UI = "generative_ui",
   QUIZ_GENERATION = "quiz_generation",
@@ -52,7 +44,7 @@ export enum AITaskType {
   RUBRIC_GENERATION = "rubric_generation",
   CONTENT_GENERATION = "content_generation",
   PROMPT_BUILDING = "prompt_building",
-  
+
   // Low complexity - Use Flash-Lite
   TEXT_SUMMARIZATION = "text_summarization",
   TEXT_LEVELING = "text_leveling",
@@ -67,14 +59,14 @@ export enum AITaskType {
 const taskModelMap: Record<AITaskType, typeof models.pro3 | typeof models.pro | typeof models.flash | typeof models.flashLite> = {
   // Highest complexity tasks -> Gemini 3 Pro (most advanced reasoning)
   // ⚠️ Video processing tasks MUST use Gemini 3 Pro (only model that supports YouTube)
-  [AITaskType.PERSONALITY_PROFILING]: models.pro3,
-  [AITaskType.LEARNING_STYLE_ANALYSIS]: models.pro3,
+  [AITaskType.PERSONALITY_PROFILING]: models.flash, // Downgrade to Flash for reliability
+  [AITaskType.LEARNING_STYLE_ANALYSIS]: models.flash, // Downgrade to Flash for reliability
   [AITaskType.COMPLEX_CONTENT_GENERATION]: models.pro3,
   [AITaskType.MULTI_STEP_REASONING]: models.pro3,
   [AITaskType.COURSE_STRUCTURE_DESIGN]: models.pro3,
   [AITaskType.VIDEO_PROCESSING]: models.pro3, // YouTube video analysis
   [AITaskType.VIDEO_BASED_CONTENT]: models.pro3, // Content generation from videos
-  
+
   // Medium complexity tasks -> Flash
   [AITaskType.GENERATIVE_UI]: models.flash,
   [AITaskType.QUIZ_GENERATION]: models.flash,
@@ -83,7 +75,7 @@ const taskModelMap: Record<AITaskType, typeof models.pro3 | typeof models.pro | 
   [AITaskType.RUBRIC_GENERATION]: models.flash,
   [AITaskType.CONTENT_GENERATION]: models.flash,
   [AITaskType.PROMPT_BUILDING]: models.flash,
-  
+
   // Low complexity tasks -> Flash-Lite
   [AITaskType.TEXT_SUMMARIZATION]: models.flashLite,
   [AITaskType.TEXT_LEVELING]: models.flashLite,
@@ -131,9 +123,10 @@ export function getGenerativeUIModel() {
 }
 
 /**
- * Embedding model (still using OpenAI for now)
+ * Embedding model - Using Gemini Text Embedding 004
+ * Configured with 1536 dimensions to match existing PGVector schema
  */
-export const embeddingModel = "text-embedding-3-small" as const;
+export const embeddingModel = google.textEmbeddingModel("text-embedding-004");
 
 /**
  * Check if content contains YouTube URLs
@@ -160,7 +153,7 @@ export function getModelForTaskWithVideoCheck(
   if (content && containsYouTubeUrl(content)) {
     return models.pro3;
   }
-  
+
   // Otherwise use standard task-based selection
   return getModelForTask(taskType);
 }

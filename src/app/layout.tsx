@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Inter, Cormorant_Garamond } from "next/font/google";
-import { TRPCProvider } from "@/lib/trpc/react";
+import { NuqsAdapter } from "nuqs/adapters/next/app";
+import { GlobalShell } from "@/components/layout/GlobalShell";
+import { StudentProfileProvider } from "@/components/providers/StudentProfileProvider";
 import "./globals.css";
 
 const inter = Inter({
@@ -21,15 +23,25 @@ export const metadata: Metadata = {
   description: "Curriculum generation platform",
 };
 
-export default function RootLayout({
+import { auth } from "@/auth";
+
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const session = await auth();
+
   return (
-    <html lang="en" className={`${inter.variable} ${cormorantGaramond.variable}`}>
-      <body>
-        <TRPCProvider>{children}</TRPCProvider>
+    <html lang="en" className={`${inter.variable} ${cormorantGaramond.variable}`} suppressHydrationWarning>
+      <body suppressHydrationWarning>
+        <NuqsAdapter>
+          <StudentProfileProvider>
+            <GlobalShell user={session?.user}>
+              {children}
+            </GlobalShell>
+          </StudentProfileProvider>
+        </NuqsAdapter>
       </body>
     </html>
   );
