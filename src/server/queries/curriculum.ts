@@ -1,6 +1,6 @@
 import "server-only";
 import { db } from "@/server/db";
-import { academicSpineCacheStrategy } from "@/lib/utils/prisma-cache";
+
 
 /**
  * Get available tools for a specific strand
@@ -30,7 +30,6 @@ export async function getAvailableTools(input: {
             orderBy: {
                 label: "asc",
             },
-            cacheStrategy: academicSpineCacheStrategy,
         })
         : [];
 
@@ -47,7 +46,6 @@ export async function getAvailableTools(input: {
             orderBy: {
                 label: "asc",
             },
-            cacheStrategy: academicSpineCacheStrategy,
         })
         : [];
 
@@ -62,7 +60,6 @@ export async function getAvailableTools(input: {
             orderBy: {
                 label: "asc",
             },
-            cacheStrategy: academicSpineCacheStrategy,
         })
         : [];
 
@@ -167,7 +164,6 @@ export async function getSpineHierarchy(input: { subjectId?: string }) {
                     },
                 },
             },
-            cacheStrategy: academicSpineCacheStrategy,
         });
 
         return subject ? [subject] : [];
@@ -185,7 +181,6 @@ export async function getSpineHierarchy(input: { subjectId?: string }) {
         orderBy: {
             sortOrder: "asc",
         },
-        cacheStrategy: academicSpineCacheStrategy,
     });
 
     return subjects;
@@ -213,7 +208,6 @@ export async function getObjective(objectiveId: string) {
                 },
             },
         },
-        cacheStrategy: academicSpineCacheStrategy,
     });
 
     if (!objective) {
