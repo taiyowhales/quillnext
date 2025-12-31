@@ -2,8 +2,10 @@ import { PrismaClient } from "@prisma/client";
 import { withAccelerate } from "@prisma/extension-accelerate";
 
 const createPrismaClient = () => {
-  // Prisma 7 reads prisma.config.ts automatically in Config Mode
-  return new PrismaClient().$extends(withAccelerate());
+  // Prisma 7: Pass accelerateUrl to client constructor
+  return new PrismaClient({
+    accelerateUrl: process.env.DATABASE_URL,
+  }).$extends(withAccelerate());
 };
 
 const globalForPrisma = globalThis as unknown as {
