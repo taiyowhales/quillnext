@@ -13,7 +13,7 @@ const createPrismaClient = () => {
 
     // Pass accelerateUrl to satisfy Wasm client requirement
     return new PrismaClient({
-        accelerateUrl: databaseUrl,
+        datasourceUrl: databaseUrl,
     } as any);
 };
 

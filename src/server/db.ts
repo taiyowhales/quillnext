@@ -1,4 +1,4 @@
-import { PrismaClient } from "@prisma/client/edge";
+import { PrismaClient } from "@prisma/client";
 import { withAccelerate } from "@prisma/extension-accelerate";
 
 // Prisma 7 Configuration (Pure Accelerate):
@@ -13,7 +13,7 @@ const makePrismaClient = () => {
   // We cast to any because the generated types might not expose accelerateUrl
   // but the runtime error explicitly requests it.
   return new PrismaClient({
-    accelerateUrl: process.env.DATABASE_URL,
+    datasourceUrl: process.env.DATABASE_URL,
     log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
   } as any).$extends(withAccelerate());
 };
