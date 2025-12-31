@@ -1,12 +1,12 @@
 import "dotenv/config";
-import path from "node:path";
-import { defineConfig, env } from "prisma/config";
+import { defineConfig, env } from "@prisma/config";
 
 export default defineConfig({
-    schema: path.join("prisma", "schema.prisma"),
+    schema: "prisma/schema.prisma",
 
     datasource: {
-        // Direct connection for migrations, seeds, and local CLI operations
+        // Direct connection URL for CLI operations (migrations, generate, studio)
+        // Railway build will use DIRECT_DATABASE_URL if available, otherwise DATABASE_URL
         url: env("DIRECT_DATABASE_URL") || env("DATABASE_URL"),
     },
 });
