@@ -11,6 +11,7 @@ import { authConfig } from "./auth.config";
 const authInstance = NextAuth({
   adapter: PrismaAdapter(db),
   session: { strategy: "jwt" },
+  secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET,
   debug: false,
   ...authConfig,
   callbacks: {
