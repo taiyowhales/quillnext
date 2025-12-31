@@ -6,8 +6,11 @@ import { db } from "@/server/db";
 import { authConfig } from "./auth.config";
 
 // Create a separate Prisma client for the adapter (no Accelerate extension)
+// Uses same URL as main client but WITHOUT the withAccelerate() extension
 // This avoids SSL connection conflicts during auth callbacks
-const adapterClient = new PrismaClient();
+const adapterClient = new PrismaClient({
+  accelerateUrl: process.env.DATABASE_URL,
+});
 
 /**
  * Main Auth.js entry point
