@@ -1,16 +1,27 @@
 import { PrismaClient } from "@prisma/client";
+import { withAccelerate } from "@prisma/extension-accelerate";
+import { Pool } from "pg";
+import { PrismaPg } from "@prisma/adapter-pg";
 
-// Prisma 7 Configuration:
-// - If DATABASE_URL starts with "prisma://", Prisma automatically uses Accelerate
-// - Otherwise, use PRISMA_ACCELERATE_URL for Accelerate connection
-// - Direct database connection uses DATABASE_URL
+// Prisma 7 Configuration (Hybrid Adapter + Accelerate):
+// - We use the PrismaPg adapter to satisfy the "Client" engine requirement (Wasm/Edge compatible)
+// - We use withAccelerate for connection pooling on Vercel
+// - This setup works across Node.js and Edge runtimes without conflict
 
-const databaseUrl = process.env.DATABASE_URL;
+const connectionString = process.env.DATABASE_URL;
 
 const makePrismaClient = () => {
+  // 1. Create a Postgres Connection Pool
+  const pool = new Pool({ connectionString });
+
+  // 2. Create the Driver Adapter
+  const adapter = new PrismaPg(pool);
+
+  // 3. Initialize Prisma Client with the Adapter
   return new PrismaClient({
+    adapter,
     log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
-  });
+  }).$extends(withAccelerate());
 };
 
 const globalForPrisma = globalThis as unknown as {
