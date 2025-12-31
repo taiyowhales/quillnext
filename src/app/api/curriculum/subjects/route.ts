@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { db } from "@/server/db";
 
+export const runtime = "nodejs";
+
 export async function GET() {
   const subjects = await db.subject.findMany({
     select: {

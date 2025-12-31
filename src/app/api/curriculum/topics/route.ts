@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/server/db";
 
+export const runtime = "nodejs";
+
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
   const strandId = searchParams.get("strandId");

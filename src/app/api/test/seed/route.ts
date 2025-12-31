@@ -1,6 +1,8 @@
 import { db } from "@/server/db";
 import { NextResponse } from "next/server";
 
+export const runtime = "nodejs";
+
 export async function GET() {
     try {
         // 1. Try to get current session
