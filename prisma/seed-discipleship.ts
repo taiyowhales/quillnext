@@ -5,13 +5,15 @@ import path from 'path';
 
 // Create a Prisma client for seeding
 const createPrismaClient = () => {
-    const databaseUrl = process.env.DIRECT_DATABASE_URL || process.env.DATABASE_URL;
+    const directUrl = process.env.DIRECT_DATABASE_URL;
+    if (directUrl) {
+        process.env.DATABASE_URL = directUrl;
+    }
 
-    if (!databaseUrl) {
+    if (!process.env.DATABASE_URL) {
         throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
     }
 
-    // Pass no arguments, relying on env var (standard Library engine)
     return new PrismaClient();
 };
 

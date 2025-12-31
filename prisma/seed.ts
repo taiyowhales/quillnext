@@ -13,8 +13,13 @@ const createPrismaClient = () => {
     throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
   }
 
-  // Pass no arguments, relying on env var (standard Library engine)
-  return new PrismaClient();
+  return new PrismaClient({
+    datasources: {
+      db: {
+        url: databaseUrl,
+      },
+    },
+  });
 };
 
 const prisma = createPrismaClient();

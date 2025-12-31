@@ -1,12 +1,12 @@
 generator client {
   provider        = "prisma-client-js"
-  engineType      = "library"
+  // engineType = "library" // Optional: Prisma 7 detects this automatically
   previewFeatures = ["postgresqlExtensions"]
 }
 
 datasource db {
   provider   = "postgresql"
-  url        = env("DATABASE_URL")
+  // Connection URL is now managed by prisma.config.ts
   extensions = [vector]
 }
 
