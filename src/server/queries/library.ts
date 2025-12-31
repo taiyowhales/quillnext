@@ -1,6 +1,6 @@
 import "server-only";
 import { db } from "@/server/db";
-import { academicSpineCacheStrategy } from "@/lib/utils/prisma-cache";
+
 
 export async function getLibraryVideos(organizationId: string) {
     const videos = await db.videoResource.findMany({
@@ -42,7 +42,7 @@ export async function getLibrarySubjects() {
             code: true,
         },
         orderBy: { name: "asc" },
-        cacheStrategy: academicSpineCacheStrategy,
+
     });
     return subjects;
 }
