@@ -1,5 +1,5 @@
 import { PrismaClient } from "@prisma/client";
-import { withAccelerate } from "@prisma/extension-accelerate";
+
 
 const makePrismaClient = () => {
   return new PrismaClient({
@@ -7,7 +7,7 @@ const makePrismaClient = () => {
     // The standard Node.js client reads process.env.DATABASE_URL automatically.
     // Passing it manually here is what caused the Vercel build error.
     log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
-  }).$extends(withAccelerate());
+  });
 };
 
 const globalForPrisma = globalThis as unknown as {

@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import { PrismaClient } from "@prisma/client/edge";
+import { PrismaClient } from "@prisma/client";
 import fs from 'fs';
 import path from 'path';
 
@@ -11,10 +11,8 @@ const createPrismaClient = () => {
         throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
     }
 
-    // Pass accelerateUrl to satisfy Wasm client requirement
-    return new PrismaClient({
-        datasourceUrl: databaseUrl,
-    } as any);
+    // Pass no arguments, relying on env var (standard Library engine)
+    return new PrismaClient();
 };
 
 const prisma = createPrismaClient();
