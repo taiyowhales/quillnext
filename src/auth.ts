@@ -14,6 +14,19 @@ const authInstance = NextAuth({
   secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET,
   debug: false,
   ...authConfig,
+  cookies: {
+    // Explicitly configure PKCE cookie for production
+    pkceCodeVerifier: {
+      name: "__Secure-next-auth.pkce.code_verifier",
+      options: {
+        httpOnly: true,
+        sameSite: "lax",
+        secure: true, // Required for HTTPS in production
+        domain: process.env.NODE_ENV === "production" ? ".quillandcompass.app" : undefined,
+        path: "/",
+      },
+    },
+  },
   callbacks: {
     ...authConfig.callbacks,
     async jwt({ token, user, trigger, session }) {
