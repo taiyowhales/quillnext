@@ -1,7 +1,5 @@
 import "dotenv/config";
-import { PrismaClient } from "@prisma/client";
-import { Pool } from "pg";
-import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient } from "@prisma/client/edge";
 import fs from "fs";
 import path from "path";
 import yaml from "js-yaml";
@@ -15,12 +13,10 @@ const createPrismaClient = () => {
     throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
   }
 
-  // Use direct connection for seeding (no Accelerate extension)
-  const pool = new Pool({ connectionString: databaseUrl });
-  const adapter = new PrismaPg(pool);
+  // Pass accelerateUrl to satisfy Wasm client requirement
   return new PrismaClient({
-    adapter,
-  });
+    accelerateUrl: databaseUrl,
+  } as any);
 };
 
 const prisma = createPrismaClient();

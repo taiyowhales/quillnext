@@ -1,7 +1,5 @@
 import "dotenv/config";
-import { PrismaClient } from "@prisma/client";
-import { Pool } from "pg";
-import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient } from "@prisma/client/edge";
 import fs from "fs";
 import path from "path";
 import yaml from "js-yaml";
@@ -9,16 +7,15 @@ import yaml from "js-yaml";
 // Create a direct Prisma client for seeding (without Accelerate extension)
 const createPrismaClient = () => {
   const databaseUrl = process.env.DIRECT_DATABASE_URL || process.env.DATABASE_URL;
-  
+
   if (!databaseUrl) {
     throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
   }
-  
-  const pool = new Pool({ connectionString: databaseUrl });
-  const adapter = new PrismaPg(pool);
+
+  // Pass accelerateUrl to satisfy Wasm client requirement
   return new PrismaClient({
-    adapter,
-  });
+    accelerateUrl: databaseUrl,
+  } as any);
 };
 
 const prisma = createPrismaClient();
@@ -64,7 +61,7 @@ async function main() {
     // Helper function to infer content type from generator name
     function inferContentType(name: string): "WORKSHEET" | "TEMPLATE" | "PROMPT" | "GUIDE" | "QUIZ" | "RUBRIC" | "OTHER" {
       const lower = name.toLowerCase();
-      
+
       if (lower.includes("worksheet") || lower.includes("practice sheet") || lower.includes("drill")) {
         return "WORKSHEET";
       }
@@ -87,7 +84,7 @@ async function main() {
       if (lower.includes("lesson plan") || lower.includes("lesson-plan")) {
         return "OTHER";
       }
-      
+
       return "OTHER";
     }
 

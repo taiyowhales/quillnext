@@ -1,27 +1,21 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "@prisma/client/edge";
 import { withAccelerate } from "@prisma/extension-accelerate";
-import { Pool } from "pg";
-import { PrismaPg } from "@prisma/adapter-pg";
 
-// Prisma 7 Configuration (Hybrid Adapter + Accelerate):
-// - We use the PrismaPg adapter to satisfy the "Client" engine requirement (Wasm/Edge compatible)
-// - We use withAccelerate for connection pooling on Vercel
-// - This setup works across Node.js and Edge runtimes without conflict
-
-const connectionString = process.env.DATABASE_URL;
+// Prisma 7 Configuration (Pure Accelerate):
+// - Vercel (Frontend): Uses DATABASE_URL="prisma://..." (Active pooling via Accelerate)
+// - Railway (Backend): Uses DATABASE_URL="postgresql://..." (Direct TCP)
+// - We rely on the environment variable strictly.
+// - The "Client" engine (Wasm) rejects 'datasourceUrl' and 'datasources' properties at runtime.
+// - It requires the DATABASE_URL to be 'prisma://' (Accelerate) or an adapter to be present.
+// - Since we are "Pure Accelerate", we pass NO arguments and expect the env var to be sufficient.
 
 const makePrismaClient = () => {
-  // 1. Create a Postgres Connection Pool
-  const pool = new Pool({ connectionString });
-
-  // 2. Create the Driver Adapter
-  const adapter = new PrismaPg(pool);
-
-  // 3. Initialize Prisma Client with the Adapter
+  // We cast to any because the generated types might not expose accelerateUrl
+  // but the runtime error explicitly requests it.
   return new PrismaClient({
-    adapter,
+    accelerateUrl: process.env.DATABASE_URL,
     log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
-  }).$extends(withAccelerate());
+  } as any).$extends(withAccelerate());
 };
 
 const globalForPrisma = globalThis as unknown as {

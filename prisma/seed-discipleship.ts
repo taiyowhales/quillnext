@@ -1,13 +1,9 @@
-
 import 'dotenv/config';
-import { PrismaClient } from '@prisma/client';
-import { Pool } from "pg";
-import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient } from "@prisma/client/edge";
 import fs from 'fs';
 import path from 'path';
 
-// Create a direct Prisma client for seeding (without Accelerate extension)
-// This avoids Accelerate communication issues during bulk seeding operations
+// Create a Prisma client for seeding
 const createPrismaClient = () => {
     const databaseUrl = process.env.DIRECT_DATABASE_URL || process.env.DATABASE_URL;
 
@@ -15,12 +11,9 @@ const createPrismaClient = () => {
         throw new Error("DATABASE_URL or DIRECT_DATABASE_URL environment variable is required");
     }
 
-    // Use direct connection for seeding (no Accelerate extension)
-    const pool = new Pool({ connectionString: databaseUrl });
-    const adapter = new PrismaPg(pool);
-    /* eslint-disable-next-line @typescript-eslint/no-explicit-any */
+    // Pass accelerateUrl to satisfy Wasm client requirement
     return new PrismaClient({
-        adapter,
+        accelerateUrl: databaseUrl,
     } as any);
 };
 
