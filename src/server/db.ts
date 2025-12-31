@@ -1,6 +1,4 @@
 import { PrismaClient } from "@prisma/client";
-import { withAccelerate } from "@prisma/extension-accelerate";
-
 
 // Prisma 7 Configuration:
 // - If DATABASE_URL starts with "prisma://", Prisma automatically uses Accelerate
@@ -8,12 +6,11 @@ import { withAccelerate } from "@prisma/extension-accelerate";
 // - Direct database connection uses DATABASE_URL
 
 const databaseUrl = process.env.DATABASE_URL;
-const accelerateUrl = undefined; // process.env.PRISMA_ACCELERATE_URL;
 
 const makePrismaClient = () => {
   return new PrismaClient({
     log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
-  }).$extends(withAccelerate());
+  });
 };
 
 const globalForPrisma = globalThis as unknown as {
