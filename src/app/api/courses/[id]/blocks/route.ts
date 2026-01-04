@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { auth } from "@/auth";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
+export const dynamic = "force-dynamic";
+
 import { db } from "@/server/db";
 import { courseBlockSchema } from "@/lib/schemas/courses";
 

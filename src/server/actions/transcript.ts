@@ -6,7 +6,7 @@ import type { TranscriptData, TranscriptCourse, StudentInfo, SchoolInfo } from "
 import { DEFAULT_GRADING_SCALE } from "@/components/transcript/utils";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
 import { revalidatePath } from "next/cache";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 
 // Define the type we expect from the detailed student fetch
 type StudentWithDetails = Prisma.StudentGetPayload<{

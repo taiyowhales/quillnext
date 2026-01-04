@@ -1,4 +1,4 @@
-import { EducationalPhilosophy, Student, Classroom } from "@prisma/client";
+import { EducationalPhilosophy, Student, Classroom } from "@/generated/client";
 import { INKLING_BASE_PERSONALITY, INKLING_ETHICAL_GUIDELINES } from "@/lib/constants/ai-guardrails";
 import { PHILOSOPHY_PROMPTS } from "@/lib/constants/educational-philosophies";
 

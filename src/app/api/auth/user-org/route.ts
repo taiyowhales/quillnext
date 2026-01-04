@@ -1,4 +1,7 @@
 import { NextResponse } from "next/server";
+export const dynamic = "force-dynamic";
+
+import { db } from "@/server/db";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
 
 export async function GET() {

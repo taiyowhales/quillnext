@@ -1,7 +1,7 @@
 import { auth } from "@/auth";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
 import { db } from "@/server/db";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 import { redirect } from "next/navigation";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";

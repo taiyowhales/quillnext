@@ -8,7 +8,7 @@ import { models } from "@/lib/ai/config";
 import { generateText, tool } from "ai";
 import { revalidatePath } from "next/cache";
 import { PHILOSOPHY_PROMPTS } from "@/lib/constants/educational-philosophies";
-import { EducationalPhilosophy } from "@prisma/client";
+import { EducationalPhilosophy } from "@/generated/client";
 import { PromptBuilder } from "@/lib/ai/prompt-builder";
 import { z } from "zod";
 import { generateNanoBananaImage } from "@/lib/services/image-generation";

@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { Book } from "@prisma/client";
+import { Book } from "@/generated/client";
 import { Trash } from "@phosphor-icons/react";
 import { deleteBook } from "@/app/actions/resource-library-actions";
 import { toast } from "sonner";

@@ -8,8 +8,16 @@ type ProcessDocumentEvent = {
     };
 };
 
+type ChatMessageSentEvent = {
+    data: {
+        studentId: string;
+        message: string;
+    };
+};
+
 type Events = {
     "resource/process.document": ProcessDocumentEvent;
+    "chat/message.sent": ChatMessageSentEvent;
 };
 
 export const schema = new EventSchemas().fromRecord<Events>();

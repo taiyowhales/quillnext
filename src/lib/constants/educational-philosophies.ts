@@ -1,4 +1,4 @@
-import { EducationalPhilosophy } from "@prisma/client";
+import { EducationalPhilosophy } from "@/generated/client";
 
 /**
  * Detailed pedagogical instructions for each educational philosophy.

@@ -1,10 +1,10 @@
 import "dotenv/config";
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "../src/generated/client";
 import fs from "fs";
 import path from "path";
 import yaml from "js-yaml";
 
-// Create a direct Prisma client for seeding (without Accelerate extension)
+// Create a direct Prisma client for seeding
 const createPrismaClient = () => {
   const directUrl = process.env.DIRECT_DATABASE_URL;
   if (directUrl) {

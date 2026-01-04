@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated prisma client
+/src/generated
+
+# debug
+debug-connect.ts
+build_troubleshooting/
+railway_backup.sql

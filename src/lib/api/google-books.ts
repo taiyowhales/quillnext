@@ -1,4 +1,4 @@
-import { Book } from "@prisma/client";
+import { Book } from "@/generated/client";
 
 const GOOGLE_BOOKS_API_BASE = "https://www.googleapis.com/books/v1/volumes";
 

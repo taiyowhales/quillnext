@@ -1,7 +1,7 @@
 import { redirect } from "next/navigation";
 import { auth } from "@/auth";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
-import { type Prisma } from "@prisma/client";
+import { type Prisma } from "@/generated/client";
 import { db } from "@/server/db";
 import { findSimilarBooks } from "@/lib/utils/vector";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";

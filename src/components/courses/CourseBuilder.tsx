@@ -37,7 +37,7 @@ import { cn } from "@/lib/utils";
 import { ResourcePicker } from "./ResourcePicker";
 import { GeneratorForm } from "@/components/generators/GeneratorForm";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
-import { ResourceKind, Book, VideoResource as Video, Article, DocumentResource } from "@prisma/client";
+import { ResourceKind, Book, VideoResource as Video, Article, DocumentResource } from "@/generated/client";
 import { Brain, Sparkles } from "lucide-react";
 
 // Stub for toast since no library is installed

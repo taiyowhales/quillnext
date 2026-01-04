@@ -1,3 +1,5 @@
+const path = require('path');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
@@ -5,7 +7,9 @@ const nextConfig = {
       bodySizeLimit: '2mb',
     },
   },
-  serverExternalPackages: ['@prisma/client'],
+  serverExternalPackages: [
+    path.join(__dirname, 'src', 'generated', 'client'),
+  ],
   // Transpile Prisma Client to handle TypeScript files in node_modules
   transpilePackages: [],
   images: {

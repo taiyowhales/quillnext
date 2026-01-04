@@ -6,7 +6,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
 import { Button } from "@/components/ui/button";
 import { Book, Video, PresentationChart } from "@phosphor-icons/react";
 import { getLibraryResources } from "@/app/actions/resource-library-actions";
-import { Book as BookType, VideoResource as VideoType, Article as ArticleType, DocumentResource as DocumentType } from "@prisma/client";
+import { Book as BookType, VideoResource as VideoType, Article as ArticleType, DocumentResource as DocumentType } from "@/generated/client";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { FileText, File } from "@phosphor-icons/react";

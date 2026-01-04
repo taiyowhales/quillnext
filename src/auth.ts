@@ -1,23 +1,19 @@
 import NextAuth from "next-auth";
 import Google from "next-auth/providers/google";
 import { PrismaAdapter } from "@auth/prisma-adapter";
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "@/generated/client";
 import { db } from "@/server/db";
 import { authConfig } from "./auth.config";
 
-// Create a separate Prisma client for the adapter (no Accelerate extension)
-// Uses same URL as main client but WITHOUT the withAccelerate() extension
-// This avoids SSL connection conflicts during auth callbacks
-const adapterClient = new PrismaClient({
-  accelerateUrl: process.env.DATABASE_URL,
-});
+// Create a separate Prisma client for the adapter if needed
+
 
 /**
  * Main Auth.js entry point
  * Combines edge-safe config with database adapter
  */
 const authInstance = NextAuth({
-  adapter: PrismaAdapter(adapterClient),
+  adapter: PrismaAdapter(db as any),
   session: { strategy: "jwt" },
   secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET,
   debug: false,

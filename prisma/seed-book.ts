@@ -1,4 +1,4 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "../src/generated/client";
 
 const createPrismaClient = () => {
   const directUrl = process.env.DIRECT_DATABASE_URL;

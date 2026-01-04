@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { VideoResource } from "@prisma/client";
+import { VideoResource } from "@/generated/client";
 import { AddVideoDialog } from "@/components/library/AddVideoDialog";
 import { Trash } from "@phosphor-icons/react";
 import { deleteVideo } from "@/app/actions/resource-library-actions";

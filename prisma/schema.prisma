@@ -1,12 +1,15 @@
 generator client {
   provider        = "prisma-client-js"
-  previewFeatures = ["postgresqlExtensions"]
+  // previewFeatures = ["postgresqlExtensions"]
+  output          = "../src/generated/client"
+  engineType      = "binary"
+  binaryTargets   = ["native"]
 }
 
 datasource db {
-  provider   = "postgresql"
-  extensions = [vector]
+  provider = "postgresql"
 }
+
 
 model Organization {
   id             String                @id @default(uuid())
@@ -217,8 +220,28 @@ model Student {
   catechismProgress     StudentCatechismProgress[]
   bibleMemoryFolders    BibleMemoryFolder[]
   transcripts           Transcript[]
+  safetyFlags           SafetyFlag[]
 
   @@map("students")
+}
+
+model SafetyFlag {
+  id          String   @id @default(uuid())
+  studentId   String   @map("student_id")
+  severity    String   // "CONCERN" | "DANGER"
+  category    String   // "BULLYING", "SELF_HARM", "GROOMING", "VIOLENCE", "OTHER"
+  message     String   // The content of the user message
+  reasoning   String   // AI explanation
+  isResolved  Boolean  @default(false) @map("is_resolved")
+  alertSent   Boolean  @default(false) @map("alert_sent")
+  resolution  String?  @map("resolution") // "NO_ACTION", "PARENT_SUMMARY", etc.
+  implicatedCaregiver Boolean @default(false) @map("implicated_caregiver")
+  createdAt   DateTime @default(now()) @map("created_at")
+  resolvedAt  DateTime? @map("resolved_at")
+
+  student     Student  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@map("safety_flags")
 }
 
 model ClassroomStudent {

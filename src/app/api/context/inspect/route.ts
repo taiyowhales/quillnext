@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
+export const dynamic = "force-dynamic";
+
 import { auth } from "@/auth";
+import { db } from "@/server/db";
 import { getMasterContext } from "@/lib/context/master-context";
 
 export async function POST(request: NextRequest) {

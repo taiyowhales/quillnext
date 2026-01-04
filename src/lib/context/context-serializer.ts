@@ -7,7 +7,7 @@ import type {
   ScheduleContext,
 } from "./master-context";
 import { PHILOSOPHY_PROMPTS } from "@/lib/constants/educational-philosophies";
-import { EducationalPhilosophy } from "@prisma/client";
+import { EducationalPhilosophy } from "@/generated/client";
 
 // -----------------------------------------------------------------------
 // Context Serialization

@@ -1,7 +1,7 @@
 "use server";
 
 import { db } from "@/server/db";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 import { addDays, isSameDay, startOfDay } from "date-fns";
 import { revalidateTag, unstable_cache } from "next/cache";
 

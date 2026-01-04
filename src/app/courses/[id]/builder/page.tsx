@@ -2,7 +2,7 @@ import { redirect } from "next/navigation";
 import { auth } from "@/auth";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
 import { db } from "@/server/db";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 import { getMasterContext } from "@/lib/context/master-context";
 import { serializeMasterContext } from "@/lib/context/context-serializer";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";

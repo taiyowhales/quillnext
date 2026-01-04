@@ -1,5 +1,5 @@
 import { cache } from "react";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 import { db } from "@/server/db";
 import { getMasterContext } from "@/lib/context/master-context";
 

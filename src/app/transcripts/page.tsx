@@ -1,7 +1,7 @@
 import { auth } from "@/auth";
 import { getCurrentUserOrg } from "@/lib/auth-helpers";
 import { db } from "@/server/db";
-import { Student, Transcript } from "@prisma/client";
+import { Student, Transcript } from "@/generated/client";
 import { format } from "date-fns";
 import Link from "next/link";
 import { redirect } from "next/navigation";

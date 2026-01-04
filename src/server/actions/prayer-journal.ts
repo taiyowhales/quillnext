@@ -3,7 +3,7 @@
 import { auth } from "@/auth";
 import { db } from "@/server/db";
 import { revalidatePath } from "next/cache";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 import { createPrayerJournalSchema } from "@/lib/schemas/actions";
 import { z } from "zod";
 

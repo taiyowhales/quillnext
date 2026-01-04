@@ -10,7 +10,7 @@ import { generateObject } from "ai";
 import { z } from "zod";
 import { revalidatePath } from "next/cache";
 
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 
 // Define strict type for the course structure we need
 type CourseWithContext = Prisma.CourseGetPayload<{

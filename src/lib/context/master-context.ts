@@ -1,5 +1,5 @@
 import { db } from "@/server/db";
-import { Prisma } from "@prisma/client";
+import { Prisma } from "@/generated/client";
 
 // -----------------------------------------------------------------------
 // Master Context System

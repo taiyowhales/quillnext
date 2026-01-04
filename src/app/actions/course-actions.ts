@@ -92,7 +92,7 @@ export async function deleteBlock(rawData: unknown) {
     return { success: true };
 }
 
-import { CourseBlockKind } from "@prisma/client";
+import { CourseBlockKind } from "@/generated/client";
 
 // ... existing code ...
 

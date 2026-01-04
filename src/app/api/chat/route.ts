@@ -1,7 +1,9 @@
 import { streamText } from "ai";
 import { getContextForThinkling, ThinklingMode } from "@/lib/thinkling";
 import { auth } from "@/auth";
+export const dynamic = "force-dynamic";
 import { models } from "@/lib/ai/config";
+import { inngest } from "@/inngest/client";
 
 export const maxDuration = 30;
 
@@ -55,6 +57,19 @@ export async function POST(req: Request) {
                 content: content || '' // Ensure it's never undefined
             };
         });
+
+        // SAFETY SCAN: Check the latest user message
+        // We trigger this asynchronously via Inngest so it runs in the background
+        const lastMessage = coreMessages[coreMessages.length - 1];
+        if (lastMessage && lastMessage.role === 'user') {
+            await inngest.send({
+                name: "chat/message.sent",
+                data: {
+                    studentId,
+                    message: lastMessage.content
+                }
+            });
+        }
 
         console.log("StreamText: Starting stream configuration...");
         const result = streamText({

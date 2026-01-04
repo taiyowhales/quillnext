@@ -7,8 +7,8 @@ import { revalidatePath, revalidateTag, unstable_cache } from "next/cache";
 import { z } from "zod";
 import * as cheerio from "cheerio";
 
-// Cast to any to avoid type issues with Prisma Extension Accelerate stripping new models
-const prisma = dbInstance as any;
+// Prisma client instance
+const prisma = dbInstance;
 // Helper removed - processing moved to Inngest worker
 
 export async function getLibraryResources(organizationId: string) {
@@ -19,12 +19,7 @@ export async function getLibraryResources(organizationId: string) {
             const [books, videos, articles, documents, courses, resources] = await Promise.all([
                 prisma.book.findMany({
                     where: { organizationId },
-                    select: {
-                        id: true,
-                        title: true,
-                        authors: true,
-                        summary: true,
-                        createdAt: true,
+                    include: {
                         subject: {
                             select: {
                                 id: true,
@@ -38,25 +33,13 @@ export async function getLibraryResources(organizationId: string) {
                 }),
                 prisma.videoResource.findMany({
                     where: { organizationId },
-                    select: {
-                        id: true,
-                        title: true,
-                        youtubeUrl: true,
-                        thumbnailUrl: true,
-                        durationSeconds: true,
-                        createdAt: true,
-                    },
+                    // Fetch full object
                     orderBy: { createdAt: "desc" },
                     take: 100, // Explicit bound
                 }),
                 prisma.article.findMany({
                     where: { organizationId },
-                    select: {
-                        id: true,
-                        title: true,
-                        url: true,
-                        description: true,
-                        createdAt: true,
+                    include: {
                         subject: {
                             select: {
                                 id: true,
@@ -75,12 +58,7 @@ export async function getLibraryResources(organizationId: string) {
                 }),
                 prisma.documentResource.findMany({
                     where: { organizationId },
-                    select: {
-                        id: true,
-                        fileName: true,
-                        fileType: true,
-                        fileSize: true,
-                        createdAt: true,
+                    include: {
                         subject: {
                             select: {
                                 id: true,
