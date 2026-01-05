@@ -668,7 +668,41 @@ model Resource {
   resourceKind            ResourceKind            @relation(fields: [resourceKindId], references: [id])
   courseBlocks            CourseBlock[]
 
+  curriculumBundleId      String?                 @map("curriculum_bundle_id")
+  curriculumBundle        CurriculumBundle?       @relation(fields: [curriculumBundleId], references: [id])
+
   @@map("resources")
+}
+
+model CurriculumSpec {
+  id              String             @id @default(uuid())
+  organizationId  String             @map("organization_id")
+  title           String
+  subject         String
+  topic           String
+  durationDays    Int                @default(1) @map("duration_days")
+  readingLevel    String             @map("reading_level")
+  constraints     Json
+  bundles         CurriculumBundle[]
+  createdAt       DateTime           @default(now()) @map("created_at")
+  updatedAt       DateTime           @updatedAt @map("updated_at")
+
+  @@map("curriculum_specs")
+}
+
+model CurriculumBundle {
+  id        String         @id @default(uuid())
+  specId          String
+  spec            CurriculumSpec @relation(fields: [specId], references: [id])
+  
+  parentBundleId  String?        // Lineage: ID of the bundle this was patched from
+  feedback        String?        // The defect report/feedback that triggered this build
+  
+  status          String   // "COMPILING", "COMPLETED", "FAILED"
+  resources Resource[]
+  createdAt DateTime       @default(now()) @map("created_at")
+
+  @@map("curriculum_bundles")
 }
 
 model ResourceAssignment {
