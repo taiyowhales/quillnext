@@ -23,6 +23,8 @@ interface PrayerJournalEditorProps {
     onSave: (data: PrayerEntryInput) => void;
     onCancel: () => void;
     onEdit: () => void;
+    initialTitle?: string;
+    initialCategory?: string;
 }
 
 export default function PrayerJournalEditor({
@@ -32,14 +34,16 @@ export default function PrayerJournalEditor({
     categories,
     onSave,
     onCancel,
-    onEdit
+    onEdit,
+    initialTitle = '',
+    initialCategory = ''
 }: PrayerJournalEditorProps) {
     // Form State
-    const [title, setTitle] = useState(entry?.title || '');
+    const [title, setTitle] = useState(entry?.title || initialTitle || '');
     const [date, setDate] = useState<Date>(entry?.date ? new Date(entry.date) : new Date());
     const [tags, setTags] = useState<string[]>(entry?.tags || []);
     const [tagInput, setTagInput] = useState('');
-    const [category, setCategory] = useState(entry?.category || '');
+    const [category, setCategory] = useState(entry?.category || initialCategory || '');
     const [isPrivate, setIsPrivate] = useState(entry?.isPrivate || false);
 
     // TipTap Editor

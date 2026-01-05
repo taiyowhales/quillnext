@@ -31,20 +31,11 @@ export function DevotionalDisplay({ devotionals, date }: DevotionalDisplayProps)
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center gap-4">
-                <Button variant="ghost" size="icon" asChild>
-                    <Link href="/family-discipleship">
-                        <ArrowLeft className="h-6 w-6" />
-                    </Link>
-                </Button>
-                <div>
-                    <h1 className="text-3xl font-bold tracking-tight text-qc-primary">Daily Devotional</h1>
-                    <p className="text-muted-foreground">{date}</p>
-                </div>
-            </div>
+
 
             <Tabs defaultValue={defaultTab} className="w-full">
-                <TabsList className="grid w-full grid-cols-2 max-w-[400px]">
+                <p className="text-center text-lg font-display text-qc-charcoal mb-4">{date}</p>
+                <TabsList className="grid w-full grid-cols-2 max-w-[400px] mx-auto">
                     <TabsTrigger value="morning" className="flex items-center gap-2">
                         <Sun className="h-4 w-4" /> Morning
                     </TabsTrigger>
@@ -74,25 +65,141 @@ export function DevotionalDisplay({ devotionals, date }: DevotionalDisplayProps)
 }
 
 function DevotionalCard({ entry, timeLabel, icon }: { entry: any, timeLabel: string, icon: React.ReactNode }) {
+    const formatKeyVerse = (raw: String) => {
+        let text = raw.toString();
+        let reference = "";
+
+        // Extract trailing reference if present (e.g. "... — 2 Peter 3:18")
+        if (text.includes("—")) {
+            const parts = text.split("—");
+            reference = parts[parts.length - 1].trim();
+            text = parts.slice(0, parts.length - 1).join("—").trim();
+        } else if (text.includes("-")) {
+            // Fallback for hyphen if em-dash is missing (heuristic)
+            const parts = text.split("-");
+            const potentialRef = parts[parts.length - 1].trim();
+            // Simple check if it looks like a reference (contains number)
+            if (/\d/.test(potentialRef)) {
+                reference = potentialRef;
+                text = parts.slice(0, parts.length - 1).join("-").trim();
+            }
+        }
+
+        // Remove surrounding quotes
+        text = text.replace(/^"|"$/g, '').trim();
+
+        // Remove leading reference if it matches the extracted reference
+        if (reference && text.startsWith(reference)) {
+            text = text.substring(reference.length).trim();
+        }
+
+        return { text, reference };
+    };
+
+    const { text: verseText, reference: verseRef } = formatKeyVerse(entry.keyverse);
+
+    const cleanBodyText = (text: String) => {
+        const lines = text.toString().split('\n');
+        // We want to remove the initial "header" section.
+        // Heuristic:
+        // 1. Remove blank lines at start
+        // 2. Remove lines that look like dates (Month Day)
+        // 3. Remove "Morning Reading" / "Evening Reading"
+        // 4. Remove the verse reference line (starts with "-" or "—")
+        // 5. Remove the verse text (quoted string)
+
+        let startIndex = 0;
+        let inHeader = true;
+
+        while (startIndex < lines.length && inHeader) {
+            const line = lines[startIndex].trim();
+
+            if (!line) {
+                startIndex++;
+                continue;
+            }
+
+            // Check for Date (e.g. "January 4th", "January 4")
+            if (/^[A-Z][a-z]+ \d{1,2}(st|nd|rd|th)?$/.test(line)) {
+                startIndex++;
+                continue;
+            }
+
+            // Check for Reading Label
+            if (line.includes("Morning Reading") || line.includes("Evening Reading")) {
+                startIndex++;
+                continue;
+            }
+
+            // Check for Reference line
+            if (line.startsWith("-") || line.startsWith("—")) {
+                startIndex++;
+                continue;
+            }
+
+            // Check for Verse text (quoted or just matches keyverse text loosely)
+            // It's safer to just look for the quoted line which the user example showed
+            if (line.startsWith('"') && line.endsWith('"')) {
+                startIndex++;
+                continue;
+            }
+
+            // If we hit a line that doesn't match these headers, we assume body started
+            // HOWEVER, the user example shows a block: Date \n Reading \n "Verse" \n - Ref
+            // We need to consume that whole block.
+
+            // Let's rely on the structure:
+            // if we just consumed "Morning Reading", the next non-empty lines are likely the verse and ref.
+            // But implementing a "skip until" might comprise the actual body if it starts with a quote.
+
+            // User said: "That whole section should be removed" referring to the block AT THE BEGINNING.
+
+            // Let's refine:
+            // If we are at the top, and we see something matching the keyverse, skip it.
+            const similarToKeyVerse = entry.keyverse && line.includes(entry.keyverse.substring(0, 20)); // simplistic check
+
+            if (similarToKeyVerse) {
+                startIndex++;
+                continue;
+            }
+
+            // If we've passed the obvious headers and didn't trigger a skip, we are done
+            inHeader = false;
+        }
+
+        return lines.slice(startIndex).join('\n').trim();
+    };
+
+    const finalBody = cleanBodyText(entry.body);
+
     return (
         <Card className="mt-4 border-qc-border-subtle shadow-sm">
-            <CardHeader className="bg-qc-parchment/50 border-b border-qc-border-subtle/30 pb-4">
+            <div className="px-8 py-8 items-center text-center">
+                <div className="relative">
+                    <span className="absolute -top-6 -left-4 text-6xl text-qc-primary/20 font-serif leading-none">“</span>
+                    <div className="relative z-10 flex flex-col gap-4">
+                        <p className="italic text-2xl md:text-3xl text-qc-charcoal font-serif leading-relaxed font-medium">
+                            {verseText}
+                        </p>
+                        {verseRef && (
+                            <p className="text-center text-lg text-qc-primary font-bold font-display uppercase tracking-widest mt-2">— {verseRef}</p>
+                        )}
+                    </div>
+                    <span className="absolute -bottom-12 -right-4 text-6xl text-qc-primary/20 font-serif leading-none">”</span>
+                </div>
+            </div>
+
+            <CardHeader className="bg-qc-parchment/50 border-y border-qc-border-subtle/30 pb-4">
                 <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">
                         {icon}
                         <CardTitle className="text-xl font-serif">{timeLabel} Reading</CardTitle>
                     </div>
-                    <Badge variant="outline" className="bg-white">Spurgeon's M&E</Badge>
                 </div>
             </CardHeader>
             <CardContent className="pt-6 space-y-6">
-                <div className="p-4 bg-qc-paper rounded-lg border border-qc-border-subtle/50">
-                    <h3 className="font-semibold text-qc-primary mb-2 text-lg">Key Verse</h3>
-                    <p className="italic text-lg text-qc-text-heading font-serif">"{entry.keyverse}"</p>
-                </div>
-
                 <div className="prose prose-stone max-w-none text-qc-text leading-relaxed whitespace-pre-line">
-                    {entry.body}
+                    {finalBody}
                 </div>
             </CardContent>
         </Card>

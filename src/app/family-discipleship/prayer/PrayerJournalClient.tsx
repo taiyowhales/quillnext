@@ -23,15 +23,22 @@ interface PrayerJournalClientProps {
     initialCategories: { id: string; name: string }[];
 }
 
+import { useSearchParams } from 'next/navigation';
+
 export default function PrayerJournalClient({
     initialEntries,
     initialCategories
 }: PrayerJournalClientProps) {
+    // Search Params for deep linking
+    const searchParams = useSearchParams();
+    const paramTitle = searchParams.get('title');
+    const paramCategory = searchParams.get('category');
+
     // State
     const [entries, setEntries] = useState<PrayerEntry[]>(initialEntries);
     const [selectedEntry, setSelectedEntry] = useState<PrayerEntry | null>(null);
-    const [isCreating, setIsCreating] = useState(false);
-    const [isEditing, setIsEditing] = useState(false);
+    const [isCreating, setIsCreating] = useState(!!paramTitle);
+    const [isEditing, setIsEditing] = useState(!!paramTitle);
 
     // Filter State
     const [filterDate, setFilterDate] = useState('');
@@ -138,7 +145,7 @@ export default function PrayerJournalClient({
             {/* Main Content (70%) */}
             <div className="flex-1 h-full min-w-0">
                 <PrayerJournalEditor
-                    key={selectedEntry?.id || 'new'} // Re-mount on entry change
+                    key={selectedEntry?.id || (isCreating ? `new-${paramTitle || 'entry'}` : 'empty')}
                     entry={selectedEntry}
                     isEditing={isEditing}
                     isCreating={isCreating}
@@ -146,6 +153,8 @@ export default function PrayerJournalClient({
                     onSave={handleSave}
                     onCancel={handleCancelEdit}
                     onEdit={handleEditEntry}
+                    initialTitle={paramTitle || ''}
+                    initialCategory={paramCategory || ''}
                 />
             </div>
         </div>

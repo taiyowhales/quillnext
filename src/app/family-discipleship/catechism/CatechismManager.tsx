@@ -102,13 +102,7 @@ export function CatechismManager({ studentId }: CatechismManagerProps) {
 
     return (
         <div className="space-y-8">
-            <div>
-                <h2 className="text-3xl font-bold text-qc-primary mb-4">Catechism Study</h2>
-                <p className="text-lg text-qc-text-muted leading-relaxed max-w-3xl">
-                    Catechesis provides the grammar of biblical doctrine, giving you a systematic, theological framework
-                    to understand, articulate, and defend the faith once for all delivered to the saints.
-                </p>
-            </div>
+
 
             {/* Catechism Selection - Carousel */}
             <div className="relative">

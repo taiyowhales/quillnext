@@ -13,10 +13,10 @@ export default async function MissionsPage() {
 
     return (
         <div className="container mx-auto p-6 space-y-8">
-            <div className="space-y-2">
-                <h1 className="text-3xl font-bold text-qc-primary">Missions & Global Prayer</h1>
-                <p className="text-muted-foreground">
-                    "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession." (Psalm 2:8)
+            <div className="flex flex-col gap-2">
+                <h1 className="font-display text-4xl font-bold text-qc-primary">Missions & Global Prayer</h1>
+                <p className="font-body text-lg text-qc-text-muted">
+                    &quot;Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.&quot; (Psalm 2:8)
                 </p>
             </div>
 

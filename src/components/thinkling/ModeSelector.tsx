@@ -39,26 +39,21 @@ const MODES = [
 
 export function ModeSelector({ selectedMode, onSelectMode }: ModeSelectorProps) {
     return (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="flex flex-wrap gap-2 p-1 bg-qc-parchment/50 rounded-lg">
             {MODES.map((mode) => (
-                <Card
+                <button
                     key={mode.id}
-                    className={cn(
-                        "cursor-pointer transition-all hover:shadow-md border-2 p-4 flex flex-col items-center text-center gap-3",
-                        selectedMode === mode.id
-                            ? "border-qc-primary ring-1 ring-qc-primary bg-qc-parchment"
-                            : "border-transparent hover:border-qc-border-subtle"
-                    )}
                     onClick={() => onSelectMode(mode.id as ThinklingMode)}
+                    className={cn(
+                        "flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all",
+                        selectedMode === mode.id
+                            ? "bg-white text-qc-primary shadow-sm ring-1 ring-qc-border-subtle"
+                            : "text-qc-text-muted hover:bg-white/50 hover:text-qc-charcoal"
+                    )}
                 >
-                    <div className={cn("p-3 rounded-full", mode.bg, mode.color)}>
-                        <mode.icon size={32} weight="fill" />
-                    </div>
-                    <div>
-                        <h3 className="font-bold text-sm text-qc-charcoal">{mode.label}</h3>
-                        <p className="text-xs text-qc-text-muted mt-1">{mode.description}</p>
-                    </div>
-                </Card>
+                    <mode.icon size={16} weight={selectedMode === mode.id ? "fill" : "regular"} className={selectedMode === mode.id ? mode.color : ""} />
+                    <span>{mode.label}</span>
+                </button>
             ))}
         </div>
     );

@@ -10,10 +10,10 @@ import {
     Heart,
     Student,
     ChalkboardTeacher,
-    Gear,
     X,
     List,
-    Lightbulb
+    Lightbulb,
+    Sparkle
 } from "@phosphor-icons/react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
@@ -24,15 +24,15 @@ const NAV_ITEMS = [
     { href: "/students", label: "Students", icon: Student },
     { href: "/courses", label: "Courses", icon: ChalkboardTeacher },
     { href: "/living-library", label: "Living Library", icon: BookOpen },
+    { href: "/creation-station", label: "Creation Station", icon: Sparkle },
     { href: "/thinkling", label: "Thinkling Chat", icon: Lightbulb },
     { href: "/family-discipleship", label: "Discipleship", icon: Heart },
 ];
 
-import { CommandPalette } from "@/components/layout/CommandPalette";
-import { CreationDrawer } from "@/components/layout/CreationDrawer";
+
+
 
 import { UserNav } from "@/components/navigation/UserNav";
-import { ProfileSettingsDialog } from "@/components/navigation/ProfileSettingsDialog";
 import { User } from "next-auth";
 
 interface SidebarProps {
@@ -42,7 +42,6 @@ interface SidebarProps {
 export function Sidebar({ user }: SidebarProps) {
     const pathname = usePathname();
     const [mobileOpen, setMobileOpen] = useState(false);
-    const [showSettings, setShowSettings] = useState(false);
 
     return (
         <>
@@ -72,10 +71,7 @@ export function Sidebar({ user }: SidebarProps) {
                         </Link>
                     </div>
 
-                    {/* Command Palette */}
-                    <div className="p-4 pb-0">
-                        <CommandPalette />
-                    </div>
+
 
                     {/* Nav Items */}
                     <nav className="flex-1 px-4 py-4 space-y-1 overflow-y-auto">
@@ -104,30 +100,18 @@ export function Sidebar({ user }: SidebarProps) {
 
                     {/* Footer Area */}
                     <div className="border-t border-qc-border-subtle/50 p-4 space-y-4">
-                        <CreationDrawer />
 
-                        <button
-                            onClick={() => user && setShowSettings(true)}
-                            className="w-full flex items-center gap-3 px-3 py-2.5 rounded-qc-md text-sm font-medium text-qc-text-muted hover:bg-qc-primary/5 hover:text-qc-charcoal transition-colors text-left"
-                            disabled={!user}
-                        >
-                            <Gear className="w-5 h-5" />
-                            Settings
-                        </button>
 
                         {user && (
-                            <>
-                                <div className="pt-2 border-t border-qc-border-subtle/30">
-                                    <div className="flex items-center gap-3 px-2">
-                                        <UserNav user={user} />
-                                        <div className="flex flex-col overflow-hidden">
-                                            <span className="text-sm font-medium truncate text-qc-charcoal">{user.name}</span>
-                                            <span className="text-xs text-qc-text-muted truncate">{user.email}</span>
-                                        </div>
+                            <div className="pt-2 border-t border-qc-border-subtle/30">
+                                <div className="flex items-center gap-3 px-2">
+                                    <UserNav user={user} />
+                                    <div className="flex flex-col overflow-hidden">
+                                        <span className="text-sm font-medium truncate text-qc-charcoal">{user.name}</span>
+                                        <span className="text-xs text-qc-text-muted truncate">{user.email}</span>
                                     </div>
                                 </div>
-                                <ProfileSettingsDialog user={user} open={showSettings} onOpenChange={setShowSettings} />
-                            </>
+                            </div>
                         )}
                     </div>
                 </div>

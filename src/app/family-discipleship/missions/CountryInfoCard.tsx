@@ -204,7 +204,7 @@ export const CountryInfoCard = ({ countryData, isOpen, onClose }: CountryInfoCar
                                 href={url}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="inline-flex items-center px-4 py-2 bg-qc-primary text-white rounded-lg hover:bg-qc-primary/90 transition-colors font-medium text-sm"
+                                className="inline-flex items-center px-4 py-2 bg-qc-primary !text-white rounded-lg hover:bg-qc-primary/90 transition-colors font-medium text-sm"
                             >
                                 View on Operation World
                                 <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

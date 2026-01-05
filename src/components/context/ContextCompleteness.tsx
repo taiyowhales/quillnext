@@ -125,10 +125,10 @@ export function ContextCompleteness({
 
             {/* Center Text */}
             <div className="absolute inset-0 flex flex-col items-center justify-center">
-              <span className={`text-3xl font-display font-bold ${getColor(completeness)}`}>
+              <span className={`text-2xl font-display font-bold ${getColor(completeness)}`}>
                 {completeness}%
               </span>
-              <span className="text-xs font-medium text-qc-text-muted uppercase tracking-wider mt-1">
+              <span className="text-[10px] font-medium text-qc-text-muted uppercase tracking-wider mt-0.5">
                 Health
               </span>
             </div>

@@ -202,9 +202,7 @@ export default function GeneratorsClient({ organizationId }: { organizationId: s
   return (
     <div className="container mx-auto max-w-5xl px-4 py-8">
       <div className="mb-6">
-        <Button variant="ghost" asChild className="mb-4 pl-0 hover:bg-transparent text-qc-text-muted hover:text-qc-primary">
-          <Link href="/living-library"><ArrowLeft className="mr-2" /> Back to Library</Link>
-        </Button>
+
         <h1 className="font-display text-4xl font-bold text-qc-charcoal mb-2">
           Creation Station
         </h1>

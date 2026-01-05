@@ -8,13 +8,22 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { PaperPlaneRight, Robot, User as UserIcon, Trash } from "@phosphor-icons/react";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import remarkBreaks from "remark-breaks";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import "katex/dist/katex.min.css";
+
+import { ModeSelector } from "@/components/thinkling/ModeSelector";
+import { ThinklingMode } from "@/lib/thinkling";
 
 interface ThinklingChatProps {
     studentId: string;
     mode: string;
+    onModeChange: (mode: ThinklingMode) => void;
 }
 
-export function ThinklingChat({ studentId, mode }: ThinklingChatProps) {
+export function ThinklingChat({ studentId, mode, onModeChange }: ThinklingChatProps) {
     // Construct URL with query params to ensure context is passed even if body is ignored
     const apiUrl = `/api/chat?studentId=${studentId}&mode=${mode}`;
 
@@ -84,13 +93,10 @@ export function ThinklingChat({ studentId, mode }: ThinklingChatProps) {
 
     return (
         <Card className="h-[600px] flex flex-col border-qc-border-subtle shadow-lg">
-            <CardHeader className="py-4 border-b bg-qc-parchment/50">
-                <div className="flex justify-between items-center">
-                    <div>
-
-                        <CardDescription>
-                            Current Mode: <span className="font-semibold text-qc-charcoal">{mode}</span>
-                        </CardDescription>
+            <CardHeader className="py-2 border-b bg-qc-parchment/50">
+                <div className="flex justify-between items-center flex-wrap gap-2">
+                    <div className="flex-1">
+                        <ModeSelector selectedMode={mode} onSelectMode={onModeChange} />
                     </div>
                     <Button variant="ghost" size="icon" onClick={() => setMessages([])} title="Clear Chat">
                         <Trash />
@@ -124,7 +130,19 @@ export function ThinklingChat({ studentId, mode }: ThinklingChatProps) {
 
                             <div className={`p-3 rounded-lg max-w-[80%] ${m.role === 'user' ? 'bg-qc-primary text-white' : 'bg-gray-100 text-gray-800'}`}>
                                 <div className="text-sm prose prose-sm max-w-none dark:prose-invert">
-                                    <ReactMarkdown>
+                                    <ReactMarkdown
+                                        remarkPlugins={[remarkGfm, remarkBreaks, remarkMath]}
+                                        rehypePlugins={[rehypeKatex]}
+                                        components={{
+                                            p: ({ node, ...props }) => <p className="mb-4 last:mb-0 leading-relaxed" {...props} />,
+                                            ul: ({ node, ...props }) => <ul className="my-4 ml-6 list-disc space-y-2" {...props} />,
+                                            ol: ({ node, ...props }) => <ol className="my-4 ml-6 list-decimal space-y-2" {...props} />,
+                                            li: ({ node, ...props }) => <li className="pl-1" {...props} />,
+                                            h1: ({ node, ...props }) => <h1 className="text-xl font-bold mt-6 mb-3" {...props} />,
+                                            h2: ({ node, ...props }) => <h2 className="text-lg font-bold mt-5 mb-2" {...props} />,
+                                            h3: ({ node, ...props }) => <h3 className="text-md font-bold mt-4 mb-2" {...props} />,
+                                        }}
+                                    >
                                         {m.content
                                             ? m.content
                                             : (m.parts && Array.isArray(m.parts))

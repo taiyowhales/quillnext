@@ -8,7 +8,7 @@ interface GlobalShellProps {
 
 export function GlobalShell({ children, user }: GlobalShellProps) {
     return (
-        <div className="flex min-h-screen bg-qc-parchment">
+        <div className="flex min-h-screen">
             <Sidebar user={user} />
 
             <main className="flex-1 lg:ml-64 transition-all duration-300">

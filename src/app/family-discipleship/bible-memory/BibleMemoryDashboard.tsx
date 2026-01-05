@@ -283,91 +283,16 @@ export default function BibleMemoryDashboard({ initialUserVerses, libraryVerses,
                         </Button>
                     )}
                     <div>
-                        <h1 className="text-3xl font-bold text-qc-primary flex items-center gap-2">
-                            {selectedFolderId ? (
-                                <>
-                                    <Folder className="h-8 w-8 text-blue-400" weight="duotone" />
-                                    {folders.find(f => f.id === selectedFolderId)?.name}
-                                </>
-                            ) : "Scripture Memory"}
-                        </h1>
-                        <p className="text-muted-foreground">
-                            {selectedFolderId ? "Viewing Folder" : "Hide God's word in your heart."}
-                        </p>
+                        {selectedFolderId && (
+                            <h1 className="text-3xl font-bold text-qc-primary flex items-center gap-2">
+                                <Folder className="h-8 w-8 text-blue-400" weight="duotone" />
+                                {folders.find(f => f.id === selectedFolderId)?.name}
+                            </h1>
+                        )}
+                        {selectedFolderId && (
+                            <p className="text-muted-foreground">Viewing Folder</p>
+                        )}
                     </div>
-                </div>
-
-                <div className="flex gap-2 w-full md:w-auto shrink-0">
-                    <Dialog open={isAddFolderOpen} onOpenChange={setIsAddFolderOpen}>
-                        <DialogTrigger asChild>
-                            <Button variant="outline" className="gap-2 bg-white">
-                                <FolderPlus className="h-4 w-4" /> New Folder
-                            </Button>
-                        </DialogTrigger>
-                        <DialogContent>
-                            <DialogHeader>
-                                <DialogTitle>New Folder</DialogTitle>
-                            </DialogHeader>
-                            <div className="gap-4 py-4">
-                                <Input placeholder="Folder Name" value={newFolderName} onChange={(e) => setNewFolderName(e.target.value)} />
-                                <Button className="mt-4 w-full" onClick={handleCreateFolder}>Create Folder</Button>
-                            </div>
-                        </DialogContent>
-                    </Dialog>
-
-                    <Dialog open={isAddVerseOpen} onOpenChange={setIsAddVerseOpen}>
-                        <DialogTrigger asChild>
-                            <Button className="gap-2 shadow-sm">
-                                <Plus className="h-4 w-4" /> Add Verse
-                            </Button>
-                        </DialogTrigger>
-                        <DialogContent className="max-w-xl">
-                            <DialogHeader>
-                                <DialogTitle>Add a Verse</DialogTitle>
-                                <DialogDescription>Choose from our library or add your own.</DialogDescription>
-                            </DialogHeader>
-
-                            <Tabs defaultValue="library">
-                                <TabsList className="grid w-full grid-cols-2">
-                                    <TabsTrigger value="library">Library</TabsTrigger>
-                                    <TabsTrigger value="custom">Custom</TabsTrigger>
-                                </TabsList>
-
-                                <TabsContent value="library" className="space-y-4 max-h-[400px] overflow-y-auto pt-4">
-                                    <Input
-                                        placeholder="Search verses..."
-                                        value={searchQuery}
-                                        onChange={(e) => setSearchQuery(e.target.value)}
-                                    />
-                                    <div className="grid grid-cols-1 gap-2">
-                                        {libraryVerses
-                                            .filter(v => v.reference.toLowerCase().includes(searchQuery.toLowerCase()))
-                                            .map(v => (
-                                                <div key={v.id} className="flex items-center justify-between p-3 border rounded-lg hover:bg-gray-50">
-                                                    <span className="font-medium">{v.reference}</span>
-                                                    <Button size="sm" variant="outline" onClick={() => handleAddLibraryVerse(v)}>Add</Button>
-                                                </div>
-                                            ))}
-                                    </div>
-                                </TabsContent>
-
-                                <TabsContent value="custom" className="space-y-4 pt-4">
-                                    <div className="space-y-2">
-                                        <label className="text-sm font-medium">Verse Reference</label>
-                                        <Input
-                                            placeholder="e.g. John 3:16"
-                                            value={customRef}
-                                            onChange={(e) => setCustomRef(e.target.value)}
-                                        />
-                                        <p className="text-xs text-muted-foreground">We'll automatically fetch the text for you.</p>
-                                    </div>
-                                    <Button className="w-full" onClick={handleAddCustomVerse} disabled={!customRef}>
-                                        Add Verse
-                                    </Button>
-                                </TabsContent>
-                            </Tabs>
-                        </DialogContent>
-                    </Dialog>
                 </div>
             </div>
 
@@ -397,75 +322,151 @@ export default function BibleMemoryDashboard({ initialUserVerses, libraryVerses,
                             </div>
                         </div>
                     ) : (
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                            {/* 1. Folders (Only visible at root) */}
-                            {renderFolderCards()}
-
-                            {/* 2. Verses */}
-                            {learningVerses.map(verse => (
-                                <Card key={verse.id}
-                                    className={`hover:shadow-lg transition-all duration-300 relative group border-t-4 border-t-qc-primary overflow-hidden cursor-move active:cursor-grabbing hover:scale-[1.02] 
-                                        ${isDragging ? 'ring-2 ring-offset-2 ring-blue-500/20' : ''}
-                                    `}
-                                    draggable={true}
-                                    onDragStart={(e) => handleDragStart(e, verse.id)}
-                                    onDragEnd={handleDragEnd}
-                                >
-                                    <div className="absolute top-2 right-2 z-10">
-                                        <DropdownMenu>
-                                            <DropdownMenuTrigger asChild>
-                                                <Button variant="ghost" size="icon" className="h-8 w-8 text-gray-400 hover:text-gray-900 bg-white/50 backdrop-blur hover:bg-white border border-transparent hover:border-gray-200 shadow-sm"><DotsThreeVertical weight="bold" /></Button>
-                                            </DropdownMenuTrigger>
-                                            <DropdownMenuContent align="end">
-                                                <DropdownMenuLabel>Move to Folder</DropdownMenuLabel>
-                                                <DropdownMenuSeparator />
-                                                <DropdownMenuItem onClick={() => handleMoveVerse(verse.id, null)}>
-                                                    <Folder className="mr-2 h-4 w-4 opacity-50" /> None (Unfiled)
-                                                </DropdownMenuItem>
-                                                {folders.map(f => (
-                                                    <DropdownMenuItem key={f.id} onClick={() => handleMoveVerse(verse.id, f.id)}>
-                                                        <Folder className="mr-2 h-4 w-4 text-blue-500" /> {f.name}
-                                                    </DropdownMenuItem>
-                                                ))}
-                                                <DropdownMenuSeparator />
-                                                <DropdownMenuItem onClick={() => handleDeleteVerse(verse.id)} className="text-red-600 focus:text-red-600 focus:bg-red-50">
-                                                    <Trash className="mr-2 h-4 w-4" /> Delete Verse
-                                                </DropdownMenuItem>
-                                            </DropdownMenuContent>
-                                        </DropdownMenu>
-                                    </div>
-
-                                    <CardContent className="p-6 space-y-6">
-                                        <div className="flex justify-between items-start pr-8">
-                                            <h3 className="font-bold text-xl text-qc-primary leading-tight">{verse.reference}</h3>
-                                        </div>
-
-                                        <div className="space-y-2">
-                                            <div className="flex justify-between items-end text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-                                                <span>Step {(verse.currentStep || 0) + 1} of 8</span>
-                                                <span>{Math.round(((verse.currentStep || 0) / 8) * 100)}%</span>
-                                            </div>
-                                            <Progress value={((verse.currentStep || 0) / 8) * 100} className="h-2 rounded-full" />
-                                        </div>
-
-                                        <Button className="w-full shadow-sm hover:shadow-md transition-shadow" onClick={() => setPracticingVerse(verse)}>
-                                            Continue Practice
+                        <div className="space-y-6">
+                            {/* Actions Toolbar */}
+                            <div className="flex justify-end gap-2">
+                                <Dialog open={isAddFolderOpen} onOpenChange={setIsAddFolderOpen}>
+                                    <DialogTrigger asChild>
+                                        <Button variant="outline" className="gap-2 bg-white">
+                                            <FolderPlus className="h-4 w-4" /> New Folder
                                         </Button>
-                                    </CardContent>
-                                </Card>
-                            ))}
+                                    </DialogTrigger>
+                                    <DialogContent>
+                                        <DialogHeader>
+                                            <DialogTitle>New Folder</DialogTitle>
+                                        </DialogHeader>
+                                        <div className="gap-4 py-4">
+                                            <Input placeholder="Folder Name" value={newFolderName} onChange={(e) => setNewFolderName(e.target.value)} />
+                                            <Button className="mt-4 w-full" onClick={handleCreateFolder}>Create Folder</Button>
+                                        </div>
+                                    </DialogContent>
+                                </Dialog>
+
+                                <Dialog open={isAddVerseOpen} onOpenChange={setIsAddVerseOpen}>
+                                    <DialogTrigger asChild>
+                                        <Button className="gap-2 shadow-sm">
+                                            <Plus className="h-4 w-4" /> Add Verse
+                                        </Button>
+                                    </DialogTrigger>
+                                    <DialogContent className="max-w-xl">
+                                        <DialogHeader>
+                                            <DialogTitle>Add a Verse</DialogTitle>
+                                            <DialogDescription>Choose from our library or add your own.</DialogDescription>
+                                        </DialogHeader>
+
+                                        <Tabs defaultValue="library">
+                                            <TabsList className="grid w-full grid-cols-2">
+                                                <TabsTrigger value="library">Library</TabsTrigger>
+                                                <TabsTrigger value="custom">Custom</TabsTrigger>
+                                            </TabsList>
+
+                                            <TabsContent value="library" className="space-y-4 max-h-[400px] overflow-y-auto pt-4">
+                                                <Input
+                                                    placeholder="Search verses..."
+                                                    value={searchQuery}
+                                                    onChange={(e) => setSearchQuery(e.target.value)}
+                                                />
+                                                <div className="grid grid-cols-1 gap-2">
+                                                    {libraryVerses
+                                                        .filter(v => v.reference.toLowerCase().includes(searchQuery.toLowerCase()))
+                                                        .map(v => (
+                                                            <div key={v.id} className="flex items-center justify-between p-3 border rounded-lg hover:bg-gray-50">
+                                                                <span className="font-medium">{v.reference}</span>
+                                                                <Button size="sm" variant="outline" onClick={() => handleAddLibraryVerse(v)}>Add</Button>
+                                                            </div>
+                                                        ))}
+                                                </div>
+                                            </TabsContent>
+
+                                            <TabsContent value="custom" className="space-y-4 pt-4">
+                                                <div className="space-y-2">
+                                                    <label className="text-sm font-medium">Verse Reference</label>
+                                                    <Input
+                                                        placeholder="e.g. John 3:16"
+                                                        value={customRef}
+                                                        onChange={(e) => setCustomRef(e.target.value)}
+                                                    />
+                                                    <p className="text-xs text-muted-foreground">We'll automatically fetch the text for you.</p>
+                                                </div>
+                                                <Button className="w-full" onClick={handleAddCustomVerse} disabled={!customRef}>
+                                                    Add Verse
+                                                </Button>
+                                            </TabsContent>
+                                        </Tabs>
+                                    </DialogContent>
+                                </Dialog>
+                            </div>
+
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                                {/* 1. Folders (Only visible at root) */}
+                                {renderFolderCards()}
+
+                                {/* 2. Verses */}
+                                {learningVerses.map(verse => (
+                                    <Card key={verse.id}
+                                        className={`hover:shadow-lg transition-all duration-300 relative group border-t-4 border-t-qc-primary overflow-hidden cursor-move active:cursor-grabbing hover:scale-[1.02] 
+                                            ${isDragging ? 'ring-2 ring-offset-2 ring-blue-500/20' : ''}
+                                        `}
+                                        draggable={true}
+                                        onDragStart={(e) => handleDragStart(e, verse.id)}
+                                        onDragEnd={handleDragEnd}
+                                    >
+                                        <div className="absolute top-2 right-2 z-10">
+                                            <DropdownMenu>
+                                                <DropdownMenuTrigger asChild>
+                                                    <Button variant="ghost" size="icon" className="h-8 w-8 text-gray-400 hover:text-gray-900 bg-white/50 backdrop-blur hover:bg-white border border-transparent hover:border-gray-200 shadow-sm"><DotsThreeVertical weight="bold" /></Button>
+                                                </DropdownMenuTrigger>
+                                                <DropdownMenuContent align="end">
+                                                    <DropdownMenuLabel>Move to Folder</DropdownMenuLabel>
+                                                    <DropdownMenuSeparator />
+                                                    <DropdownMenuItem onClick={() => handleMoveVerse(verse.id, null)}>
+                                                        <Folder className="mr-2 h-4 w-4 opacity-50" /> None (Unfiled)
+                                                    </DropdownMenuItem>
+                                                    {folders.map(f => (
+                                                        <DropdownMenuItem key={f.id} onClick={() => handleMoveVerse(verse.id, f.id)}>
+                                                            <Folder className="mr-2 h-4 w-4 text-blue-500" /> {f.name}
+                                                        </DropdownMenuItem>
+                                                    ))}
+                                                    <DropdownMenuSeparator />
+                                                    <DropdownMenuItem onClick={() => handleDeleteVerse(verse.id)} className="text-red-600 focus:text-red-600 focus:bg-red-50">
+                                                        <Trash className="mr-2 h-4 w-4" /> Delete Verse
+                                                    </DropdownMenuItem>
+                                                </DropdownMenuContent>
+                                            </DropdownMenu>
+                                        </div>
+
+                                        <CardContent className="p-6 space-y-6">
+                                            <div className="flex justify-between items-start pr-8">
+                                                <h3 className="font-bold text-xl text-qc-primary leading-tight">{verse.reference}</h3>
+                                            </div>
+
+                                            <div className="space-y-2">
+                                                <div className="flex justify-between items-end text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                                                    <span>Step {(verse.currentStep || 0) + 1} of 8</span>
+                                                    <span>{Math.round(((verse.currentStep || 0) / 8) * 100)}%</span>
+                                                </div>
+                                                <Progress value={((verse.currentStep || 0) / 8) * 100} className="h-2 rounded-full" />
+                                            </div>
+
+                                            <Button className="w-full shadow-sm hover:shadow-md transition-shadow" onClick={() => setPracticingVerse(verse)}>
+                                                Continue Practice
+                                            </Button>
+                                        </CardContent>
+                                    </Card>
+                                ))}
+                            </div>
                         </div>
                     )}
                 </TabsContent>
 
                 <TabsContent value="mastered" className="animate-in fade-in slide-in-from-bottom-4 duration-500">
                     {masteredVerses.length === 0 ? (
-                        <div className="text-center py-24 border-2 border-dashed rounded-xl bg-gray-50">
+                        <div className="text-center py-24 border-2 border-dashed rounded-xl bg-gray-50/50">
                             <div className="bg-white p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center shadow-sm">
                                 <Trophy className="h-8 w-8 text-yellow-500" />
                             </div>
                             <h3 className="text-lg font-semibold text-gray-900">No Mastered Verses Yet</h3>
-                            <p className="text-muted-foreground">Keep practicing! Your rewards will appear here.</p>
+                            <p className="text-muted-foreground mb-6 max-w-sm mx-auto">Keep practicing! Your rewards will appear here.</p>
                         </div>
                     ) : (
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">

@@ -44,7 +44,7 @@ export function ParentDashboard({
             {/* Daily Liturgy & Quick Actions */}
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
                 {/* Active Liturgy Card */}
-                <Card className="lg:col-span-2 border-l-4 border-l-qc-primary shadow-md">
+                <Card className="lg:col-span-2 border-l-4 border-l-qc-primary shadow-md bg-gradient-to-br from-white to-qc-parchment">
                     <CardHeader className="pb-3">
                         <CardTitle className="font-display text-xl text-qc-primary">Daily Liturgy</CardTitle>
                         <CardDescription>Today's family discipleship focus</CardDescription>
@@ -89,42 +89,41 @@ export function ParentDashboard({
             </div>
 
             {/* Student Profiles Selection */}
-            <div className="mb-12">
-                <div className="flex items-center justify-between mb-6 px-2">
-                    <div>
-                        <h2 className="font-display text-2xl font-bold text-qc-charcoal">Who is learning today?</h2>
-                        <p className="text-lg text-qc-text-muted">
-                            Select a student profile to view their dashboard
-                        </p>
-                    </div>
-                </div>
+            <Card className="mb-12 shadow-md border-qc-border-subtle bg-gradient-to-br from-white to-qc-parchment">
+                <CardHeader>
+                    <CardTitle className="font-display text-2xl font-bold text-qc-charcoal">Who is learning today?</CardTitle>
+                    <CardDescription className="text-lg text-qc-text-muted">
+                        Select a student profile to view their dashboard
+                    </CardDescription>
+                </CardHeader>
+                <CardContent>
+                    {/* Client Island for Student Selection */}
+                    <StudentProfileSwitcher students={students} />
 
-                {/* Client Island for Student Selection */}
-                <StudentProfileSwitcher students={students} />
-
-                {studentsWithoutAssessment.length > 0 && (
-                    <div className="mt-8 p-3 bg-yellow-50/80 backdrop-blur-sm border border-yellow-200 rounded-qc-md text-center max-w-2xl mx-auto shadow-sm">
-                        <p className="font-body text-sm font-medium text-yellow-900 mb-1">
-                            Pending Assessments
-                        </p>
-                        <p className="font-body text-xs text-yellow-700 mb-2">
-                            {studentsWithoutAssessment.length} student{studentsWithoutAssessment.length !== 1 ? "s need" : " needs"} personality assessment.
-                        </p>
-                        <div className="flex flex-wrap justify-center gap-2">
-                            {studentsWithoutAssessment.slice(0, 5).map((student) => (
-                                <Button key={student.id} variant="outline" size="sm" className="h-7 text-xs bg-white" asChild>
-                                    <Link href={`/students/${student.id}/assessment`}>
-                                        Assess {student.preferredName || student.firstName}
-                                    </Link>
-                                </Button>
-                            ))}
+                    {studentsWithoutAssessment.length > 0 && (
+                        <div className="mt-8 p-3 bg-yellow-50/80 backdrop-blur-sm border border-yellow-200 rounded-qc-md text-center max-w-2xl mx-auto shadow-sm">
+                            <p className="font-body text-sm font-medium text-yellow-900 mb-1">
+                                Pending Assessments
+                            </p>
+                            <p className="font-body text-xs text-yellow-700 mb-2">
+                                {studentsWithoutAssessment.length} student{studentsWithoutAssessment.length !== 1 ? "s need" : " needs"} personality assessment.
+                            </p>
+                            <div className="flex flex-wrap justify-center gap-2">
+                                {studentsWithoutAssessment.slice(0, 5).map((student) => (
+                                    <Button key={student.id} variant="outline" size="sm" className="h-7 text-xs bg-white" asChild>
+                                        <Link href={`/students/${student.id}/assessment`}>
+                                            Assess {student.preferredName || student.firstName}
+                                        </Link>
+                                    </Button>
+                                ))}
+                            </div>
                         </div>
-                    </div>
-                )}
-            </div>
+                    )}
+                </CardContent>
+            </Card>
 
             {/* Inkling Toolkit Navigation */}
-            <Card className="mb-8 border-2 border-qc-primary/10 bg-white shadow-sm">
+            <Card className="mb-8 border-2 border-qc-primary/10 shadow-sm bg-gradient-to-br from-white to-qc-parchment">
 
                 <CardContent className="py-6">
                     <InklingToolkit />
@@ -138,7 +137,7 @@ export function ParentDashboard({
                 </div>
 
                 {/* Quick Actions */}
-                <Card>
+                <Card className="bg-gradient-to-br from-white to-qc-parchment">
                     <CardHeader>
                         <CardTitle className="font-display text-lg">Quick Actions</CardTitle>
                     </CardHeader>
@@ -164,7 +163,7 @@ export function ParentDashboard({
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 {/* Recent Resources */}
-                <Card>
+                <Card className="bg-gradient-to-br from-white to-qc-parchment">
                     <CardHeader>
                         <div className="flex items-center justify-between">
                             <div>
@@ -213,7 +212,7 @@ export function ParentDashboard({
                 </Card>
 
                 {/* Recent Courses */}
-                <Card>
+                <Card className="bg-gradient-to-br from-white to-qc-parchment">
                     <CardHeader>
                         <div className="flex items-center justify-between">
                             <div>

@@ -63,7 +63,29 @@ export async function getContextForThinkling(studentId: string, mode: ThinklingM
        - For EXPLICIT DANGER (suicide plan, sexual violence attempt): STOP immediately.
        - For LOWER RISK CONCERNS (sadness, vague anxiety): You may offer a brief, safe redirect to a supportive hotline or resource (e.g., "You might want to check out [support resource]"), then gently return to the lesson if appropriate.
     
-    Your goal is to be helpful, encouraging, and age-appropriate, but always largely impersonal and supplementary.`;
+    Your goal is to be helpful, encouraging, and age-appropriate, but always largely impersonal and supplementary.
+    
+    # FORMATTING INSTRUCTIONS (STRICT)
+    - Use DOUBLE LINE BREAKS between every paragraph or distinct thought.
+    - NEVER produce walls of text.
+    - If a response is longer than 2 sentences, break it into smaller chunks with whitespace.
+    - ALWAYS uses BULLET POINTS (-) for lists of items. Do not use inline lists.
+    
+    # EXAMPLES
+    
+    BAD FORMATTING:
+    Reformed Seminaries:
+    Calvin University (Grand Rapids)
+    Covenant College (Georgia)
+    
+    GOOD FORMATTING:
+    Here are some Reformed Seminaries:
+    
+    - **Calvin University** (Grand Rapids)
+    
+    - **Covenant College** (Georgia)
+    
+    (Notice the double spacing between bullet points).`;
 
     let specificPrompt = "";
 

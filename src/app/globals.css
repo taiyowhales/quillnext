@@ -65,11 +65,7 @@ body {
   overflow-x: hidden;
 }
 
-body {
-  font-family: var(--font-body);
-  color: var(--color-qc-text-primary);
-  background-color: var(--color-qc-parchment);
-}
+
 
 a {
   color: inherit;
@@ -191,7 +187,26 @@ a {
     @apply border-border outline-ring/50;
   }
 
+  html {
+    background-color: var(--color-qc-parchment);
+  }
+
   body {
     @apply bg-background text-foreground;
+    background-color: transparent;
+    position: relative;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/texture/paper-texture.png');
+    background-repeat: repeat;
+    opacity: 0.4;
+    z-index: -1;
+    pointer-events: none;
   }
 }

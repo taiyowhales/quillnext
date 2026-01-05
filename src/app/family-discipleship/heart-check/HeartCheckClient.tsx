@@ -1,11 +1,26 @@
 'use client';
 
 import React, { useState, memo, useCallback } from 'react';
-import { verifyPin } from '@/server/actions/heart-check';
+
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { X, Check } from '@phosphor-icons/react/dist/ssr';
+import { X, Check, Cross } from '@phosphor-icons/react/dist/ssr';
 import { toast } from 'sonner';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import remarkBreaks from 'remark-breaks';
+
+
+import {
+    Droplet,
+    Bomb,
+    Ghost,
+    BandAid,
+    Unlink,
+    Mask,
+    Badge,
+    Spa
+} from '@emotion-icons/boxicons-regular';
 
 interface EmotionContent {
     description: string;
@@ -25,7 +40,7 @@ interface EmotionContent {
 interface Emotion {
     id: string;
     name: string;
-    emoji: string;
+    icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
     subtitle: string;
     helpingWords: string[];
     content: EmotionContent;
@@ -40,7 +55,7 @@ const emotions: Emotion[] = [
     {
         id: 'sadness',
         name: 'Sadness',
-        emoji: '😢',
+        icon: Droplet,
         subtitle: 'The emotion of loss',
         helpingWords: [
             'Disappointed', 'Grieving', 'Down', 'Discouraged',
@@ -86,7 +101,7 @@ const emotions: Emotion[] = [
     {
         id: 'anger',
         name: 'Anger',
-        emoji: '😠',
+        icon: Bomb,
         subtitle: 'The emotion of injustice',
         helpingWords: [
             'Frustrated', 'Mad', 'Annoyed', 'Irritated',
@@ -133,7 +148,7 @@ const emotions: Emotion[] = [
     {
         id: 'fear',
         name: 'Fear',
-        emoji: '😨',
+        icon: Ghost,
         subtitle: 'The emotion of threat',
         helpingWords: [
             'Afraid', 'Anxious', 'Worried', 'Scared',
@@ -181,7 +196,7 @@ const emotions: Emotion[] = [
     {
         id: 'hurt',
         name: 'Hurt',
-        emoji: '💔',
+        icon: BandAid,
         subtitle: 'The emotion of relational injury',
         helpingWords: [
             'Wounded', 'Pained', 'Crushed', 'Rejected',
@@ -228,7 +243,7 @@ const emotions: Emotion[] = [
     {
         id: 'loneliness',
         name: 'Loneliness',
-        emoji: '🚶',
+        icon: Unlink,
         subtitle: 'The emotion of disconnection',
         helpingWords: [
             'Lonely', 'Isolated', 'Disconnected', '"Left out"',
@@ -275,7 +290,7 @@ const emotions: Emotion[] = [
     {
         id: 'shame',
         name: 'Shame',
-        emoji: '😳',
+        icon: Mask,
         subtitle: 'The emotion of unworthiness',
         helpingWords: [
             'Worthless', 'Inadequate', '"Not good enough"', 'Embarrassed',
@@ -322,7 +337,7 @@ const emotions: Emotion[] = [
     {
         id: 'guilt',
         name: 'Guilt',
-        emoji: '⚖️',
+        icon: Badge,
         subtitle: 'The emotion of transgression',
         helpingWords: [
             '"In the wrong"', 'Regretful', 'Remorseful', 'Sorry',
@@ -370,7 +385,7 @@ const emotions: Emotion[] = [
     {
         id: 'gladness',
         name: 'Gladness',
-        emoji: '😊',
+        icon: Spa,
         subtitle: 'The emotion of well-being',
         helpingWords: [
             'Happy', 'Joyful', 'Thankful', 'Grateful',
@@ -428,18 +443,7 @@ const EmotionCard = memo<EmotionCardProps>(({ emotion, index, onSelect }) => {
     // Tailwind colors aren't directly available as classes unless they're safe-listed or used as arbitrary values if dynamic.
     // For simplicity, we'll use specific background colors that match the "vibe" or standard palette.
     // The reference used specific color names: compass-gold, table-wine, inkwell, midnight.
-    // We'll map these to our qc- palette or use standard Tailwind colors for MVP.
-    const colorClasses = [
-        'bg-amber-500', // compass-gold ish
-        'bg-red-900',   // table-wine ish
-        'bg-slate-700', // inkwell ish
-        'bg-blue-950',  // midnight ish
-        'bg-amber-500',
-        'bg-red-900',
-        'bg-slate-700',
-        'bg-blue-950'
-    ];
-    const colorClass = colorClasses[index % colorClasses.length];
+
 
     // Split words into 4 rows
     const wordsPerRow = Math.ceil(emotion.helpingWords.length / 4);
@@ -453,18 +457,20 @@ const EmotionCard = memo<EmotionCardProps>(({ emotion, index, onSelect }) => {
     return (
         <button
             onClick={() => onSelect(emotion)}
-            className={`p-4 md:p-6 rounded-xl ${colorClass} text-white shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 text-center touch-manipulation min-h-[44px] w-full flex flex-col items-center justify-between h-full`}
+            className="p-4 md:p-6 rounded-xl bg-gradient-to-br from-white to-qc-parchment text-qc-charcoal border border-qc-border-subtle shadow-sm hover:shadow-md transition-all duration-300 transform hover:scale-[1.02] text-center touch-manipulation min-h-[44px] w-full flex flex-col items-center justify-between h-full group"
         >
             <div>
-                <div className="text-3xl md:text-4xl mb-2 md:mb-3">{emotion.emoji}</div>
-                <h3 className="text-base md:text-lg lg:text-xl font-bold mb-1 md:mb-2">{emotion.name}</h3>
-                <p className="text-xs md:text-sm opacity-90 mb-2 md:mb-3 italic">{emotion.subtitle}</p>
+                <div className="text-3xl md:text-4xl mb-2 md:mb-3 text-qc-primary flex justify-center">
+                    <emotion.icon size={48} />
+                </div>
+                <h3 className="text-base md:text-lg lg:text-xl font-bold mb-1 md:mb-2 text-qc-primary">{emotion.name}</h3>
+                <p className="text-xs md:text-sm text-qc-text-muted mb-2 md:mb-3 italic">{emotion.subtitle}</p>
             </div>
             <div className="flex flex-col gap-2 mt-auto w-full">
                 {wordRows.map((rowWords, rowIdx) => (
                     <div key={rowIdx} className="flex flex-wrap gap-1 justify-center">
                         {rowWords.map((word, wordIdx) => (
-                            <span key={wordIdx} className="text-[10px] bg-white/20 text-white px-1.5 py-0.5 rounded leading-tight">
+                            <span key={wordIdx} className="text-[10px] bg-gray-100 text-qc-text-muted px-1.5 py-0.5 rounded leading-tight">
                                 {word}
                             </span>
                         ))}
@@ -478,61 +484,13 @@ EmotionCard.displayName = 'EmotionCard';
 
 export default function HeartCheckClient({ }: HeartCheckClientProps) {
     const [selectedEmotion, setSelectedEmotion] = useState<Emotion | null>(null);
-    const [showLeadersGuide, setShowLeadersGuide] = useState(false);
-    const [showPinModal, setShowPinModal] = useState(false);
-    const [pin, setPin] = useState('');
-    const [pinError, setPinError] = useState('');
-    const [isLeaderVerified, setIsLeaderVerified] = useState(false);
-
-    // Leader's Guide Handlers
-    const handleOpenLeadersGuide = () => {
-        if (isLeaderVerified) {
-            setShowLeadersGuide(true);
-        } else {
-            setShowPinModal(true);
-            setPin('');
-            setPinError('');
-        }
-    };
-
-    const handlePinSubmit = async () => {
-        if (pin.length !== 4) return;
-
-        try {
-            const isValid = await verifyPin(pin);
-            if (isValid) {
-                setIsLeaderVerified(true);
-                setShowPinModal(false);
-                setShowLeadersGuide(true);
-            } else {
-                setPinError('Invalid PIN');
-            }
-        } catch (error) {
-            setPinError('Error verifying PIN');
-        }
-    };
-
     // Render Selection View
     if (!selectedEmotion) {
         return (
             <div className="w-full max-w-6xl mx-auto px-4 py-6">
-                <div className="mb-6 flex justify-end">
-                    <Button
-                        onClick={handleOpenLeadersGuide}
-                        variant="secondary"
-                        className="bg-amber-100 text-amber-900 border border-amber-200 hover:bg-amber-200"
-                    >
-                        Leader&apos;s Guide
-                    </Button>
-                </div>
 
-                <div className="text-center mb-8">
-                    <h2 className="text-3xl font-bold font-display text-qc-primary mb-4">Heart Check</h2>
-                    <p className="text-lg text-qc-text-muted max-w-2xl mx-auto font-body">
-                        Emotions are God-given diagnostics. They are the dashboard lights of the heart.
-                        Select the emotion you&apos;re feeling to explore what it reveals.
-                    </p>
-                </div>
+
+
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                     {emotions.map((emotion, index) => (
@@ -545,88 +503,7 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                     ))}
                 </div>
 
-                {/* PIN Modal */}
-                {showPinModal && (
-                    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-                        <div className="bg-white rounded-qc-lg shadow-xl p-6 w-full max-w-sm border border-qc-border-subtle">
-                            <h3 className="text-xl font-bold text-qc-primary mb-2">Enter Parent PIN</h3>
-                            <p className="text-sm text-qc-text-muted mb-4">Please enter your 4-digit PIN (Try 1234)</p>
 
-                            <Input
-                                type="password"
-                                value={pin}
-                                onChange={(e) => {
-                                    setPin(e.target.value.replace(/\D/g, '').slice(0, 4));
-                                    setPinError('');
-                                }}
-                                className="text-center text-2xl tracking-widest h-12 mb-2"
-                                placeholder="----"
-                                autoFocus
-                            />
-
-                            {pinError && <p className="text-red-500 text-sm mb-4 text-center">{pinError}</p>}
-
-                            <div className="flex gap-3 mt-4">
-                                <Button
-                                    variant="ghost"
-                                    className="flex-1"
-                                    onClick={() => setShowPinModal(false)}
-                                >
-                                    Cancel
-                                </Button>
-                                <Button
-                                    className="flex-1 bg-qc-primary text-white"
-                                    onClick={handlePinSubmit}
-                                    disabled={pin.length !== 4}
-                                >
-                                    Submit
-                                </Button>
-                            </div>
-                        </div>
-                    </div>
-                )}
-
-                {/* Leader's Guide Modal */}
-                {showLeadersGuide && (
-                    <div className="fixed inset-0 z-50 flex items-start justify-center p-4 bg-black/50 backdrop-blur-sm overflow-y-auto">
-                        <div className="relative w-full max-w-3xl bg-white rounded-qc-lg shadow-xl p-6 md:p-8 my-8 border border-qc-border-subtle">
-                            <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-2xl font-bold font-display text-qc-primary">Leader&apos;s Guide</h2>
-                                <button onClick={() => setShowLeadersGuide(false)} className="text-qc-text-muted hover:text-qc-primary">
-                                    <X className="w-6 h-6" />
-                                </button>
-                            </div>
-
-                            <div className="space-y-6 max-h-[70vh] overflow-y-auto pr-2 font-body text-qc-charcoal">
-                                <div className="bg-amber-50 border border-amber-100 p-4 rounded-lg">
-                                    <h3 className="font-bold text-amber-900 mb-2">Welcome, Mom and Dad</h3>
-                                    <p className="text-sm mb-2">Your goal is not to be a perfect therapist, but a present and safe parent. You are modeling the grace of Christ.</p>
-                                    <p className="text-sm font-semibold">Your goal is connection, not correction.</p>
-                                </div>
-
-                                <div>
-                                    <h3 className="text-lg font-bold text-qc-primary mb-2">1. Validate First</h3>
-                                    <p className="mb-2">Validation is saying, &quot;Your feeling makes sense, and I am with you.&quot;</p>
-                                    <ul className="list-disc pl-5 space-y-1 text-sm bg-gray-50 p-3 rounded">
-                                        <li>&quot;Thank you for telling me you feel angry.&quot;</li>
-                                        <li>&quot;I see that you&apos;re sad. That makes sense.&quot;</li>
-                                        <li>&quot;It sounds like your feelings were hurt. Ouch.&quot;</li>
-                                    </ul>
-                                </div>
-
-                                <div>
-                                    <h3 className="text-lg font-bold text-qc-primary mb-2">2. Explore Second</h3>
-                                    <p className="mb-2">Get curious. Ask gentle questions to find the wound.</p>
-                                    <ul className="list-disc pl-5 space-y-1 text-sm bg-gray-50 p-3 rounded">
-                                        <li>&quot;Tell me more about that.&quot;</li>
-                                        <li>&quot;What did you want in that moment?&quot;</li>
-                                        <li>&quot;What are you afraid might happen?&quot;</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                )}
             </div>
         );
     }
@@ -639,12 +516,14 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
             </Button>
 
             <div className="bg-white rounded-qc-lg shadow-lg border border-qc-border-subtle overflow-hidden">
-                <div className={`p-8 text-white ${selectedEmotion.id === 'sadness' ? 'bg-amber-500' : selectedEmotion.id === 'anger' ? 'bg-red-900' : selectedEmotion.id === 'fear' || selectedEmotion.id === 'loneliness' ? 'bg-slate-700' : 'bg-blue-950'}`}>
+                <div className="p-8 bg-gradient-to-br from-white to-qc-parchment border-b border-qc-border-subtle text-qc-charcoal">
                     <div className="flex items-center gap-4">
-                        <span className="text-6xl">{selectedEmotion.emoji}</span>
+                        <span className="text-qc-primary">
+                            <selectedEmotion.icon size={64} />
+                        </span>
                         <div>
-                            <h1 className="text-4xl font-bold font-display">{selectedEmotion.name}</h1>
-                            <p className="text-xl opacity-90 italic">{selectedEmotion.subtitle}</p>
+                            <h1 className="text-4xl font-bold font-display text-qc-primary">{selectedEmotion.name}</h1>
+                            <p className="text-xl text-qc-text-muted italic">{selectedEmotion.subtitle}</p>
                         </div>
                     </div>
                 </div>
@@ -652,7 +531,11 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                 <div className="p-8 space-y-8 font-body text-qc-charcoal">
                     <section>
                         <h3 className="text-xl font-bold text-qc-primary mb-3 font-display">What is this feeling?</h3>
-                        <p className="text-lg leading-relaxed">{selectedEmotion.content.description}</p>
+                        <div className="prose prose-lg text-qc-charcoal max-w-none">
+                            <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
+                                {selectedEmotion.content.description}
+                            </ReactMarkdown>
+                        </div>
                     </section>
 
                     <div className="grid md:grid-cols-2 gap-8">
@@ -662,7 +545,17 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                             </h3>
                             <ul className="space-y-2 text-sm">
                                 {selectedEmotion.content.godsDesign.map((item, i) => (
-                                    <li key={i}>• {item}</li>
+                                    <li key={i} className="flex gap-2 items-start">
+                                        <span className="mt-1">•</span>
+                                        <div className="prose prose-sm text-green-900 max-w-none">
+                                            <ReactMarkdown
+                                                remarkPlugins={[remarkGfm, remarkBreaks]}
+                                                components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                            >
+                                                {item}
+                                            </ReactMarkdown>
+                                        </div>
+                                    </li>
                                 ))}
                             </ul>
                         </section>
@@ -671,7 +564,17 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                             <h3 className="font-bold text-blue-800 mb-3">The Need</h3>
                             <ul className="space-y-2 text-sm">
                                 {selectedEmotion.content.theNeed.map((item, i) => (
-                                    <li key={i}>• {item}</li>
+                                    <li key={i} className="flex gap-2 items-start">
+                                        <span className="mt-1">•</span>
+                                        <div className="prose prose-sm text-blue-900 max-w-none">
+                                            <ReactMarkdown
+                                                remarkPlugins={[remarkGfm, remarkBreaks]}
+                                                components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                            >
+                                                {item}
+                                            </ReactMarkdown>
+                                        </div>
+                                    </li>
                                 ))}
                             </ul>
                         </section>
@@ -680,8 +583,22 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                     <section className="bg-red-50 p-6 rounded-lg border border-red-100">
                         <h3 className="font-bold text-red-800 mb-3">The Warning</h3>
                         <div className="space-y-3 text-sm">
-                            <p><strong>Impairment:</strong> {selectedEmotion.content.theWarning.impairment}</p>
-                            <p><strong>Sin:</strong> {selectedEmotion.content.theWarning.sin}</p>
+                            <div>
+                                <strong className="block text-red-900 mb-1">Impairment:</strong>
+                                <div className="prose prose-sm text-red-900 max-w-none">
+                                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
+                                        {selectedEmotion.content.theWarning.impairment}
+                                    </ReactMarkdown>
+                                </div>
+                            </div>
+                            <div>
+                                <strong className="block text-red-900 mb-1">Sin:</strong>
+                                <div className="prose prose-sm text-red-900 max-w-none">
+                                    <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>
+                                        {selectedEmotion.content.theWarning.sin}
+                                    </ReactMarkdown>
+                                </div>
+                            </div>
                         </div>
                     </section>
 
@@ -689,9 +606,18 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                         <h3 className="text-xl font-bold text-qc-primary mb-4 font-display">The Gospel Answer</h3>
                         <ul className="space-y-3">
                             {selectedEmotion.content.theGospel.map((item, i) => (
-                                <li key={i} className="flex gap-3">
-                                    <span className="text-qc-primary mt-1">Cross</span>
-                                    <span>{item}</span>
+                                <li key={i} className="flex gap-3 items-start">
+                                    <div className="bg-qc-parchment p-1 rounded-full mt-0.5 shrink-0 text-qc-primary">
+                                        <Cross weight="fill" className="w-4 h-4" />
+                                    </div>
+                                    <div className="prose prose-stone max-w-none">
+                                        <ReactMarkdown
+                                            remarkPlugins={[remarkGfm, remarkBreaks]}
+                                            components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                        >
+                                            {item}
+                                        </ReactMarkdown>
+                                    </div>
                                 </li>
                             ))}
                         </ul>
@@ -701,7 +627,16 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                         <h3 className="text-xl font-bold text-qc-primary mb-4 font-display">Introspection Questions</h3>
                         <ul className="list-disc pl-5 space-y-2">
                             {selectedEmotion.content.introspectionQuestions.map((q, i) => (
-                                <li key={i}>{q}</li>
+                                <li key={i}>
+                                    <div className="prose prose-stone max-w-none inline">
+                                        <ReactMarkdown
+                                            remarkPlugins={[remarkGfm, remarkBreaks]}
+                                            components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                        >
+                                            {q}
+                                        </ReactMarkdown>
+                                    </div>
+                                </li>
                             ))}
                         </ul>
                     </section>
@@ -710,7 +645,17 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                         <h3 className="text-xl font-bold text-qc-primary mb-4 font-display">Prayer Prompts</h3>
                         <ul className="space-y-3">
                             {selectedEmotion.content.prayerPrompts.map((p, i) => (
-                                <li key={i} className="italic text-qc-text-muted">&quot;{p.replace(/"/g, '')}&quot;</li>
+                                <li key={i} className="bg-qc-parchment/50 p-3 rounded-lg border border-qc-border-subtle italic text-qc-charcoal relative">
+                                    <span className="absolute left-2 top-2 text-2xl text-qc-primary opacity-20">"</span>
+                                    <div className="pl-4 prose prose-stone max-w-none">
+                                        <ReactMarkdown
+                                            remarkPlugins={[remarkGfm, remarkBreaks]}
+                                            components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                        >
+                                            {p.replace(/^"|"$/g, '')}
+                                        </ReactMarkdown>
+                                    </div>
+                                </li>
                             ))}
                         </ul>
                     </section>
@@ -719,7 +664,16 @@ export default function HeartCheckClient({ }: HeartCheckClientProps) {
                         <h3 className="text-xl font-bold text-qc-primary mb-4 font-display">Relational Steps</h3>
                         <ul className="list-decimal pl-5 space-y-2">
                             {selectedEmotion.content.relationalSteps?.map((s, i) => (
-                                <li key={i}>{s}</li>
+                                <li key={i}>
+                                    <div className="prose prose-stone max-w-none inline">
+                                        <ReactMarkdown
+                                            remarkPlugins={[remarkGfm, remarkBreaks]}
+                                            components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                                        >
+                                            {s}
+                                        </ReactMarkdown>
+                                    </div>
+                                </li>
                             ))}
                         </ul>
                     </section>

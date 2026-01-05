@@ -6,6 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter }
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Globe, Users, BookOpen, AlertCircle, MapPin } from "lucide-react";
+import Link from "next/link";
 import type { UnreachedPeopleGroup } from "@/lib/joshua-project";
 
 interface UnreachedOfTheDayProps {
@@ -63,7 +64,7 @@ export function UnreachedOfTheDay({ data }: UnreachedOfTheDayProps) {
                             </div>
                         </div>
 
-                        <p className="text-muted-foreground line-clamp-3 mb-6">
+                        <p className="text-muted-foreground mb-6">
                             {data.summary || `Pray for the ${data.name} people of ${data.country}. They are one of the least reached people groups in the world.`}
                         </p>
 
@@ -93,7 +94,7 @@ export function UnreachedOfTheDay({ data }: UnreachedOfTheDayProps) {
                                 <AlertCircle className="w-5 h-5 text-qc-secondary" />
                                 <div>
                                     <p className="text-xs text-muted-foreground uppercase font-semibold">% Evangelical</p>
-                                    <p className="font-medium">{data.percentEvangelical.toFixed(2)}%</p>
+                                    <p className="font-medium">{data.percentEvangelical?.toFixed(2) ?? '0.00'}%</p>
                                 </div>
                             </div>
                         </div>
@@ -103,8 +104,9 @@ export function UnreachedOfTheDay({ data }: UnreachedOfTheDayProps) {
                         <Button asChild className="flex-1 bg-qc-primary hover:bg-qc-primary/90">
                             <a href={data.profileUrl} target="_blank" rel="noopener noreferrer">View Full Profile</a>
                         </Button>
+
                         <Button variant="outline" className="flex-1" asChild>
-                            <a href={`https://joshuaproject.net/pray/unreachedoftheday`} target="_blank" rel="noopener noreferrer">Pray Now</a>
+                            <Link href={`/family-discipleship/prayer?title=Pray for ${data.name} (${data.country})&category=Missions`}>Pray Now</Link>
                         </Button>
                     </div>
                 </div>

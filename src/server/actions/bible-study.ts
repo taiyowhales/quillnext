@@ -8,6 +8,9 @@ import fs from "fs/promises";
 import * as cheerio from "cheerio";
 import { z } from "zod";
 
+import { models, AITaskType, getModelForTask } from "@/lib/ai/config";
+import { generateText } from "ai";
+
 // --- Types ---
 
 interface ESVPassageResponse {
@@ -502,5 +505,39 @@ export async function getCommentary(reference: string): Promise<CommentaryData |
     } catch (error) {
         console.error("MHC Load Error:", error);
         return null; // Return null to indicate no commentary found (client renders empty state)
+    }
+}
+
+/**
+ * Summarizes the provided commentary HTML into plain English using AI.
+ */
+export async function summarizeCommentary(commentaryHtml: string) {
+    const session = await auth();
+    if (!session?.user) {
+        throw new StandardError(ERROR_CODES.AUTHORIZATION.UNAUTHORIZED, "Unauthorized", 401);
+    }
+
+    if (!commentaryHtml || commentaryHtml.length < 10) {
+        throw new StandardError(ERROR_CODES.VALIDATION.INVALID_INPUT, "Commentary content too short", 400);
+    }
+
+    // Clean html slightly to save tokens, though models handle html fine
+    const cleanText = commentaryHtml.replace(/<[^>]*>?/gm, ' ').replace(/\s+/g, ' ').trim().substring(0, 15000); // Limit context
+
+    try {
+        const { text } = await generateText({
+            model: models.flash, // Fast model for on-demand UI summary
+            system: "You are Inkling, a helpful AI tutor. Rewrite the following Matthew Henry Commentary into plain, easy-to-understand English for a modern student. Keep it accurate but simple and concise. Do not add own opinion, just simplify the provided text.",
+            prompt: `Summarize this commentary in plain English:\n\n${cleanText}`,
+        });
+
+        return { summary: text };
+    } catch (error) {
+        console.error("AI Summary Error:", error);
+        throw new StandardError(
+            ERROR_CODES.EXTERNAL.API_ERROR,
+            "Failed to generate summary",
+            500
+        );
     }
 }

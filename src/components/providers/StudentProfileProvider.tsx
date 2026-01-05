@@ -12,7 +12,7 @@ interface StudentProfileContextType {
 const StudentProfileContext = createContext<StudentProfileContextType | undefined>(undefined);
 
 export function StudentProfileProvider({ children }: { children: ReactNode }) {
-    const [activeStudentId, setActiveStudentId] = useQueryState("studentId");
+    const [activeStudentId, setActiveStudentId] = useQueryState("studentId", { shallow: false });
 
     return (
         <StudentProfileContext.Provider value={{

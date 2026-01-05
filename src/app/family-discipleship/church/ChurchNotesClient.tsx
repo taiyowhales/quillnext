@@ -71,23 +71,13 @@ export function ChurchNotesClient({ initialNotes }: { initialNotes: ChurchNote[]
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center justify-between">
-                <div className="flex items-center gap-4">
-                    <Button variant="ghost" size="icon" asChild>
-                        <Link href="/family-discipleship">
-                            <ArrowLeft className="h-6 w-6" />
-                        </Link>
-                    </Button>
-                    <div>
-                        <h1 className="text-3xl font-bold tracking-tight text-qc-primary">Local Church</h1>
-                        <p className="text-muted-foreground">Bridge Sunday worship to Monday life.</p>
-                    </div>
-                </div>
 
+
+            <div className="flex justify-end">
                 <Dialog open={isOpen} onOpenChange={setIsOpen}>
                     <DialogTrigger asChild>
-                        <Button className="bg-qc-primary hover:bg-qc-primary/90">
-                            <Plus className="mr-2 h-4 w-4" /> Add Sermon Note
+                        <Button onClick={() => setIsOpen(true)} className="gap-2 bg-qc-primary hover:bg-qc-primary/90">
+                            <Plus className="w-4 h-4" /> New Entry
                         </Button>
                     </DialogTrigger>
                     <DialogContent className="sm:max-w-4xl h-[90vh] flex flex-col p-0 gap-0">
@@ -299,6 +289,6 @@ export function ChurchNotesClient({ initialNotes }: { initialNotes: ChurchNote[]
                     ))
                 )}
             </div>
-        </div>
+        </div >
     );
 }

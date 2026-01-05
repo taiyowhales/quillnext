@@ -21,7 +21,11 @@ export default async function ChurchNotesPage() {
     });
 
     return (
-        <div className="container mx-auto p-6 max-w-4xl">
+        <div className="container mx-auto p-4 md:p-6 space-y-8">
+            <div className="flex flex-col gap-2">
+                <h1 className="font-display text-4xl font-bold text-qc-primary">Local Church</h1>
+                <p className="font-body text-lg text-qc-text-muted">Bridge Sunday worship to Monday life.</p>
+            </div>
             <ChurchNotesClient initialNotes={notes as any} />
         </div>
     );

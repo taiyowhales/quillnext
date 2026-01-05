@@ -88,7 +88,7 @@ export function BookScanner({ organizationId }: BookScannerProps) {
     if (!isbnQuery) return toast.error("Please enter an ISBN");
 
     setIsLoading(true);
-    const result = await lookupBook({ query: isbnQuery, type: "ISBN" });
+    const result = await lookupBook({ query: isbnQuery, type: "BOOK" });
     setIsLoading(false);
 
     if (result.success && result.data) {
@@ -103,7 +103,8 @@ export function BookScanner({ organizationId }: BookScannerProps) {
     if (!textQuery) return toast.error("Please enter a title or author");
 
     setIsLoading(true);
-    const result = await lookupBook({ query: textQuery, type: "TITLE_AUTHOR" });
+    // Type undefined defaults to TITLE_AUTHOR search in backend for now
+    const result = await lookupBook({ query: textQuery });
     setIsLoading(false);
 
     if (result.success && result.data) {
@@ -174,11 +175,14 @@ export function BookScanner({ organizationId }: BookScannerProps) {
           ...extractedData,
           subjectId: selectedSubject,
           strandId: selectedStrand || null,
-          externalSource: "API_LOOKUP",
+          externalSource: "GOOGLE_BOOKS", // TODO: Determine if OpenLibrary was used
         }),
       });
 
-      if (!response.ok) throw new Error("Failed to save");
+      if (!response.ok) {
+        const errData = await response.json().catch(() => ({}));
+        throw new Error(errData.error || "Failed to save");
+      }
 
       const { book } = await response.json();
       toast.success("Book saved to library!");

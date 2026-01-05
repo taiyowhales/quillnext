@@ -18,11 +18,17 @@ export default async function PrayerJournalPage() {
     ]);
 
     return (
-        <div className="container py-6 h-full">
-            <PrayerJournalClient
-                initialEntries={entries}
-                initialCategories={categories}
-            />
+        <div className="container mx-auto p-4 md:p-6 space-y-8">
+            <div className="flex flex-col gap-2">
+                <h1 className="font-display text-4xl font-bold text-qc-primary">Prayer Journal</h1>
+                <p className="font-body text-lg text-qc-text-muted">A dedicated space to organize and track your prayers.</p>
+            </div>
+            <React.Suspense fallback={<div className="h-96 flex items-center justify-center">Loading Prayer Journal...</div>}>
+                <PrayerJournalClient
+                    initialEntries={entries}
+                    initialCategories={categories}
+                />
+            </React.Suspense>
         </div>
     );
 }

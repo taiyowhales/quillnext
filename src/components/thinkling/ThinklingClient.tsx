@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { ThinklingMode } from "@/lib/thinkling";
 import { ThinklingChat } from "@/components/thinkling/ThinklingChat";
-import { ModeSelector } from "@/components/thinkling/ModeSelector";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Card, CardContent } from "@/components/ui/card";
 import { Lightbulb } from "@phosphor-icons/react";
@@ -70,17 +69,9 @@ export function ThinklingClient({ students }: ThinklingClientProps) {
                 </div>
             </div>
 
-            {/* Mode Selection */}
-            <section>
-                <div className="flex items-center justify-between mb-4">
-                    <h2 className="text-lg font-semibold text-qc-charcoal">Select Mode</h2>
-                </div>
-                <ModeSelector selectedMode={mode} onSelectMode={setMode} />
-            </section>
-
             {/* Chat Interface */}
             <section>
-                <ThinklingChat key={`${selectedStudentId}-${mode}`} studentId={selectedStudentId} mode={mode} />
+                <ThinklingChat key={selectedStudentId} studentId={selectedStudentId} mode={mode} onModeChange={setMode} />
             </section>
         </div>
     );

@@ -41,8 +41,7 @@ export function InklingToolkit() {
         <div className="w-full">
             <div className="flex flex-col items-center justify-center gap-8 py-2">
                 {/* Branding */}
-                <div className="flex items-center justify-center gap-6">
-                    <span className="text-3xl font-display font-bold text-qc-charcoal">Inkling</span>
+                <div className="flex flex-col items-center justify-center gap-4">
                     <Image
                         src="/assets/branding/Inkling.png"
                         alt="Inkling Logo"
@@ -50,7 +49,7 @@ export function InklingToolkit() {
                         height={100}
                         className="w-auto h-24 object-contain"
                     />
-                    <span className="text-3xl font-display font-bold text-qc-charcoal">Toolkit</span>
+                    <span className="text-3xl font-display font-bold text-qc-charcoal">Inkling Toolkit</span>
                 </div>
 
                 {/* Cards Grid */}
