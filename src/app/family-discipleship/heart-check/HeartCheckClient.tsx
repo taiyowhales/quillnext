@@ -40,7 +40,7 @@ interface EmotionContent {
 interface Emotion {
     id: string;
     name: string;
-    icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
+    icon: React.ComponentType<React.SVGProps<SVGSVGElement> & { size?: string | number }>;
     subtitle: string;
     helpingWords: string[];
     content: EmotionContent;
